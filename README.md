@@ -36,7 +36,7 @@ This release introduces native image viewing, unified archive extraction, a dedi
 
 
 ## File Structure
-'''
+```
 FileCommander/
 ├── __init__.py              (UPDATED: try/except in _() and ngettext())
 ├── archive_utils.py         (NEW: unified archive extraction)
@@ -67,7 +67,7 @@ FileCommander/
 │   └── button_*.png         (Color button icons)
 └── locale/
     └── */LC_MESSAGES/       (Translations - fallback to English if corrupted)
-'''
+```
 ---
 
 ## Installation
