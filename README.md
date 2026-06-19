@@ -34,6 +34,7 @@ This release introduces native image viewing, unified archive extraction, a dedi
 
 ---
 
+
 ## File Structure
 
 FileCommander/
