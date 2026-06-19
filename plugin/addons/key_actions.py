@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 # update 2026.06 Lululla
+
 from __future__ import print_function
 from Components.config import config
-# from Components.Scanner import openFile
 from Components.MovieList import AUDIO_EXTENSIONS, IMAGE_EXTENSIONS, MOVIE_EXTENSIONS, DVD_EXTENSIONS
 from Components.Task import Task, Job, job_manager, Condition
 from Components.Console import Console as console
@@ -24,16 +24,11 @@ from time import localtime as time_localtime
 import stat
 import pwd
 import grp
-# import re
 import os
 
 from Plugins.Extensions.FileCommander.archive_utils import extract_archive
 from Plugins.Extensions.FileCommander.TextViewer import TextViewer
-# from .unrar import RarMenuScreen
-# from .tar import TarMenuScreen
-# from .unzip import UnzipMenuScreen
-# from .gz import GunzipMenuScreen
-# from .ipk import ipkMenuScreen
+
 from .type_utils import ImageViewer, MoviePlayer, vEditor
 from .type_utils import show_image_with_fallback
 
@@ -48,7 +43,6 @@ try:
 except Exception:
     DVDPlayerAvailable = False
 
-##################################
 
 pname = _("File Commander - Addon Movieplayer")
 pdesc = _("play Files")
@@ -332,10 +326,10 @@ class key_actions(stat_info):
             scaledsize = ' '.join(self.SIZESCALER.scale(st.st_size)) + _('B')
             sizes = (
                 bytesize,  # 10
-                _("%s") % scaledsize,  # 11
-                _("%s (%s)") % (bytesize, scaledsize),  # 12
-                _("%s (%s)") % (scaledsize, bytesizedivided) if st.st_size > 1023 else "%s %s" % (bytesizedivided, _('B')),  # 13
-                _("%s (%s)") % (scaledsize, bytesizedividedspace) if st.st_size > 1023 else "%s %s" % (bytesizedividedspace, _('B'))  # 14
+                str(_("%s") % scaledsize) if isinstance(scaledsize, (tuple, list)) else _("%s") % scaledsize,  # 11
+                str(_("%s (%s)") % (bytesize, scaledsize)) if isinstance(scaledsize, (tuple, list)) else _("%s (%s)") % (bytesize, scaledsize),  # 12
+                str(_("%s (%s)") % (scaledsize, bytesizedivided)) if st.st_size > 1023 else "%s %s" % (bytesizedivided, _('B')),  # 13
+                str(_("%s (%s)") % (scaledsize, bytesizedividedspace)) if st.st_size > 1023 else "%s %s" % (bytesizedividedspace, _('B'))  # 14
             )
 
         return [modes + (
