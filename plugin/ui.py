@@ -1,11 +1,6 @@
-#!/usr/bin/env python
-# -*- coding: iso-8859-1 -*-
+# -*- coding: utf-8 -*-
+# update 2026.06 Lululla
 
-from __future__ import print_function
-
-from .plugin import pname
-
-# Components
 from Components.config import (
     config,
     ConfigInteger,
@@ -13,7 +8,6 @@ from Components.config import (
     ConfigText,
     ConfigDirectory,
     ConfigSelection,
-    ConfigSet,
     NoSave,
     ConfigNothing,
     ConfigLocations,
@@ -28,7 +22,7 @@ from Components.Sources.List import List
 from Components.Sources.StaticText import StaticText
 from Components.ConfigList import ConfigListScreen
 from Components.Pixmap import Pixmap
-# Screens
+
 from Screens.Screen import Screen
 from Screens.ChoiceBox import ChoiceBox
 from Screens.MessageBox import MessageBox
@@ -37,49 +31,37 @@ from Screens.HelpMenu import HelpableScreen
 from Screens.MovieSelection import defaultMoviePath
 from Screens.VirtualKeyBoard import VirtualKeyBoard
 
-# Tools
 from Tools.BoundFunction import boundFunction
 from Tools import Notifications
 
-# Various
 from enigma import eConsoleAppContainer, eTimer, getDesktop
 import os
 import stat
 import re
 
-# System mods
 from .FileList import FileList, MultiFileSelectList, EXTENSIONS
 from .Console import Console
 from .UnitConversions import UnitScaler, UnitMultipliers
 from .TaskList import TaskListScreen
 from .FileTransfer import FileTransferJob, ALL_MOVIE_EXTENSIONS
 
-# Addons
 from .addons.key_actions import key_actions, stat_info
 from .addons.type_utils import vEditor
 
-# for locale (gettext)
-from . import _, ngettext
+from .plugin import pname
+from . import _, ngettext, __version__
 
-pvers = "%s%s" % (_("v"), "2.12")
+pvers = "%s%s" % (_("v"), __version__)
 
 MOVIEEXTENSIONS = {"cuts": "movieparts", "meta": "movieparts", "ap": "movieparts", "sc": "movieparts", "eit": "movieparts"}
 
 
 def _make_filter(media_type):
-    try:
-        iteritems = EXTENSIONS.iteritems
-    except AttributeError:
-        iteritems = EXTENSIONS.items
-    return r"(?i)^.*\.(" + '|'.join(sorted((ext for ext, type in iteritems() if type == media_type))) + ")$"
+    return r"(?i)^.*\.(" + '|'.join(sorted((ext for ext, type in EXTENSIONS.items() if type == media_type))) + ")$"
 
 
 def _make_rec_filter():
-    try:
-        iterkeys = MOVIEEXTENSIONS.iterkeys
-    except AttributeError:
-        iterkeys = MOVIEEXTENSIONS.keys
-    return r"(?i)^.*\.(" + '|'.join(sorted(["ts"] + [ext if ext == "eit" else "ts." + ext for ext in iterkeys()])) + ")$"
+    return r"(?i)^.*\.(" + '|'.join(sorted(["ts"] + [ext == "eit" and ext or "ts." + ext for ext in MOVIEEXTENSIONS.keys()])) + ")$"
 
 
 FULLHD = False
@@ -92,7 +74,6 @@ pictures = _make_filter("picture")
 records = _make_rec_filter()
 
 dmnapi_py = "/usr/lib/enigma2/python/Plugins/Extensions/FileCommander/addons/dmnapi.py"
-#
 
 config.plugins.filecommander.savedir_left = ConfigYesNo(default=False)
 config.plugins.filecommander.savedir_right = ConfigYesNo(default=False)
@@ -125,7 +106,8 @@ choicelist = [
     ("1.0", _("Date")),
     ("1.1", _("Date reverse")),
     ("2.0", _("Size")),
-    ("2.1", _("Size reverse"))]
+    ("2.1", _("Size reverse"))
+]
 config.plugins.filecommander.sortFiles_left = ConfigSelection(default="1.1", choices=choicelist)
 config.plugins.filecommander.sortFiles_right = ConfigSelection(default="1.1", choices=choicelist)
 config.plugins.filecommander.firstDirs = ConfigYesNo(default=True)
@@ -133,7 +115,10 @@ config.plugins.filecommander.path_left_selected = ConfigYesNo(default=True)
 config.plugins.filecommander.lastcursorposition = ConfigInteger(default=0)
 config.plugins.filecommander.showTaskCompleted_message = ConfigYesNo(default=True)
 config.plugins.filecommander.showScriptCompleted_message = ConfigYesNo(default=True)
-config.plugins.filecommander.hashes = ConfigSet(key_actions.hashes.keys(), default=["MD5"])
+choicelist = []
+for i in key_actions.hashes:
+    choicelist.append((i))
+config.plugins.filecommander.hashes = ConfigSelection(default="MD5", choices=choicelist)
 config.plugins.filecommander.bookmarks = ConfigLocations()
 config.plugins.filecommander.fake_entry = NoSave(ConfigNothing())
 
@@ -162,11 +147,8 @@ for i in range(1250, 1259, 1):
 config.plugins.filecommander.cp = ConfigSelection(default="1250", choices=codepages)
 config.plugins.filecommander.filename_header = ConfigYesNo(default=True)
 
+# config.plugins.filecommander.veditor_case_sensitive = ConfigYesNo(default=False)
 cfg = config.plugins.filecommander
-
-# ####################
-# ## Config Screen ###
-# ####################
 
 
 class Setup(ConfigListScreen, Screen):
@@ -216,14 +198,16 @@ class Setup(ConfigListScreen, Screen):
 
         self["key_red"] = StaticText(_("Cancel"))
         self["key_green"] = StaticText(_("OK"))
-        self["Actions"] = ActionMap(["ColorActions", "SetupActions"],
-                                    {
-                                    "green": self.save,
-                                    "red": self.cancel,
-                                    "save": self.save,
-                                    "cancel": self.cancel,
-                                    "ok": self.ok,
-                                    }, -2)
+        self["Actions"] = ActionMap(
+            ["ColorActions", "SetupActions"],
+            {
+                "green": self.save,
+                "red": self.cancel,
+                "save": self.save,
+                "cancel": self.cancel,
+                "ok": self.ok,
+            }, -2
+        )
         self.onLayoutFinish.append(self.onLayout)
 
     def onLayout(self):
@@ -275,13 +259,13 @@ def formatSortingTyp(sortDirs, sortFiles):
 
 def cutLargePath(path, label):
 
-    def getStringSize(string, label):
+    def getStringSize(s, label):
         label.instance.setNoWrap(1)
-        label.setText("%s" % string)
+        label.setText("%s" % s)
         return label.instance.calculateSize().width()
     if path != "/":
         path = path.rstrip('/')
-    w = label.instance.size().width()   # label width
+    w = label.instance.size().width()  # label width
     path_w = getStringSize(path, label)  # text width
     if path_w > w:
         path = path.split('/')
@@ -311,22 +295,42 @@ def freeDiskSpace(path):
         else:
             free = _("%d GB") % (free >> 30)
         return "%s" % free
-    except:
+    except Exception:
         return "-?-"
 
 
-###################
-# ## Main Screen ###
-###################
-
 glob_running = False
+
+FILE_HANDLERS = {
+    '.txt': 'text',
+    '.log': 'text',
+    '.cfg': 'text',
+    '.xml': 'text',
+    '.py': 'text',
+    '.sh': 'text',
+    '.html': 'text',
+    '.jpg': 'image',
+    '.jpeg': 'image',
+    '.png': 'image',
+    '.gif': 'image',
+    '.bmp': 'image',
+    '.mp3': 'audio',
+    '.mp4': 'video',
+    '.mkv': 'video',
+    '.avi': 'video',
+    '.zip': 'archive',
+    '.rar': 'archive',
+    '.tar': 'archive',
+    '.gz': 'archive',
+    '.ipk': 'archive',
+}
 
 
 class FileCommanderScreen(Screen, HelpableScreen, key_actions):
     if FULLHD:
         skin = """
         <screen position="40,80" size="1840,920" title="" flags="wfNoBorder">
-            <widget name="list_left_head1" position="10,5" size="890,32" itemHeight="28" font="Regular;24" foregroundColor="#00cccc40" />
+            <widget name="list_left_head1" position="10,5" size="890,32" font="Regular;24" foregroundColor="#00cccc40" />
             <widget name="list_left_filename" position="10,31" size="890,24" font="Regular;24" noWrap="1" foregroundColor="grey" backgroundColor="secondBG" transparent="1" zPosition="1" />
             <widget name="list_left_select" position="10,50" size="890,32" zPosition="1" font="Regular;24" transparent="1" foregroundColor="#0000cc60" />
             <widget source="list_left_head2" render="Listbox" position="10,50" size="890,30" foregroundColor="#00cccc40" selectionDisabled="1" transparent="1">
@@ -342,15 +346,15 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
                     }
                 </convert>
             </widget>
-            <widget name="list_right_head1" position="900,5" size="890,28" itemHeight="28" font="Regular;24" foregroundColor="#00cccc40" />
-            <widget name="list_right_filename" position="900,31" size="890,21" font="Regular;18" noWrap="1" foregroundColor="grey" backgroundColor="secondBG" transparent="1" zPosition="1" />
-            <widget name="list_right_select" position="900,50" size="890,30" zPosition="1" font="Regular;24" transparent="1" foregroundColor="#0000cc60" />
+            <widget name="list_right_head1" position="900,5" size="890,32" font="Regular;24" foregroundColor="#00cccc40" />
+            <widget name="list_right_filename" position="900,31" size="890,24" font="Regular;24" noWrap="1" foregroundColor="grey" backgroundColor="secondBG" transparent="1" zPosition="1" />
+            <widget name="list_right_select" position="900,50" size="890,32" zPosition="1" font="Regular;24" transparent="1" foregroundColor="#0000cc60" />
             <widget source="list_right_head2" render="Listbox" position="900,50" size="890,30" foregroundColor="#00cccc40" selectionDisabled="1" transparent="1">
                 <convert type="TemplatedMultiContent">
                     {"template": [
-                        MultiContentEntryText(pos = (30, 0), size = (173, 30), font = 0, flags = RT_HALIGN_LEFT, text = 1), # index 1 is a symbolic mode
-                        MultiContentEntryText(pos = (250, 0), size = (135, 30), font = 0, flags = RT_HALIGN_RIGHT, text = 11), # index 11 is the scaled size
-                        MultiContentEntryText(pos = (500, 0), size = (390, 30), font = 0, flags = RT_HALIGN_LEFT, text = 15), # index 15 is the modification time
+                        MultiContentEntryText(pos = (30, 0), size = (173, 40), font = 0, flags = RT_HALIGN_LEFT, text = 1), # index 1 is a symbolic mode
+                        MultiContentEntryText(pos = (250, 0), size = (135, 40), font = 0, flags = RT_HALIGN_RIGHT, text = 11), # index 11 is the scaled size
+                        MultiContentEntryText(pos = (500, 0), size = (390, 40), font = 0, flags = RT_HALIGN_LEFT, text = 15), # index 15 is the modification time
                         ],
                         "fonts": [gFont("Regular", 28)],
                         "itemHeight": 45,
@@ -371,75 +375,90 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
             <ePixmap position="105,880" size="40,40" zPosition="4" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FileCommander/pic/button_red.png" transparent="1" alphatest="on" />
             <ePixmap position="548,880" size="40,40" zPosition="4" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FileCommander/pic/button_green.png" transparent="1" alphatest="on" />
             <ePixmap position="990,880" size="40,40" zPosition="4" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FileCommander/pic/button_yellow.png" transparent="1" alphatest="on" />
-            <ePixmap position="1433,880" size="40,40" zPosition=4" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FileCommander/pic/button_blue.png" transparent="1" alphatest="on" />
-        </screen>"""
+            <ePixmap position="1433,880" size="40,40" zPosition="4" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FileCommander/pic/button_blue.png" transparent="1" alphatest="on" />
+        </screen> """
     else:
         skin = """
-        <screen position="40,80" size="1200,600" title="" >
-            <widget name="list_left_head1" position="10,5" size="570,21" font="Regular;18" foregroundColor="#00cccc00"/>
-            <widget name="list_left_filename" position="10,26" size="570,16" font="Regular;14" noWrap="1" foregroundColor="grey" backgroundColor="secondBG" transparent="1" zPosition="1"/>
-            <widget name="list_left_select" position="10,42" size="570,20" zPosition="1" font="Regular;18" transparent="1" foregroundColor="#0000cc60"/>
-            <widget source="list_left_head2" render="Listbox" position="10,42" size="570,20" foregroundColor="#00cccc00" selectionDisabled="1" transparent="1">
-                <convert type="TemplatedMultiContent">
-                    {"template": [
-                        MultiContentEntryText(pos = (0, 0), size = (115, 20), font = 0, flags = RT_HALIGN_LEFT, text = 1), # index 1 is a symbolic mode
-                        MultiContentEntryText(pos = (130, 0), size = (90, 20), font = 0, flags = RT_HALIGN_RIGHT, text = 11), # index 11 is the scaled size
-                        MultiContentEntryText(pos = (235, 0), size = (260, 20), font = 0, flags = RT_HALIGN_LEFT, text = 15), # index 15 is the modification time
-                        ],
-                        "fonts": [gFont("Regular", 18)],
-                        "itemHeight": 20,
-                        "selectionEnabled": False
-                    }
-                </convert>
-            </widget>
-            <widget name="list_right_head1" position="610,5" size="570,21" font="Regular;18" foregroundColor="#00cccc00"/>
-            <widget name="list_right_filename" position="610,26" size="570,16" font="Regular;14" noWrap="1" foregroundColor="grey" backgroundColor="secondBG" transparent="1" zPosition="1"/>
-            <widget name="list_right_select" position="610,42" size="570,20" zPosition="1" font="Regular;18" transparent="1" foregroundColor="#0000cc60"/>
-            <widget source="list_right_head2" render="Listbox" position="610,42" size="570,20" foregroundColor="#00cccc00" selectionDisabled="1" transparent="1">
-                <convert type="TemplatedMultiContent">
-                    {"template": [
-                        MultiContentEntryText(pos = (0, 0), size = (115, 20), font = 0, flags = RT_HALIGN_LEFT, text = 1), # index 1 is a symbolic mode
-                        MultiContentEntryText(pos = (130, 0), size = (90, 20), font = 0, flags = RT_HALIGN_RIGHT, text = 11), # index 11 is the scaled size
-                        MultiContentEntryText(pos = (235, 0), size = (260, 20), font = 0, flags = RT_HALIGN_LEFT, text = 15), # index 15 is the modification time
-                        ],
-                        "fonts": [gFont("Regular", 18)],
-                        "itemHeight": 20,
-                        "selectionEnabled": False
-                    }
-                </convert>
-            </widget>
-            <widget name="list_left" position="10,70" size="570,466" itemHeight="31" scrollbarMode="showOnDemand"/>
-            <widget name="list_right" position="610,70" size="570,466" itemHeight="31" scrollbarMode="showOnDemand"/>
-            <widget name="list_left_free" position="10,536" size="100,17" font="Regular;15"/><!-- for FileCommanderScreenFileSelect, do not remove it -->
-            <widget name="list_right_free" position="610,536" size="100,17" font="Regular;15"/><!-- for FileCommanderScreenFileSelect, do not remove it -->
-            <widget name="sort_left" position="10,536" size="570,17" halign="center" font="Regular;15" foregroundColor="#00cccc00"/>
-            <widget name="sort_right" position="610,536" size="570,17" halign="center" font="Regular;15" foregroundColor="#00cccc00"/>
-            <widget source="key_red" render="Label" position="100,570" size="260,25" transparent="1" font="Regular;20"/>
-            <widget source="key_green" render="Label" position="395,570" size="260,25"  transparent="1" font="Regular;20"/>
-            <widget source="key_yellow" render="Label" position="690,570" size="260,25" transparent="1" font="Regular;20"/>
-            <widget source="key_blue" render="Label" position="985,570" size="260,25" transparent="1" font="Regular;20"/>
-            <ePixmap position="61,566" size="40,40" zPosition="0" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FileCommander/pic/button_red.png" transparent="1" alphatest="on" />
-            <ePixmap position="359,566" size="40,40" zPosition="0" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FileCommander/pic/button_green.png" transparent="1" alphatest="on" />
-            <ePixmap position="655,566" size="40,40" zPosition="0" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FileCommander/pic/button_yellow.png" transparent="1" alphatest="on" />
-            <ePixmap position="946,566" size="40,40" zPosition="0" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FileCommander/pic/button_blue.png" transparent="1" alphatest="on" />
-        </screen>"""
+        <screen position="28,63" size="1280,720" title="" flags="wfNoBorder">
+          
+          <!-- ===== PANNELLO SINISTRO ===== -->
+          <widget name="list_left_head1" position="7,4" size="619,25" font="Regular;22" foregroundColor="#00cccc40" />
+          <widget name="list_left_filename" position="7,24" size="619,19" font="Regular;22" noWrap="1" foregroundColor="grey" backgroundColor="background" transparent="1" zPosition="1" />
+          <widget name="list_left_select" position="7,39" size="619,25" zPosition="1" font="Regular;22" transparent="1" foregroundColor="#0000cc60" />
+          
+          <widget source="list_left_head2" render="Listbox" position="7,39" size="619,23" foregroundColor="#00cccc40" selectionDisabled="1" transparent="1">
+            <convert type="TemplatedMultiContent">
+              {"template": [
+                MultiContentEntryText(pos = (21, 0), size = (120, 31), font = 0, flags = RT_HALIGN_LEFT, text = 1),
+                MultiContentEntryText(pos = (174, 0), size = (94, 31), font = 0, flags = RT_HALIGN_RIGHT, text = 11),
+                MultiContentEntryText(pos = (348, 0), size = (271, 31), font = 0, flags = RT_HALIGN_LEFT, text = 15),
+              ],
+              "fonts": [gFont("Regular", 22)],
+              "itemHeight": 35,
+              "selectionEnabled": False
+              }
+            </convert>
+          </widget>
+          
+          <!-- ===== PANNELLO DESTRO ===== -->
+          <widget name="list_right_head1" position="626,4" size="619,25" font="Regular;22" foregroundColor="#00cccc40" />
+          <widget name="list_right_filename" position="626,24" size="619,19" font="Regular;22" noWrap="1" foregroundColor="grey" backgroundColor="background" transparent="1" zPosition="1" />
+          <widget name="list_right_select" position="626,39" size="619,25" zPosition="1" font="Regular;22" transparent="1" foregroundColor="#0000cc60" />
+          
+          <widget source="list_right_head2" render="Listbox" position="626,39" size="619,23" foregroundColor="#00cccc40" selectionDisabled="1" transparent="1">
+            <convert type="TemplatedMultiContent">
+              {"template": [
+                MultiContentEntryText(pos = (21, 0), size = (120, 31), font = 0, flags = RT_HALIGN_LEFT, text = 1),
+                MultiContentEntryText(pos = (174, 0), size = (94, 31), font = 0, flags = RT_HALIGN_RIGHT, text = 11),
+                MultiContentEntryText(pos = (348, 0), size = (271, 31), font = 0, flags = RT_HALIGN_LEFT, text = 15),
+              ],
+              "fonts": [gFont("Regular", 22)],
+              "itemHeight": 35,
+              "selectionEnabled": False
+              }
+            </convert>
+          </widget>
+          
+          <!-- ===== LISTE ===== -->
+          <widget name="list_left" position="7,63" size="619,599" itemHeight="35" scrollbarMode="showOnDemand" />
+          <widget name="list_right" position="626,63" size="619,599" itemHeight="35" scrollbarMode="showOnDemand" />
+          
+          <!-- ===== SPAZIO LIBERO ===== -->
+          <widget name="list_left_free" position="21,661" size="139,20" font="Regular;22" />
+          <widget name="list_right_free" position="640,661" size="139,20" font="Regular;22" />
+          
+          <!-- ===== SORT ===== -->
+          <widget name="sort_left" position="7,661" size="595,20" halign="center" font="Regular;22" foregroundColor="#00cccc40" />
+          <widget name="sort_right" position="626,661" size="595,20" halign="center" font="Regular;22" foregroundColor="#00cccc40" />
+          
+          <!-- ===== BOTTONI ===== -->
+          <widget source="key_red" render="Label" position="104,689" size="271,30" transparent="1" font="Regular;25" />
+          <widget source="key_green" render="Label" position="413,689" size="271,30" transparent="1" font="Regular;25" />
+          <widget source="key_yellow" render="Label" position="720,689" size="271,30" transparent="1" font="Regular;25" />
+          <widget source="key_blue" render="Label" position="1035,689" size="271,30" transparent="1" font="Regular;25" />
+          
+          <!-- ===== ICONE BOTTONI ===== -->
+          <ePixmap position="73,689" size="28,28" zPosition="4" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FileCommander/pic/button_red.png" transparent="1" alphatest="on" />
+          <ePixmap position="381,689" size="28,28" zPosition="4" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FileCommander/pic/button_green.png" transparent="1" alphatest="on" />
+          <ePixmap position="689,689" size="28,28" zPosition="4" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FileCommander/pic/button_yellow.png" transparent="1" alphatest="on" />
+          <ePixmap position="997,689" size="28,28" zPosition="4" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FileCommander/pic/button_blue.png" transparent="1" alphatest="on" />
+        </screen>
+        """
 
     def __init__(self, session, path_left=None):
-        # path_left == "" means device list, whereas path_left == None means saved or default value
 
         path_left = cfg.path_left.value if os.path.isdir(cfg.path_left.value) else None
         path_right = cfg.path_right.value if os.path.isdir(cfg.path_right.value) else None
 
-        if path_left and os.path.isdir(path_left) and path_left[-1] != "/":
+        if path_left is None:
+            path_left = ""
+        if path_right is None:
+            path_right = ""
+
+        if path_left != "" and path_left[-1] != "/":
             path_left += "/"
-
-        if path_right and os.path.isdir(path_right) and path_right[-1] != "/":
+        if path_right != "" and path_right[-1] != "/":
             path_right += "/"
-
-        if path_left == "":
-            path_left = None
-        if path_right == "":
-            path_right = None
 
         self.session = session
         Screen.__init__(self, session)
@@ -486,6 +505,7 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
         self["key_green"] = StaticText(_("Move"))
         self["key_yellow"] = StaticText(_("Copy"))
         self["key_blue"] = StaticText(_("Rename"))
+        self["key_menu"] = StaticText(_("MENU"))
         self["VKeyIcon"] = Boolean(False)
 
         if cfg.toggle_stop_pause.value:
@@ -515,8 +535,8 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
             "yellow": (self.goYellow, _("Copy file/directory to target directory")),
             "blue": (self.goBlue, _("Rename file/directory")),
             "info": (self.gofileStatInfo, _("File/Directory Status Information")),
-            "keyRecord": (self.listSelect, _("Enter multi-file selection mode")),
-            "showMovies": (self.listSelect, _("Enter multi-file selection mode")),
+            # "keyRecord": (self.listSelect, _("Enter multi-file selection mode")),
+            # "showMovies": (self.listSelect, _("Enter multi-file selection mode")),
             "up": (self.goUp, _("Move up list")),
             "down": (self.goDown, _("Move down list")),
             "left": (self.goLeftB, _("Page up list")),
@@ -575,7 +595,7 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
             xfile = os.stat(longname)
             if (xfile.st_size < 1000000):
                 return longname
-        except:
+        except Exception:
             pass
         return None
 
@@ -613,13 +633,43 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
     def ok(self):
         if self.disableActions_Timer.isActive():
             return
-        if self.SOURCELIST.canDescent():  # isDir
+
+        print("[DEBUG] ===== OK PRESSED =====")
+
+        # Control canDescent
+        can_descent = self.SOURCELIST.canDescent()
+        print("[DEBUG] canDescent():", can_descent)
+
+        # filename sourceDir
+        filename = self.SOURCELIST.getFilename()
+        sourceDir = self.SOURCELIST.getCurrentDirectory()
+        print("[DEBUG] filename:", repr(filename))
+        print("[DEBUG] sourceDir:", repr(sourceDir))
+
+        if can_descent:
+            print("[DEBUG] ENTERING DIRECTORY")
             self.SOURCELIST.descent()
             self.updateHead()
-        else:
-            self.onFileAction(self.SOURCELIST, self.TARGETLIST)
-            # self.updateHead()
-            self.doRefresh()
+            print("[DEBUG] EXITED DIRECTORY")
+            return
+
+        # Se arriva qui, è un file o elemento speciale
+        if filename is None:
+            print("[DEBUG] filename is None, returning")
+            return
+
+        if sourceDir is None:
+            print("[DEBUG] sourceDir is None, returning")
+            return
+
+        if filename.startswith("<") and filename.endswith(">"):
+            print("[DEBUG] special element, returning")
+            return
+
+        print("[DEBUG] CALLING onFileAction for:", sourceDir + filename)
+        self.onFileAction(self.SOURCELIST, self.TARGETLIST)
+        self.doRefresh()
+        print("[DEBUG] ===== OK COMPLETED =====")
 
     def selectAction(self):
         filename = self.SOURCELIST.getFilename()
@@ -632,14 +682,18 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
         if isFile:
             menu.append((_("View or edit file (if size < 1MB)"), self.file_viewer))     # 3
             keys += ["3"]
-        menu.append((_("Copy file/directory to target directory"), self.goYellow))      # 5
-        menu.append((_("Move file/directory to target directory"), self.goGreen))       # 6
-        menu.append((_("Create directory"), self.gomakeDir))                    # 7
+
+        if isFile:
+            menu.append((_("Open"), self.openSelectedFile))
+
+        menu.append((_("Copy file/directory to target directory"), self.goYellow))          # 5
+        menu.append((_("Move file/directory to target directory"), self.goGreen))           # 6
+        menu.append((_("Create directory"), self.gomakeDir))                                # 7
         menu.append((_("Delete file or directory (and all its contents)"), self.goRed))     # 8
-        menu.append((_("File/Directory Status Information"), self.gofileStatInfo))      # info
-        menu.append((_("Enter multi-file selection mode"), self.listSelect))            # green
-        menu.append((_("Refresh screen"), self.doRefresh))                  # 0
-        menu.append((_("Show task list"), self.openTasklist))                   # red
+        menu.append((_("File/Directory Status Information"), self.gofileStatInfo))          # info
+        menu.append((_("Enter multi-file selection mode"), self.listSelect))                # green
+        menu.append((_("Refresh screen"), self.doRefresh))                                  # 0
+        menu.append((_("Show task list"), self.openTasklist))                               # red
         keys += ["5", "6", "7", "8", "info", "green", "0", "red"]
         if isFile:
             menu.append((_("Calculate file checksums"), self.run_hashes))
@@ -650,14 +704,14 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
         if isFile and filename[-4:] in (".srt", ".sub"):
             menu.append((_("Convert subtitles from '%s' to UTF-8") % cfg.cp(cfg.cp.value)[1], self.convertSubtitles))
             keys += [""]
-        menu.append((_("Edit new file"), self.gomakeFile))                  #
+        menu.append((_("Edit new file"), self.gomakeFile))                          #
         menu.append((_("Create user-named symbolic link"), self.gomakeSym))         #
         menu.append((_("Go to parent directory"), self.goParentfolder))             #
         menu.append((_("Go to default directory"), self.goDefaultfolder))           # yellow
-        menu.append((self.help_run_file(), self.run_file))                  #
-        menu.append((self.help_run_ffprobe(), self.run_ffprobe))                #
-        menu.append((_("Settings..."), boundFunction(self.session.open, Setup)))        # menu
-        menu.append((_("Go to bookmarked folder"), self.goBookmarkedfolder))            # blue
+        menu.append((self.help_run_file(), self.run_file))                          #
+        menu.append((self.help_run_ffprobe(), self.run_ffprobe))                    #
+        menu.append((_("Settings..."), boundFunction(self.session.open, Setup)))    # menu
+        menu.append((_("Go to bookmarked folder"), self.goBookmarkedfolder))        # blue
         keys += ["", "", "", "yellow", "", "", "menu", "blue"]
 
         item = self.help_uninstall_file()
@@ -679,6 +733,63 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
             keys += ["bullet"]
 
         self.session.openWithCallback(self.menuCallback, ChoiceBox, title=_("Select operation:"), list=menu, keys=["dummy" if key == "" else key for key in keys], skin_name="ChoiceBox")
+
+    def openFile(self, filepath):
+        """Open file based on extension."""
+        if not os.path.isfile(filepath):
+            return
+        ext = os.path.splitext(filepath)[1].lower()
+        handler = FILE_HANDLERS.get(ext, None)
+
+        if handler == 'text':
+            from .TextViewer import TextViewer
+            self.session.open(TextViewer, filepath)
+        elif handler == 'image':
+            # Use Enigma2's built-in PictureViewer if available
+            try:
+                from Screens.PictureViewer import PictureViewer
+                self.session.open(PictureViewer, filepath)
+            except:
+                # Fallback: ask to open as text
+                self.session.openWithCallback(self.openAsText, MessageBox, _("Cannot open image. Open as text?"))
+        elif handler in ('video', 'audio'):
+            # Use MoviePlayer
+            try:
+                from Screens.MoviePlayer import MoviePlayer
+                self.session.open(MoviePlayer, filepath)
+            except:
+                self.session.open(MessageBox, _("Cannot play file."), MessageBox.TYPE_ERROR)
+        elif handler == 'archive':
+            target_dir = self.TARGETLIST.getCurrentDirectory() or os.path.dirname(filepath)
+            self.session.openWithCallback(
+                self.extractArchiveConfirm,
+                MessageBox,
+                _("Extract archive to %s?") % target_dir,
+                MessageBox.TYPE_YESNO
+            )
+            self._archive_path = filepath
+            self._target_dir = target_dir
+        else:
+            # Unknown: ask user
+            self.session.openWithCallback(self.openAsText, MessageBox, _("Unknown file type. Open as text?"), type=MessageBox.TYPE_YESNO)
+
+    def openSelectedFile(self):
+        filename = self.SOURCELIST.getFilename()
+        sourceDir = self.SOURCELIST.getCurrentDirectory()
+        if filename and sourceDir:
+            self._current_filepath = os.path.join(sourceDir, filename)
+            self.openFile(self._current_filepath)
+
+    def openAsText(self, answer):
+        if answer:
+            from .TextViewer import TextViewer
+            self.session.open(TextViewer, self._current_filepath)
+
+    def extractArchiveConfirm(self, answer):
+        if answer:
+            from .archive_utils import extract_archive
+            extract_archive(self._archive_path, self._target_dir, self.session)
+            self.doRefresh()
 
     def menuCallback(self, choice):
         if choice is None:
@@ -804,7 +915,7 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
         self.setWalkdir()
         self.updateHead()
 
-# ## Multiselect ###
+    # Multiselect ###
     def listSelect(self):
         if not self.SOURCELIST.getCurrentDirectory() or self.disableActions_Timer.isActive():
             return
@@ -911,36 +1022,37 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
             reverse = 0
         return '%d.%d' % (sort, reverse)
 
-# ## sorting files left ###
+    # sorting files left ###
     def goRedLong(self):
         if self.disableActions_Timer.isActive():
             return
         self["list_left"].setSortBy(self.setSort(self["list_left"]))
         self.doRefresh()
 
-# ## reverse sorting files left ###
+    # reverse sorting files left ###
     def goGreenLong(self):
         if self.disableActions_Timer.isActive():
             return
         self["list_left"].setSortBy(self.setReverse(self["list_left"]))
         self.doRefresh()
 
-# ## reverse sorting files right ###
+    # reverse sorting files right ###
     def goYellowLong(self):
         if self.disableActions_Timer.isActive():
             return
         self["list_right"].setSortBy(self.setReverse(self["list_right"]))
         self.doRefresh()
 
-# ## sorting files right ###
+    # sorting files right ###
     def goBlueLong(self):
         if self.disableActions_Timer.isActive():
             return
         self["list_right"].setSortBy(self.setSort(self["list_right"]))
         self.doRefresh()
 
-# ## convert subtitles
+    # convert subtitles
     def convertSubtitles(self):
+        import codecs
         if self.disableActions_Timer.isActive():
             return
         filename = self.SOURCELIST.getFilename()
@@ -953,8 +1065,9 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
                 except Exception as error:
                     self.session.open(MessageBox, "%s" % error, MessageBox.TYPE_ERROR, timeout=3)
                 else:
-                    fi = open(name + ".tmp", "rt")
-                    fo = open(name, "wt")
+                    fi = open(name + ".tmp", "rb")
+                    fo = open(name, "wb")
+                    fo.write(codecs.BOM_UTF8)
                     try:
                         for line in fi:
                             fo.write(line.decode(cfg.cp.value).encode('utf-8', 'ignore'))
@@ -968,7 +1081,7 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
                     os.rename(name + ".tmp", target)
                 self.doRefresh()
 
-# ## copy ###
+    # copy ###
     def goYellow(self):
         # commented out
         # if InfoBar.instance and InfoBar.instance.LongButtonPressed or self.disableActions_Timer.isActive():
@@ -1003,7 +1116,7 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
             else:
                 self.addJob(FileTransferJob(filename, targetDir, True, True, "%s : %s" % (_("copy folder"), filename)), updateDirs)
 
-# ## delete ###
+    # delete ###
     def goRed(self):
         # commented out
         # if  InfoBar.instance and InfoBar.instance.LongButtonPressed or self.disableActions_Timer.isActive():
@@ -1030,7 +1143,7 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
             else:
                 self.addJob([filename], [sourceDir])
 
-# ## move ###
+    # move ###
     def goGreen(self):
         # commented out
         # if  InfoBar.instance and InfoBar.instance.LongButtonPressed or self.disableActions_Timer.isActive():
@@ -1067,7 +1180,7 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
             else:
                 self.addJob(FileTransferJob(filename, targetDir, True, False, "%s : %s" % (_("move folder"), filename)), updateDirs)
 
-# ## rename ###
+    # rename ###
     def goBlue(self):
         # commented out
         # if  InfoBar.instance and InfoBar.instance.LongButtonPressed or self.disableActions_Timer.isActive():
@@ -1109,7 +1222,7 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
                                     os.rename(sourceDir + movie + ".eit", sourceDir + newmovie + ".eit")
                                 else:
                                     os.rename(sourceDir + filename + "." + ext, sourceDir + newname + "." + ext)
-                            except:
+                            except Exception:
                                 pass
                 else:
                     os.rename(filename, sourceDir + newname)
@@ -1120,7 +1233,7 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
     def doRenameCB(self):
         self.doRefresh()
 
-# ## symlink by name ###
+    # symlink by name ###
     def gomakeSym(self):
         if self.disableActions_Timer.isActive():
             return
@@ -1159,13 +1272,13 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
                 self.session.open(MessageBox, _("Error linking %s to %s:\n%s") % (oldpath, newpath, oe.strerror), type=MessageBox.TYPE_ERROR, simple=True)
             self.doRefresh()
 
-# ## File/directory information
+    # File/directory information
     def gofileStatInfo(self):
         if self.disableActions_Timer.isActive():
             return
         self.session.open(FileCommanderFileStatInfo, self.SOURCELIST)
 
-# ## symlink by folder ###
+    # symlink by folder ###
     def gomakeSymlink(self):
         if self.disableActions_Timer.isActive():
             return
@@ -1195,7 +1308,7 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
             if sourceDir in filename:
                 self.session.openWithCallback(self.doRenameCB, Console, title=_("create symlink ..."), cmdlist=(("ln", "-s", filename, targetDir),))
 
-# ## new file ###
+    # new file ###
     def gomakeFile(self):
         if self.disableActions_Timer.isActive():
             return
@@ -1219,7 +1332,7 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
                 self.session.open(MessageBox, _("Error creating file %s:\n%s") % (sourceDir + newname, oe.strerror), type=MessageBox.TYPE_ERROR, simple=True)
             self.doRefresh()
 
-# ## new folder ###
+    # new folder ###
     def gomakeDir(self):
         if self.disableActions_Timer.isActive():
             return
@@ -1241,7 +1354,7 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
                 self.session.open(MessageBox, _("Error creating directory %s:\n%s") % (sourceDir + newname, oe.strerror), type=MessageBox.TYPE_ERROR, simple=True)
             self.doRefresh()
 
-# ## download subtitles ###
+    # download subtitles ###
     def downloadSubtitles(self):
         if self.disableActions_Timer.isActive():
             return
@@ -1257,7 +1370,7 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
     def subCallback(self, answer=False):
         self.doRefresh()
 
-# ## basic functions ###
+    # basic functions ###
     def updateHead(self):
         for side in ("list_left", "list_right"):
             dir = self[side].getCurrentDirectory()
@@ -1359,13 +1472,6 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
             return
         self.change_mod(self.SOURCELIST)
 
-#   def call_onFileAction(self):
-#       self.onFileAction(self.SOURCELIST, self.TARGETLIST)
-
-# ####################
-# ## Config MultiSelectionScreen ###
-# ####################
-
 
 class MultiSelectionSetup(ConfigListScreen, Screen):
     def __init__(self, session):
@@ -1374,16 +1480,20 @@ class MultiSelectionSetup(ConfigListScreen, Screen):
 
         self.skinName = ["FileCommanderSetup", "Setup"]
 
-#       self["help"] = Label(_("Select your personal settings:"))
+        # self["help"] = Label(_("Select your personal settings:"))
         self["description"] = Label()
         self["key_red"] = StaticText(_("Cancel"))
         self["key_green"] = StaticText(_("OK"))
-        self["Actions"] = ActionMap(["ColorActions", "SetupActions"],
-                                    {"green": self.save,
-                                     "red": self.cancel,
-                                     "save": self.save,
-                                     "cancel": self.cancel,
-                                     "ok": self.ok}, -2)
+        self["Actions"] = ActionMap(
+            ["ColorActions", "SetupActions"],
+            {
+                "green": self.save,
+                "red": self.cancel,
+                "save": self.save,
+                "cancel": self.cancel,
+                "ok": self.ok
+            }, -2
+        )
         self.list = []
         self.onChangedEntry = []
         ConfigListScreen.__init__(self, self.list, session=session, on_change=self.changedEntry)
@@ -1450,8 +1560,13 @@ class FileCommanderScreenFileSelect(Screen, HelpableScreen, key_actions):
         self.selectedFiles = []
         self.selectedid = selectedid
 
-        path_left = cfg.path_left_tmp.value or None
-        path_right = cfg.path_right_tmp.value or None
+        path_left = cfg.path_left.value if os.path.isdir(cfg.path_left.value) else None
+        path_right = cfg.path_right.value if os.path.isdir(cfg.path_right.value) else None
+
+        if path_left is not None and path_left != "" and path_left[-1] != "/":
+            path_left += "/"
+        if path_right is not None and path_right != "" and path_right[-1] != "/":
+            path_right += "/"
 
         # set sorting
         sortDirsLeft, sortFilesLeft = cfg.sortingLeft_tmp.value.split(',')
@@ -1542,7 +1657,6 @@ class FileCommanderScreenFileSelect(Screen, HelpableScreen, key_actions):
             self.ACTIVELIST.changeSelectionState()
             self.selectedFiles = self.ACTIVELIST.getSelectedList()
             self.getSelectedFilesInfos(self.selectedFiles)
-            # print "[FileCommander] selectedFiles:", self.selectedFiles
             if cfg.move_selector.value:
                 self.goDown()
             else:
@@ -1575,12 +1689,12 @@ class FileCommanderScreenFileSelect(Screen, HelpableScreen, key_actions):
 
     def selectAction(self):
         menu = []
-        menu.append((_("Select group..."), boundFunction(self.selectGroup, True)))                      # 2
-        menu.append((_("Deselect group..."), boundFunction(self.selectGroup, False)))                       # 5
-        menu.append((_("Select All"), self.selectAll))                                          # ""
-        menu.append((_("Deselect All"), self.deselectAll))                                  # ""
-        menu.append((_("Create directory in 'Target' panel"), self.gomakeDir))                          # 7
-        menu.append((_("Invert Selection"), self.invertSelection))                              # blue
+        menu.append((_("Select group..."), boundFunction(self.selectGroup, True)))      # 2
+        menu.append((_("Deselect group..."), boundFunction(self.selectGroup, False)))   # 5
+        menu.append((_("Select All"), self.selectAll))                                  # ""
+        menu.append((_("Deselect All"), self.deselectAll))                              # ""
+        menu.append((_("Create directory in 'Target' panel"), self.gomakeDir))          # 7
+        menu.append((_("Invert Selection"), self.invertSelection))                      # blue
         menu.append((_("Settings..."), boundFunction(self.session.openWithCallback, self.runBacktoMenu, MultiSelectionSetup)))  # menu
         keys = ["2", "5", "", "", "7", "blue", "menu"]
         self.session.openWithCallback(self.menuCallback, ChoiceBox, title=_("Select operation:"), list=menu, keys=["dummy" if key == "" else key for key in keys], skin_name="ChoiceBox")
@@ -1618,33 +1732,32 @@ class FileCommanderScreenFileSelect(Screen, HelpableScreen, key_actions):
         name = ""
         if item:
             if cfg.search.value == "begin" and length:
-                name = NAME(item).decode('UTF-8', 'replace')[0:length]
+                name = NAME(item)[0:length]
                 txt += 10 * " " + "%s" % length
             elif cfg.search.value == "end" and endlength:
-                name = NAME(item).decode('UTF-8', 'replace')[-endlength:]
+                name = NAME(item)[-endlength:]
                 txt += 10 * " " + "%s" % endlength
         self.session.openWithCallback(boundFunction(self.changeItems, mark), VirtualKeyBoard, title=txt, text=name)
 
     def changeItems(self, mark, searchString=None):
         if searchString:
-            searchString = searchString.decode('UTF-8', 'replace')
             if not cfg.sensitive.value:
                 searchString = searchString.lower()
             for item in self.SOURCELIST.list:
                 if cfg.sensitive.value:
                     if cfg.search.value == "begin":
-                        exist = NAME(item).decode('UTF-8', 'replace').startswith(searchString)
+                        exist = NAME(item).startswith(searchString)
                     elif cfg.search.value == "end":
-                        exist = NAME(item).decode('UTF-8', 'replace').endswith(searchString)
+                        exist = NAME(item).endswith(searchString)
                     else:
-                        exist = False if NAME(item).decode('UTF-8', 'replace').find(searchString) == -1 else True
+                        exist = False if NAME(item).find(searchString) == -1 else True
                 else:
                     if cfg.search.value == "begin":
-                        exist = NAME(item).decode('UTF-8', 'replace').lower().startswith(searchString)
+                        exist = NAME(item).lower().startswith(searchString)
                     elif cfg.search.value == "end":
-                        exist = NAME(item).decode('UTF-8', 'replace').lower().endswith(searchString)
+                        exist = NAME(item).lower().endswith(searchString)
                     else:
-                        exist = False if NAME(item).decode('UTF-8', 'replace').lower().find(searchString) == -1 else True
+                        exist = False if NAME(item).lower().find(searchString) == -1 else True
                 if exist:
                     if mark:
                         if not SELECTED(item):
@@ -1726,8 +1839,7 @@ class FileCommanderScreenFileSelect(Screen, HelpableScreen, key_actions):
     def setMovieSelectorFlag(self):
         self.moveselectorflag = ' _' if cfg.move_selector.value else ''
 
-# ## new folder in !Target! ###
-
+    # new folder in !Target! ###
     def gomakeDir(self):
         filename = self.TARGETLIST.getFilename()
         sourceDir = self.TARGETLIST.getCurrentDirectory()
@@ -1747,7 +1859,7 @@ class FileCommanderScreenFileSelect(Screen, HelpableScreen, key_actions):
                 self.session.open(MessageBox, _("Error creating directory %s:\n%s") % (targetDir + newname, oe.strerror), type=MessageBox.TYPE_ERROR, simple=True)
             self.doRefresh()
 
-# ## delete select ###
+    # delete select ###
     def goRed(self):
         if not len(self.selectedFiles):
             return
@@ -1776,7 +1888,7 @@ class FileCommanderScreenFileSelect(Screen, HelpableScreen, key_actions):
                 os.remove(file)
             self.exit([self.delete_dirs], self.delete_updateDirs)
 
-# ## move select ###
+    # move select ###
     def goGreen(self):
         targetDir = self.TARGETLIST.getCurrentDirectory()
         if targetDir is None or not len(self.selectedFiles):
@@ -1808,7 +1920,7 @@ class FileCommanderScreenFileSelect(Screen, HelpableScreen, key_actions):
         if result:
             self.exit(self.move_jobs, self.move_updateDirs)
 
-# ## copy select ###
+    # copy select ###
     def goYellow(self):
         targetDir = self.TARGETLIST.getCurrentDirectory()
         if targetDir is None or not len(self.selectedFiles):
@@ -1846,7 +1958,7 @@ class FileCommanderScreenFileSelect(Screen, HelpableScreen, key_actions):
     def goBlue(self):
         self.exit()
 
-# ## basic functions ###
+    # basic functions ###
     def updateHead(self):
         for side in ("list_left", "list_right"):
             dir = self[side].getCurrentDirectory()

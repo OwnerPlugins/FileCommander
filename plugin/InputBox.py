@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+# update 2026.06 Lululla
 from Screens.InputBox import InputBox as InputBoxBase
 from Components.ActionMap import ActionMap
 

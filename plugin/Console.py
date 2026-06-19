@@ -2,19 +2,20 @@
 # -*- coding: utf-8 -*-
 # RAED & mfaraj57 &  (c) 2018
 # mod Lululla 20240720
-
+# Improved version with save/hide/show features
+# update 2026.06
 from __future__ import print_function
-# from . import _
 from enigma import eConsoleAppContainer
 from Screens.Screen import Screen
 from Components.Label import Label
 from Components.ActionMap import ActionMap
 from Components.ScrollLabel import ScrollLabel
-
 from Screens.MessageBox import MessageBox
 from enigma import getDesktop
 import sys
+from time import time, localtime
 
+from . import _
 
 PY2 = sys.version_info[0] == 2
 PY3 = sys.version_info[0] == 3
@@ -59,29 +60,37 @@ class Console(Screen):
         self.finishedCallback = finishedCallback
         self.closeOnSuccess = closeOnSuccess
         self.showStartStopText = showStartStopText
+
         if skin:
             self.skinName = [skin, 'Console']
+
         self.errorOcurred = False
+        self.screen_hide = False
+        self.cancel_msg = None
+        self.output_file = ''
+
         self['text'] = ScrollLabel('')
         self['key_red'] = Label(_('Cancel'))
         self['key_green'] = Label(_('Hide/Show'))
         self['key_blue'] = Label(_('Restart'))
+        self["actions"] = ActionMap(
+            ["WizardActions", "DirectionActions", 'ColorActions'],
+            {
+                "ok": self.cancel,
+                "back": self.cancel,
+                "up": self.key_up,
+                "down": self.key_down,
+                "red": self.key_red,
+                "green": self.key_green,
+                "blue": self.restartenigma,
+                "exit": self.cancel,
+            }, -1
+        )
 
-        self["actions"] = ActionMap(["WizardActions", "DirectionActions", 'ColorActions'],
-                                    {
-                                    "ok": self.cancel,
-                                    "up": self["text"].pageUp,
-                                    "down": self["text"].pageDown,
-                                    "red": self.cancel,
-                                    "green": self.toggleHideShow,
-                                    "blue": self.restartenigma,
-                                    "exit": self.cancel,
-                                    }, -1)
-
-        self.newtitle = title == 'Console' and _('Console') or title
+        self.newtitle = title
         self.cmdlist = isinstance(cmdlist, list) and cmdlist or [cmdlist]
-        self.cancel_msg = None
         self.onShown.append(self.updateTitle)
+
         self.container = eConsoleAppContainer()
         self.run = 0
         self.finished = False
@@ -91,18 +100,23 @@ class Console(Screen):
         except:
             self.container.appClosed_conn = self.container.appClosed.connect(self.runFinished)
             self.container.dataAvail_conn = self.container.dataAvail.connect(self.dataAvail)
+
         self.onLayoutFinish.append(self.startRun)
 
     def updateTitle(self):
         self.setTitle(self.newtitle)
 
+    def doExec(self, cmd):
+        if isinstance(cmd, (list, tuple)):
+            return self.container.execute(cmd[0], *cmd[1:])
+        else:
+            return self.container.execute(cmd)
+
     def startRun(self):
         if self.showStartStopText:
             self['text'].setText(_('Execution progress\n\n'))
         print('[Console] executing in run', self.run, ' the command:', self.cmdlist[self.run])
-        print("[Console] Executing command:", self.cmdlist[self.run])  # Aggiungi questo print
-        if self.container.execute(self.cmdlist[self.run]):
-            self['text'].setText(self.cmdlist[self.run])
+        if self.doExec(self.cmdlist[self.run]):
             self.runFinished(-1)
 
     def runFinished(self, retval):
@@ -111,73 +125,134 @@ class Console(Screen):
             self.show()
         self.run += 1
         if self.run != len(self.cmdlist):
-            if self.container.execute(self.cmdlist[self.run]):
+            if self.doExec(self.cmdlist[self.run]):
                 self.runFinished(-1)
         else:
-            self.show()
             self.finished = True
-            # try:
-                # lastpage = self['text'].isAtLastPage()
-            # except:
-                # lastpage = self['text']
             if self.cancel_msg:
                 self.cancel_msg.close()
             if self.showStartStopText:
-                self['text'].appendText('Execution finished!!')
+                self['text'].appendText('\n' + _('Execution finished!!'))
             if self.finishedCallback is not None:
                 self.finishedCallback()
             if not self.errorOcurred and self.closeOnSuccess:
-                self.closeConsole()
+                self.cancel()
             else:
-                self['text'].appendText('\nPress OK or Exit to abort!')
+                self['text'].appendText('\n' + _('Press OK or Exit to abort!'))
                 self['key_red'].setText(_('Exit'))
                 self['key_green'].setText('')
 
-    def toggleHideShow(self):
-        if self.finished:
+    def key_up(self):
+        if self.screen_hide:
+            self.toggleScreenHide()
             return
-        if self.shown:
-            self.hide()
-        else:
-            self.show()
+        self["text"].pageUp()
 
-    def cancel(self):
+    def key_down(self):
+        if self.screen_hide:
+            self.toggleScreenHide()
+            return
+        self["text"].pageDown()
+
+    def key_green(self):
+        if self.screen_hide:
+            self.toggleScreenHide()
+            return
+        if self.output_file == 'end':
+            return
+        elif self.output_file.startswith('/tmp/'):
+            self["text"].setText(self.readFile(self.output_file))
+            self["key_green"].setText('')
+            self.output_file = 'end'
+        elif self.finished:
+            self.saveOutputText()
+        else:
+            self.toggleScreenHide()
+
+    def key_red(self):
+        if self.screen_hide:
+            self.toggleScreenHide()
+            return
         if self.finished:
-            self.closeConsole()
+            self.cancel()
         else:
-            self.cancel_msg = self.session.openWithCallback(self.cancelCallback, MessageBox, 'Cancel execution?', type=MessageBox.TYPE_YESNO, default=False)
+            self.cancel_msg = self.session.openWithCallback(
+                self.cancelCB,
+                MessageBox,
+                _('Cancel execution?'),
+                type=MessageBox.TYPE_YESNO,
+                default=False
+            )
 
-    def cancelCallback(self, ret=None):
+    def cancelCB(self, ret=None):
         self.cancel_msg = None
         if ret:
-            try:
-                self.container.appClosed.remove(self.runFinished)
-                self.container.dataAvail.remove(self.dataAvail)
-            except:
-                self.container.appClosed_conn = None
-                self.container.dataAvail_conn = None
-            self.container.kill()
-            self.close()
+            self.cancel(True)
 
-    def closeConsole(self):
-        if self.finished:
-            try:
-                self.container.appClosed.remove(self.runFinished)
-                self.container.dataAvail.remove(self.dataAvail)
-            except:
-                self.container.appClosed_conn = None
-                self.container.dataAvail_conn = None
-            self.close()
-        else:
+    def toggleScreenHide(self, setshow=False):
+        if self.screen_hide or setshow:
             self.show()
-
-    def dataAvail(self, str):
-        if PY3:
-            data = str.decode()
         else:
-            data = str
-        print("[Console] Data received: ", data)
-        self['text'].appendText(data)
+            self.hide()
+        self.screen_hide = not (self.screen_hide or setshow)
+
+    def saveOutputText(self):
+        lt = localtime(time())
+        self.output_file = '/tmp/%02d%02d%02d_console.txt' % (lt[3], lt[4], lt[5])
+        self.session.openWithCallback(
+            self.saveOutputTextCB,
+            MessageBox,
+            _("Save the output to a file?\n('%s')") % self.output_file,
+            type=MessageBox.TYPE_YESNO,
+            default=True
+        )
+
+    def saveOutputTextCB(self, ret=None):
+        if ret:
+            try:
+                text = self["text"].getText()
+                with open(self.output_file, 'w') as f:
+                    f.write(text)
+                self["key_green"].setText(_("Load"))
+            except Exception as e:
+                self.output_file = 'end'
+                self["key_green"].setText('')
+                self.session.open(
+                    MessageBox,
+                    _("Error saving: %s") % str(e),
+                    MessageBox.TYPE_ERROR
+                )
+        else:
+            self.output_file = ''
+
+    def readFile(self, filepath):
+        try:
+            with open(filepath, 'r') as f:
+                return f.read()
+        except Exception as e:
+            return _("Cannot read file: %s") % str(e)
+
+    def cancel(self, force=False):
+        if self.screen_hide:
+            self.toggleScreenHide()
+            return
+        if force or self.finished:
+            self.close()
+            try:
+                self.container.appClosed.remove(self.runFinished)
+                self.container.dataAvail.remove(self.dataAvail)
+            except:
+                pass
+            if not self.finished:
+                self.container.kill()
+
+    def dataAvail(self, data):
+        if PY3:
+            text = data.decode()
+        else:
+            text = data
+        print("[Console] Data received: ", text)
+        self['text'].appendText(text)
 
     def restartenigma(self):
         from Screens.Standby import TryQuitMainloop

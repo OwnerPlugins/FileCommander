@@ -1,54 +1,43 @@
-#!/usr/bin/env python
-# -*- coding: iso-8859-1 -*-
-
-# Components
+# -*- coding: utf-8 -*-
+# update 2026.06 Lululla
 from __future__ import print_function
 from Components.config import config
-from Components.Scanner import openFile
+# from Components.Scanner import openFile
 from Components.MovieList import AUDIO_EXTENSIONS, IMAGE_EXTENSIONS, MOVIE_EXTENSIONS, DVD_EXTENSIONS
 from Components.Task import Task, Job, job_manager, Condition
 from Components.Console import Console as console
 
-# Screens
-# commented out
-# from Screens.Console import Console
 from Screens.ChoiceBox import ChoiceBox
 from Screens.MessageBox import MessageBox
 
-# Tools
 from Tools.Directories import fileExists
 from Tools import Notifications
-# commented out
-# added
 from Plugins.Extensions.FileCommander.UnitConversions import UnitScaler, UnitMultipliers
 from Plugins.Extensions.FileCommander.Console import Console
 
-# Various
-from mimetypes import guess_type
+# from mimetypes import guess_type
 from enigma import eServiceReference, eActionMap
-try:
-    from sys import maxint
-except ImportError:
-    from sys import maxsize as maxint
+from sys import maxsize
 
-# System mods
 from time import strftime as time_strftime
 from time import localtime as time_localtime
 import stat
 import pwd
 import grp
-import re
+# import re
 import os
 
-# Addons
-from .unrar import RarMenuScreen
-from .tar import TarMenuScreen
-from .unzip import UnzipMenuScreen
-from .gz import GunzipMenuScreen
-from .ipk import ipkMenuScreen
+from Plugins.Extensions.FileCommander.archive_utils import extract_archive
+from Plugins.Extensions.FileCommander.TextViewer import TextViewer
+# from .unrar import RarMenuScreen
+# from .tar import TarMenuScreen
+# from .unzip import UnzipMenuScreen
+# from .gz import GunzipMenuScreen
+# from .ipk import ipkMenuScreen
 from .type_utils import ImageViewer, MoviePlayer, vEditor
+from .type_utils import show_image_with_fallback
 
-# for locale (gettext)
+
 from . import _, ngettext
 
 TEXT_EXTENSIONS = frozenset((".txt", ".log", ".py", ".xml", ".html", ".meta", ".bak", ".lst", ".cfg", ".conf", ".srt"))
@@ -56,8 +45,7 @@ TEXT_EXTENSIONS = frozenset((".txt", ".log", ".py", ".xml", ".html", ".meta", ".
 try:
     from Screens import DVD
     DVDPlayerAvailable = True
-except Exception as e:
-    print(e)
+except Exception:
     DVDPlayerAvailable = False
 
 ##################################
@@ -118,8 +106,7 @@ class stat_info:
         try:
             pwent = pwd.getpwuid(uid)
             return pwent.pw_name
-        except KeyError as ke:
-            print(ke)
+        except KeyError:
             return _("Unknown user: %d") % uid
 
     @staticmethod
@@ -127,8 +114,7 @@ class stat_info:
         try:
             grent = grp.getgrgid(gid)
             return grent.gr_name
-        except KeyError as ke:
-            print(ke)
+        except KeyError:
             return _("Unknown group: %d") % gid
 
     @staticmethod
@@ -189,7 +175,7 @@ class task_postconditions(Condition):
 
 
 def task_processStdout(data):
-    global task_Stout
+    # global task_Stout
     for line in data.split('\n'):
         if line:
             task_Stout.append(line)
@@ -198,7 +184,9 @@ def task_processStdout(data):
 
 
 def task_processSterr(data):
-    global task_Sterr
+    # global task_Sterr
+    if isinstance(data, bytes):
+        data = data.decode('utf-8', errors='replace')
     for line in data.split('\n'):
         if line:
             task_Sterr.append(line)
@@ -253,7 +241,6 @@ class key_actions(stat_info):
 
     def do_change_mod(self, answer):
         answer = answer and answer[1]
-        # sourceDir = dirsource.getCurrentDirectory() #self.SOURCELIST.getCurrentDirectory()
         if answer == "CHMOD644":
             os.system("chmod 644 " + self.longname)
         elif answer == "CHMOD755":
@@ -290,7 +277,7 @@ class key_actions(stat_info):
             pathname = sourceDir + filename
         try:
             st = os.lstat(os.path.normpath(pathname))
-        except:
+        except Exception:
             return ""
         info = ' '.join(self.SIZESCALER.scale(st.st_size)) + _("B") + "    "
         info += self.formatTime(st.st_mtime) + "    "
@@ -317,7 +304,7 @@ class key_actions(stat_info):
             pathname = sourceDir + filename
         try:
             st = os.lstat(os.path.normpath(pathname))
-        except:
+        except Exception:
             return ()
 
         dirname = filename if config.plugins.filecommander.dir_sizewalk.value and os.path.isdir(filename) else None
@@ -374,8 +361,10 @@ class key_actions(stat_info):
 
     @staticmethod
     def filterSettings():
-        return (config.plugins.filecommander.extension.value,
-                config.plugins.filecommander.my_extension.value)
+        return (
+            config.plugins.filecommander.extension.value,
+            config.plugins.filecommander.my_extension.value
+        )
 
     def run_script(self, dirsource, dirtarget):
         filename = dirsource.getFilename()
@@ -429,9 +418,12 @@ class key_actions(stat_info):
                         cmdline = "%s/bin/sh %s" % (priority, self.commando)
             else:
                 if 'PAR' in answer:
-                    cmdline = "%s/usr/bin/python %s '%s'" % (priority, self.commando, self.parameter)
+                    cmdline = "%s/usr/bin/python3 %s '%s'" % (priority, self.commando, self.parameter)
                 else:
-                    cmdline = "%s/usr/bin/python %s" % (priority, self.commando)
+                    cmdline = "%s/usr/bin/python3 %s" % (priority, self.commando)
+            # change cwd for script before run
+            script_dir = os.path.dirname(self.commando)
+            cmdline = "cd '%s'; %s" % (script_dir, cmdline)
         elif answer == "VIEW":
             try:
                 yfile = os.stat(self.commando)
@@ -484,7 +476,7 @@ class key_actions(stat_info):
                 self._opkgArgs = ("install", pkg)
                 self.session.openWithCallback(self.doOpkgCB, MessageBox, _("Program '%s' needs to be installed to run this action.\nInstall the '%s' package to install the program?") % (prog, pkg), type=MessageBox.TYPE_YESNO, default=True, simple=True)
             else:
-                self.session.open(MessageBox, _("Program '%s' not installed.\nThe package containing this program isn't known.") % (prog), type=MessageBox.TYPE_ERROR, close_on_any_key=True, simple=True)
+                self.session.open(MessageBox, _("Program '%s' not installed.\nThe package containing this program isn't known.") % prog, type=MessageBox.TYPE_ERROR, close_on_any_key=True, simple=True)
             return
 
         filename = self.SOURCELIST.getFilename()
@@ -560,7 +552,7 @@ class key_actions(stat_info):
                 self.session.openWithCallback(self.doOpkgCB, MessageBox, _("Program '%s' needs to be installed to run the '%s' action.\nUninstall the '%s' package to uninstall the program?") % (prog, prog, pkg), type=MessageBox.TYPE_YESNO, default=True, simple=True)
                 return True
             else:
-                self.session.open(MessageBox, _("Program '%s' is installed.\nThe package containing this program isn't known, so it can't be uninstalled.") % (prog), type=MessageBox.TYPE_ERROR, close_on_any_key=True, simple=True)
+                self.session.open(MessageBox, _("Program '%s' is installed.\nThe package containing this program isn't known, so it can't be uninstalled.") % prog, type=MessageBox.TYPE_ERROR, close_on_any_key=True, simple=True)
         return False
 
     def doOpkgCB(self, ans):
@@ -588,7 +580,7 @@ class key_actions(stat_info):
         if not config.plugins.filecommander.hashes.value:
             self.session.open(MessageBox, _("No hash calculations configured"), type=MessageBox.TYPE_ERROR, close_on_any_key=True, simple=True)
             return
-        progs = tuple((h, self.hashes[h]) for h in config.plugins.filecommander.hashes.value if h in self.hashes and self.have_program(self.hashes[h]))
+        progs = tuple((h, self.hashes[h]) for h in list(config.plugins.filecommander.hashes.value.split(' ')) if h in self.hashes and self.have_program(self.hashes[h]))
         if not progs:
             self.session.open(MessageBox, _("None of the hash programs for the hashes %s are available") % ''.join(config.plugins.filecommander.hashes.value), type=MessageBox.TYPE_ERROR, close_on_any_key=True, simple=True)
             return
@@ -638,21 +630,21 @@ class key_actions(stat_info):
         filename = self.sourceDir.getFilename()
         fileList = self.sourceDir.getFileList()
         for x in fileList:
-            l = len(x)
             if x[0][0] is not None:
                 testFileName = x[0][0].lower()
                 _, filetype = os.path.splitext(testFileName)
             else:
                 testFileName = x[0][0]  # "empty"
                 filetype = None
-            if l == 3 or l == 2:
+            length = len(x)
+            if length in (2, 3):
                 if not x[0][1]:
                     if filetype in AUDIO_EXTENSIONS:
                         if filename == x[0][0]:
                             start_song = i
                         i += 1
                         mp.playlist.addFile(eServiceReference(4097, 0, path + x[0][0]))
-            elif l >= 5:
+            elif length >= 5:
                 testFileName = x[4].lower()
                 _, filetype = os.path.splitext(testFileName)
                 if filetype in AUDIO_EXTENSIONS:
@@ -675,29 +667,54 @@ class key_actions(stat_info):
             self.SOURCELIST.moveToIndex(idx)
 
     def onFileAction(self, dirsource, dirtarget):
+        print("[DEBUG] ===== onFileAction START =====")
+
         filename = dirsource.getFilename()
         self.SOURCELIST = dirsource
         self.TARGETLIST = dirtarget
         sourceDir = dirsource.getCurrentDirectory()
+
+        print("[DEBUG] onFileAction - filename:", repr(filename))
+        print("[DEBUG] onFileAction - sourceDir:", repr(sourceDir))
+
+        if sourceDir is None:
+            print("[DEBUG] onFileAction - sourceDir is None, RETURNING")
+            return
+
         if not sourceDir.endswith("/"):
             sourceDir = sourceDir + "/"
+
+        if filename is None:
+            print("[DEBUG] onFileAction - filename is None, RETURNING")
+            return
+
+        if filename.startswith("<") and filename.endswith(">"):
+            print("[DEBUG] onFileAction - special element, RETURNING")
+            return
+
         testFileName = filename.lower()
         filetype = os.path.splitext(testFileName)[1]
         longname = sourceDir + filename
+
+        print("[DEBUG] onFileAction - longname:", repr(longname))
+        print("[DEBUG] onFileAction - filetype:", repr(filetype))
+
+        if not fileExists(longname):
+            print("[DEBUG] onFileAction - file NOT FOUND")
+            self.session.open(MessageBox, _("File not found: %s") % longname, type=MessageBox.TYPE_ERROR, simple=True)
+            return
+
+        print("[DEBUG] onFileAction - file EXISTS, processing...")
+
         print("[Filebrowser]:", filename, sourceDir, testFileName)
         if not fileExists(longname):
             self.session.open(MessageBox, _("File not found: %s") % longname, type=MessageBox.TYPE_ERROR, simple=True)
             return
-        if filetype == ".ipk":
-            self.session.openWithCallback(self.onFileActionCB, ipkMenuScreen, self.SOURCELIST, self.TARGETLIST)
-        elif filetype == ".ts":
-            # commented out
-            # fileRef = eServiceReference(eServiceReference.idDVB, eServiceReference.noFlags, longname)
+
+        if filetype == ".ts":
             fileRef = eServiceReference("1:0:0:0:0:0:0:0:0:0:" + longname.replace(':', '%3a'))
             self.session.open(MoviePlayer, fileRef)
         elif filetype in MOVIE_EXTENSIONS:
-            # commented out
-            # fileRef = eServiceReference(eServiceReference.idServiceMP3, eServiceReference.noFlags, longname)
             fileRef = eServiceReference("4097:0:0:0:0:0:0:0:0:0:" + longname.replace(':', '%3a'))
             self.session.open(MoviePlayer, fileRef)
         elif filetype in DVD_EXTENSIONS:
@@ -705,26 +722,19 @@ class key_actions(stat_info):
                 self.session.open(DVD.DVDPlayer, dvd_filelist=[longname])
         elif filetype in AUDIO_EXTENSIONS:
             self.play_music(self.SOURCELIST)
-        elif filetype == ".rar" or re.search(r'\.r\d+$', filetype):
-            self.session.openWithCallback(self.onFileActionCB, RarMenuScreen, self.SOURCELIST, self.TARGETLIST)
-        elif testFileName.endswith(".tar.gz") or filetype in (".tgz", ".tar"):
-            self.session.openWithCallback(self.onFileActionCB, TarMenuScreen, self.SOURCELIST, self.TARGETLIST)
-        elif filetype == ".gz":  # Must follow test for .tar.gz
-            self.session.openWithCallback(self.onFileActionCB, GunzipMenuScreen, self.SOURCELIST, self.TARGETLIST)
-        elif filetype == ".zip":
-            self.session.openWithCallback(self.onFileActionCB, UnzipMenuScreen, self.SOURCELIST, self.TARGETLIST)
+
+        elif filetype in (".ipk", ".zip", ".rar", ".tar", ".tgz", ".gz"):
+            target_dir = self.TARGETLIST.getCurrentDirectory() or os.path.dirname(longname)
+            if filetype == ".gz" and testFileName.endswith(".tar.gz"):
+                pass
+            extract_archive(longname, target_dir, self.session)
+            self.onFileActionCB(True)
+
         elif filetype in IMAGE_EXTENSIONS:
             if self.SOURCELIST.getSelectionIndex() != 0:
-                self.session.openWithCallback(
-                    self.cbShowPicture,
-                    ImageViewer,
-                    self.SOURCELIST.getFileList(),
-                    self.SOURCELIST.getSelectionIndex(),
-                    self.SOURCELIST.getCurrentDirectory(),
-                    filename
-                )
-        elif filetype in (".sh", ".py", ".pyo"):
-            self.run_script(self.SOURCELIST, self.TARGETLIST)
+                show_image_with_fallback(self.session, longname)
+                self.onFileActionCB(True)
+
         elif filetype == ".mvi":
             self.file_name = longname
             self.tmp_file = '/tmp/grab_%s_mvi.png' % filename[:-4]
@@ -736,6 +746,10 @@ class key_actions(stat_info):
                 choice.append((_("Show as Picture and save as file ('%s')") % self.tmp_file, "save"))
                 savetext = _(" or save the picture additionally to a file")
             self.session.openWithCallback(self.mviFileCB, MessageBox, _("Show '%s' as picture%s?\nThe current service must be interrupted!") % (longname, savetext), simple=True, list=choice)
+
+        elif filetype in (".sh", ".py", ".pyo"):
+            self.run_script(self.SOURCELIST, self.TARGETLIST)
+
         elif filetype in TEXT_EXTENSIONS or config.plugins.filecommander.unknown_extension_as_text.value:
             try:
                 xfile = os.stat(longname)
@@ -743,26 +757,64 @@ class key_actions(stat_info):
                 self.session.open(MessageBox, _("%s: %s") % (longname, oe.strerror), type=MessageBox.TYPE_ERROR, simple=True)
                 return
             if (xfile.st_size < 1000000):
-                self.session.open(vEditor, longname)
+                self.session.open(TextViewer, longname)
                 self.onFileActionCB(True)
+            else:
+                self.session.open(MessageBox, _("File too large to open as text (max 1MB)."), type=MessageBox.TYPE_ERROR)
+
         else:
+            from Components.Scanner import openFile
+            from mimetypes import guess_type
             try:
-                found_viewer = openFile(self.session, guess_type(longname)[0], longname)
-            except TypeError as e:
-                print(e)
-                found_viewer = False
-            if not found_viewer:
-                self.session.open(MessageBox, _("No viewer installed for this file type: %s") % filename, type=MessageBox.TYPE_ERROR, timeout=5, close_on_any_key=True, simple=True)
+                if openFile(self.session, guess_type(longname)[0], longname):
+                    self.onFileActionCB(True)
+                    return
+            except:
+                pass
+            self.session.openWithCallback(
+                self.openUnknownAsText,
+                MessageBox,
+                _("No specific viewer for '%s'. Open as text?") % filename,
+                type=MessageBox.TYPE_YESNO
+            )
+            self._unknown_file = longname
+
+    def openUnknownAsText(self, answer):
+        if answer:
+            if os.path.getsize(self._unknown_file) < 1000000:
+                self.session.open(TextViewer, self._unknown_file)
+                self.onFileActionCB(True)
+            else:
+                self.session.open(MessageBox, _("File too large to open as text."), type=MessageBox.TYPE_ERROR)
+
+    def showCB(self, key=None, flag=1):
+        # global last_service
+        self.show()
+        self.session.nav.playService(last_service)
+        from enigma import eActionMap
+        eActionMap.getInstance().unbindAction('', self.showCB)
+
+    def show_image(self, filepath):
+        from enigma import eActionMap
+        from sys import maxsize
+        global last_service
+        last_service = self.session.nav.getCurrentlyPlayingServiceReference()
+        self.session.nav.stopService()
+        self.hide()
+        cmd = "/usr/bin/showiframe '%s'" % filepath
+        eActionMap.getInstance().bindAction('', -maxsize - 1, self.showCB)
+        from Components.Console import Console
+        Console().ePopen(cmd)
 
     def mviFileCB(self, ret=None):
-        global last_service
         if ret and ret != 'no':
+            global last_service
             last_service = self.session.nav.getCurrentlyPlayingServiceReference()
             cmd = "/usr/bin/showiframe '%s'" % self.file_name
             self.session.nav.stopService()
             self.hide()
         if ret == 'show':
-            eActionMap.getInstance().bindAction('', -maxint - 1, self.showCB)
+            eActionMap.getInstance().bindAction('', -maxsize - 1, self.showCB)
             console().ePopen(cmd)
         elif ret == 'save':
             if os.path.isfile(self.tmp_file):
@@ -770,12 +822,6 @@ class key_actions(stat_info):
             cmd = [cmd, "/usr/bin/grab -v -p %s" % self.tmp_file]
             console().eBatch(cmd, self.saveCB)
             self.disableActions_Timer.startLongTimer(10)
-
-    def showCB(self, key=None, flag=1):
-        self.show()
-        self.session.nav.playService(last_service)
-        eActionMap.getInstance().unbindAction('', self.showCB)
-        self.disableActions_Timer.start(100, True)
 
     def saveCB(self, extra_args):
         global last_service

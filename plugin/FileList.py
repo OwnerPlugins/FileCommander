@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+# update 2026.06 Lululla
 import os
 import re
 from Components.FileList import FileList as FileListBase, EXTENSIONS as BASE_EXTENSIONS
@@ -8,20 +10,16 @@ from Tools.Directories import fileExists, resolveFilename, SCOPE_PLUGINS, SCOPE_
 
 from enigma import (
     RT_HALIGN_LEFT,
-    RT_VALIGN_CENTER,
     BT_SCALE,
     eListboxPythonMultiContent,
     eServiceReference,
     eServiceCenter,
-    # gFont,
-    # iServiceInformation,
 )
 
 from Tools.LoadPixmap import LoadPixmap
 from .addons.key_actions import TEXT_EXTENSIONS
 import skin
 
-# for locale (gettext)
 from . import _
 
 LOCAL_EXTENSIONS = {
@@ -40,6 +38,28 @@ LOCAL_EXTENSIONS = {
     "rar": "rar",
     "mvi": "picture",
 }
+
+# In FileList.py, dopo LOCAL_EXTENSIONS
+LOCAL_EXTENSIONS.update({
+    "log": "txt",
+    "cfg": "txt",
+    "xml": "txt",
+    "html": "html",
+    "jpg": "picture",
+    "jpeg": "picture",
+    "png": "picture",
+    "gif": "picture",
+    "bmp": "picture",
+    "mp3": "music",
+    "mp4": "movie",
+    "mkv": "movie",
+    "avi": "movie",
+    "zip": "zip",
+    "rar": "rar",
+    "tar": "tar",
+    "gz": "gz",
+    "ipk": "ipk",
+})
 
 LOCAL_EXTENSIONS.update(((ext[1:], "txt") for ext in TEXT_EXTENSIONS if ext[1:] not in LOCAL_EXTENSIONS))
 
@@ -68,8 +88,8 @@ def getPNGByExt(name):
 
 def FileEntryComponent(name, absolute=None, isDir=False, isLink=False):
     res = [(absolute, isDir, isLink)]
-    x, y, w, h = skin.parameters.get("FcFileListName", (65, 0, 1175, 40))
-    res.append((eListboxPythonMultiContent.TYPE_TEXT, x, y, w, h, 0, RT_HALIGN_LEFT | RT_VALIGN_CENTER, name))
+    x, y, w, h = skin.parameters.get("FcFileListName", (55, 1, 1175, 25))
+    res.append((eListboxPythonMultiContent.TYPE_TEXT, x, y, w, h, 0, RT_HALIGN_LEFT, name))
     if isLink:
         link_png = LoadPixmap(path=os.path.join(imagePath, "link-arrow.png"))
     else:
@@ -82,7 +102,7 @@ def FileEntryComponent(name, absolute=None, isDir=False, isLink=False):
     else:
         png = getPNGByExt(name)
     if png is not None:
-        x, y, w, h = skin.parameters.get("FcFileListIcon", (10, 0, 35, 35))
+        x, y, w, h = skin.parameters.get("FcFileListIcon", (10, 4, 20, 20))
         res.append((eListboxPythonMultiContent.TYPE_PIXMAP_ALPHABLEND, x, y, w, h, png, None, None, BT_SCALE))
         if link_png is not None:
             res.append((eListboxPythonMultiContent.TYPE_PIXMAP_ALPHABLEND, x, y, w, h, link_png, None, None, BT_SCALE))
@@ -113,8 +133,8 @@ class FileList(FileListBase):
         self.sortDirs = sortDirs
         self.sortFiles = sortFiles
         self.firstDirs = firstDirs
-        # added
         self.isTop = isTop
+        self.current_mountpoint = None
 
         FileListBase.__init__(self, directory, showDirectories=showDirectories, showFiles=showFiles, showMountpoints=showMountpoints, matchingPattern=matchingPattern, useServiceRef=useServiceRef, inhibitDirs=inhibitDirs, inhibitMounts=inhibitMounts, isTop=isTop, enableWrapAround=enableWrapAround, additionalExtensions=additionalExtensions)
 
@@ -137,17 +157,15 @@ class FileList(FileListBase):
         self.list = []
 
         # if we are just entering from the list of mount points:
-        if self.current_directory is None:
-            if directory and self.showMountpoints:
-                self.current_mountpoint = self.getMountpointLink(directory)
-            else:
-                self.current_mountpoint = None
-        self.current_directory = directory
-        self.parent_directory = False
+        if directory is None:
+            self.__dict__['current_directory'] = None   # bypassa il setter problematico
+        else:
+            self.current_directory = directory
         directories = []
         files = []
+        self.parent_directory = False
 
-        if directory is None and self.showMountpoints:  # present available mountpoints
+        if directory is None and self.showMountPoints:  # present available mountpoints
             for p in harddiskmanager.getMountedPartitions():
                 path = os.path.join(p.mountpoint, "")
                 if path not in self.inhibitMounts and not self.inParentDirs(path, self.inhibitDirs):
@@ -181,7 +199,7 @@ class FileList(FileListBase):
             if fileExists(directory):
                 try:
                     files = os.listdir(directory)
-                except:
+                except Exception:
                     files = []
                 # files.sort()
                 tmpfiles = files[:]
@@ -194,7 +212,7 @@ class FileList(FileListBase):
         files = getSortedList(files, self.sortFiles, directory or '')
 
         if directory is not None and self.showDirectories and not self.isTop:
-            if directory == self.current_mountpoint and self.showMountpoints:
+            if directory == self.current_mountpoint and self.showMountPoints:
                 self.list.append(FileEntryComponent(name="<%s>" % _("List of Storage Devices"), absolute=None, isDir=True, isLink=False))
                 self.parent_directory = None
             elif (directory != "/") and not (self.inhibitMounts and self.getMountpoint(directory) in self.inhibitMounts):
@@ -240,14 +258,13 @@ class FileList(FileListBase):
                         testname = x[:-1]
                         self.list.append(FileEntryComponent(name=name, absolute=x, isDir=True, isLink=os.path.islink(testname)))
 
-        if self.showMountpoints and len(self.list) == 0:
+        if self.showMountPoints and len(self.list) == 0:
             self.list.append(FileEntryComponent(name=_("nothing connected"), absolute=None, isDir=False, isLink=False))
 
         self.l.setList(self.list)
 
         if select is not None:
             i = 0
-            # self.moveToIndex(0)
             for x in self.list:
                 p = x[0][0]
 
@@ -268,8 +285,8 @@ class FileList(FileListBase):
 
 def MultiFileSelectEntryComponent(name, absolute=None, isDir=False, isLink=False, selected=False):
     res = [(absolute, isDir, isLink, selected, name)]
-    x, y, w, h = skin.parameters.get("FcFileListMultiName", (65, 0, 1175, 40))
-    res.append((eListboxPythonMultiContent.TYPE_TEXT, x, y, w, h, 0, RT_HALIGN_LEFT | RT_VALIGN_CENTER, name))
+    x, y, w, h = skin.parameters.get("FcFileListMultiName", (55, 1, 1175, 25))
+    res.append((eListboxPythonMultiContent.TYPE_TEXT, x, y, w, h, 0, RT_HALIGN_LEFT, name))
 
     if isLink:
         link_png = LoadPixmap(path=os.path.join(imagePath, "link-arrow.png"))
@@ -283,13 +300,13 @@ def MultiFileSelectEntryComponent(name, absolute=None, isDir=False, isLink=False
     else:
         png = getPNGByExt(name)
     if png is not None:
-        x, y, w, h = skin.parameters.get("FcFileListMultiIcon", (35, 2, 35, 35))
+        x, y, w, h = skin.parameters.get("FcFileListMultiIcon", (30, 4, 20, 20))
         res.append((eListboxPythonMultiContent.TYPE_PIXMAP_ALPHABLEND, x, y, w, h, png, None, None, BT_SCALE))
         if link_png is not None:
             res.append((eListboxPythonMultiContent.TYPE_PIXMAP_ALPHABLEND, x, y, w, h, link_png, None, None, BT_SCALE))
 
     if not name.startswith('<'):
-        x, y, w, h = skin.parameters.get("FcFileListMultiLock", (4, 2, 35, 35))
+        x, y, w, h = skin.parameters.get("FcFileListMultiLock", (4, 0, 25, 25))
         if selected is False:
             icon = LoadPixmap(path=os.path.join(imagePath, "lock_off.png"))
             if not icon:
@@ -406,16 +423,14 @@ class MultiFileSelectList(FileList):
         self.list = []
 
         # if we are just entering from the list of mount points:
-        if self.current_directory is None:
-            if directory and self.showMountpoints:
-                self.current_mountpoint = self.getMountpointLink(directory)
-            else:
-                self.current_mountpoint = None
-        self.current_directory = directory
+        if directory is None:
+            self.__dict__['current_directory'] = None   # bypassa il setter problematico
+        else:
+            self.current_directory = directory
         directories = []
         files = []
 
-        if directory is None and self.showMountpoints:  # present available mountpoints
+        if directory is None and self.showMountPoints:  # present available mountpoints
             for p in harddiskmanager.getMountedPartitions():
                 path = os.path.join(p.mountpoint, "")
                 if path not in self.inhibitMounts and not self.inParentDirs(path, self.inhibitDirs):
@@ -450,7 +465,7 @@ class MultiFileSelectList(FileList):
             if fileExists(directory):
                 try:
                     files = os.listdir(directory)
-                except:
+                except Exception:
                     files = []
                 # files.sort()
                 tmpfiles = files[:]
@@ -463,7 +478,7 @@ class MultiFileSelectList(FileList):
         files = getSortedList(files, self.sortFiles, directory or '')
 
         if directory is not None and self.showDirectories and not self.isTop:
-            if directory == self.current_mountpoint and self.showMountpoints or directory == "/":
+            if directory == self.current_mountpoint and self.showMountPoints or directory == "/":
                 self.list.append(MultiFileSelectEntryComponent(name="<%s>" % _("List of Storage Devices"), absolute=None, isDir=True))
                 self.parent_directory = None
             elif (directory != "/") and not (self.inhibitMounts and self.getMountpoint(directory) in self.inhibitMounts):
@@ -518,7 +533,6 @@ class MultiFileSelectList(FileList):
 
         if select is not None:
             i = 0
-            # self.moveToIndex(0)
             for x in self.list:
                 p = x[0][0]
 

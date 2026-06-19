@@ -1,32 +1,28 @@
-#!/usr/bin/env python
-# -*- coding: iso-8859-1 -*-
-
-# Components
+# -*- coding: utf-8 -*-
+# update 2026.06 Lululla
 from __future__ import print_function
-from Components.config import config
+from Components.config import config, getConfigListEntry
 from Components.Label import Label
-from Components.ActionMap import HelpableActionMap
+from Components.ActionMap import ActionMap, HelpableActionMap
 from Components.MenuList import MenuList
 from Components.AVSwitch import AVSwitch
 from Components.Pixmap import Pixmap
 from Components.Sources.StaticText import StaticText
+from Components.ConfigList import ConfigListScreen
 
-# Screens
 from Screens.Screen import Screen
 from Screens.MessageBox import MessageBox
 from Screens.HelpMenu import HelpableScreen
 from Screens.InfoBar import MoviePlayer as Movie_Audio_Player
+from Screens.ChoiceBox import ChoiceBox
+from Screens.VirtualKeyBoard import VirtualKeyBoard
 
-# Tools
 from Tools.Directories import fileExists
 
-# Various
 from Plugins.Extensions.FileCommander.InputBox import InputBoxWide
 from enigma import eTimer, ePicLoad, getDesktop
-# from Tools.TextBoundary import getTextBoundarySize
-# import skin
 import os
-# for locale (gettext)
+
 from . import _
 
 pname = _("File Commander - Addon Mediaplayer")
@@ -68,7 +64,6 @@ class MoviePlayer(Movie_Audio_Player):
         if not (self.WithoutStopClose):
             self.session.nav.playService(self.lastservice)
 
-# ### File viewer/line editor ###
 
 
 class vEditor(Screen, HelpableScreen):
@@ -99,7 +94,7 @@ class vEditor(Screen, HelpableScreen):
         self.file_name = file
         self.list = []
         self["filedata"] = MenuList(self.list)
-        self["actions"] = HelpableActionMap(self, ["WizardActions", "ColorActions", "InfobarChannelSelection"], {
+        self["actions"] = HelpableActionMap(self, ["WizardActions", "ColorActions", "InfobarChannelSelection", "InfobarMenuActions"], {
             "ok": (self.editLine, _("Edit current line")),
             "green": (self.editLine, _("Edit current line")),
             "back": (self.exitEditor, _("Exit editor and write changes (if any)")),
@@ -108,6 +103,9 @@ class vEditor(Screen, HelpableScreen):
             "blue": (self.ins_Line, _("Insert line before current line")),
             "keyChannelUp": (self.posStart, _("Go to start of file")),
             "keyChannelDown": (self.posEnd, _("Go to end of file")),
+            "mainMenu": (self.menu, _("Menu...")),
+            "historyBack": (self.prevFound, _("To previous found text")),
+            "historyNext": (self.nextFound, _("To next found text"))
         }, -1)
         self["list_head"] = Label(self.file_name)
         self["key_red"] = StaticText(_("Exit"))
@@ -119,13 +117,38 @@ class vEditor(Screen, HelpableScreen):
         # it is used for get true length (in chars) for InputBoxWide
         # because InputBoxWide is opened later
         self["InputBoxWide_input"] = Label()
-
         self.selLine = None
         self.oldLine = None
         self.isChanged = False
         self.skinName = "vEditorScreen"
         self.GetFileData(file)
         self.setTitle(pname)
+
+        self.foundIndexes = []
+        self.idx = 0
+        self.searchText = ""
+        self["h_prev"] = Pixmap()
+        self["h_next"] = Pixmap()
+        self["h_prev"].hide()
+        self["h_next"].hide()
+
+    def menu(self):
+        menu = []
+        menu.append((_("Search text"), self.search, _("Search text in file (%s).") % (_("case sensitive") if config.plugins.filecommander.veditor_case_sensitive.value else _("case insensitive"))))
+        keys = ["7"]
+        menu.append((_("Settings..."), 100))
+        keys += ["menu"]
+        self.session.openWithCallback(self.menuCallback, ChoiceBox, title=_("Select action:"), list=menu, keys=keys)
+
+    def menuCallback(self, choice):
+        if choice is None:
+            return
+        if choice[1] == 100:
+            def callMenu(answer):
+                self.menu()
+            self.session.openWithCallback(callMenu, SetupEditor)
+        else:
+            choice[1]()
 
     def exitEditor(self):
         if self.isChanged:
@@ -147,7 +170,7 @@ class vEditor(Screen, HelpableScreen):
                 lineNo += 1
             flines.close()
             self["list_head"] = Label(fx)
-        except:
+        except Exception:
             pass
 
     def editLine(self):
@@ -181,27 +204,27 @@ class vEditor(Screen, HelpableScreen):
 
                     if sw > w:
                         if end:  # editation from end
-                            l = len(text)
+                            txt_len = len(text)
                             for i, idx in enumerate(text):
-                                x = text[l - i:]
+                                x = text[txt_len - i:]
                                 print(x)
                                 if getStringSize(x, label) >= w:
                                     return i
                             return i
-                        else:   # standard editation
+                        else:  # standard editation
                             for i, idx in enumerate(text):
                                 x = text[:i]
                                 if getStringSize(x, label) >= w:
                                     return i
                             return i
-                    return w / getStringSize("0", label)  # approximate number of characters in label
-                except:
+                    return w // getStringSize("0", label)  # approximate number of characters in label
+                except Exception:
                     return 100  # default value, if missing label "InputBoxWide_input" in vEditor skin
 
             length = getMaxPosition(editableText, self["InputBoxWide_input"], end=firstpos_end) - 1
 
             self.session.openWithCallback(self.callbackEditLine, InputBoxWide, title="%s %s" % (_("Original:"), editableText), visible_width=length, overwrite=False, firstpos_end=firstpos_end, allmarked=False, windowTitle=_("Edit line ") + str(self.selLine + 1), text=editableText)
-        except:
+        except Exception:
             msg = self.session.open(MessageBox, _("This line is not editable!"), MessageBox.TYPE_ERROR)
             msg.setTitle(_("Error..."))
 
@@ -267,11 +290,100 @@ class vEditor(Screen, HelpableScreen):
                     my_x = x.partition(": ")[2]
                     eFile.writelines(my_x)
                 eFile.close()
-            except:
+            except Exception:
                 pass
             self.close()
         else:
             self.close()
+
+    def search(self):
+        self.foundIndexes = []
+        self["h_prev"].hide()
+        self["h_next"].hide()
+
+        def search(text):
+            if text:
+                self.searchText = text
+                if config.plugins.filecommander.veditor_case_sensitive.value:
+                    for i, x in enumerate(self.list):
+                        if x.find(text) != -1:
+                            self.foundIndexes.append(i)
+                else:
+                    for i, x in enumerate(self.list):
+                        if x.lower().find(text.lower()) != -1:
+                            self.foundIndexes.append(i)
+                if len(self.foundIndexes):
+                    self["filedata"].moveToIndex(self.foundIndexes[0])
+                    if len(self.foundIndexes) > 1:
+                        self["h_prev"].show()
+                        self["h_next"].show()
+                else:
+                    self.session.open(MessageBox, _("Text not found."), MessageBox.TYPE_INFO, timeout=3)
+                    self["h_prev"].hide()
+                    self["h_next"].hide()
+        self.session.openWithCallback(search, VirtualKeyBoard, title=_("Search text (%s):") % (_("case sensitive") if config.plugins.filecommander.veditor_case_sensitive.value else _("case insensitive")), text=self.searchText, visible_width=45)
+
+    def prevFound(self):
+        n = len(self.foundIndexes)
+        if n:
+            self.idx -= 1
+            self.idx %= n
+            self["filedata"].moveToIndex(self.foundIndexes[self.idx])
+
+    def nextFound(self):
+        n = len(self.foundIndexes)
+        if n:
+            self.idx += 1
+            self.idx %= n
+            self["filedata"].moveToIndex(self.foundIndexes[self.idx])
+
+
+class SetupEditor(ConfigListScreen, Screen):
+    def __init__(self, session):
+        self.session = session
+        Screen.__init__(self, session)
+        self.skinName = ["FileCommanderSetup", "Setup"]
+        self["description"] = Label()
+
+        self.list = []
+        self.list.append(getConfigListEntry(_("Case sensitive search"), config.plugins.filecommander.veditor_case_sensitive, _("Text searching as case sensitive or case insensitive.")))
+
+        ConfigListScreen.__init__(self, self.list, session=session, on_change=self.changedEntry)
+
+        self["key_red"] = StaticText(_("Cancel"))
+        self["key_green"] = StaticText(_("OK"))
+        self["Actions"] = ActionMap(
+            ["ColorActions", "SetupActions"],
+            {
+                "green": self.save,
+                "red": self.cancel,
+                "save": self.save,
+                "cancel": self.cancel,
+                "ok": self.save,
+            }, -2
+        )
+        self.onLayoutFinish.append(self.onLayout)
+
+    def onLayout(self):
+        self.setTitle(_("File Commander - Addon File-Viewer Settings"))
+
+    def getCurrentEntry(self):
+        x = self["config"].getCurrent()
+        if x:
+            text = x[2] if len(x) == 3 else ""
+            self["description"].setText(text)
+
+    def save(self):
+        print("[FileCommander]: Settings vEditor saved")
+        for x in self["config"].list:
+            x[1].save()
+        self.close(True)
+
+    def cancel(self):
+        print("[FileCommander]: Settings vEditor canceled")
+        for x in self["config"].list:
+            x[1].cancel()
+        self.close(False)
 
 
 class ImageViewer(Screen, HelpableScreen):
@@ -329,8 +441,8 @@ class ImageViewer(Screen, HelpableScreen):
         # Ensure that Plugins.Extensions.PicturePlayer exists and
         # that the config.pic config variables have been initialised.
         try:
-            import Plugins.Extensions.PicturePlayer.ui
-        except:
+            import Plugins.Extensions.PicturePlayer.ui  # noqa: F401
+        except Exception:
             self.session.open(MessageBox, _("The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."), MessageBox.TYPE_ERROR)
             self.close()
             return
@@ -391,12 +503,12 @@ class ImageViewer(Screen, HelpableScreen):
         i = 0
         start_pic = -1
         for x in fileList:
-            l = len(fileList[0])
+            list_len = len(fileList[0])
             if x[0][0] is not None:
                 testfilename = x[0][0].lower()
             else:
                 testfilename = x[0][0]  # "empty"
-            if l == 3 or l == 2:
+            if list_len in (2, 3):
                 if not x[0][1] and ((testfilename.endswith(".jpg")) or (testfilename.endswith(".jpeg")) or (testfilename.endswith(".jpe")) or (testfilename.endswith(".png")) or (testfilename.endswith(".bmp"))):
                     if self.filename == x[0][0]:
                         start_pic = i
@@ -439,7 +551,7 @@ class ImageViewer(Screen, HelpableScreen):
             try:
                 text = picInfo.split('\n', 1)
                 text = "(" + str(self.currentIndex + 1) + "/" + str(self.fileListLen + 1) + ") " + text[0].split('/')[-1]
-            except:
+            except Exception:
                 pass
             self.currentImage = []
             self.currentImage.append(text)
@@ -459,3 +571,69 @@ class ImageViewer(Screen, HelpableScreen):
             self.PlayPause()
         self.displayNow = True
         self.showPicture()
+
+
+def show_image_with_fallback(session, filepath):
+    """
+    Display an image using ePicLoad (native Enigma2 method) with a proper skin.
+    """
+    from enigma import ePicLoad
+    from Screens.Screen import Screen
+    from Components.Pixmap import Pixmap
+    from Components.AVSwitch import AVSwitch
+    from Components.ActionMap import ActionMap
+
+    # Define a minimal skin for the ImageViewerScreen
+    class ImageViewerScreen(Screen):
+        skin = """
+            <screen position="center,center" size="800,600" title="Image Viewer" flags="wfNoBorder">
+                <widget name="image" position="0,0" size="800,600" zPosition="1" alphatest="on" />
+            </screen>
+        """
+
+        def __init__(self, session, filepath):
+            Screen.__init__(self, session)
+            self.filepath = filepath
+            
+            # Create the image widget
+            self["image"] = Pixmap()
+            
+            # Setup ePicLoad
+            self.pictureLoad = ePicLoad()
+            self.pictureLoad.PictureData.get().append(self.finishDecode)
+            
+            # Set picture parameters to fill the screen (800x600)
+            sc = AVSwitch().getFramebufferScale()
+            self.pictureLoad.setPara([
+                800, 600,  # width, height
+                sc[0], sc[1],
+                0,
+                1,  # resize to fit
+                '#00000000'
+            ])
+            
+            # Actions to close the screen
+            self["actions"] = ActionMap(["OkCancelActions", "DirectionActions"], {
+                "cancel": self.close,
+                "ok": self.close,
+                "up": self.close,
+                "down": self.close,
+                "left": self.close,
+                "right": self.close,
+            }, -1)
+            
+            self.onLayoutFinish.append(self.startDecode)
+            
+        def startDecode(self):
+            self.pictureLoad.startDecode(self.filepath)
+            
+        def finishDecode(self, picInfo=""):
+            ptr = self.pictureLoad.getData()
+            if ptr is not None:
+                self["image"].instance.setPixmap(ptr.__deref__())
+            else:
+                self.close()
+
+    # Open the screen
+    session.open(ImageViewerScreen, filepath)
+    return True

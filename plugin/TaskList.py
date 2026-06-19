@@ -1,17 +1,14 @@
 # -*- coding: utf-8 -*-
-# taken from mytube plugin
+# update 2026.06 Lululla
 
 from __future__ import print_function
 from enigma import eTimer
 from Screens.Screen import Screen
 from Components.ActionMap import ActionMap
-
 from Components.Sources.List import List
 from Components.Sources.StaticText import StaticText
-from Components.MultiContent import MultiContentEntryText
 from Components.Task import job_manager
 
-# for locale (gettext)
 from . import _
 
 
@@ -41,11 +38,14 @@ class TaskListScreen(Screen):
         self.tasklist = tasklist
         self["tasklist"] = List(self.tasklist)
 
-        self["shortcuts"] = ActionMap(["ShortcutActions", "WizardActions", "MediaPlayerActions"],
-                                      {"ok": self.keyOK,
-                                       "back": self.keyCancel,
-                                       "red": self.keyCancel}, -1)
-
+        self["shortcuts"] = ActionMap(
+            ["ShortcutActions", "WizardActions", "MediaPlayerActions"],
+            {
+                "ok": self.keyOK,
+                "back": self.keyCancel,
+                "red": self.keyCancel
+            }, -1
+        )
         self["key_red"] = StaticText(_("Close"))
 
         self.onLayoutFinish.append(self.layoutFinished)

@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: iso-8859-1 -*-
+# -*- coding: utf-8 -*-
 
 from __future__ import print_function
 from Components.config import config
@@ -8,7 +7,6 @@ from Plugins.Extensions.FileCommander.addons.unarchiver import ArchiverMenuScree
 import skin
 # added
 # System mod
-# from .Console import Console
 
 # for locale (gettext)
 from . import _

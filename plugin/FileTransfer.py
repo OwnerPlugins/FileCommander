@@ -1,18 +1,13 @@
 # -*- coding: utf-8 -*-
+# update 2026.06 Lululla
 
-from Components.Task import Task, Job, job_manager, AbortedPostcondition, ReturncodePostcondition
-# commented out
-# from Tools.Directories import fileExists, shellquote
+from Components.Task import Task, Job
 from Components.MovieList import MOVIE_EXTENSIONS
 from enigma import eTimer
 from Components.config import config
 import os
 
-# for locale (gettext)
 from . import _
-
-# added
-# System mod
 from .Directories import fileExists, shellquote
 
 ALL_MOVIE_EXTENSIONS = MOVIE_EXTENSIONS.union((".ts",))

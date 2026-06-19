@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: iso-8859-1 -*-
+# -*- coding: utf-8 -*-
 
 from __future__ import print_function
 from Screens.MessageBox import MessageBox
@@ -10,7 +9,7 @@ from Components.MenuList import MenuList
 from Components.Sources.StaticText import StaticText
 from Tools.BoundFunction import boundFunction
 from Components.MultiContent import MultiContentEntryText, MultiContentEntryProgress
-from enigma import eConsoleAppContainer, eListboxPythonMultiContent, gFont, RT_HALIGN_LEFT, RT_HALIGN_CENTER, RT_VALIGN_CENTER
+from enigma import eConsoleAppContainer, eListboxPythonMultiContent, gFont, RT_HALIGN_LEFT, RT_VALIGN_CENTER
 import subprocess
 import skin
 
@@ -86,7 +85,7 @@ class ArchiverMenuScreen(Screen):
 
     def onLayout(self):
         self.setTitle(self.pname)
-        self.chooseMenuList.setList(map(self.ListEntry, self.list))
+        self.chooseMenuList.setList(list(map(self.ListEntry, self.list)))
 
     def ListEntry(self, entry):
         x, y, w, h = skin.parameters.get("FcFileListName", (10, 0, 1180, 25))
@@ -144,10 +143,10 @@ class ArchiverMenuScreen(Screen):
             print("[ArchiverMenuScreen]", msg)
             self.session.open(MessageBox, msg, MessageBox.TYPE_ERROR, simple=True)
             return
-        output = map(str.splitlines, p.communicate())
+        output = list(map(str.splitlines, [o.decode() for o in p.communicate()]))
         if output[0] and output[1]:
             output[1].append("----------")
-        self.extractlist = [(l,) for l in output[1] + output[0]]
+        self.extractlist = [(x,) for x in output[1] + output[0]]
         if not self.extractlist:
             self.extractlist = [(_("No files found."),)]
         self.session.open(infoScreen, self.extractlist, self.sourceDir, self.filename)
@@ -258,16 +257,16 @@ class ArchiverInfoScreen(Screen):
     def onLayout(self):
         self.setTitle(self.pname)
         if len(self.list) != 0:
-            self.chooseMenuList.setList(map(self.ListEntry, self.list))
+            self.chooseMenuList.setList(list(map(self.ListEntry, self.list)))
 
     def ListEntry(self, entry):
         x, y, w, h = skin.parameters.get("FcFileListName", (10, 0, 1180, 25))
         x = 10
         w = self['list_left'].l.getItemSize().width()
         flags = RT_HALIGN_LEFT
-        # if 'UnpackInfoScreen' in`entry:
-            # flags = RT_HALIGN_LEFT | RT_VALIGN_CENTER
-            # y *= 2
+        if 'Plugins.Extensions.FileCommander.addons.unzip.UnpackInfoScreen' in 'self':
+            flags = RT_HALIGN_LEFT | RT_VALIGN_CENTER
+            y *= 2
         return [
             entry,
             MultiContentEntryText(pos=(x, int(y)), size=(w - x, h), font=0, flags=flags, text=entry[0])

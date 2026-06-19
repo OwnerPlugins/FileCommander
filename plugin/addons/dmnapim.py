@@ -1,5 +1,4 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
+# -*- coding: utf-8 -*-
 
 # napiprojekt.pl API is used with napiproject administration consent
 
@@ -34,7 +33,7 @@ class GetFPS(object):
     def __exit__(self, type, value, traceback):
         try:
             self.file.close()
-        except:
+        except Exception:
             pass
 
     def eblm(self, bits=0xf0):
@@ -163,7 +162,7 @@ def detect_format(lines):
     return ""
 
 
-def read_mdvd(list, fps):
+def read_mdvd(line, fps):
     """
     Read micro-dvd subtitles.
     input: contents of a file as list
@@ -172,8 +171,8 @@ def read_mdvd(list, fps):
     re1 = re.compile(r"^\{(\d+)\}\{(\d*)\}\s*(.*)")
 
     subtitles = []
-    while len(list) > 0:
-        x = list.pop(0)
+    while len(line) > 0:
+        x = line.pop(0)
         m = re1.match(x, 0)
         if m:
             time1 = int(m.group(1))
@@ -195,7 +194,7 @@ def read_mdvd(list, fps):
     return subtitles
 
 
-def read_mpl2(list):
+def read_mpl2(line):
     """
     Read mpl2 subtitles
     input: contents of a file as list
@@ -203,8 +202,8 @@ def read_mpl2(list):
     """
     re1 = re.compile(r"^\[(\d+)\]\[(\d+)\]\s*(.*)")
     subtitles = []
-    while len(list) > 0:
-        m = re1.match(list.pop(0), 0)
+    while len(line) > 0:
+        m = re1.match(line.pop(0), 0)
         if m:
             subt = [int(m.group(1)) * 0.1]
             subt.append(int(m.group(2)) * 0.1)
@@ -213,7 +212,7 @@ def read_mpl2(list):
     return subtitles
 
 
-def read_sub2(list):
+def read_sub2(line):
     """
     Reads subviewer 2.0 format subtitles, e.g.:
         00:01:54.75,00:01:58.54
@@ -224,13 +223,13 @@ def read_sub2(list):
     re1 = re.compile(r"^(\d+):(\d+):(\d+)\.(\d+)\s*\,\s*(\d+):(\d+):(\d+)\.(\d+).*$")
     subtitles = []
     try:
-        while len(list) > 0:
-            m = re1.match(list.pop(0), 0)
+        while len(line) > 0:
+            m = re1.match(line.pop(0), 0)
             if m:
                 subt = [int(m.group(1)) * 3600 + int(m.group(2)) * 60 + int(m.group(3)) + int(m.group(4)) / 100.0]
                 subt.append(int(m.group(5)) * 3600 + int(m.group(6)) * 60 + int(m.group(7)) + int(m.group(8)) / 100.0)
-                l = list.pop(0).strip()
-                lines = l.split("[br]")
+                lx = line.pop(0).strip()
+                lines = lx.split("[br]")
                 for i in range(0, len(lines)):
                     subt.append(lines[i])
                 subtitles.append(subt)
@@ -239,7 +238,7 @@ def read_sub2(list):
     return subtitles
 
 
-def read_srt(list):
+def read_srt(line):
     """
     Reads srt subtitles.
     input: contents of a file as list
@@ -250,23 +249,23 @@ def read_srt(list):
     re3 = re.compile(r"^\s*$")
     subtitles = []
     try:
-        while len(list) > 0:
-            if re1.match(list.pop(0), 0):
-                m = re2.match(list.pop(0), 0)
+        while len(line) > 0:
+            if re1.match(line.pop(0), 0):
+                m = re2.match(line.pop(0), 0)
                 if m:
                     subt = [int(m.group(1)) * 3600 + int(m.group(2)) * 60 + int(m.group(3)) + int(m.group(4)) / 1000.0]
                     subt.append(int(m.group(5)) * 3600 + int(m.group(6)) * 60 + int(m.group(7)) + int(m.group(8)) / 1000.0)
-                    l = list.pop(0)
-                    while not re3.match(l, 0):
-                        subt.append(l.strip())
-                        l = list.pop(0)
+                    ls = line.pop(0)
+                    while not re3.match(ls, 0):
+                        subt.append(ls.strip())
+                        ls = line.pop(0)
                     subtitles.append(subt)
     except IndexError:
         sys.stderr.write("Warning: it seems like input file is damaged or too short.\n")
     return subtitles
 
 
-def read_tmp(list):
+def read_tmp(line):
     """
     Reads tmplayer (tmp) subtitles.
     input: contents of a file as list
@@ -275,8 +274,8 @@ def read_tmp(list):
     re1 = re.compile(r"^(\d+):(\d+):(\d+):(.*)")
     subtitles = []
     subs = {}
-    while len(list) > 0:
-        m = re1.match(list.pop(0), 0)
+    while len(line) > 0:
+        m = re1.match(line.pop(0), 0)
         if m:
             time = int(m.group(1)) * 3600 + int(m.group(2)) * 60 + int(m.group(3))
             if time in subs:
@@ -295,24 +294,24 @@ def read_tmp(list):
     return subtitles
 
 
-def to_srt(list):
+def to_srt(line):
     """
     Converts list of subtitles (internal format) to srt format
     """
     outl = []
     count = 1
-    for l in list:
-        secs1 = l[0]
+    for ls in line:
+        secs1 = ls[0]
         h1 = int(secs1 / 3600)
         m1 = int(int(secs1 % 3600) / 60)
         s1 = int(secs1 % 60)
         f1 = (secs1 - int(secs1)) * 1000
-        secs2 = l[1]
+        secs2 = ls[1]
         h2 = int(secs2 / 3600)
         m2 = int(int(secs2 % 3600) / 60)
         s2 = int(secs2 % 60)
         f2 = (secs2 - int(secs2)) * 1000
-        outl.append("%d\n%.2d:%.2d:%.2d,%.3d --> %.2d:%.2d:%.2d,%.3d\n%s\n\n" % (count, h1, m1, s1, f1, h2, m2, s2, f2, "\n".join(l[2:])))
+        outl.append("%d\n%.2d:%.2d:%.2d,%.3d --> %.2d:%.2d:%.2d,%.3d\n%s\n\n" % (count, h1, m1, s1, f1, h2, m2, s2, f2, "\n".join(ls[2:])))
         count = count + 1
     return outl
 
@@ -366,12 +365,7 @@ def read_subs(file, fmt, fps):
         return read_tmp(subs)
     elif fmt == "srt":
         return read_srt(subs)
-    # elif fmt == "mdvd":
-        # if fps == -1:
-            # fps = detect_file_fps(file)
-            # if not fps:
-                # fps = detect_fps(subs)
-        # return read_mdvd(subs, fps)
+
     elif fmt == "auto":
         fmt = detect_format(subs)
         sys.stderr.write("Guessing subs format .. %s\n" % fmt)
@@ -391,7 +385,7 @@ def napiprojekt_fps(digest):
 #    fps = element.find("video_info/fps").text
     try:
         fps = float([re.match(r".*<fps>(.*)</fps>.*", x).groups(0)[0] for x in urllib2.urlopen(url) if x.find('<fps>') > 0][0])
-    except:
+    except Exception:
         fps = 23.976
     return float(fps)
 
@@ -439,7 +433,7 @@ def to_srt_utf8(subs_org, file, digest=0, info="", fps=0):
         dst.close()
         print(" Saved:", dest)
 
-    except:
+    except Exception:
         print("  Error: %s" % (sys.exc_info()[1]))
 
 
@@ -454,13 +448,13 @@ def convert(file, src, fps=0):
         if not 100 < os.path.getsize(src) < 200000:
             raise Exception('Suspicious file size: %s %i' % (src, os.path.getsize(src)))
         to_srt_utf8(subs_org=open(src).read(), file=file, info="\n Convert from: " + os.path.split(src)[1], fps=fps)
-    except:
+    except Exception:
         print("  Error: %s" % (sys.exc_info()[1]))
 
 
-prere = [
+prere = (
     (r"[^\w\d]", " "),
-    (r"\.", " "),
+    (r"[\.]", " "),
     (r"[\[\]-_]", " "),
     (r"^[^-\s]*-", " "),
     (r"_", " "),
@@ -471,8 +465,8 @@ prere = [
     (r" (miniseries)( |$)+", " "),
     (r" (dts|dd5|ac3|stereo)( |$)+", " "),
     (r" (xbox)( |$)+", " "),
-    (r" \[[\]]( |$)+", " ")
-]
+    (r" [\[](720p|1080i|1080p)[\]]( |$)+", " ")
+)
 
 
 tvshowRegex = re.compile(r'(?P<show>.*)S(?P<season>[0-9]{2})E(?P<episode>[0-9]{2}).(?P<teams>.*)', re.IGNORECASE)
@@ -521,11 +515,11 @@ def find_imdb(path):
                 if f.endswith('.nfo'):
                     nfof.append(f)
         for f in nfof:
-            for l in open(os.path.join(dir, f)):
-                m = re.search(r'title\/(?P<imdbid>tt\d{7})', l)
+            for ld in open(os.path.join(dir, f)):
+                m = re.search(r'title\/(?P<imdbid>tt\d{7})', ld)
                 if m and m.group("imdbid"):
                     ImdbId = m.group("imdbid")
-    except:
+    except Exception:
         pass
     return ImdbId
 
@@ -552,7 +546,7 @@ def hashFile(name):
         ret = dict(osb="%016x" % hash, npb=d.hexdigest(), fsize=filesize)
 #       print "[DMnapi] hashFile: ", name, ret
         return ret
-    except:
+    except Exception:
         print("[DMnapi] Error hashFile: ", name)
         return dict(osb="%016x" % 0, npb=d.hexdigest(), fsize=filesize)
 
@@ -561,5 +555,5 @@ def get_sub_from_n24(file, id, fps=0):
     try:
         import N24
         to_srt_utf8(N24.get_n24(int(id)), file, fps=fps)
-    except:
+    except Exception:
         pass

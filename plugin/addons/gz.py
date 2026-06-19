@@ -1,10 +1,7 @@
-#!/usr/bin/env python
-# -*- coding: iso-8859-1 -*-
+# -*- coding: utf-8 -*-
 
 from __future__ import print_function
 from Components.config import config
-# commented out
-# from Tools.Directories import shellquote
 # added
 from .unarchiver import ArchiverMenuScreen, ArchiverInfoScreen
 from os.path import splitext

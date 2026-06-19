@@ -1,10 +1,10 @@
-#!/usr/bin/env python
-# -*- coding: iso-8859-1 -*-
+# -*- coding: utf-8 -*-
 #
 # ported from OpenATV to OpenPLi by mrvica April 2019
 # fixed, added features, rebuilded in May 2020 ims
 # based on Filebrowser plugin
 # updated from lululla 20240821
+# update 2026.06 Lululla
 
 from . import _
 from Plugins.Plugin import PluginDescriptor
@@ -16,10 +16,6 @@ pdesc = _("manage local Files")
 config.plugins.filecommander = ConfigSubsection()
 config.plugins.filecommander.add_mainmenu_entry = ConfigYesNo(default=False)
 config.plugins.filecommander.add_extensionmenu_entry = ConfigYesNo(default=False)
-
-# #####################
-# ## Start routines ###
-# #####################
 
 
 def filescan_open(list, session, **kwargs):
@@ -43,7 +39,6 @@ def start_from_filescan(**kwargs):
 
 
 def start_from_mainmenu(menuid, **kwargs):
-    # starting from main menu
     if menuid == "mainmenu":
         return [(pname, start_from_pluginmenu, "filecommand", 1)]
     return []
@@ -64,7 +59,6 @@ def Plugins(path, **kwargs):
     desc_mainmenu = PluginDescriptor(name=pname, description=pdesc, where=PluginDescriptor.WHERE_MENU, fnc=start_from_mainmenu)
     desc_pluginmenu = PluginDescriptor(name=pname, description=pdesc, where=PluginDescriptor.WHERE_PLUGINMENU, icon="FileCommander.png", fnc=start_from_pluginmenu)
     desc_extensionmenu = PluginDescriptor(name=pname, description=pdesc, where=PluginDescriptor.WHERE_EXTENSIONSMENU, fnc=start_from_pluginmenu)
-    # desc_filescan = PluginDescriptor(name=pname, where=PluginDescriptor.WHERE_FILESCAN, fnc=start_from_filescan)
     list = []
     list.append(desc_pluginmenu)
 

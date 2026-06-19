@@ -1,5 +1,4 @@
-#!/usr/bin/python -u
-# -*- coding: UTF-8 -*-
+# -*- coding: utf-8 -*-
 # napiprojekt.pl API is used with napiproject administration consent
 
 from __future__ import print_function
@@ -22,7 +21,7 @@ def get_all(file, supplement):
             if rex.match(f):
                 try:
                     dmnapim.get_sub_from_napi(os.path.join(dir, f))
-                except:
+                except Exception:
                     print("  Error: %s" % (sys.exc_info()[1]))
 
 
@@ -31,7 +30,7 @@ try:
     opt = sys.argv[1]
     try:
         fps = float(sys.argv[2]) / 1000
-    except:
+    except Exception:
         fps = 0
     if opt == "get":
         file = os.path.abspath(sys.argv[3])
@@ -54,5 +53,5 @@ try:
     elif opt == "n24":
         file = os.path.abspath(sys.argv[3])
         dmnapim.get_sub_from_n24(file, sys.argv[4], fps=fps)
-except:
+except Exception:
     print("  Error: %s" % (sys.exc_info()[1]))
