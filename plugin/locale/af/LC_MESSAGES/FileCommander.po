@@ -1,0 +1,1050 @@
+# af translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: af <ekekaz@gmail.com>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- lêer bestaan! Oorskryf"
+
+msgid "- folder exist! Overwrite"
+msgstr "- gids bestaan! Oorskryf"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Kiesmodus)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\nopsionele parameter:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - onttrekkingsfoute."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s is wagwoordbeskerm."
+
+msgid "%s successfully extracted."
+msgstr "%s suksesvol onttrek."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Ontvanger>"
+
+msgid "Accessed:"
+msgstr "Toegang tot:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Aktiveer linkerkantste lêerlys as multi-selekteer bron"
+
+msgid "Activate left-hand file list as source"
+msgstr "Aktiveer linkerkantste lêerlys as bron"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Aktiveer regterhandse lêerlys as multi-kies bron"
+
+msgid "Activate right-hand file list as source"
+msgstr "Aktiveer regterhandse lêerlys as bron"
+
+msgid "Add current folder to bookmarks"
+msgstr "Voeg huidige gids by boekmerke"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Voeg inprop by Uitbreidingskieslys"
+
+msgid "Add plugin to main menu"
+msgstr "Voeg inprop by hoofkieslys"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Voeg geselekteerde vouer by boekmerke"
+
+msgid "Add to selection (%s)"
+msgstr "Voeg by keuse (%s)"
+
+msgid "All"
+msgstr "Almal"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Alle lêers in die gids met dieselfde naam as die gekose fliek sal ook gekopieer of geskuif word."
+
+msgid "All movie extensions"
+msgstr "Alle fliekuitbreidings"
+
+msgid "B"
+msgstr "B"
+
+msgid "Block device"
+msgstr "Blokkeer toestel"
+
+msgid "Calculate file checksums"
+msgstr "Bereken lêerkontrolesomme"
+
+msgid "Calculates file checksums."
+msgstr "Bereken lêerkontrolesomme."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "Kan nie %s laat loop nie: %s.\n%s is dalk in 'n inprop wat nie geïnstalleer is nie."
+
+msgid "Cancel"
+msgstr "Kanselleer"
+
+msgid "Cancel execution?"
+msgstr "Kanselleer uitvoering?"
+
+msgid "Cannot create target directory."
+msgstr "Kan nie teikengids skep nie."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Kan nie prent oopmaak nie. Maak oop as teks?"
+
+msgid "Cannot play file."
+msgstr "Kan nie lêer speel nie."
+
+msgid "Cannot read file: %s"
+msgstr "Kan nie lêer lees nie: %s"
+
+msgid "case insensitive"
+msgstr "saak onsensitief"
+
+msgid "case sensitive"
+msgstr "hooflettersensitief"
+
+msgid "Case sensitive search"
+msgstr "Hooflettergevoelige soektog"
+
+msgid "Change buttons for list navigation"
+msgstr "Verander knoppies vir lysnavigasie"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Verander uitvoertoestemmings (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Kanaalknoppie verander altyd van kante"
+
+msgid "Character device"
+msgstr "Karakter toestel"
+
+msgid "Close"
+msgstr "Maak toe"
+
+msgid "Compare case sensitive"
+msgstr "Vergelyk hooflettersensitief"
+
+msgid "contains in title"
+msgstr "in titel bevat"
+
+msgid "contains..."
+msgstr "bevat..."
+
+msgid "Content size:"
+msgstr "Inhoudgrootte:"
+
+msgid "Copy"
+msgstr "Kopieer"
+
+msgid "copy file"
+msgstr "kopieer lêer"
+
+msgid "Copy file"
+msgstr "Kopieer lêer"
+
+msgid "Copy file/directory to target directory"
+msgstr "Kopieer lêer/gids na teikengids"
+
+msgid "Copy files/directories to target directory"
+msgstr "Kopieer lêers/gidse na die teikengids"
+
+msgid "copy folder"
+msgstr "kopieer gids"
+
+msgid "Copy folder"
+msgstr "Kopieer gids"
+
+msgid "Count directory content size"
+msgstr "Tel gids inhoud grootte"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Tel gidsinhoudgrootte terwyl jy loop (aan/af)"
+
+msgid "CPU priority for script execution"
+msgstr "SVE-prioriteit vir skripuitvoering"
+
+msgid "Create directory"
+msgstr "Skep gids"
+
+msgid "create symlink ..."
+msgstr "skep simlink ..."
+
+msgid "Create symlink to file"
+msgstr "Skep simskakel na lêer"
+
+msgid "Create user-named symbolic link"
+msgstr "Skep gebruiker-benoemde simboliese skakel"
+
+msgid "d"
+msgstr "d"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Date reverse"
+msgstr "Datum omgekeerd"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Standaard CPU-prioriteit (mooi) vir uitgevoerde skrifte. Dit kan die las verminder sodat skrifte nie met die res van die stelsel inmeng nie. (hoër waardes = laer prioriteit)"
+
+msgid "Default directory sorting"
+msgstr "Verstek gidssortering"
+
+msgid "Default file sorting left"
+msgstr "Verstek lêersortering links"
+
+msgid "Default file sorting right"
+msgstr "Verstek lêer sorteer reg"
+
+msgid "Default folder"
+msgstr "Verstek gids"
+
+msgid "Default Folder"
+msgstr "Verstek gids"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Verstek I/O-prioriteit (ionice) vir uitgevoerde skrifte. Dit kan die las verminder sodat skrifte nie met die res van die stelsel inmeng nie. (hoër waardes = laer prioriteit)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Verstek sorteermetode vir dopgehou in beide panele (om die veranderinge toe te pas, moet FileCommander herbegin word)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Verstek sorteermetode vir lêers in linkerpaneel."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Standaard sorteermetode vir lêers in regterpaneel."
+
+msgid "Delete"
+msgstr "Vee uit"
+
+msgid "Delete current line"
+msgstr "Vee huidige lyn uit"
+
+msgid "Delete file"
+msgstr "Vee lêer uit"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Vee lêer of gids uit (en al die inhoud daarvan)"
+
+msgid "Delete folder"
+msgstr "Vee gids uit"
+
+msgid "Delete the selected files or directories"
+msgstr "Vee die geselekteerde lêers of gidse uit"
+
+msgid "Deselect All"
+msgstr "Ontkies Alles"
+
+msgid "Deselect group"
+msgstr "Ontkies groep"
+
+msgid "Deselect group..."
+msgstr "Ontkies groep..."
+
+msgid "Directories to group selections"
+msgstr "Gidse na groepkeuses"
+
+msgid "Directory"
+msgstr "Gids"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Gids kan nie hier op\n<Lys van bergingstoestelle> of <Ontvanger> geskep word nie.\nSkuif kieser een reël onder of verander gids."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Wys lêername in kop. Dit is nuttig vir lêername wat te lank is."
+
+msgid "Do you want change rights?\n"
+msgstr "Wil jy veranderingsregte hê?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Wil jy die skrip bekyk of laat loop?\n"
+
+msgid "Edit"
+msgstr "Wysig"
+
+msgid "Edit current line"
+msgstr "Wysig huidige reël"
+
+msgid "Edit line"
+msgstr "Wysig reël"
+
+msgid "Edit new file"
+msgstr "Wysig nuwe lêer"
+
+msgid "Edit position is the line end"
+msgstr "Wysig posisie is die lyn einde"
+
+msgid "end title"
+msgstr "eindtitel"
+
+msgid "ends with..."
+msgstr "eindig met..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Gaan in multi-lêer seleksie af"
+
+msgid "Error"
+msgstr "Fout"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Kon nie gids %s:\n%s skep nie"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Kon nie lêer %s:\n%s skep nie"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Kon nie %s aan %s koppel nie:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Kon nie %s hernoem na %s nie:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Kon nie stoor nie: %s"
+
+msgid "Error..."
+msgstr "Fout..."
+
+msgid "Execution finished!!"
+msgstr "Uitvoering klaar!!"
+
+msgid "Execution progress\n\n"
+msgstr "Uitvoering vordering\n\n"
+
+msgid "Exit"
+msgstr "Verlaat"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Verlaat redigeerder en skryf veranderinge (indien enige)"
+
+msgid "Exit movie player?"
+msgstr "Verlaat filmspeler?"
+
+msgid "Exit picture viewer"
+msgstr "Verlaat prentkyker"
+
+msgid "Extract archive to %s?"
+msgstr "Onttrek argief na %s?"
+
+msgid "Extracting..."
+msgstr "Onttrek tans …"
+
+msgid "FIFO"
+msgstr "EIEU"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Lêer kan nie op\n<Lys van bergingstoestelle> of <Ontvanger> geskep word nie.\nVerander asseblief gids."
+
+msgid "File checksums/hashes"
+msgstr "Lêer kontrolesomme/hashes"
+
+msgid "File Commander"
+msgstr "Lêerbevelvoerder"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "Lêerbevelvoerder - Addon Lêerkyker"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "Lêerbevelvoerder - Addon-lêerkyker-instellings"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "Lêerbevelvoerder - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "File Commander - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "Lêerbevelvoerder - algemene argiefhanteerder"
+
+msgid "File Commander - gzip Addon"
+msgstr "Lêerbevelvoerder - gzip Addon"
+
+msgid "File Commander - ipk Addon"
+msgstr "Lêerbevelvoerder - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "Lêerbevelvoerder - teer Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "Lêerbevelvoerder - unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "Lêerbevelvoerder - pak Addon uit"
+
+msgid "File not found: %s"
+msgstr "Lêer nie gevind nie: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Lêer te groot om as teks oop te maak (maks. 1 MB)."
+
+msgid "File too large to open as text."
+msgstr "Lêer te groot om as teks oop te maak."
+
+msgid "File transfer was cancelled by user"
+msgstr "Lêeroordrag is deur gebruiker gekanselleer"
+
+msgid "File/Directory Status Information"
+msgstr "Lêer-/gidsstatusinligting"
+
+msgid "Filenames in header"
+msgstr "Lêername in kop"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Filter uitbreiding, (*) verskyn in titel"
+
+msgid "Filter visible file classes by extension."
+msgstr "Filtreer sigbare lêerklasse volgens uitbreiding."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "vir DATAVERLIES OF SKADE!!!"
+
+msgid "from dir"
+msgstr "van dir"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "Gaan na boekmerk-lêergids"
+
+msgid "Go to default directory"
+msgstr "Gaan na verstekgids"
+
+msgid "Go to end of file"
+msgstr "Gaan na die einde van die lêer"
+
+msgid "Go to parent directory"
+msgstr "Gaan na die ouergids"
+
+msgid "Go to start of file"
+msgstr "Gaan na begin van lêer"
+
+msgid "Group:"
+msgstr "Groep:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "is VERANDER! Wil jy dit stoor?"
+
+msgid "Hide/Show"
+msgstr "Versteek/Wys"
+
+msgid "I/O priority for script execution"
+msgstr "I/O-prioriteit vir skrifuitvoering"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "As jy 'n lêer redigeer, kan jy die wyser se beginposisie aan die einde of begin van die reël stel."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "In multi-seleksie-modus beweeg die wyser na die volgende item na nasien."
+
+msgid "Inode:"
+msgstr "Inode:"
+
+msgid "Insert"
+msgstr "Voeg in"
+
+msgid "Insert line before current line"
+msgstr "Voeg reël voor huidige lyn in"
+
+msgid "Install"
+msgstr "Installeer"
+
+msgid "install/unpack ipk Files"
+msgstr "installeer/uitpak ipk-lêers"
+
+msgid "Installing Plugin ..."
+msgstr "Installeer tans inprop ..."
+
+msgid "Invert selection"
+msgstr "Keer seleksie om"
+
+msgid "Invert Selection"
+msgstr "Keer seleksie om"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "Dit is nie moontlik om hashes op <List of Storage Devices> te bereken nie"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Dit is nie moontlik om die lêermodus van <Lys van bergingstoestelle> te verander nie"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Dit is nie moontlik om die lêerstatus van <Lys van bergingstoestelle> te kry nie"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Los File Commander"
+
+msgid "Leave multi-select mode"
+msgstr "Verlaat multi-kiesmodus"
+
+msgid "Link target:"
+msgstr "Skakeldoelwit:"
+
+msgid "Links:"
+msgstr "Skakels:"
+
+msgid "List of Storage Devices"
+msgstr "Lys van bergingstoestelle"
+
+msgid "Load"
+msgstr "Laai"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Maak FileCommander toeganklik vanaf die Uitbreidings-kieslys."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Maak FileCommander toeganklik vanaf die hoofkieslys."
+
+msgid "manage local Files"
+msgstr "bestuur plaaslike lêers"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "SPYSKAART"
+
+msgid "Menu..."
+msgstr "Spyskaart..."
+
+msgid "Metadata changed:"
+msgstr "Metadata verander:"
+
+msgid "Mode %s (%04o)"
+msgstr "Modus %s (%04o)"
+
+msgid "Modified:"
+msgstr "Gewysig:"
+
+msgid "Move"
+msgstr "Beweeg"
+
+msgid "Move down list"
+msgstr "Skuif af in lys"
+
+msgid "move file"
+msgstr "skuif lêer"
+
+msgid "Move file"
+msgstr "Skuif lêer"
+
+msgid "Move file/directory to target directory"
+msgstr "Skuif lêer/gids na teikengids"
+
+msgid "Move files/directories to target directory"
+msgstr "Skuif lêers/gidse na die teikengids"
+
+msgid "move folder"
+msgstr "skuif gids"
+
+msgid "Move folder"
+msgstr "Skuif gids"
+
+msgid "Move selector to next item"
+msgstr "Skuif kieser na volgende item"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Skuif kieser na volgende item (aan/af)"
+
+msgid "Move up list"
+msgstr "Skuif op lys"
+
+msgid "Movie"
+msgstr "Fliek"
+
+msgid "MultiSelection Settings"
+msgstr "MultiSeleksie-instellings"
+
+msgid "Music"
+msgstr "Musiek"
+
+msgid "My extension"
+msgstr "My uitbreiding"
+
+msgid "My Extension"
+msgstr "My Uitbreiding"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Name reverse"
+msgstr "Naam omgekeerde"
+
+msgid "New folder"
+msgstr "Nuwe gids"
+
+msgid "New symlink"
+msgstr "Nuwe simboliek"
+
+msgid "new.txt"
+msgstr "nuwe.txt"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "No files found."
+msgstr "Geen lêers gevind nie."
+
+msgid "No hash calculations configured"
+msgstr "Geen hash-berekeninge is opgestel nie"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "Geen van die hash-programme vir die hashes %s is beskikbaar nie"
+
+msgid "Not allowed with folders"
+msgstr "Nie toegelaat met dopgehou nie"
+
+msgid "nothing connected"
+msgstr "niks verbind nie"
+
+msgid "Number of lines in script messages"
+msgstr "Aantal reëls in skrifboodskappe"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On device:"
+msgstr "Op toestel:"
+
+msgid "Open"
+msgstr "Maak oop"
+
+msgid "Open actions menu"
+msgstr "Maak handelinge-kieslys oop"
+
+msgid "Open settings/actions menu"
+msgstr "Maak instellings/aksies-kieslys oop"
+
+msgid "Open with File Commander"
+msgstr "Maak oop met File Commander"
+
+msgid "or save the picture additionally to a file"
+msgstr "of stoor die prentjie addisioneel tot 'n lêer"
+
+msgid "Original subtitles codepage"
+msgstr "Oorspronklike onderskrifte-kodebladsy"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Oorspronklike onderskrifte-kodebladsy vir omskakeling na UTF-8."
+
+msgid "Original:"
+msgstr "Oorspronklik:"
+
+msgid "Owner:"
+msgstr "Eienaar:"
+
+msgid "Page down list"
+msgstr "Bladsy af lys"
+
+msgid "Page up list"
+msgstr "Bladsy op lys"
+
+msgid "Parent Directory"
+msgstr "Ouergids"
+
+msgid "Permissions:"
+msgstr "Toestemmings:"
+
+msgid "Pictures"
+msgstr "Prente"
+
+msgid "play Files"
+msgstr "speel lêers"
+
+msgid "Play folder"
+msgstr "Speel gids"
+
+msgid "Play title"
+msgstr "Speel titel"
+
+msgid "play/show Files"
+msgstr "speel/wys lêers"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Speel/bekyk/wysig/installeer/onttrek/hardloop lêer of voer die gids in"
+
+msgid "Please enter file/folder name"
+msgstr "Voer asseblief die lêer-/vouernaam in"
+
+msgid "Please enter name of the new directory"
+msgstr "Voer asseblief die naam van die nuwe gids in"
+
+msgid "Please enter name of the new symlink"
+msgstr "Voer asseblief die naam van die nuwe simboliek in"
+
+msgid "Please enter password"
+msgstr "Voer asseblief wagwoord in"
+
+msgid "Please enter the new directory name"
+msgstr "Voer asseblief die nuwe gidsnaam in"
+
+msgid "Please enter the new file name"
+msgstr "Voer asseblief die nuwe lêernaam in"
+
+msgid "Please wait, Loading image."
+msgstr "Wag asseblief, laai prent."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Druk OK of Exit om te staak!"
+
+msgid "python"
+msgstr "luislang"
+
+msgid "Records"
+msgstr "Rekords"
+
+msgid "Refresh screen"
+msgstr "Herlaai skerm"
+
+msgid "Regular file"
+msgstr "Gereelde lêer"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Verwyder huidige vouer uit boekmerke"
+
+msgid "Remove from selection (%s)"
+msgstr "Verwyder uit seleksie (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Verwyder geselekteerde vouer uit boekmerke"
+
+msgid "Rename"
+msgstr "Hernoem"
+
+msgid "Rename file"
+msgstr "Hernoem lêer"
+
+msgid "Rename file/directory"
+msgstr "Hernoem lêer/gids"
+
+msgid "Restart"
+msgstr "Herbegin"
+
+msgid "Reverse left file sorting"
+msgstr "Keer links lêersortering om"
+
+msgid "Reverse right file sorting"
+msgstr "Omgekeerde lêersortering"
+
+msgid "Run script"
+msgstr "Begin skrip"
+
+msgid "Run script in background"
+msgstr "Begin skrip in agtergrond"
+
+msgid "Run script with optional parameter"
+msgstr "Begin skrip met opsionele parameter"
+
+msgid "Run script with optional parameter in background"
+msgstr "Begin skrip met opsionele parameter in agtergrond"
+
+msgid "s"
+msgstr "s"
+
+msgid "Save cursor position"
+msgstr "Stoor wyserposisie"
+
+msgid "Save cursor position in active panel."
+msgstr "Stoor wyserposisie in aktiewe paneel."
+
+msgid "Save left folder on exit"
+msgstr "Stoor linkervouer by uitgang"
+
+msgid "Save right folder on exit"
+msgstr "Stoor regter vouer by uitgang"
+
+msgid "Save the left directory list location on exit."
+msgstr "Stoor die ligging van die linkergidslys by uitgang."
+
+msgid "Save the right folder list location on exit."
+msgstr "Stoor die regte vouerlysligging by uitgang."
+
+msgid "Search in group selection by"
+msgstr "Soek in groepkeuse deur"
+
+msgid "Search text"
+msgstr "Soek teks"
+
+msgid "Search text (%s):"
+msgstr "Soek teks (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Soek teks in lêer (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Kies (bronnelys) of voer gids in (teikenlys)"
+
+msgid "Select a path"
+msgstr "Kies 'n pad"
+
+msgid "Select action:"
+msgstr "Kies aksie:"
+
+msgid "Select All"
+msgstr "Kies Alles"
+
+msgid "Select group"
+msgstr "Kies groep"
+
+msgid "Select group..."
+msgstr "Kies groep..."
+
+msgid "Select operation:"
+msgstr "Kies operasie:"
+
+msgid "Select your personal settings:"
+msgstr "Kies jou persoonlike instellings:"
+
+msgid "Set archive mode (644)"
+msgstr "Stel argiefmodus (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Stel uitvoerbare modus (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Stel of daar tussen hoofletters en kleinletters onderskei moet word vir soek."
+
+msgid "Settings"
+msgstr "Instellings"
+
+msgid "Settings..."
+msgstr "Instellings..."
+
+msgid "shell"
+msgstr "dop"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Wys as prentjie (druk enige sleutel om toe te maak)"
+
+msgid "Show contents of ipk file"
+msgstr "Wys inhoud van ipk-lêer"
+
+msgid "Show contents of rar file"
+msgstr "Wys inhoud van rar lêer"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Wys inhoud van teer- of saamgeperste teerlêer"
+
+msgid "Show contents of zip file"
+msgstr "Wys inhoud van zip-lêer"
+
+msgid "Show directories first"
+msgstr "Wys eers gidse"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Wys gidse op eerste of laaste posisies in paneel (om die veranderinge toe te pas, moet FileCommander herbegin word)."
+
+msgid "Show image information"
+msgstr "Wys prentinligting"
+
+msgid "Show next picture"
+msgstr "Wys volgende prentjie"
+
+msgid "Show previous picture"
+msgstr "Wys vorige prent"
+
+msgid "Show Script completed message"
+msgstr "Wys Skrip voltooide boodskap"
+
+msgid "Show task list"
+msgstr "Wys taaklys"
+
+msgid "Show unknown extension as text"
+msgstr "Wys onbekende uitbreiding as teks"
+
+msgid "Size"
+msgstr "Grootte"
+
+msgid "Size reverse"
+msgstr "Grootte omgekeerd"
+
+msgid "Size:"
+msgstr "Grootte:"
+
+msgid "Socket"
+msgstr "Sok"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Sorteer linkerlêers volgens naam, datum of grootte"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Sorteer regte lêers volgens naam, datum of grootte"
+
+msgid "start title"
+msgstr "begin titel"
+
+msgid "Start/stop slide show"
+msgstr "Begin/stop skyfievertoning"
+
+msgid "starts with..."
+msgstr "begin met..."
+
+msgid "Storage devices"
+msgstr "Bergingstoestelle"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Ruil knoppies vir omgekeerde lêersortering"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Ruil knoppies regs/links om met kanaal +/- of die kanaalknoppie het altyd aan die kant verander."
+
+msgid "Symbolic link"
+msgstr "Simboliese skakel"
+
+msgid "Symlink to"
+msgstr "Simlink na"
+
+msgid "Task list"
+msgstr "Taaklys"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Text not found."
+msgstr "Teks nie gevind nie."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Teks soek as hooflettersensitief of hoofletteronsensitief."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Die skrywers is NIE VERANTWOORDELIK NIE"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "Die Image Viewer-komponent van die File Commander vereis die PicturePlayer-uitbreiding. Installeer PicturePlayer om hierdie bewerking te aktiveer."
+
+msgid "This line is not editable!"
+msgstr "Hierdie reël is nie redigeerbaar nie!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Tyd tussen skyfies in beeldkyker-skyfievertoning."
+
+msgid "Time for Slideshow"
+msgstr "Tyd vir Skyfievertoning"
+
+msgid "to dir"
+msgstr "aan dir"
+
+msgid "To next found text"
+msgstr "Na volgende gevind teks"
+
+msgid "To previous found text"
+msgstr "Na vorige gevind teks"
+
+msgid "Type the name for the new file"
+msgstr "Tik die naam vir die nuwe lêer"
+
+msgid "Type:"
+msgstr "Tipe:"
+
+msgid "Unknown"
+msgstr "Onbekend"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Onbekende lêertipe. Maak oop as teks?"
+
+msgid "Unknown group: %d"
+msgstr "Onbekende groep: %d"
+
+msgid "Unknown user: %d"
+msgstr "Onbekende gebruiker: %d"
+
+msgid "unpack archives"
+msgstr "pak argiewe uit"
+
+msgid "unpack gzip Files"
+msgstr "pak gzip-lêers uit"
+
+msgid "unpack Rar Files"
+msgstr "pak Rar-lêers uit"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "pak teer/saamgeperste teerlêers uit"
+
+msgid "Unpack to %s"
+msgstr "Pak uit na %s"
+
+msgid "Unpack to current folder"
+msgstr "Pak uit na huidige vouer"
+
+msgid "unpack zip Files"
+msgstr "pak zip-lêers uit"
+
+msgid "Unsupported archive type."
+msgstr "Ongesteunde argieftipe."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Bekyk of wysig lêer (indien grootte < 1 MB)"
+
+msgid "View or edit this %s script"
+msgstr "Bekyk of wysig hierdie %s script"
+
+msgid "WARNING!"
+msgstr "WAARSKUWING!"
+
+msgid "What do you want to play?\n"
+msgstr "Wat wil jy speel?\n"
+
+msgid "without"
+msgstr "sonder"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "U kan die aantal letters vanaf die begin van die huidige lêernaam stel as die teks wat vooraf in virtuele sleutelbord ingevul is vir makliker invoer via groepkeuse."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "U kan die aantal letters vanaf die einde van die huidige lêernaam stel as die teks wat vooraf in virtuele sleutelbord ingevul is vir makliker invoer via groepkeuse."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Jy kan stel wat groepkeuse sal gebruik - begin van titel, einde van titel of bevat in titel."
+

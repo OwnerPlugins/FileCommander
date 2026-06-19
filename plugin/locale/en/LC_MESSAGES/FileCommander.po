@@ -1,4 +1,4 @@
-# FileCommander translations
+# en translations
 # Copyright (C) 2026 Lululla Team
 #
 msgid ""
@@ -7,1044 +7,1044 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
-"Language-Team: \n"
-"Language: \n"
+"Language-Team: en <ekekaz@gmail.com>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- file exist! Overwrite"
-msgstr ""
+msgstr "- file exist! Overwrite"
 
 msgid "- folder exist! Overwrite"
-msgstr ""
+msgstr "- folder exist! Overwrite"
 
 msgid "?"
-msgstr ""
+msgstr "?"
 
 msgid "(Selectmode)"
-msgstr ""
+msgstr "(Selectmode)"
 
 msgid "[D]%s%s[F]%s%s"
-msgstr ""
+msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr ""
+msgstr "\noptional parameter:\n%s"
 
 msgid "%d GB"
-msgstr ""
+msgstr "%d GB"
 
 msgid "%d kB"
-msgstr ""
+msgstr "%d kB"
 
 msgid "%d MB"
-msgstr ""
+msgstr "%d MB"
 
 msgid "%d.%m.%Y, %H:%M:%S"
-msgstr ""
+msgstr "%d.%m.%Y, %H:%M:%S"
 
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 msgid "%s - extraction errors."
-msgstr ""
+msgstr "%s - extraction errors."
 
 msgid "%s (%04o)"
-msgstr ""
+msgstr "%s (%04o)"
 
 msgid "%s (%s)"
-msgstr ""
+msgstr "%s (%s)"
 
 msgid "%s is password protected."
-msgstr ""
+msgstr "%s is password protected."
 
 msgid "%s successfully extracted."
-msgstr ""
+msgstr "%s successfully extracted."
 
 msgid "%s: %s"
-msgstr ""
+msgstr "%s: %s"
 
 msgid "<Receiver>"
-msgstr ""
+msgstr "<Receiver>"
 
 msgid "Accessed:"
-msgstr ""
+msgstr "Accessed:"
 
 msgid "Activate left-hand file list as multi-select source"
-msgstr ""
+msgstr "Activate left-hand file list as multi-select source"
 
 msgid "Activate left-hand file list as source"
-msgstr ""
+msgstr "Activate left-hand file list as source"
 
 msgid "Activate right-hand file list as multi-select source"
-msgstr ""
+msgstr "Activate right-hand file list as multi-select source"
 
 msgid "Activate right-hand file list as source"
-msgstr ""
+msgstr "Activate right-hand file list as source"
 
 msgid "Add current folder to bookmarks"
-msgstr ""
+msgstr "Add current folder to bookmarks"
 
 msgid "Add plugin to Extensions menu"
-msgstr ""
+msgstr "Add plugin to Extensions menu"
 
 msgid "Add plugin to main menu"
-msgstr ""
+msgstr "Add plugin to main menu"
 
 msgid "Add selected folder to bookmarks"
-msgstr ""
+msgstr "Add selected folder to bookmarks"
 
 msgid "Add to selection (%s)"
-msgstr ""
+msgstr "Add to selection (%s)"
 
 msgid "All"
-msgstr ""
+msgstr "All"
 
 msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
-msgstr ""
+msgstr "All files in the directory with the same name as the selected movie will be copied or moved too."
 
 msgid "All movie extensions"
-msgstr ""
+msgstr "All movie extensions"
 
 msgid "B"
-msgstr ""
+msgstr "B"
 
 msgid "Block device"
-msgstr ""
+msgstr "Block device"
 
 msgid "Calculate file checksums"
-msgstr ""
+msgstr "Calculate file checksums"
 
 msgid "Calculates file checksums."
-msgstr ""
+msgstr "Calculates file checksums."
 
 msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
-msgstr ""
+msgstr "Can not run %s: %s.\n%s may be in a plugin that is not installed."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Cancel execution?"
 
 msgid "Cannot create target directory."
-msgstr ""
+msgstr "Cannot create target directory."
 
 msgid "Cannot open image. Open as text?"
-msgstr ""
+msgstr "Cannot open image. Open as text?"
 
 msgid "Cannot play file."
-msgstr ""
+msgstr "Cannot play file."
 
 msgid "Cannot read file: %s"
-msgstr ""
+msgstr "Cannot read file: %s"
 
 msgid "case insensitive"
-msgstr ""
+msgstr "case insensitive"
 
 msgid "case sensitive"
-msgstr ""
+msgstr "case sensitive"
 
 msgid "Case sensitive search"
-msgstr ""
+msgstr "Case sensitive search"
 
 msgid "Change buttons for list navigation"
-msgstr ""
+msgstr "Change buttons for list navigation"
 
 msgid "Change execute permissions (755/644)"
-msgstr ""
+msgstr "Change execute permissions (755/644)"
 
 msgid "Channel button always changes sides"
-msgstr ""
+msgstr "Channel button always changes sides"
 
 msgid "Character device"
-msgstr ""
+msgstr "Character device"
 
 msgid "Close"
-msgstr ""
+msgstr "Close"
 
 msgid "Compare case sensitive"
-msgstr ""
+msgstr "Compare case sensitive"
 
 msgid "contains in title"
-msgstr ""
+msgstr "contains in title"
 
 msgid "contains..."
-msgstr ""
+msgstr "contains..."
 
 msgid "Content size:"
-msgstr ""
+msgstr "Content size:"
 
 msgid "Copy"
-msgstr ""
+msgstr "Copy"
 
 msgid "copy file"
-msgstr ""
+msgstr "copy file"
 
 msgid "Copy file"
-msgstr ""
+msgstr "Copy file"
 
 msgid "Copy file/directory to target directory"
-msgstr ""
+msgstr "Copy file/directory to target directory"
 
 msgid "Copy files/directories to target directory"
-msgstr ""
+msgstr "Copy files/directories to target directory"
 
 msgid "copy folder"
-msgstr ""
+msgstr "copy folder"
 
 msgid "Copy folder"
-msgstr ""
+msgstr "Copy folder"
 
 msgid "Count directory content size"
-msgstr ""
+msgstr "Count directory content size"
 
 msgid "Counting directory content size while walking (on/off)"
-msgstr ""
+msgstr "Counting directory content size while walking (on/off)"
 
 msgid "CPU priority for script execution"
-msgstr ""
+msgstr "CPU priority for script execution"
 
 msgid "Create directory"
-msgstr ""
+msgstr "Create directory"
 
 msgid "create symlink ..."
-msgstr ""
+msgstr "create symlink ..."
 
 msgid "Create symlink to file"
-msgstr ""
+msgstr "Create symlink to file"
 
 msgid "Create user-named symbolic link"
-msgstr ""
+msgstr "Create user-named symbolic link"
 
 msgid "d"
-msgstr ""
+msgstr "d"
 
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 msgid "Date reverse"
-msgstr ""
+msgstr "Date reverse"
 
 msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
-msgstr ""
+msgstr "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
 
 msgid "Default directory sorting"
-msgstr ""
+msgstr "Default directory sorting"
 
 msgid "Default file sorting left"
-msgstr ""
+msgstr "Default file sorting left"
 
 msgid "Default file sorting right"
-msgstr ""
+msgstr "Default file sorting right"
 
 msgid "Default folder"
-msgstr ""
+msgstr "Default folder"
 
 msgid "Default Folder"
-msgstr ""
+msgstr "Default Folder"
 
 msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
-msgstr ""
+msgstr "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
 
 msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
-msgstr ""
+msgstr "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
 
 msgid "Default sorting method for files in left panel."
-msgstr ""
+msgstr "Default sorting method for files in left panel."
 
 msgid "Default sorting method for files in right panel."
-msgstr ""
+msgstr "Default sorting method for files in right panel."
 
 msgid "Delete"
-msgstr ""
+msgstr "Delete"
 
 msgid "Delete current line"
-msgstr ""
+msgstr "Delete current line"
 
 msgid "Delete file"
-msgstr ""
+msgstr "Delete file"
 
 msgid "Delete file or directory (and all its contents)"
-msgstr ""
+msgstr "Delete file or directory (and all its contents)"
 
 msgid "Delete folder"
-msgstr ""
+msgstr "Delete folder"
 
 msgid "Delete the selected files or directories"
-msgstr ""
+msgstr "Delete the selected files or directories"
 
 msgid "Deselect All"
-msgstr ""
+msgstr "Deselect All"
 
 msgid "Deselect group"
-msgstr ""
+msgstr "Deselect group"
 
 msgid "Deselect group..."
-msgstr ""
+msgstr "Deselect group..."
 
 msgid "Directories to group selections"
-msgstr ""
+msgstr "Directories to group selections"
 
 msgid "Directory"
-msgstr ""
+msgstr "Directory"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr ""
+msgstr "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
-msgstr ""
+msgstr "Display filenames in header. It is useful for filenames that are too long."
 
 msgid "Do you want change rights?\n"
-msgstr ""
+msgstr "Do you want change rights?\n"
 
 msgid "Do you want to view or run the script?\n"
-msgstr ""
+msgstr "Do you want to view or run the script?\n"
 
 msgid "Edit"
-msgstr ""
+msgstr "Edit"
 
 msgid "Edit current line"
-msgstr ""
+msgstr "Edit current line"
 
 msgid "Edit line"
-msgstr ""
+msgstr "Edit line"
 
 msgid "Edit new file"
-msgstr ""
+msgstr "Edit new file"
 
 msgid "Edit position is the line end"
-msgstr ""
+msgstr "Edit position is the line end"
 
 msgid "end title"
-msgstr ""
+msgstr "end title"
 
 msgid "ends with..."
-msgstr ""
+msgstr "ends with..."
 
 msgid "Enter multi-file selection mode"
-msgstr ""
+msgstr "Enter multi-file selection mode"
 
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 msgid "Error creating directory %s:\n%s"
-msgstr ""
+msgstr "Error creating directory %s:\n%s"
 
 msgid "Error creating file %s:\n%s"
-msgstr ""
+msgstr "Error creating file %s:\n%s"
 
 msgid "Error linking %s to %s:\n%s"
-msgstr ""
+msgstr "Error linking %s to %s:\n%s"
 
 msgid "Error renaming %s to %s:\n%s"
-msgstr ""
+msgstr "Error renaming %s to %s:\n%s"
 
 msgid "Error saving: %s"
-msgstr ""
+msgstr "Error saving: %s"
 
 msgid "Error..."
-msgstr ""
+msgstr "Error..."
 
 msgid "Execution finished!!"
-msgstr ""
+msgstr "Execution finished!!"
 
 msgid "Execution progress\n\n"
-msgstr ""
+msgstr "Execution progress\n\n"
 
 msgid "Exit"
-msgstr ""
+msgstr "Exit"
 
 msgid "Exit editor and write changes (if any)"
-msgstr ""
+msgstr "Exit editor and write changes (if any)"
 
 msgid "Exit movie player?"
-msgstr ""
+msgstr "Exit movie player?"
 
 msgid "Exit picture viewer"
-msgstr ""
+msgstr "Exit picture viewer"
 
 msgid "Extract archive to %s?"
-msgstr ""
+msgstr "Extract archive to %s?"
 
 msgid "Extracting..."
-msgstr ""
+msgstr "Extracting..."
 
 msgid "FIFO"
-msgstr ""
+msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr ""
+msgstr "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
 
 msgid "File checksums/hashes"
-msgstr ""
+msgstr "File checksums/hashes"
 
 msgid "File Commander"
-msgstr ""
+msgstr "File Commander"
 
 msgid "File Commander - Addon File-Viewer"
-msgstr ""
+msgstr "File Commander - Addon File-Viewer"
 
 msgid "File Commander - Addon File-Viewer Settings"
-msgstr ""
+msgstr "File Commander - Addon File-Viewer Settings"
 
 msgid "File Commander - Addon Mediaplayer"
-msgstr ""
+msgstr "File Commander - Addon Mediaplayer"
 
 msgid "File Commander - Addon Movieplayer"
-msgstr ""
+msgstr "File Commander - Addon Movieplayer"
 
 msgid "File Commander - generalised archive handler"
-msgstr ""
+msgstr "File Commander - generalised archive handler"
 
 msgid "File Commander - gzip Addon"
-msgstr ""
+msgstr "File Commander - gzip Addon"
 
 msgid "File Commander - ipk Addon"
-msgstr ""
+msgstr "File Commander - ipk Addon"
 
 msgid "File Commander - tar Addon"
-msgstr ""
+msgstr "File Commander - tar Addon"
 
 msgid "File Commander - unrar Addon"
-msgstr ""
+msgstr "File Commander - unrar Addon"
 
 msgid "File Commander - unzip Addon"
-msgstr ""
+msgstr "File Commander - unzip Addon"
 
 msgid "File not found: %s"
-msgstr ""
+msgstr "File not found: %s"
 
 msgid "File too large to open as text (max 1MB)."
-msgstr ""
+msgstr "File too large to open as text (max 1MB)."
 
 msgid "File too large to open as text."
-msgstr ""
+msgstr "File too large to open as text."
 
 msgid "File transfer was cancelled by user"
-msgstr ""
+msgstr "File transfer was cancelled by user"
 
 msgid "File/Directory Status Information"
-msgstr ""
+msgstr "File/Directory Status Information"
 
 msgid "Filenames in header"
-msgstr ""
+msgstr "Filenames in header"
 
 msgid "Filter extension, (*) appears in title"
-msgstr ""
+msgstr "Filter extension, (*) appears in title"
 
 msgid "Filter visible file classes by extension."
-msgstr ""
+msgstr "Filter visible file classes by extension."
 
 msgid "for DATA LOSS OR DAMAGE !!!"
-msgstr ""
+msgstr "for DATA LOSS OR DAMAGE !!!"
 
 msgid "from dir"
-msgstr ""
+msgstr "from dir"
 
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 msgid "Go to bookmarked folder"
-msgstr ""
+msgstr "Go to bookmarked folder"
 
 msgid "Go to default directory"
-msgstr ""
+msgstr "Go to default directory"
 
 msgid "Go to end of file"
-msgstr ""
+msgstr "Go to end of file"
 
 msgid "Go to parent directory"
-msgstr ""
+msgstr "Go to parent directory"
 
 msgid "Go to start of file"
-msgstr ""
+msgstr "Go to start of file"
 
 msgid "Group:"
-msgstr ""
+msgstr "Group:"
 
 msgid "has been CHANGED! Do you want to save it?"
-msgstr ""
+msgstr "has been CHANGED! Do you want to save it?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Hide/Show"
 
 msgid "I/O priority for script execution"
-msgstr ""
+msgstr "I/O priority for script execution"
 
 msgid "If editing a file, you can set the cursor start position at end or begin of the line."
-msgstr ""
+msgstr "If editing a file, you can set the cursor start position at end or begin of the line."
 
 msgid "In multi-selection mode moves cursor to next item after marking."
-msgstr ""
+msgstr "In multi-selection mode moves cursor to next item after marking."
 
 msgid "Inode:"
-msgstr ""
+msgstr "Inode:"
 
 msgid "Insert"
-msgstr ""
+msgstr "Insert"
 
 msgid "Insert line before current line"
-msgstr ""
+msgstr "Insert line before current line"
 
 msgid "Install"
-msgstr ""
+msgstr "Install"
 
 msgid "install/unpack ipk Files"
-msgstr ""
+msgstr "install/unpack ipk Files"
 
 msgid "Installing Plugin ..."
-msgstr ""
+msgstr "Installing Plugin ..."
 
 msgid "Invert selection"
-msgstr ""
+msgstr "Invert selection"
 
 msgid "Invert Selection"
-msgstr ""
+msgstr "Invert Selection"
 
 msgid "It is not possible to calculate hashes on <List of Storage Devices>"
-msgstr ""
+msgstr "It is not possible to calculate hashes on <List of Storage Devices>"
 
 msgid "It is not possible to change the file mode of <List of Storage Devices>"
-msgstr ""
+msgstr "It is not possible to change the file mode of <List of Storage Devices>"
 
 msgid "It is not possible to get the file status of <List of Storage Devices>"
-msgstr ""
+msgstr "It is not possible to get the file status of <List of Storage Devices>"
 
 msgid "KB"
-msgstr ""
+msgstr "KB"
 
 msgid "Leave File Commander"
-msgstr ""
+msgstr "Leave File Commander"
 
 msgid "Leave multi-select mode"
-msgstr ""
+msgstr "Leave multi-select mode"
 
 msgid "Link target:"
-msgstr ""
+msgstr "Link target:"
 
 msgid "Links:"
-msgstr ""
+msgstr "Links:"
 
 msgid "List of Storage Devices"
-msgstr ""
+msgstr "List of Storage Devices"
 
 msgid "Load"
-msgstr ""
+msgstr "Load"
 
 msgid "Make FileCommander accessible from the Extensions menu."
-msgstr ""
+msgstr "Make FileCommander accessible from the Extensions menu."
 
 msgid "Make FileCommander accessible from the main menu."
-msgstr ""
+msgstr "Make FileCommander accessible from the main menu."
 
 msgid "manage local Files"
-msgstr ""
+msgstr "manage local Files"
 
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 msgid "MENU"
-msgstr ""
+msgstr "MENU"
 
 msgid "Menu..."
-msgstr ""
+msgstr "Menu..."
 
 msgid "Metadata changed:"
-msgstr ""
+msgstr "Metadata changed:"
 
 msgid "Mode %s (%04o)"
-msgstr ""
+msgstr "Mode %s (%04o)"
 
 msgid "Modified:"
-msgstr ""
+msgstr "Modified:"
 
 msgid "Move"
-msgstr ""
+msgstr "Move"
 
 msgid "Move down list"
-msgstr ""
+msgstr "Move down list"
 
 msgid "move file"
-msgstr ""
+msgstr "move file"
 
 msgid "Move file"
-msgstr ""
+msgstr "Move file"
 
 msgid "Move file/directory to target directory"
-msgstr ""
+msgstr "Move file/directory to target directory"
 
 msgid "Move files/directories to target directory"
-msgstr ""
+msgstr "Move files/directories to target directory"
 
 msgid "move folder"
-msgstr ""
+msgstr "move folder"
 
 msgid "Move folder"
-msgstr ""
+msgstr "Move folder"
 
 msgid "Move selector to next item"
-msgstr ""
+msgstr "Move selector to next item"
 
 msgid "Move selector to next item (on/off)"
-msgstr ""
+msgstr "Move selector to next item (on/off)"
 
 msgid "Move up list"
-msgstr ""
+msgstr "Move up list"
 
 msgid "Movie"
-msgstr ""
+msgstr "Movie"
 
 msgid "MultiSelection Settings"
-msgstr ""
+msgstr "MultiSelection Settings"
 
 msgid "Music"
-msgstr ""
+msgstr "Music"
 
 msgid "My extension"
-msgstr ""
+msgstr "My extension"
 
 msgid "My Extension"
-msgstr ""
+msgstr "My Extension"
 
 msgid "n"
-msgstr ""
+msgstr "n"
 
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 msgid "Name reverse"
-msgstr ""
+msgstr "Name reverse"
 
 msgid "New folder"
-msgstr ""
+msgstr "New folder"
 
 msgid "New symlink"
-msgstr ""
+msgstr "New symlink"
 
 msgid "new.txt"
-msgstr ""
+msgstr "new.txt"
 
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgid "No files found."
-msgstr ""
+msgstr "No files found."
 
 msgid "No hash calculations configured"
-msgstr ""
+msgstr "No hash calculations configured"
 
 msgid "None of the hash programs for the hashes %s are available"
-msgstr ""
+msgstr "None of the hash programs for the hashes %s are available"
 
 msgid "Not allowed with folders"
-msgstr ""
+msgstr "Not allowed with folders"
 
 msgid "nothing connected"
-msgstr ""
+msgstr "nothing connected"
 
 msgid "Number of lines in script messages"
-msgstr ""
+msgstr "Number of lines in script messages"
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "On device:"
-msgstr ""
+msgstr "On device:"
 
 msgid "Open"
-msgstr ""
+msgstr "Open"
 
 msgid "Open actions menu"
-msgstr ""
+msgstr "Open actions menu"
 
 msgid "Open settings/actions menu"
-msgstr ""
+msgstr "Open settings/actions menu"
 
 msgid "Open with File Commander"
-msgstr ""
+msgstr "Open with File Commander"
 
 msgid "or save the picture additionally to a file"
-msgstr ""
+msgstr "or save the picture additionally to a file"
 
 msgid "Original subtitles codepage"
-msgstr ""
+msgstr "Original subtitles codepage"
 
 msgid "Original subtitles codepage for conversion to UTF-8."
-msgstr ""
+msgstr "Original subtitles codepage for conversion to UTF-8."
 
 msgid "Original:"
-msgstr ""
+msgstr "Original:"
 
 msgid "Owner:"
-msgstr ""
+msgstr "Owner:"
 
 msgid "Page down list"
-msgstr ""
+msgstr "Page down list"
 
 msgid "Page up list"
-msgstr ""
+msgstr "Page up list"
 
 msgid "Parent Directory"
-msgstr ""
+msgstr "Parent Directory"
 
 msgid "Permissions:"
-msgstr ""
+msgstr "Permissions:"
 
 msgid "Pictures"
-msgstr ""
+msgstr "Pictures"
 
 msgid "play Files"
-msgstr ""
+msgstr "play Files"
 
 msgid "Play folder"
-msgstr ""
+msgstr "Play folder"
 
 msgid "Play title"
-msgstr ""
+msgstr "Play title"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "play/show Files"
 
 msgid "Play/view/edit/install/extract/run file or enter directory"
-msgstr ""
+msgstr "Play/view/edit/install/extract/run file or enter directory"
 
 msgid "Please enter file/folder name"
-msgstr ""
+msgstr "Please enter file/folder name"
 
 msgid "Please enter name of the new directory"
-msgstr ""
+msgstr "Please enter name of the new directory"
 
 msgid "Please enter name of the new symlink"
-msgstr ""
+msgstr "Please enter name of the new symlink"
 
 msgid "Please enter password"
-msgstr ""
+msgstr "Please enter password"
 
 msgid "Please enter the new directory name"
-msgstr ""
+msgstr "Please enter the new directory name"
 
 msgid "Please enter the new file name"
-msgstr ""
+msgstr "Please enter the new file name"
 
 msgid "Please wait, Loading image."
-msgstr ""
+msgstr "Please wait, Loading image."
 
 msgid "Press OK or Exit to abort!"
-msgstr ""
+msgstr "Press OK or Exit to abort!"
 
 msgid "python"
-msgstr ""
+msgstr "python"
 
 msgid "Records"
-msgstr ""
+msgstr "Records"
 
 msgid "Refresh screen"
-msgstr ""
+msgstr "Refresh screen"
 
 msgid "Regular file"
-msgstr ""
+msgstr "Regular file"
 
 msgid "Remove current folder from bookmarks"
-msgstr ""
+msgstr "Remove current folder from bookmarks"
 
 msgid "Remove from selection (%s)"
-msgstr ""
+msgstr "Remove from selection (%s)"
 
 msgid "Remove selected folder from bookmarks"
-msgstr ""
+msgstr "Remove selected folder from bookmarks"
 
 msgid "Rename"
-msgstr ""
+msgstr "Rename"
 
 msgid "Rename file"
-msgstr ""
+msgstr "Rename file"
 
 msgid "Rename file/directory"
-msgstr ""
+msgstr "Rename file/directory"
 
 msgid "Restart"
-msgstr ""
+msgstr "Restart"
 
 msgid "Reverse left file sorting"
-msgstr ""
+msgstr "Reverse left file sorting"
 
 msgid "Reverse right file sorting"
-msgstr ""
+msgstr "Reverse right file sorting"
 
 msgid "Run script"
-msgstr ""
+msgstr "Run script"
 
 msgid "Run script in background"
-msgstr ""
+msgstr "Run script in background"
 
 msgid "Run script with optional parameter"
-msgstr ""
+msgstr "Run script with optional parameter"
 
 msgid "Run script with optional parameter in background"
-msgstr ""
+msgstr "Run script with optional parameter in background"
 
 msgid "s"
-msgstr ""
+msgstr "s"
 
 msgid "Save cursor position"
-msgstr ""
+msgstr "Save cursor position"
 
 msgid "Save cursor position in active panel."
-msgstr ""
+msgstr "Save cursor position in active panel."
 
 msgid "Save left folder on exit"
-msgstr ""
+msgstr "Save left folder on exit"
 
 msgid "Save right folder on exit"
-msgstr ""
+msgstr "Save right folder on exit"
 
 msgid "Save the left directory list location on exit."
-msgstr ""
+msgstr "Save the left directory list location on exit."
 
 msgid "Save the right folder list location on exit."
-msgstr ""
+msgstr "Save the right folder list location on exit."
 
 msgid "Search in group selection by"
-msgstr ""
+msgstr "Search in group selection by"
 
 msgid "Search text"
-msgstr ""
+msgstr "Search text"
 
 msgid "Search text (%s):"
-msgstr ""
+msgstr "Search text (%s):"
 
 msgid "Search text in file (%s)."
-msgstr ""
+msgstr "Search text in file (%s)."
 
 msgid "Select (source list) or enter directory (target list)"
-msgstr ""
+msgstr "Select (source list) or enter directory (target list)"
 
 msgid "Select a path"
-msgstr ""
+msgstr "Select a path"
 
 msgid "Select action:"
-msgstr ""
+msgstr "Select action:"
 
 msgid "Select All"
-msgstr ""
+msgstr "Select All"
 
 msgid "Select group"
-msgstr ""
+msgstr "Select group"
 
 msgid "Select group..."
-msgstr ""
+msgstr "Select group..."
 
 msgid "Select operation:"
-msgstr ""
+msgstr "Select operation:"
 
 msgid "Select your personal settings:"
-msgstr ""
+msgstr "Select your personal settings:"
 
 msgid "Set archive mode (644)"
-msgstr ""
+msgstr "Set archive mode (644)"
 
 msgid "Set executable mode (755)"
-msgstr ""
+msgstr "Set executable mode (755)"
 
 msgid "Sets whether to distinguish between uper case and lower case for searching."
-msgstr ""
+msgstr "Sets whether to distinguish between uper case and lower case for searching."
 
 msgid "Settings"
-msgstr ""
+msgstr "Settings"
 
 msgid "Settings..."
-msgstr ""
+msgstr "Settings..."
 
 msgid "shell"
-msgstr ""
+msgstr "shell"
 
 msgid "Show as Picture (press any key to close)"
-msgstr ""
+msgstr "Show as Picture (press any key to close)"
 
 msgid "Show contents of ipk file"
-msgstr ""
+msgstr "Show contents of ipk file"
 
 msgid "Show contents of rar file"
-msgstr ""
+msgstr "Show contents of rar file"
 
 msgid "Show contents of tar or compressed tar file"
-msgstr ""
+msgstr "Show contents of tar or compressed tar file"
 
 msgid "Show contents of zip file"
-msgstr ""
+msgstr "Show contents of zip file"
 
 msgid "Show directories first"
-msgstr ""
+msgstr "Show directories first"
 
 msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
-msgstr ""
+msgstr "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
 
 msgid "Show image information"
-msgstr ""
+msgstr "Show image information"
 
 msgid "Show next picture"
-msgstr ""
+msgstr "Show next picture"
 
 msgid "Show previous picture"
-msgstr ""
+msgstr "Show previous picture"
 
 msgid "Show Script completed message"
-msgstr ""
+msgstr "Show Script completed message"
 
 msgid "Show task list"
-msgstr ""
+msgstr "Show task list"
 
 msgid "Show unknown extension as text"
-msgstr ""
+msgstr "Show unknown extension as text"
 
 msgid "Size"
-msgstr ""
+msgstr "Size"
 
 msgid "Size reverse"
-msgstr ""
+msgstr "Size reverse"
 
 msgid "Size:"
-msgstr ""
+msgstr "Size:"
 
 msgid "Socket"
-msgstr ""
+msgstr "Socket"
 
 msgid "Sorting left files by name, date or size"
-msgstr ""
+msgstr "Sorting left files by name, date or size"
 
 msgid "Sorting right files by name, date or size"
-msgstr ""
+msgstr "Sorting right files by name, date or size"
 
 msgid "start title"
-msgstr ""
+msgstr "start title"
 
 msgid "Start/stop slide show"
-msgstr ""
+msgstr "Start/stop slide show"
 
 msgid "starts with..."
-msgstr ""
+msgstr "starts with..."
 
 msgid "Storage devices"
-msgstr ""
+msgstr "Storage devices"
 
 msgid "Swap buttons for reverse file sorting"
-msgstr ""
+msgstr "Swap buttons for reverse file sorting"
 
 msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
-msgstr ""
+msgstr "Swap buttons right/left with channel +/- or the channel button changed always the side."
 
 msgid "Symbolic link"
-msgstr ""
+msgstr "Symbolic link"
 
 msgid "Symlink to"
-msgstr ""
+msgstr "Symlink to"
 
 msgid "Task list"
-msgstr ""
+msgstr "Task list"
 
 msgid "TB"
-msgstr ""
+msgstr "TB"
 
 msgid "Text not found."
-msgstr ""
+msgstr "Text not found."
 
 msgid "Text searching as case sensitive or case insensitive."
-msgstr ""
+msgstr "Text searching as case sensitive or case insensitive."
 
 msgid "The authors are NOT RESPONSIBLE"
-msgstr ""
+msgstr "The authors are NOT RESPONSIBLE"
 
 msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
-msgstr ""
+msgstr "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
 
 msgid "This line is not editable!"
-msgstr ""
+msgstr "This line is not editable!"
 
 msgid "Time between slides in image viewer slideshow."
-msgstr ""
+msgstr "Time between slides in image viewer slideshow."
 
 msgid "Time for Slideshow"
-msgstr ""
+msgstr "Time for Slideshow"
 
 msgid "to dir"
-msgstr ""
+msgstr "to dir"
 
 msgid "To next found text"
-msgstr ""
+msgstr "To next found text"
 
 msgid "To previous found text"
-msgstr ""
+msgstr "To previous found text"
 
 msgid "Type the name for the new file"
-msgstr ""
+msgstr "Type the name for the new file"
 
 msgid "Type:"
-msgstr ""
+msgstr "Type:"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Unknown"
 
 msgid "Unknown file type. Open as text?"
-msgstr ""
+msgstr "Unknown file type. Open as text?"
 
 msgid "Unknown group: %d"
-msgstr ""
+msgstr "Unknown group: %d"
 
 msgid "Unknown user: %d"
-msgstr ""
+msgstr "Unknown user: %d"
 
 msgid "unpack archives"
-msgstr ""
+msgstr "unpack archives"
 
 msgid "unpack gzip Files"
-msgstr ""
+msgstr "unpack gzip Files"
 
 msgid "unpack Rar Files"
-msgstr ""
+msgstr "unpack Rar Files"
 
 msgid "unpack tar/compressed tar Files"
-msgstr ""
+msgstr "unpack tar/compressed tar Files"
 
 msgid "Unpack to %s"
-msgstr ""
+msgstr "Unpack to %s"
 
 msgid "Unpack to current folder"
-msgstr ""
+msgstr "Unpack to current folder"
 
 msgid "unpack zip Files"
-msgstr ""
+msgstr "unpack zip Files"
 
 msgid "Unsupported archive type."
-msgstr ""
+msgstr "Unsupported archive type."
 
 msgid "v"
-msgstr ""
+msgstr "v"
 
 msgid "View or edit file (if size < 1MB)"
-msgstr ""
+msgstr "View or edit file (if size < 1MB)"
 
 msgid "View or edit this %s script"
-msgstr ""
+msgstr "View or edit this %s script"
 
 msgid "WARNING!"
-msgstr ""
+msgstr "WARNING!"
 
 msgid "What do you want to play?\n"
-msgstr ""
+msgstr "What do you want to play?\n"
 
 msgid "without"
-msgstr ""
+msgstr "without"
 
 msgid "Yes"
-msgstr ""
+msgstr "Yes"
 
 msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
-msgstr ""
+msgstr "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
 
 msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
-msgstr ""
+msgstr "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
 
 msgid "You can set what will group selection use - start of title, end of title or contains in title."
-msgstr ""
+msgstr "You can set what will group selection use - start of title, end of title or contains in title."
 
