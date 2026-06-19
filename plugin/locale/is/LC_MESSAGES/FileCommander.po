@@ -1,0 +1,1050 @@
+# is translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: is <ekekaz@gmail.com>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- skrá til! Skrifa yfir"
+
+msgid "- folder exist! Overwrite"
+msgstr "- mappa til! Skrifa yfir"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Velja stilling)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\nvalfrjáls færibreyta:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - útdráttarvillur."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s er varið með lykilorði."
+
+msgid "%s successfully extracted."
+msgstr "%s tókst að draga út."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<móttakari>"
+
+msgid "Accessed:"
+msgstr "Skoðað:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Virkjaðu vinstri skráarlista sem fjölvalsuppsprettu"
+
+msgid "Activate left-hand file list as source"
+msgstr "Virkjaðu vinstri skráarlista sem uppruna"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Virkjaðu hægri skráarlistann sem fjölvalsuppsprettu"
+
+msgid "Activate right-hand file list as source"
+msgstr "Virkjaðu hægri skráarlista sem uppruna"
+
+msgid "Add current folder to bookmarks"
+msgstr "Bættu núverandi möppu við bókamerki"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Bættu viðbótinni við viðbætur valmyndina"
+
+msgid "Add plugin to main menu"
+msgstr "Bættu viðbótinni við aðalvalmyndina"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Bættu völdum möppu við bókamerki"
+
+msgid "Add to selection (%s)"
+msgstr "Bæta við vali (%s)"
+
+msgid "All"
+msgstr "Allt"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Allar skrár í möppunni með sama nafni og valin kvikmynd verða líka afrituð eða færð."
+
+msgid "All movie extensions"
+msgstr "Allar kvikmyndaviðbætur"
+
+msgid "B"
+msgstr "B"
+
+msgid "Block device"
+msgstr "Lokaðu tæki"
+
+msgid "Calculate file checksums"
+msgstr "Reiknaðu skráaeftirlitssummur"
+
+msgid "Calculates file checksums."
+msgstr "Reiknar eftirlitssummur skráa."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "Get ekki keyrt %s: %s.\n%s gæti verið í viðbót sem er ekki uppsett."
+
+msgid "Cancel"
+msgstr "Hætta við"
+
+msgid "Cancel execution?"
+msgstr "Hætta við framkvæmd?"
+
+msgid "Cannot create target directory."
+msgstr "Get ekki búið til markskrá."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Get ekki opnað mynd. Opna sem texta?"
+
+msgid "Cannot play file."
+msgstr "Get ekki spilað skrá."
+
+msgid "Cannot read file: %s"
+msgstr "Get ekki lesið skrána: %s"
+
+msgid "case insensitive"
+msgstr "dæmalaus"
+
+msgid "case sensitive"
+msgstr "hástafaviðkvæmur"
+
+msgid "Case sensitive search"
+msgstr "Litháa leit"
+
+msgid "Change buttons for list navigation"
+msgstr "Breyta hnöppum fyrir listaleiðsögn"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Breyta framkvæmdarheimildum (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Ráshnappur skiptir alltaf um hlið"
+
+msgid "Character device"
+msgstr "Karakter tæki"
+
+msgid "Close"
+msgstr "Loka"
+
+msgid "Compare case sensitive"
+msgstr "Berðu saman hástafaviðkvæma"
+
+msgid "contains in title"
+msgstr "inniheldur í titlinum"
+
+msgid "contains..."
+msgstr "inniheldur..."
+
+msgid "Content size:"
+msgstr "Efnisstærð:"
+
+msgid "Copy"
+msgstr "Afrita"
+
+msgid "copy file"
+msgstr "afrita skrá"
+
+msgid "Copy file"
+msgstr "Afritaðu skrá"
+
+msgid "Copy file/directory to target directory"
+msgstr "Afritaðu skrána/skrána í markskrána"
+
+msgid "Copy files/directories to target directory"
+msgstr "Afritaðu skrár/möppur í markskrá"
+
+msgid "copy folder"
+msgstr "afrita möppu"
+
+msgid "Copy folder"
+msgstr "Afrita möppu"
+
+msgid "Count directory content size"
+msgstr "Telja innihaldsstærð möppu"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Telur efnisstærð möppu á meðan þú gengur (kveikt/slökkt)"
+
+msgid "CPU priority for script execution"
+msgstr "CPU forgangur fyrir framkvæmd skriftu"
+
+msgid "Create directory"
+msgstr "Búðu til möppu"
+
+msgid "create symlink ..."
+msgstr "búa til tákntengil..."
+
+msgid "Create symlink to file"
+msgstr "Búðu til tákntengil í skrá"
+
+msgid "Create user-named symbolic link"
+msgstr "Búðu til táknrænan hlekk sem heitir notanda"
+
+msgid "d"
+msgstr "d"
+
+msgid "Date"
+msgstr "Dagsetning"
+
+msgid "Date reverse"
+msgstr "Dagsetning öfug"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Sjálfgefin CPU forgangur (fínn) fyrir keyrðar forskriftir. Þetta getur dregið úr álaginu þannig að forskriftir trufla ekki restina af kerfinu. (hærri gildi = lægri forgangur)"
+
+msgid "Default directory sorting"
+msgstr "Sjálfgefin skráarröðun"
+
+msgid "Default file sorting left"
+msgstr "Sjálfgefin skráarflokkun vinstri"
+
+msgid "Default file sorting right"
+msgstr "Sjálfgefin skráarflokkun rétt"
+
+msgid "Default folder"
+msgstr "Sjálfgefin mappa"
+
+msgid "Default Folder"
+msgstr "Sjálfgefin mappa"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Sjálfgefin I/O forgangur (ionice) fyrir keyrðar forskriftir. Þetta getur dregið úr álaginu þannig að forskriftir trufla ekki restina af kerfinu. (hærri gildi = lægri forgangur)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Sjálfgefin flokkunaraðferð fyrir möppur á báðum sviðum (til að beita breytingunum þarf að endurræsa FileCommander)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Sjálfgefin flokkunaraðferð fyrir skrár á vinstri spjaldi."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Sjálfgefin flokkunaraðferð fyrir skrár á hægri spjaldi."
+
+msgid "Delete"
+msgstr "Eyða"
+
+msgid "Delete current line"
+msgstr "Eyða núverandi línu"
+
+msgid "Delete file"
+msgstr "Eyða skrá"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Eyða skrá eða möppu (og öllu innihaldi hennar)"
+
+msgid "Delete folder"
+msgstr "Eyða möppu"
+
+msgid "Delete the selected files or directories"
+msgstr "Eyddu völdum skrám eða möppum"
+
+msgid "Deselect All"
+msgstr "Afvelja allt"
+
+msgid "Deselect group"
+msgstr "Afvelja hóp"
+
+msgid "Deselect group..."
+msgstr "Afvelja hóp..."
+
+msgid "Directories to group selections"
+msgstr "Möppur í hópval"
+
+msgid "Directory"
+msgstr "Skrá"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Ekki er hægt að búa til möppu hér á\n<List of Storage Devices> eða <Receiver>.\nFærðu veljarann ​​eina línu fyrir neðan eða skiptu um möppu."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Birta skráarnöfn í haus. Það er gagnlegt fyrir skráarnöfn sem eru of löng."
+
+msgid "Do you want change rights?\n"
+msgstr "Viltu breytingaréttindi?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Viltu skoða eða keyra skriftuna?\n"
+
+msgid "Edit"
+msgstr "Breyta"
+
+msgid "Edit current line"
+msgstr "Breyta núverandi línu"
+
+msgid "Edit line"
+msgstr "Breyta línu"
+
+msgid "Edit new file"
+msgstr "Breyta nýrri skrá"
+
+msgid "Edit position is the line end"
+msgstr "Breyta stöðu er línuendinn"
+
+msgid "end title"
+msgstr "endatitill"
+
+msgid "ends with..."
+msgstr "endar með..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Farðu í ham fyrir val á mörgum skrám"
+
+msgid "Error"
+msgstr "Villa"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Villa við að búa til möppu %s:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Villa við að búa til skrána %s:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Villa við að tengja %s við %s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Villa við að endurnefna %s í %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Villa við að vista: %s"
+
+msgid "Error..."
+msgstr "Villa..."
+
+msgid "Execution finished!!"
+msgstr "Framkvæmd lokið!!"
+
+msgid "Execution progress\n\n"
+msgstr "Framvinda framkvæmdar\n\n"
+
+msgid "Exit"
+msgstr "Hætta"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Lokaðu ritlinum og skrifaðu breytingar (ef einhverjar eru)"
+
+msgid "Exit movie player?"
+msgstr "Hætta kvikmyndaspilara?"
+
+msgid "Exit picture viewer"
+msgstr "Lokaðu myndskoðaranum"
+
+msgid "Extract archive to %s?"
+msgstr "Draga út skjalasafn í %s?"
+
+msgid "Extracting..."
+msgstr "Tekur út..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Ekki er hægt að búa til skrá á\n<Lista yfir geymslutæki> eða <móttakara>.\nBreyttu skrá, vinsamlegast."
+
+msgid "File checksums/hashes"
+msgstr "Skrá eftirlitssummur/kássa"
+
+msgid "File Commander"
+msgstr "Skráarstjóri"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "File Commander - Addon File-Viewer"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "Skráarforingi - Stillingar skráaskoðara viðbótar"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "File Commander - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "File Commander - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander - almennur skjalastjórnun"
+
+msgid "File Commander - gzip Addon"
+msgstr "File Commander - gzip viðbót"
+
+msgid "File Commander - ipk Addon"
+msgstr "File Commander - ipk viðbót"
+
+msgid "File Commander - tar Addon"
+msgstr "File Commander - tar viðbót"
+
+msgid "File Commander - unrar Addon"
+msgstr "File Commander - unrar viðbót"
+
+msgid "File Commander - unzip Addon"
+msgstr "File Commander - unzip Addon"
+
+msgid "File not found: %s"
+msgstr "Skrá fannst ekki: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Skrá of stór til að opna sem texti (hámark 1MB)."
+
+msgid "File too large to open as text."
+msgstr "Skrá of stór til að opna sem texti."
+
+msgid "File transfer was cancelled by user"
+msgstr "Skráaflutningi var hætt af notanda"
+
+msgid "File/Directory Status Information"
+msgstr "Upplýsingar um stöðu skráar/möppu"
+
+msgid "Filenames in header"
+msgstr "Skráarnöfn í haus"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Síuviðbót, (*) birtist í titlinum"
+
+msgid "Filter visible file classes by extension."
+msgstr "Sía sýnilega skráarflokka eftir framlengingu."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "fyrir GAGNATAPI EÐA Tjón!!!"
+
+msgid "from dir"
+msgstr "frá stj"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "Farðu í bókamerkta möppu"
+
+msgid "Go to default directory"
+msgstr "Farðu í sjálfgefna möppu"
+
+msgid "Go to end of file"
+msgstr "Farðu í lok skráar"
+
+msgid "Go to parent directory"
+msgstr "Farðu í foreldraskrá"
+
+msgid "Go to start of file"
+msgstr "Farðu í byrjun skráar"
+
+msgid "Group:"
+msgstr "Hópur:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "hefur verið BREYTT! Viltu vista það?"
+
+msgid "Hide/Show"
+msgstr "Fela/Sýna"
+
+msgid "I/O priority for script execution"
+msgstr "I/O forgangur fyrir framkvæmd handrits"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Ef þú breytir skrá geturðu stillt upphafsstöðu bendilsins í lok eða byrjun línunnar."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "Í fjölvalsham færir bendilinn á næsta atriði eftir að hafa merkt."
+
+msgid "Inode:"
+msgstr "Inode:"
+
+msgid "Insert"
+msgstr "Settu inn"
+
+msgid "Insert line before current line"
+msgstr "Settu línu fyrir núverandi línu"
+
+msgid "Install"
+msgstr "Settu upp"
+
+msgid "install/unpack ipk Files"
+msgstr "setja upp / taka upp ipk skrár"
+
+msgid "Installing Plugin ..."
+msgstr "Setur upp viðbót..."
+
+msgid "Invert selection"
+msgstr "Snúa vali við"
+
+msgid "Invert Selection"
+msgstr "Snúa við vali"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "Það er ekki hægt að reikna út kjötkássa á <List of Storage Devices>"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Það er ekki hægt að breyta skráarstillingu <List of Storage Devices>"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Það er ekki hægt að fá skráarstöðu <List of Storage Devices>"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Farðu frá File Commander"
+
+msgid "Leave multi-select mode"
+msgstr "Farðu úr fjölvalsstillingu"
+
+msgid "Link target:"
+msgstr "Tenglamarkmið:"
+
+msgid "Links:"
+msgstr "Tenglar:"
+
+msgid "List of Storage Devices"
+msgstr "Listi yfir geymslutæki"
+
+msgid "Load"
+msgstr "Hlaða"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Gerðu FileCommander aðgengilegan í valmyndinni Viðbætur."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Gerðu FileCommander aðgengilegan í aðalvalmyndinni."
+
+msgid "manage local Files"
+msgstr "stjórna staðbundnum skrám"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "MENU"
+
+msgid "Menu..."
+msgstr "Matseðill..."
+
+msgid "Metadata changed:"
+msgstr "Lýsigögnum breytt:"
+
+msgid "Mode %s (%04o)"
+msgstr "Hamur %s (%04o)"
+
+msgid "Modified:"
+msgstr "Breytt:"
+
+msgid "Move"
+msgstr "Færa"
+
+msgid "Move down list"
+msgstr "Færa niður lista"
+
+msgid "move file"
+msgstr "færa skrá"
+
+msgid "Move file"
+msgstr "Færa skrá"
+
+msgid "Move file/directory to target directory"
+msgstr "Færa skrá/skrá yfir í markskrá"
+
+msgid "Move files/directories to target directory"
+msgstr "Færa skrár/möppur í markskrá"
+
+msgid "move folder"
+msgstr "færa möppu"
+
+msgid "Move folder"
+msgstr "Færa möppu"
+
+msgid "Move selector to next item"
+msgstr "Færa veljarann ​​í næsta atriði"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Færa veljarann ​​í næsta atriði (kveikt/slökkt)"
+
+msgid "Move up list"
+msgstr "Færa upp listann"
+
+msgid "Movie"
+msgstr "Kvikmynd"
+
+msgid "MultiSelection Settings"
+msgstr "Fjölvalsstillingar"
+
+msgid "Music"
+msgstr "Tónlist"
+
+msgid "My extension"
+msgstr "Framlengingin mín"
+
+msgid "My Extension"
+msgstr "Framlengingin mín"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "Nafn"
+
+msgid "Name reverse"
+msgstr "Nafn öfugt"
+
+msgid "New folder"
+msgstr "Ný mappa"
+
+msgid "New symlink"
+msgstr "Nýr táknhlekkur"
+
+msgid "new.txt"
+msgstr "new.txt"
+
+msgid "No"
+msgstr "Nei"
+
+msgid "No files found."
+msgstr "Engar skrár fundust."
+
+msgid "No hash calculations configured"
+msgstr "Engir kjötkássaútreikningar stilltir"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "Ekkert af kjötkássaforritunum fyrir kjötkássa %s er tiltækt"
+
+msgid "Not allowed with folders"
+msgstr "Ekki leyft með möppum"
+
+msgid "nothing connected"
+msgstr "ekkert tengt"
+
+msgid "Number of lines in script messages"
+msgstr "Fjöldi lína í handritsskilaboðum"
+
+msgid "OK"
+msgstr "Allt í lagi"
+
+msgid "On device:"
+msgstr "Á tæki:"
+
+msgid "Open"
+msgstr "Opið"
+
+msgid "Open actions menu"
+msgstr "Opnaðu aðgerðarvalmynd"
+
+msgid "Open settings/actions menu"
+msgstr "Opnaðu stillingar/aðgerðavalmynd"
+
+msgid "Open with File Commander"
+msgstr "Opnaðu með File Commander"
+
+msgid "or save the picture additionally to a file"
+msgstr "eða vista myndina til viðbótar í skrá"
+
+msgid "Original subtitles codepage"
+msgstr "Upprunaleg textasíða"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Upprunaleg textasíða fyrir umbreytingu í UTF-8."
+
+msgid "Original:"
+msgstr "Upprunalegt:"
+
+msgid "Owner:"
+msgstr "Eigandi:"
+
+msgid "Page down list"
+msgstr "Síðu niður listi"
+
+msgid "Page up list"
+msgstr "Page up listi"
+
+msgid "Parent Directory"
+msgstr "Foreldraskrá"
+
+msgid "Permissions:"
+msgstr "Heimildir:"
+
+msgid "Pictures"
+msgstr "Myndir"
+
+msgid "play Files"
+msgstr "spila skrár"
+
+msgid "Play folder"
+msgstr "Spila mappa"
+
+msgid "Play title"
+msgstr "Spila titill"
+
+msgid "play/show Files"
+msgstr "spila/sýna skrár"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Spila / skoða / breyta / setja upp / draga út / keyra skrá eða slá inn möppu"
+
+msgid "Please enter file/folder name"
+msgstr "Vinsamlegast sláðu inn skráar-/möppuheiti"
+
+msgid "Please enter name of the new directory"
+msgstr "Vinsamlegast sláðu inn nafn nýju möppunnar"
+
+msgid "Please enter name of the new symlink"
+msgstr "Vinsamlegast sláðu inn nafn nýja tákntengilsins"
+
+msgid "Please enter password"
+msgstr "Vinsamlegast sláðu inn lykilorð"
+
+msgid "Please enter the new directory name"
+msgstr "Vinsamlega sláðu inn nýja möppuheitið"
+
+msgid "Please enter the new file name"
+msgstr "Vinsamlega sláðu inn nýja skráarnafnið"
+
+msgid "Please wait, Loading image."
+msgstr "Vinsamlegast bíddu, hleður mynd."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Ýttu á OK eða Hætta til að hætta við!"
+
+msgid "python"
+msgstr "python"
+
+msgid "Records"
+msgstr "Skrár"
+
+msgid "Refresh screen"
+msgstr "Endurnýjaðu skjáinn"
+
+msgid "Regular file"
+msgstr "Venjuleg skrá"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Fjarlægðu núverandi möppu úr bókamerkjum"
+
+msgid "Remove from selection (%s)"
+msgstr "Fjarlægja úr vali (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Fjarlægðu valda möppu úr bókamerkjum"
+
+msgid "Rename"
+msgstr "Endurnefna"
+
+msgid "Rename file"
+msgstr "Endurnefna skrá"
+
+msgid "Rename file/directory"
+msgstr "Endurnefna skrá/skrá"
+
+msgid "Restart"
+msgstr "Endurræstu"
+
+msgid "Reverse left file sorting"
+msgstr "Snúið við vinstri skráarflokkun"
+
+msgid "Reverse right file sorting"
+msgstr "Snúið við hægri skráarflokkun"
+
+msgid "Run script"
+msgstr "Keyra handrit"
+
+msgid "Run script in background"
+msgstr "Keyra skriftu í bakgrunni"
+
+msgid "Run script with optional parameter"
+msgstr "Keyra skriftu með valfrjálsu færibreytu"
+
+msgid "Run script with optional parameter in background"
+msgstr "Keyra skriftu með valfrjálsu færibreytu í bakgrunni"
+
+msgid "s"
+msgstr "s"
+
+msgid "Save cursor position"
+msgstr "Vista staðsetningu bendils"
+
+msgid "Save cursor position in active panel."
+msgstr "Vistaðu stöðu bendils á virku spjaldi."
+
+msgid "Save left folder on exit"
+msgstr "Vistaðu vinstri möppu þegar þú hættir"
+
+msgid "Save right folder on exit"
+msgstr "Vistaðu hægri möppu þegar þú hættir"
+
+msgid "Save the left directory list location on exit."
+msgstr "Vistaðu vinstri möppulistann staðsetningu við brottför."
+
+msgid "Save the right folder list location on exit."
+msgstr "Vistaðu rétta staðsetningu möppulistans þegar þú hættir."
+
+msgid "Search in group selection by"
+msgstr "Leitaðu í hópvali eftir"
+
+msgid "Search text"
+msgstr "Leita í texta"
+
+msgid "Search text (%s):"
+msgstr "Leitartexti (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Leitaðu að texta í skrá (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Veldu (heimildalisti) eða sláðu inn möppu (marklista)"
+
+msgid "Select a path"
+msgstr "Veldu slóð"
+
+msgid "Select action:"
+msgstr "Veldu aðgerð:"
+
+msgid "Select All"
+msgstr "Veldu Allt"
+
+msgid "Select group"
+msgstr "Veldu hóp"
+
+msgid "Select group..."
+msgstr "Veldu hóp..."
+
+msgid "Select operation:"
+msgstr "Veldu aðgerð:"
+
+msgid "Select your personal settings:"
+msgstr "Veldu persónulegar stillingar þínar:"
+
+msgid "Set archive mode (644)"
+msgstr "Stilla geymsluham (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Stilla keyrsluham (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Stillir hvort gera eigi greinarmun á hástöfum og lágstöfum við leit."
+
+msgid "Settings"
+msgstr "Stillingar"
+
+msgid "Settings..."
+msgstr "Stillingar..."
+
+msgid "shell"
+msgstr "skel"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Sýna sem mynd (ýttu á hvaða takka sem er til að loka)"
+
+msgid "Show contents of ipk file"
+msgstr "Sýna innihald ipk skráar"
+
+msgid "Show contents of rar file"
+msgstr "Sýna innihald rar skráar"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Sýna innihald tar eða þjappaðrar tar skrá"
+
+msgid "Show contents of zip file"
+msgstr "Sýna innihald zip skráar"
+
+msgid "Show directories first"
+msgstr "Sýndu möppur fyrst"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Sýna möppur á fyrstu eða síðustu stöðum í spjaldinu (til að beita breytingunum verður FileCommander að vera endurræst)."
+
+msgid "Show image information"
+msgstr "Sýna upplýsingar um mynd"
+
+msgid "Show next picture"
+msgstr "Sýndu næstu mynd"
+
+msgid "Show previous picture"
+msgstr "Sýndu fyrri mynd"
+
+msgid "Show Script completed message"
+msgstr "Sýna skriftu lokið skilaboð"
+
+msgid "Show task list"
+msgstr "Sýna verkefnalista"
+
+msgid "Show unknown extension as text"
+msgstr "Sýna óþekkta viðbót sem texta"
+
+msgid "Size"
+msgstr "Stærð"
+
+msgid "Size reverse"
+msgstr "Stærð öfug"
+
+msgid "Size:"
+msgstr "Stærð:"
+
+msgid "Socket"
+msgstr "Innstunga"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Að flokka vinstri skrár eftir nafni, dagsetningu eða stærð"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Að flokka réttar skrár eftir nafni, dagsetningu eða stærð"
+
+msgid "start title"
+msgstr "upphafstitill"
+
+msgid "Start/stop slide show"
+msgstr "Byrja/stöðva myndasýningu"
+
+msgid "starts with..."
+msgstr "byrjar á..."
+
+msgid "Storage devices"
+msgstr "Geymslutæki"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Skiptu um hnappa fyrir öfuga flokkun skráa"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Skiptu um hægri/vinstri hnappa með +/- rás eða ráshnappnum breyttist alltaf á hliðinni."
+
+msgid "Symbolic link"
+msgstr "Táknræn hlekkur"
+
+msgid "Symlink to"
+msgstr "Tákntengill til"
+
+msgid "Task list"
+msgstr "Verkefnalisti"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Text not found."
+msgstr "Texti fannst ekki."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Textaleit er hástafaviðkvæm eða hástafaviðkvæm."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Höfundar bera EKKI ÁBYRGÐ"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "Myndaskoðari hluti File Commander krefst PicturePlayer viðbótarinnar. Settu upp PicturePlayer til að virkja þessa aðgerð."
+
+msgid "This line is not editable!"
+msgstr "Ekki er hægt að breyta þessari línu!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Tími á milli skyggna í myndaskoðara skyggnusýningu."
+
+msgid "Time for Slideshow"
+msgstr "Kominn tími á myndasýningu"
+
+msgid "to dir"
+msgstr "til stj"
+
+msgid "To next found text"
+msgstr "Til næst fundinn texti"
+
+msgid "To previous found text"
+msgstr "Til fyrri fundinn texta"
+
+msgid "Type the name for the new file"
+msgstr "Sláðu inn nafnið fyrir nýju skrána"
+
+msgid "Type:"
+msgstr "Tegund:"
+
+msgid "Unknown"
+msgstr "Óþekkt"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Óþekkt skráartegund. Opna sem texta?"
+
+msgid "Unknown group: %d"
+msgstr "Óþekktur hópur: %d"
+
+msgid "Unknown user: %d"
+msgstr "Óþekktur notandi: %d"
+
+msgid "unpack archives"
+msgstr "pakka niður skjalasafni"
+
+msgid "unpack gzip Files"
+msgstr "pakkaðu upp gzip skrám"
+
+msgid "unpack Rar Files"
+msgstr "pakkaðu upp Rar skrám"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "pakkaðu upp tjöru/þjöppuðum tjöruskrám"
+
+msgid "Unpack to %s"
+msgstr "Taktu upp í %s"
+
+msgid "Unpack to current folder"
+msgstr "Taktu upp í núverandi möppu"
+
+msgid "unpack zip Files"
+msgstr "pakkaðu upp zip skrám"
+
+msgid "Unsupported archive type."
+msgstr "Óstudd skjalagerð."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Skoða eða breyta skrá (ef stærð < 1MB)"
+
+msgid "View or edit this %s script"
+msgstr "Skoðaðu eða breyttu þessu %s skriftu"
+
+msgid "WARNING!"
+msgstr "VIÐVÖRUN!"
+
+msgid "What do you want to play?\n"
+msgstr "Hvað viltu spila?\n"
+
+msgid "without"
+msgstr "án"
+
+msgid "Yes"
+msgstr "Já"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Þú getur stillt fjölda bókstafa frá upphafi núverandi skráarnafns sem texti sem er fyrirfram útfylltur á sýndarlyklaborð til að auðvelda innslátt með hópvali."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Þú getur stillt fjölda bókstafa frá enda núverandi skráarnafns sem texti sem er fyrirfram útfylltur á sýndarlyklaborð til að auðvelda innslátt með hópvali."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Þú getur stillt hvað mun hópval nota - upphaf titils, lok titils eða inniheldur í titli."
+

@@ -1,0 +1,1050 @@
+# hy translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: hy <ekekaz@gmail.com>\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- ֆայլը գոյություն ունի: Վերագրել"
+
+msgid "- folder exist! Overwrite"
+msgstr "- թղթապանակը գոյություն ունի: Վերագրել"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Ընտրված ռեժիմ)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\ընտրովի պարամետր՝\n%s"
+
+msgid "%d GB"
+msgstr "%d ԳԲ"
+
+msgid "%d kB"
+msgstr "%d կԲ"
+
+msgid "%d MB"
+msgstr "%d ՄԲ"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - արդյունահանման սխալներ:"
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s-ը պաշտպանված է գաղտնաբառով:"
+
+msgid "%s successfully extracted."
+msgstr "%s-ը հաջողությամբ հանվեց:"
+
+msgid "%s: %s"
+msgstr "%s՝ %s"
+
+msgid "<Receiver>"
+msgstr "<Ընդունիչ>"
+
+msgid "Accessed:"
+msgstr "Մուտք գործած՝"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Ակտիվացրեք ձախակողմյան ֆայլերի ցանկը որպես բազմակի ընտրության աղբյուր"
+
+msgid "Activate left-hand file list as source"
+msgstr "Ակտիվացրեք ձախակողմյան ֆայլերի ցանկը որպես աղբյուր"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Ակտիվացրեք աջակողմյան ֆայլերի ցանկը որպես բազմակի ընտրության աղբյուր"
+
+msgid "Activate right-hand file list as source"
+msgstr "Ակտիվացրեք աջակողմյան ֆայլերի ցանկը որպես աղբյուր"
+
+msgid "Add current folder to bookmarks"
+msgstr "Ավելացրեք ընթացիկ թղթապանակը էջանիշներին"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Ավելացնել հավելումներ Extensions ցանկում"
+
+msgid "Add plugin to main menu"
+msgstr "Ավելացրեք plugin հիմնական ընտրացանկին"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Ավելացնել ընտրված թղթապանակը էջանիշներին"
+
+msgid "Add to selection (%s)"
+msgstr "Ավելացնել ընտրանքին (%s)"
+
+msgid "All"
+msgstr "Բոլորը"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Գրացուցակում գտնվող բոլոր ֆայլերը նույն անունով, ինչ ընտրված ֆիլմը, նույնպես կպատճենվեն կամ կտեղափոխվեն:"
+
+msgid "All movie extensions"
+msgstr "Ֆիլմի բոլոր ընդլայնումները"
+
+msgid "B"
+msgstr "Բ"
+
+msgid "Block device"
+msgstr "Արգելափակել սարքը"
+
+msgid "Calculate file checksums"
+msgstr "Հաշվարկել ֆայլերի ստուգման գումարները"
+
+msgid "Calculates file checksums."
+msgstr "Հաշվում է ֆայլերի ստուգման գումարները:"
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "Հնարավոր չէ գործարկել %s. %s:\n%s-ը կարող է չտեղադրված փլագինում լինել:"
+
+msgid "Cancel"
+msgstr "Չեղարկել"
+
+msgid "Cancel execution?"
+msgstr "Չեղարկե՞լ կատարումը:"
+
+msgid "Cannot create target directory."
+msgstr "Հնարավոր չէ ստեղծել նպատակային գրացուցակ:"
+
+msgid "Cannot open image. Open as text?"
+msgstr "Հնարավոր չէ բացել պատկերը: Բացե՞լ որպես տեքստ"
+
+msgid "Cannot play file."
+msgstr "Հնարավոր չէ նվագարկել ֆայլը:"
+
+msgid "Cannot read file: %s"
+msgstr "Հնարավոր չէ կարդալ ֆայլը՝ %s"
+
+msgid "case insensitive"
+msgstr "գործի անզգայուն"
+
+msgid "case sensitive"
+msgstr "գործի զգայուն"
+
+msgid "Case sensitive search"
+msgstr "Գործի զգայուն որոնում"
+
+msgid "Change buttons for list navigation"
+msgstr "Փոխել կոճակները ցուցակի նավարկության համար"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Փոխել կատարման թույլտվությունները (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Channel կոճակը միշտ փոխում է կողմերը"
+
+msgid "Character device"
+msgstr "Նիշերի սարք"
+
+msgid "Close"
+msgstr "Փակել"
+
+msgid "Compare case sensitive"
+msgstr "Համեմատեք մեծատառերի զգայունությունը"
+
+msgid "contains in title"
+msgstr "վերնագրում պարունակում է"
+
+msgid "contains..."
+msgstr "պարունակում է..."
+
+msgid "Content size:"
+msgstr "Բովանդակության չափը՝"
+
+msgid "Copy"
+msgstr "Պատճենել"
+
+msgid "copy file"
+msgstr "պատճենել ֆայլը"
+
+msgid "Copy file"
+msgstr "Պատճենել ֆայլը"
+
+msgid "Copy file/directory to target directory"
+msgstr "Պատճենել ֆայլը/տեղեկատուը նպատակային գրացուցակում"
+
+msgid "Copy files/directories to target directory"
+msgstr "Պատճենեք ֆայլերը/տեղեկատուները թիրախային գրացուցակում"
+
+msgid "copy folder"
+msgstr "պատճենահանման թղթապանակ"
+
+msgid "Copy folder"
+msgstr "Պատճենել թղթապանակը"
+
+msgid "Count directory content size"
+msgstr "Հաշվեք գրացուցակի բովանդակության չափը"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Հաշվել գրացուցակի բովանդակության չափը քայլելիս (միացնել/անջատել)"
+
+msgid "CPU priority for script execution"
+msgstr "CPU-ի առաջնահերթությունը սցենարի կատարման համար"
+
+msgid "Create directory"
+msgstr "Ստեղծել գրացուցակ"
+
+msgid "create symlink ..."
+msgstr "ստեղծել սիմվոլիկ..."
+
+msgid "Create symlink to file"
+msgstr "Ստեղծեք ֆայլի սիմվոլիկ"
+
+msgid "Create user-named symbolic link"
+msgstr "Ստեղծեք օգտվողի անունով խորհրդանշական հղում"
+
+msgid "d"
+msgstr "դ"
+
+msgid "Date"
+msgstr "Ամսաթիվ"
+
+msgid "Date reverse"
+msgstr "Ամսաթիվ հակադարձ"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Նախնական պրոցեսորի առաջնահերթություն (լավ) կատարված սկրիպտների համար: Սա կարող է նվազեցնել ծանրաբեռնվածությունը, որպեսզի սկրիպտները չխանգարեն համակարգի մնացած մասերին: (ավելի բարձր արժեքներ = ցածր առաջնահերթություն)"
+
+msgid "Default directory sorting"
+msgstr "Կանխադրված գրացուցակի տեսակավորում"
+
+msgid "Default file sorting left"
+msgstr "Ֆայլի կանխադրված տեսակավորումը մնացել է"
+
+msgid "Default file sorting right"
+msgstr "Ֆայլի կանխադրված տեսակավորումը ճիշտ է"
+
+msgid "Default folder"
+msgstr "Կանխադրված թղթապանակ"
+
+msgid "Default Folder"
+msgstr "Կանխադրված թղթապանակ"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Նախնական I/O առաջնահերթություն (ionice) կատարված սկրիպտների համար: Սա կարող է նվազեցնել ծանրաբեռնվածությունը, որպեսզի սկրիպտները չխանգարեն համակարգի մնացած մասերին: (ավելի բարձր արժեքներ = ցածր առաջնահերթություն)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Երկու վահանակների դիրեկտորիաների լռելյայն տեսակավորման մեթոդը (փոփոխությունները կիրառելու համար FileCommander-ը պետք է վերագործարկվի):"
+
+msgid "Default sorting method for files in left panel."
+msgstr "Ձախ վահանակի ֆայլերի դասակարգման կանխադրված մեթոդը:"
+
+msgid "Default sorting method for files in right panel."
+msgstr "Աջ վահանակի ֆայլերի տեսակավորման լռելյայն մեթոդ:"
+
+msgid "Delete"
+msgstr "Ջնջել"
+
+msgid "Delete current line"
+msgstr "Ջնջել ընթացիկ տողը"
+
+msgid "Delete file"
+msgstr "Ջնջել ֆայլը"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Ջնջել ֆայլը կամ գրացուցակը (և դրա բոլոր բովանդակությունը)"
+
+msgid "Delete folder"
+msgstr "Ջնջել թղթապանակը"
+
+msgid "Delete the selected files or directories"
+msgstr "Ջնջել ընտրված ֆայլերը կամ գրացուցակները"
+
+msgid "Deselect All"
+msgstr "Ապաընտրել բոլորը"
+
+msgid "Deselect group"
+msgstr "Ապաընտրել խումբը"
+
+msgid "Deselect group..."
+msgstr "Ապաընտրել խումբը..."
+
+msgid "Directories to group selections"
+msgstr "Գրացուցակներ խմբերի ընտրության համար"
+
+msgid "Directory"
+msgstr "տեղեկատու"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Գրացուցակը չի կարող ստեղծվել այստեղ\n<Storage Devices> կամ <Receiver>-ում:\nԸնտրիչը տեղափոխեք մեկ տող ներքև կամ փոխեք գրացուցակը:"
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Ցուցադրել ֆայլերի անունները վերնագրում: Այն օգտակար է չափազանց երկար ֆայլերի անունների համար:"
+
+msgid "Do you want change rights?\n"
+msgstr "Ցանկանու՞մ եք փոխել իրավունքները:\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Ցանկանու՞մ եք դիտել կամ գործարկել սկրիպտը:\n"
+
+msgid "Edit"
+msgstr "Խմբագրել"
+
+msgid "Edit current line"
+msgstr "Խմբագրել ընթացիկ տողը"
+
+msgid "Edit line"
+msgstr "Խմբագրել տողը"
+
+msgid "Edit new file"
+msgstr "Խմբագրել նոր ֆայլը"
+
+msgid "Edit position is the line end"
+msgstr "Խմբագրման դիրքը տողի վերջն է"
+
+msgid "end title"
+msgstr "վերջի վերնագիր"
+
+msgid "ends with..."
+msgstr "ավարտվում է..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Մուտք գործեք բազմաֆայլ ընտրության ռեժիմ"
+
+msgid "Error"
+msgstr "Սխալ"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "%s գրացուցակը ստեղծելիս սխալ՝\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "%s ֆայլի ստեղծման սխալ՝\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "%s %s-ին կապելու սխալ՝\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "%s-ը %s-ի վերանվանելու սխալ՝\n%s"
+
+msgid "Error saving: %s"
+msgstr "Սխալ պահելիս՝ %s"
+
+msgid "Error..."
+msgstr "Սխալ..."
+
+msgid "Execution finished!!"
+msgstr "Կատարումն ավարտված է!!"
+
+msgid "Execution progress\n\n"
+msgstr "Կատարման առաջընթաց\n\n"
+
+msgid "Exit"
+msgstr "Ելք"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Դուրս եկեք խմբագրից և գրեք փոփոխությունները (եթե այդպիսիք կան)"
+
+msgid "Exit movie player?"
+msgstr "Դուրս գալ ֆիլմի նվագարկիչից"
+
+msgid "Exit picture viewer"
+msgstr "Դուրս գալ նկարների դիտումից"
+
+msgid "Extract archive to %s?"
+msgstr "Արտահանե՞լ արխիվը %s-ում:"
+
+msgid "Extracting..."
+msgstr "Արդյունահանվում է..."
+
+msgid "FIFO"
+msgstr "ՖԻՖՈ"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Ֆայլը չի ​​կարող ստեղծվել\n<Storage Devices> կամ <Receiver>-ում:\nՓոխեք գրացուցակը, խնդրում եմ:"
+
+msgid "File checksums/hashes"
+msgstr "Ֆայլերի ստուգման գումարներ/հեշ"
+
+msgid "File Commander"
+msgstr "Ֆայլի հրամանատար"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "Ֆայլի հրամանատար - Addon File-Viewer"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "Ֆայլի հրամանատար - Addon File-Viewer Settings"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "Ֆայլի հրամանատար - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "Ֆայլի հրամանատար - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "Ֆայլի հրամանատար - ընդհանրացված արխիվային կառավարիչ"
+
+msgid "File Commander - gzip Addon"
+msgstr "Ֆայլի հրամանատար - gzip Addon"
+
+msgid "File Commander - ipk Addon"
+msgstr "Ֆայլի հրամանատար - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "Ֆայլի հրամանատար - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "Ֆայլի հրամանատար - unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "Ֆայլի հրամանատար - unzip Addon-ը"
+
+msgid "File not found: %s"
+msgstr "Ֆայլը չի ​​գտնվել՝ %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Ֆայլը չափազանց մեծ է՝ որպես տեքստ բացելու համար (առավելագույնը 1 ՄԲ):"
+
+msgid "File too large to open as text."
+msgstr "Ֆայլը չափազանց մեծ է՝ որպես տեքստ բացելու համար:"
+
+msgid "File transfer was cancelled by user"
+msgstr "Ֆայլի փոխանցումը չեղարկվել է օգտվողի կողմից"
+
+msgid "File/Directory Status Information"
+msgstr "Ֆայլի/տեղեկատուի կարգավիճակի մասին տեղեկատվություն"
+
+msgid "Filenames in header"
+msgstr "Ֆայլերի անունները վերնագրում"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Զտիչի ընդլայնումը, (*) հայտնվում է վերնագրում"
+
+msgid "Filter visible file classes by extension."
+msgstr "Զտել տեսանելի ֆայլերի դասերը ըստ ընդլայնման:"
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "ՏՎՅԱԼՆԵՐԻ ԿՈՐՈՒՍՏԻ ԿԱՄ ՎՆԱՍԻ համար !!!"
+
+msgid "from dir"
+msgstr "ռեժ"
+
+msgid "GB"
+msgstr "ԳԲ"
+
+msgid "Go to bookmarked folder"
+msgstr "Գնացեք էջանշված պանակ"
+
+msgid "Go to default directory"
+msgstr "Գնացեք լռելյայն գրացուցակ"
+
+msgid "Go to end of file"
+msgstr "Գնացեք ֆայլի վերջ"
+
+msgid "Go to parent directory"
+msgstr "Գնացեք ծնողական գրացուցակ"
+
+msgid "Go to start of file"
+msgstr "Գնացեք ֆայլի սկիզբ"
+
+msgid "Group:"
+msgstr "Խումբ:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "ՓՈՓՈԽՎԵԼ Է! Ցանկանու՞մ եք պահպանել այն:"
+
+msgid "Hide/Show"
+msgstr "Թաքցնել/Ցուցադրել"
+
+msgid "I/O priority for script execution"
+msgstr "I/O առաջնահերթություն սցենարի կատարման համար"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Եթե ​​խմբագրում եք ֆայլ, կարող եք սահմանել կուրսորի սկզբնական դիրքը տողի վերջում կամ սկզբում:"
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "Բազմակի ընտրության ռեժիմում նշագրումից հետո կուրսորը տեղափոխում է հաջորդ կետ:"
+
+msgid "Inode:"
+msgstr "Ինոդ:"
+
+msgid "Insert"
+msgstr "Տեղադրեք"
+
+msgid "Insert line before current line"
+msgstr "Տեղադրեք տողը ընթացիկ տողից առաջ"
+
+msgid "Install"
+msgstr "Տեղադրեք"
+
+msgid "install/unpack ipk Files"
+msgstr "տեղադրել/փաթաթել ipk Ֆայլերը"
+
+msgid "Installing Plugin ..."
+msgstr "Plugin-ի տեղադրում..."
+
+msgid "Invert selection"
+msgstr "Շրջել ընտրությունը"
+
+msgid "Invert Selection"
+msgstr "Շրջել ընտրությունը"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "Հնարավոր չէ հաշվարկել հեշերը <Պահպանման սարքերի ցանկում>"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Հնարավոր չէ փոխել <List of Storage Devices> ֆայլի ռեժիմը"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Հնարավոր չէ ստանալ <List of Storage Devices> ֆայլի կարգավիճակը"
+
+msgid "KB"
+msgstr "ԿԲ"
+
+msgid "Leave File Commander"
+msgstr "Թողնել Ֆայլի հրամանատարը"
+
+msgid "Leave multi-select mode"
+msgstr "Դուրս գալ բազմակի ընտրության ռեժիմից"
+
+msgid "Link target:"
+msgstr "Հղման թիրախ."
+
+msgid "Links:"
+msgstr "Հղումներ:"
+
+msgid "List of Storage Devices"
+msgstr "Պահպանման սարքերի ցանկ"
+
+msgid "Load"
+msgstr "Բեռնել"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "FileCommander-ը հասանելի դարձրեք Extensions ցանկից:"
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "FileCommander-ը հասանելի դարձրեք հիմնական ցանկից:"
+
+msgid "manage local Files"
+msgstr "կառավարել տեղական ֆայլերը"
+
+msgid "MB"
+msgstr "ՄԲ"
+
+msgid "MENU"
+msgstr "ՄԵՆՈՒ"
+
+msgid "Menu..."
+msgstr "Մենյու..."
+
+msgid "Metadata changed:"
+msgstr "Մետատվյալները փոխվել են."
+
+msgid "Mode %s (%04o)"
+msgstr "Ռեժիմ %s (%04o)"
+
+msgid "Modified:"
+msgstr "Փոփոխված՝"
+
+msgid "Move"
+msgstr "Տեղափոխել"
+
+msgid "Move down list"
+msgstr "Տեղափոխել ներքև ցուցակը"
+
+msgid "move file"
+msgstr "տեղափոխել ֆայլը"
+
+msgid "Move file"
+msgstr "Տեղափոխել ֆայլը"
+
+msgid "Move file/directory to target directory"
+msgstr "Տեղափոխեք ֆայլը/տեղեկատուը նպատակային գրացուցակ"
+
+msgid "Move files/directories to target directory"
+msgstr "Տեղափոխեք ֆայլերը/տեղեկատուները նպատակային գրացուցակ"
+
+msgid "move folder"
+msgstr "տեղափոխել թղթապանակը"
+
+msgid "Move folder"
+msgstr "Տեղափոխել թղթապանակը"
+
+msgid "Move selector to next item"
+msgstr "Ընտրիչը տեղափոխեք հաջորդ կետ"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Տեղափոխեք ընտրիչը հաջորդ տարր (միացված/անջատված)"
+
+msgid "Move up list"
+msgstr "Տեղափոխեք վերև ցուցակը"
+
+msgid "Movie"
+msgstr "Ֆիլմ"
+
+msgid "MultiSelection Settings"
+msgstr "MultiSelection Պարամետրեր"
+
+msgid "Music"
+msgstr "Երաժշտություն"
+
+msgid "My extension"
+msgstr "Իմ ընդլայնումը"
+
+msgid "My Extension"
+msgstr "Իմ ընդլայնումը"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "Անուն"
+
+msgid "Name reverse"
+msgstr "Անունը հակառակ"
+
+msgid "New folder"
+msgstr "Նոր թղթապանակ"
+
+msgid "New symlink"
+msgstr "Նոր սիմվոլիկ"
+
+msgid "new.txt"
+msgstr "new.txt"
+
+msgid "No"
+msgstr "Ոչ"
+
+msgid "No files found."
+msgstr "Ֆայլեր չեն գտնվել:"
+
+msgid "No hash calculations configured"
+msgstr "Հեշի հաշվարկներ կազմաձևված չեն"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "%s հեշերի համար նախատեսված հեշ ծրագրերից ոչ մեկը հասանելի չէ"
+
+msgid "Not allowed with folders"
+msgstr "Թղթապանակներով չի թույլատրվում"
+
+msgid "nothing connected"
+msgstr "ոչինչ կապված չէ"
+
+msgid "Number of lines in script messages"
+msgstr "Սցենարի հաղորդագրություններում տողերի քանակը"
+
+msgid "OK"
+msgstr "Լավ"
+
+msgid "On device:"
+msgstr "Սարքի վրա՝"
+
+msgid "Open"
+msgstr "Բաց"
+
+msgid "Open actions menu"
+msgstr "Բացեք գործողությունների ընտրացանկը"
+
+msgid "Open settings/actions menu"
+msgstr "Բացեք կարգավորումների/գործողությունների ընտրացանկը"
+
+msgid "Open with File Commander"
+msgstr "Բացեք File Commander-ով"
+
+msgid "or save the picture additionally to a file"
+msgstr "կամ պահպանեք նկարը լրացուցիչ ֆայլում"
+
+msgid "Original subtitles codepage"
+msgstr "Բնօրինակ ենթագրերի կոդ"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Բնօրինակ ենթագրերի էջ՝ UTF-8-ի փոխակերպման համար:"
+
+msgid "Original:"
+msgstr "Բնօրինակը:"
+
+msgid "Owner:"
+msgstr "Սեփականատերը:"
+
+msgid "Page down list"
+msgstr "Էջի ներքև ցուցակ"
+
+msgid "Page up list"
+msgstr "Էջի վերևի ցուցակ"
+
+msgid "Parent Directory"
+msgstr "Ծնողների տեղեկատու"
+
+msgid "Permissions:"
+msgstr "Թույլտվություններ."
+
+msgid "Pictures"
+msgstr "Նկարներ"
+
+msgid "play Files"
+msgstr "խաղալ Ֆայլեր"
+
+msgid "Play folder"
+msgstr "Խաղալ թղթապանակ"
+
+msgid "Play title"
+msgstr "Խաղալ վերնագիր"
+
+msgid "play/show Files"
+msgstr "խաղալ/ցուցադրել Ֆայլեր"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Նվագարկել/դիտել/խմբագրել/տեղադրել/արտահանել/գործարկել ֆայլը կամ մուտքագրել գրացուցակը"
+
+msgid "Please enter file/folder name"
+msgstr "Խնդրում ենք մուտքագրել ֆայլի/թղթապանակի անունը"
+
+msgid "Please enter name of the new directory"
+msgstr "Խնդրում ենք մուտքագրել նոր գրացուցակի անունը"
+
+msgid "Please enter name of the new symlink"
+msgstr "Խնդրում ենք մուտքագրել նոր սիմհղման անունը"
+
+msgid "Please enter password"
+msgstr "Խնդրում ենք մուտքագրել գաղտնաբառը"
+
+msgid "Please enter the new directory name"
+msgstr "Խնդրում ենք մուտքագրել նոր գրացուցակի անունը"
+
+msgid "Please enter the new file name"
+msgstr "Խնդրում ենք մուտքագրել նոր ֆայլի անունը"
+
+msgid "Please wait, Loading image."
+msgstr "Խնդրում ենք սպասել, պատկերը բեռնվում է:"
+
+msgid "Press OK or Exit to abort!"
+msgstr "Սեղմեք OK կամ Ելք՝ ընդհատելու համար:"
+
+msgid "python"
+msgstr "պիթոն"
+
+msgid "Records"
+msgstr "Գրառումներ"
+
+msgid "Refresh screen"
+msgstr "Թարմացրեք էկրանը"
+
+msgid "Regular file"
+msgstr "Սովորական ֆայլ"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Հեռացրեք ընթացիկ թղթապանակը էջանիշներից"
+
+msgid "Remove from selection (%s)"
+msgstr "Հեռացնել ընտրանքից (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Հեռացրեք ընտրված թղթապանակը էջանիշներից"
+
+msgid "Rename"
+msgstr "Վերանվանել"
+
+msgid "Rename file"
+msgstr "Վերանվանել ֆայլը"
+
+msgid "Rename file/directory"
+msgstr "Վերանվանել ֆայլը/գրացուցակը"
+
+msgid "Restart"
+msgstr "Վերագործարկեք"
+
+msgid "Reverse left file sorting"
+msgstr "Հակադարձ ձախ ֆայլերի տեսակավորում"
+
+msgid "Reverse right file sorting"
+msgstr "Հակադարձ աջ ֆայլերի տեսակավորում"
+
+msgid "Run script"
+msgstr "Գործարկել սցենարը"
+
+msgid "Run script in background"
+msgstr "Գործարկել սկրիպտը հետին պլանում"
+
+msgid "Run script with optional parameter"
+msgstr "Գործարկեք սցենարը կամընտիր պարամետրով"
+
+msgid "Run script with optional parameter in background"
+msgstr "Գործարկեք սկրիպտը կամընտիր պարամետրով ֆոնին"
+
+msgid "s"
+msgstr "ս"
+
+msgid "Save cursor position"
+msgstr "Պահպանել կուրսորի դիրքը"
+
+msgid "Save cursor position in active panel."
+msgstr "Պահպանեք կուրսորի դիրքը ակտիվ վահանակում:"
+
+msgid "Save left folder on exit"
+msgstr "Պահպանեք ձախ թղթապանակը ելքի ժամանակ"
+
+msgid "Save right folder on exit"
+msgstr "Պահպանեք աջ թղթապանակը ելքի ժամանակ"
+
+msgid "Save the left directory list location on exit."
+msgstr "Պահպանեք ձախ գրացուցակի ցուցակի գտնվելու վայրը ելքի վրա:"
+
+msgid "Save the right folder list location on exit."
+msgstr "Պահպանեք ճիշտ թղթապանակների ցուցակի գտնվելու վայրը ելքի ժամանակ:"
+
+msgid "Search in group selection by"
+msgstr "Որոնել խմբի ընտրության մեջ ըստ"
+
+msgid "Search text"
+msgstr "Որոնել տեքստ"
+
+msgid "Search text (%s):"
+msgstr "Որոնման տեքստ (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Որոնել տեքստը ֆայլում (%s):"
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Ընտրեք (աղբյուրի ցանկ) կամ մուտքագրեք գրացուցակ (նպատակային ցուցակ)"
+
+msgid "Select a path"
+msgstr "Ընտրեք ուղի"
+
+msgid "Select action:"
+msgstr "Ընտրեք գործողություն."
+
+msgid "Select All"
+msgstr "Ընտրեք Բոլորը"
+
+msgid "Select group"
+msgstr "Ընտրեք խումբ"
+
+msgid "Select group..."
+msgstr "Ընտրել խումբ..."
+
+msgid "Select operation:"
+msgstr "Ընտրեք գործողություն."
+
+msgid "Select your personal settings:"
+msgstr "Ընտրեք ձեր անձնական կարգավորումները."
+
+msgid "Set archive mode (644)"
+msgstr "Սահմանել արխիվային ռեժիմը (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Սահմանել գործարկվող ռեժիմը (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Սահմանում է արդյոք տարբերել մեծատառը և փոքրատառը որոնման համար:"
+
+msgid "Settings"
+msgstr "Կարգավորումներ"
+
+msgid "Settings..."
+msgstr "Կարգավորումներ..."
+
+msgid "shell"
+msgstr "պատյան"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Ցույց տալ որպես նկար (սեղմեք ցանկացած ստեղն՝ փակելու համար)"
+
+msgid "Show contents of ipk file"
+msgstr "Ցույց տալ ipk ֆայլի բովանդակությունը"
+
+msgid "Show contents of rar file"
+msgstr "Ցույց տալ rar ֆայլի բովանդակությունը"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Ցույց տալ tar կամ սեղմված tar ֆայլի բովանդակությունը"
+
+msgid "Show contents of zip file"
+msgstr "Ցույց տալ zip ֆայլի բովանդակությունը"
+
+msgid "Show directories first"
+msgstr "Նախ ցույց տվեք դիրեկտորիաները"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Ցուցադրել դիրեկտորիաները վահանակի առաջին կամ վերջին դիրքերում (փոփոխությունները կիրառելու համար FileCommander-ը պետք է վերագործարկվի):"
+
+msgid "Show image information"
+msgstr "Ցույց տալ պատկերի տեղեկատվությունը"
+
+msgid "Show next picture"
+msgstr "Ցույց տալ հաջորդ նկարը"
+
+msgid "Show previous picture"
+msgstr "Ցույց տալ նախորդ նկարը"
+
+msgid "Show Script completed message"
+msgstr "Ցույց տալ Սցենարի ավարտված հաղորդագրությունը"
+
+msgid "Show task list"
+msgstr "Ցույց տալ առաջադրանքների ցանկը"
+
+msgid "Show unknown extension as text"
+msgstr "Ցույց տալ անհայտ ընդլայնումը որպես տեքստ"
+
+msgid "Size"
+msgstr "Չափը"
+
+msgid "Size reverse"
+msgstr "Չափը հակառակ"
+
+msgid "Size:"
+msgstr "Չափ:"
+
+msgid "Socket"
+msgstr "Վարդակ"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Ձախ ֆայլերի տեսակավորում ըստ անվանման, ամսաթվի կամ չափի"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Ֆայլերի ճիշտ տեսակավորում ըստ անվանման, ամսաթվի կամ չափի"
+
+msgid "start title"
+msgstr "սկզբի վերնագիր"
+
+msgid "Start/stop slide show"
+msgstr "Սկսել/դադարեցնել սլայդ շոուն"
+
+msgid "starts with..."
+msgstr "սկսվում է..."
+
+msgid "Storage devices"
+msgstr "Պահպանման սարքեր"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Փոխանակեք կոճակները ֆայլերի հակադարձ տեսակավորման համար"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Փոխանակեք աջ/ձախ կոճակները +/- ալիքով կամ ալիքի կոճակը միշտ փոխում է կողքը:"
+
+msgid "Symbolic link"
+msgstr "Խորհրդանշական հղում"
+
+msgid "Symlink to"
+msgstr "Symlink դեպի"
+
+msgid "Task list"
+msgstr "Առաջադրանքների ցանկ"
+
+msgid "TB"
+msgstr "ՏԲ"
+
+msgid "Text not found."
+msgstr "Տեքստը չի գտնվել:"
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Տեքստի որոնում որպես մեծատառերի զգայուն կամ մեծատառերի անզգայուն:"
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Հեղինակները ՊԱՏԱՍԽԱՆԱՏՈՒ ՉԵՆ"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "File Commander-ի Image Viewer բաղադրիչը պահանջում է PicturePlayer ընդլայնում: Տեղադրեք PicturePlayer՝ այս գործողությունը միացնելու համար:"
+
+msgid "This line is not editable!"
+msgstr "Այս տողը խմբագրման ենթակա չէ:"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Պատկերների դիտման սլայդշոուի սլայդների միջև ընկած ժամանակահատվածը:"
+
+msgid "Time for Slideshow"
+msgstr "Սլայդերի ցուցադրման ժամանակն է"
+
+msgid "to dir"
+msgstr "դեպի ռեժ"
+
+msgid "To next found text"
+msgstr "Հաջորդ գտնված տեքստին"
+
+msgid "To previous found text"
+msgstr "Նախկին գտած տեքստին"
+
+msgid "Type the name for the new file"
+msgstr "Մուտքագրեք նոր ֆայլի անունը"
+
+msgid "Type:"
+msgstr "Տեսակը:"
+
+msgid "Unknown"
+msgstr "Անհայտ"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Անհայտ ֆայլի տեսակ: Բացե՞լ որպես տեքստ"
+
+msgid "Unknown group: %d"
+msgstr "Անհայտ խումբ՝ %d"
+
+msgid "Unknown user: %d"
+msgstr "Անհայտ օգտվող՝ %d"
+
+msgid "unpack archives"
+msgstr "բացել արխիվները"
+
+msgid "unpack gzip Files"
+msgstr "բացել gzip ֆայլերը"
+
+msgid "unpack Rar Files"
+msgstr "բացել Rar ֆայլերը"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "բացել tar/սեղմված tar Ֆայլերը"
+
+msgid "Unpack to %s"
+msgstr "Ապափաթեթավորեք %s-ում"
+
+msgid "Unpack to current folder"
+msgstr "Փաթեթավորեք ընթացիկ թղթապանակում"
+
+msgid "unpack zip Files"
+msgstr "բացել zip ֆայլերը"
+
+msgid "Unsupported archive type."
+msgstr "Չաջակցվող արխիվի տեսակ:"
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Դիտեք կամ խմբագրեք ֆայլը (եթե չափը <1 ՄԲ)"
+
+msgid "View or edit this %s script"
+msgstr "Դիտեք կամ խմբագրեք այս %s սցենարը"
+
+msgid "WARNING!"
+msgstr "ԶԳՈՒՇԱՑՈՒՄ."
+
+msgid "What do you want to play?\n"
+msgstr "Ի՞նչ ես ուզում խաղալ:\n"
+
+msgid "without"
+msgstr "առանց"
+
+msgid "Yes"
+msgstr "Այո՛"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Դուք կարող եք սահմանել տառերի քանակը ընթացիկ ֆայլի անվան սկզբից որպես վիրտուալ ստեղնաշարի մեջ նախապես լրացված տեքստ՝ խմբի ընտրության միջոցով ավելի հեշտ մուտքագրելու համար:"
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Դուք կարող եք ընթացիկ ֆայլի անվան վերջից տառերի քանակը սահմանել որպես վիրտուալ ստեղնաշարի մեջ նախապես լրացված տեքստ՝ խմբի ընտրության միջոցով ավելի հեշտ մուտքագրելու համար:"
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Դուք կարող եք սահմանել, թե ինչ է օգտագործելու խմբային ընտրությունը՝ վերնագրի սկիզբ, վերնագրի վերջ կամ վերնագրի մեջ պարունակվող:"
+

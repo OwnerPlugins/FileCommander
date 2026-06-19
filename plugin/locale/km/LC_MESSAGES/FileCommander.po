@@ -1,0 +1,1050 @@
+# km translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: km <ekekaz@gmail.com>\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "-ឯកសារមានហើយ! សរសេរជាន់លើ"
+
+msgid "- folder exist! Overwrite"
+msgstr "- ថតមានហើយ! សរសេរជាន់លើ"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(របៀបជ្រើសរើស)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\nប៉ារ៉ាម៉ែត្រមិនជ្រើសរើស៖\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - កំហុសក្នុងការស្រង់ចេញ។"
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s ត្រូវបានការពារដោយពាក្យសម្ងាត់។"
+
+msgid "%s successfully extracted."
+msgstr "%s ត្រូវបានស្រង់ចេញដោយជោគជ័យ។"
+
+msgid "%s: %s"
+msgstr "%s៖ %s"
+
+msgid "<Receiver>"
+msgstr "<អ្នកទទួល>"
+
+msgid "Accessed:"
+msgstr "បានចូលប្រើ៖"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "បើកដំណើរការបញ្ជីឯកសារខាងឆ្វេងជាប្រភពជ្រើសរើសច្រើន។"
+
+msgid "Activate left-hand file list as source"
+msgstr "បើកដំណើរការបញ្ជីឯកសារខាងឆ្វេងជាប្រភព"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "បើកដំណើរការបញ្ជីឯកសារខាងស្តាំជាប្រភពជ្រើសរើសច្រើន។"
+
+msgid "Activate right-hand file list as source"
+msgstr "បើកដំណើរការបញ្ជីឯកសារខាងស្តាំជាប្រភព"
+
+msgid "Add current folder to bookmarks"
+msgstr "បន្ថែមថតបច្ចុប្បន្នទៅចំណាំ"
+
+msgid "Add plugin to Extensions menu"
+msgstr "បន្ថែមកម្មវិធីជំនួយទៅម៉ឺនុយផ្នែកបន្ថែម"
+
+msgid "Add plugin to main menu"
+msgstr "បន្ថែមកម្មវិធីជំនួយទៅម៉ឺនុយមេ"
+
+msgid "Add selected folder to bookmarks"
+msgstr "បន្ថែមថតដែលបានជ្រើសរើសទៅចំណាំ"
+
+msgid "Add to selection (%s)"
+msgstr "បន្ថែមទៅជម្រើស (%s)"
+
+msgid "All"
+msgstr "ទាំងអស់។"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "ឯកសារទាំងអស់នៅក្នុងថតដែលមានឈ្មោះដូចគ្នានឹងភាពយន្តដែលបានជ្រើសរើសនឹងត្រូវចម្លង ឬផ្លាស់ទីផងដែរ។"
+
+msgid "All movie extensions"
+msgstr "ផ្នែកបន្ថែមភាពយន្តទាំងអស់។"
+
+msgid "B"
+msgstr "ខ"
+
+msgid "Block device"
+msgstr "ឧបករណ៍ទប់ស្កាត់"
+
+msgid "Calculate file checksums"
+msgstr "គណនា​ការ​ពិនិត្យ​ឯកសារ"
+
+msgid "Calculates file checksums."
+msgstr "គណនា​ការ​ពិនិត្យ​ឯកសារ។"
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "មិនអាចដំណើរការ %s៖ %s។\n%s អាចស្ថិតនៅក្នុងកម្មវិធីជំនួយដែលមិនត្រូវបានដំឡើង។"
+
+msgid "Cancel"
+msgstr "បោះបង់"
+
+msgid "Cancel execution?"
+msgstr "បោះបង់ការប្រតិបត្តិ?"
+
+msgid "Cannot create target directory."
+msgstr "មិនអាចបង្កើតថតគោលដៅបានទេ។"
+
+msgid "Cannot open image. Open as text?"
+msgstr "មិនអាចបើករូបភាពបានទេ។ បើកជាអត្ថបទ?"
+
+msgid "Cannot play file."
+msgstr "មិនអាចលេងឯកសារបានទេ។"
+
+msgid "Cannot read file: %s"
+msgstr "មិនអាចអានឯកសារ៖ %s"
+
+msgid "case insensitive"
+msgstr "case insensitive"
+
+msgid "case sensitive"
+msgstr "ប្រកាន់អក្សរតូចធំ"
+
+msgid "Case sensitive search"
+msgstr "ការស្វែងរកដែលប្រកាន់អក្សរតូចធំ"
+
+msgid "Change buttons for list navigation"
+msgstr "ប្តូរប៊ូតុងសម្រាប់ការរុករកបញ្ជី"
+
+msgid "Change execute permissions (755/644)"
+msgstr "ផ្លាស់ប្តូរការអនុញ្ញាតប្រតិបត្តិ (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "ប៊ូតុងឆានែលតែងតែផ្លាស់ប្តូរជ្រុង"
+
+msgid "Character device"
+msgstr "ឧបករណ៍តួអក្សរ"
+
+msgid "Close"
+msgstr "បិទ"
+
+msgid "Compare case sensitive"
+msgstr "ប្រៀបធៀបករណីប្រកាន់អក្សរតូចធំ"
+
+msgid "contains in title"
+msgstr "មាននៅក្នុងចំណងជើង"
+
+msgid "contains..."
+msgstr "មាន..."
+
+msgid "Content size:"
+msgstr "ទំហំមាតិកា៖"
+
+msgid "Copy"
+msgstr "ចម្លង"
+
+msgid "copy file"
+msgstr "ចម្លងឯកសារ"
+
+msgid "Copy file"
+msgstr "ចម្លងឯកសារ"
+
+msgid "Copy file/directory to target directory"
+msgstr "ចម្លងឯកសារ/ថតឯកសារទៅថតគោលដៅ"
+
+msgid "Copy files/directories to target directory"
+msgstr "ចម្លងឯកសារ/ថតឯកសារទៅថតគោលដៅ"
+
+msgid "copy folder"
+msgstr "ថតចម្លង"
+
+msgid "Copy folder"
+msgstr "ចម្លងថតឯកសារ"
+
+msgid "Count directory content size"
+msgstr "រាប់ទំហំមាតិកាថត"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "រាប់ទំហំមាតិកាថតពេលដើរ (បើក/បិទ)"
+
+msgid "CPU priority for script execution"
+msgstr "អាទិភាព CPU សម្រាប់ដំណើរការស្គ្រីប"
+
+msgid "Create directory"
+msgstr "បង្កើតថត"
+
+msgid "create symlink ..."
+msgstr "បង្កើត symlink..."
+
+msgid "Create symlink to file"
+msgstr "បង្កើតតំណភ្ជាប់និមិត្តសញ្ញាទៅឯកសារ"
+
+msgid "Create user-named symbolic link"
+msgstr "បង្កើត​តំណ​និមិត្ត​សញ្ញា​ដែល​មាន​ឈ្មោះ​អ្នក​ប្រើ"
+
+msgid "d"
+msgstr "ឃ"
+
+msgid "Date"
+msgstr "កាលបរិច្ឆេទ"
+
+msgid "Date reverse"
+msgstr "កាលបរិច្ឆេទបញ្ច្រាស"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "អាទិភាព CPU លំនាំដើម (ល្អ) សម្រាប់ស្គ្រីបដែលបានប្រតិបត្តិ។ នេះអាចកាត់បន្ថយការផ្ទុក ដូច្នេះស្គ្រីបមិនជ្រៀតជ្រែកជាមួយប្រព័ន្ធដែលនៅសល់។ (តម្លៃខ្ពស់ជាង = អាទិភាពទាប)"
+
+msgid "Default directory sorting"
+msgstr "ការតម្រៀបថតលំនាំដើម"
+
+msgid "Default file sorting left"
+msgstr "ការតម្រៀបឯកសារលំនាំដើមនៅខាងឆ្វេង"
+
+msgid "Default file sorting right"
+msgstr "ការតម្រៀបឯកសារលំនាំដើមត្រឹមត្រូវ។"
+
+msgid "Default folder"
+msgstr "ថតឯកសារលំនាំដើម"
+
+msgid "Default Folder"
+msgstr "ថតឯកសារលំនាំដើម"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "អាទិភាព I/O លំនាំដើម (ionice) សម្រាប់ស្គ្រីបដែលបានប្រតិបត្តិ។ នេះអាចកាត់បន្ថយការផ្ទុក ដូច្នេះស្គ្រីបមិនជ្រៀតជ្រែកជាមួយប្រព័ន្ធដែលនៅសល់។ (តម្លៃខ្ពស់ជាង = អាទិភាពទាប)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "វិធីសាស្ត្រតម្រៀបលំនាំដើមសម្រាប់ថតនៅក្នុងបន្ទះទាំងពីរ (ដើម្បីអនុវត្តការផ្លាស់ប្តូរ FileCommander ត្រូវតែចាប់ផ្តើមឡើងវិញ)។"
+
+msgid "Default sorting method for files in left panel."
+msgstr "វិធីសាស្ត្រតម្រៀបលំនាំដើមសម្រាប់ឯកសារនៅក្នុងបន្ទះខាងឆ្វេង។"
+
+msgid "Default sorting method for files in right panel."
+msgstr "វិធីសាស្ត្រតម្រៀបលំនាំដើមសម្រាប់ឯកសារនៅក្នុងបន្ទះខាងស្តាំ។"
+
+msgid "Delete"
+msgstr "លុប"
+
+msgid "Delete current line"
+msgstr "លុបបន្ទាត់បច្ចុប្បន្ន"
+
+msgid "Delete file"
+msgstr "លុបឯកសារ"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "លុបឯកសារ ឬថត (និងមាតិកាទាំងអស់របស់វា)"
+
+msgid "Delete folder"
+msgstr "លុបថតឯកសារ"
+
+msgid "Delete the selected files or directories"
+msgstr "លុបឯកសារ ឬថតដែលបានជ្រើសរើស"
+
+msgid "Deselect All"
+msgstr "ដកការជ្រើសរើសទាំងអស់។"
+
+msgid "Deselect group"
+msgstr "ដកការជ្រើសរើសក្រុម"
+
+msgid "Deselect group..."
+msgstr "ឈប់ជ្រើសរើសក្រុម..."
+
+msgid "Directories to group selections"
+msgstr "បញ្ជីឈ្មោះសម្រាប់ការជ្រើសរើសក្រុម"
+
+msgid "Directory"
+msgstr "ថតឯកសារ"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "បញ្ជីឈ្មោះមិនអាចបង្កើតនៅទីនេះនៅលើ\n<បញ្ជីឧបករណ៍ផ្ទុក> ឬ <អ្នកទទួល>។\nផ្លាស់ទីឧបករណ៍ជ្រើសរើសមួយជួរខាងក្រោម ឬផ្លាស់ប្តូរថត។"
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "បង្ហាញឈ្មោះឯកសារនៅក្នុងបឋមកថា។ វាមានប្រយោជន៍សម្រាប់ឈ្មោះឯកសារដែលវែងពេក។"
+
+msgid "Do you want change rights?\n"
+msgstr "តើអ្នកចង់ផ្លាស់ប្តូរសិទ្ធិទេ?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "តើអ្នកចង់មើល ឬដំណើរការស្គ្រីបទេ?\n"
+
+msgid "Edit"
+msgstr "កែសម្រួល"
+
+msgid "Edit current line"
+msgstr "កែសម្រួលបន្ទាត់បច្ចុប្បន្ន"
+
+msgid "Edit line"
+msgstr "កែសម្រួលបន្ទាត់"
+
+msgid "Edit new file"
+msgstr "កែសម្រួលឯកសារថ្មី។"
+
+msgid "Edit position is the line end"
+msgstr "កែសម្រួលទីតាំងគឺចុងបន្ទាត់"
+
+msgid "end title"
+msgstr "ចំណងជើងបញ្ចប់"
+
+msgid "ends with..."
+msgstr "បញ្ចប់ដោយ..."
+
+msgid "Enter multi-file selection mode"
+msgstr "បញ្ចូលរបៀបជ្រើសរើសឯកសារច្រើន។"
+
+msgid "Error"
+msgstr "កំហុស"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "កំហុសក្នុងការបង្កើតថត %s:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "កំហុសក្នុងការបង្កើតឯកសារ %s:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "កំហុសក្នុងការភ្ជាប់ %s ទៅ %s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "កំហុសក្នុងការប្តូរឈ្មោះ %s ទៅ %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "កំហុសក្នុងការរក្សាទុក៖ %s"
+
+msgid "Error..."
+msgstr "កំហុស..."
+
+msgid "Execution finished!!"
+msgstr "ការអនុវត្តចប់ហើយ!!"
+
+msgid "Execution progress\n\n"
+msgstr "ដំណើរការដំណើរការ\n\n"
+
+msgid "Exit"
+msgstr "ចេញ"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "ចេញពីកម្មវិធីនិពន្ធ ហើយសរសេរការផ្លាស់ប្តូរ (ប្រសិនបើមាន)"
+
+msgid "Exit movie player?"
+msgstr "ចាកចេញពីកម្មវិធីចាក់ភាពយន្ត?"
+
+msgid "Exit picture viewer"
+msgstr "ចេញពីកម្មវិធីមើលរូបភាព"
+
+msgid "Extract archive to %s?"
+msgstr "ស្រង់​ប័ណ្ណសារ​ទៅ %s?"
+
+msgid "Extracting..."
+msgstr "កំពុងស្រង់ចេញ..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "ឯកសារមិនអាចបង្កើតនៅលើ\n<បញ្ជីឧបករណ៍ផ្ទុក> ឬ <អ្នកទទួល>។\nសូមផ្លាស់ប្តូរថតឯកសារ។"
+
+msgid "File checksums/hashes"
+msgstr "ឯកសារពិនិត្យផលបូក/ហាស់"
+
+msgid "File Commander"
+msgstr "មេបញ្ជាការឯកសារ"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "កម្មវិធីបញ្ជាឯកសារ - កម្មវិធីមើលឯកសារ Addon"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "កម្មវិធីបញ្ជាឯកសារ - ការកំណត់កម្មវិធីមើលឯកសារ Addon"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "កម្មវិធីបញ្ជាឯកសារ - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "File Commander - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander - អ្នកគ្រប់គ្រងបណ្ណសារទូទៅ"
+
+msgid "File Commander - gzip Addon"
+msgstr "កម្មវិធីបញ្ជាឯកសារ - gzip Addon"
+
+msgid "File Commander - ipk Addon"
+msgstr "កម្មវិធីបញ្ជាឯកសារ - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "មេបញ្ជាការឯកសារ - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "កម្មវិធីបញ្ជាឯកសារ - unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "File Commander - ពន្លា Addon"
+
+msgid "File not found: %s"
+msgstr "រកមិនឃើញឯកសារ៖ %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "ឯកសារធំពេកក្នុងការបើកជាអត្ថបទ (អតិបរមា 1MB)។"
+
+msgid "File too large to open as text."
+msgstr "ឯកសារធំពេកដើម្បីបើកជាអត្ថបទ។"
+
+msgid "File transfer was cancelled by user"
+msgstr "ការផ្ទេរឯកសារត្រូវបានលុបចោលដោយអ្នកប្រើប្រាស់"
+
+msgid "File/Directory Status Information"
+msgstr "ព័ត៌មានស្ថានភាពឯកសារ/ថត"
+
+msgid "Filenames in header"
+msgstr "ឈ្មោះឯកសារនៅក្នុងបឋមកថា"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "ផ្នែកបន្ថែមតម្រង (*) បង្ហាញក្នុងចំណងជើង"
+
+msgid "Filter visible file classes by extension."
+msgstr "ត្រងថ្នាក់ឯកសារដែលមើលឃើញតាមផ្នែកបន្ថែម។"
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "សម្រាប់ការបាត់បង់ទិន្នន័យ ឬការខូចខាត !!!"
+
+msgid "from dir"
+msgstr "ពី dir"
+
+msgid "GB"
+msgstr "ជីកាបៃ"
+
+msgid "Go to bookmarked folder"
+msgstr "ចូលទៅកាន់ថតដែលបានចំណាំ"
+
+msgid "Go to default directory"
+msgstr "ចូលទៅកាន់ថតលំនាំដើម"
+
+msgid "Go to end of file"
+msgstr "ទៅកាន់ចុងបញ្ចប់នៃឯកសារ"
+
+msgid "Go to parent directory"
+msgstr "ចូលទៅកាន់ថតមេ"
+
+msgid "Go to start of file"
+msgstr "ចូលទៅកាន់ការចាប់ផ្តើមឯកសារ"
+
+msgid "Group:"
+msgstr "ក្រុម៖"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "ត្រូវបានផ្លាស់ប្តូរ! តើអ្នកចង់រក្សាទុកវាទេ?"
+
+msgid "Hide/Show"
+msgstr "លាក់/បង្ហាញ"
+
+msgid "I/O priority for script execution"
+msgstr "អាទិភាព I/O សម្រាប់ការអនុវត្តស្គ្រីប"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "ប្រសិនបើកែសម្រួលឯកសារ អ្នកអាចកំណត់ទីតាំងចាប់ផ្តើមទស្សន៍ទ្រនិចនៅចុងបញ្ចប់ ឬចាប់ផ្តើមបន្ទាត់។"
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "នៅក្នុងរបៀបពហុជ្រើសរើសផ្លាស់ទីទស្សន៍ទ្រនិចទៅធាតុបន្ទាប់បន្ទាប់ពីសម្គាល់។"
+
+msgid "Inode:"
+msgstr "អ៊ីណូដ៖"
+
+msgid "Insert"
+msgstr "បញ្ចូល"
+
+msgid "Insert line before current line"
+msgstr "បញ្ចូលបន្ទាត់មុនបន្ទាត់បច្ចុប្បន្ន"
+
+msgid "Install"
+msgstr "ដំឡើង"
+
+msgid "install/unpack ipk Files"
+msgstr "ដំឡើង/ពន្លាឯកសារ ipk"
+
+msgid "Installing Plugin ..."
+msgstr "កំពុងដំឡើងកម្មវិធីជំនួយ..."
+
+msgid "Invert selection"
+msgstr "បញ្ច្រាសការជ្រើសរើស"
+
+msgid "Invert Selection"
+msgstr "ការជ្រើសរើសបញ្ច្រាស"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "វា​មិន​អាច​គណនា​សញ្ញា​នៅលើ <List of Storage Devices> បានទេ។"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "វា​មិន​អាច​ផ្លាស់ប្តូរ​របៀប​ឯកសារ​របស់ <List of Storage Devices> បានទេ។"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "វាមិនអាចទៅរួចទេក្នុងការទទួលបានស្ថានភាពឯកសាររបស់ <List of Storage Devices>"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "ទុក File Commander"
+
+msgid "Leave multi-select mode"
+msgstr "ចាកចេញពីរបៀបជ្រើសរើសច្រើន។"
+
+msgid "Link target:"
+msgstr "គោលដៅភ្ជាប់៖"
+
+msgid "Links:"
+msgstr "តំណភ្ជាប់៖"
+
+msgid "List of Storage Devices"
+msgstr "បញ្ជីឧបករណ៍ផ្ទុក"
+
+msgid "Load"
+msgstr "ផ្ទុក"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "ធ្វើឱ្យ FileCommander អាចចូលប្រើបានពីម៉ឺនុយផ្នែកបន្ថែម។"
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "ធ្វើឱ្យ FileCommander អាចចូលប្រើបានពីម៉ឺនុយមេ។"
+
+msgid "manage local Files"
+msgstr "គ្រប់គ្រងឯកសារមូលដ្ឋាន"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "ម៉ឺនុយ"
+
+msgid "Menu..."
+msgstr "ម៉ឺនុយ..."
+
+msgid "Metadata changed:"
+msgstr "ទិន្នន័យមេតាបានផ្លាស់ប្តូរ៖"
+
+msgid "Mode %s (%04o)"
+msgstr "របៀប %s (%04o)"
+
+msgid "Modified:"
+msgstr "កែប្រែ៖"
+
+msgid "Move"
+msgstr "ផ្លាស់ទី"
+
+msgid "Move down list"
+msgstr "ផ្លាស់ទីបញ្ជីចុះក្រោម"
+
+msgid "move file"
+msgstr "ផ្លាស់ទីឯកសារ"
+
+msgid "Move file"
+msgstr "ផ្លាស់ទីឯកសារ"
+
+msgid "Move file/directory to target directory"
+msgstr "ផ្លាស់ទីឯកសារ/ថតឯកសារទៅថតគោលដៅ"
+
+msgid "Move files/directories to target directory"
+msgstr "ផ្លាស់ទីឯកសារ/ថតឯកសារទៅថតគោលដៅ"
+
+msgid "move folder"
+msgstr "ផ្លាស់ទីថត"
+
+msgid "Move folder"
+msgstr "ផ្លាស់ទីថត"
+
+msgid "Move selector to next item"
+msgstr "ផ្លាស់ទីឧបករណ៍ជ្រើសរើសទៅធាតុបន្ទាប់"
+
+msgid "Move selector to next item (on/off)"
+msgstr "ផ្លាស់ទីឧបករណ៍ជ្រើសរើសទៅធាតុបន្ទាប់ (បើក/បិទ)"
+
+msgid "Move up list"
+msgstr "ផ្លាស់ទីឡើងលើបញ្ជី"
+
+msgid "Movie"
+msgstr "ភាពយន្ត"
+
+msgid "MultiSelection Settings"
+msgstr "ការកំណត់ពហុជ្រើសរើស"
+
+msgid "Music"
+msgstr "តន្ត្រី"
+
+msgid "My extension"
+msgstr "ផ្នែកបន្ថែមរបស់ខ្ញុំ"
+
+msgid "My Extension"
+msgstr "ផ្នែកបន្ថែមរបស់ខ្ញុំ"
+
+msgid "n"
+msgstr "ន"
+
+msgid "Name"
+msgstr "ឈ្មោះ"
+
+msgid "Name reverse"
+msgstr "ឈ្មោះបញ្ច្រាស"
+
+msgid "New folder"
+msgstr "ថតឯកសារថ្មី។"
+
+msgid "New symlink"
+msgstr "តំណនិមិត្តសញ្ញាថ្មី។"
+
+msgid "new.txt"
+msgstr "new.txt"
+
+msgid "No"
+msgstr "ទេ"
+
+msgid "No files found."
+msgstr "រកមិនឃើញឯកសារទេ។"
+
+msgid "No hash calculations configured"
+msgstr "មិន​មាន​ការ​គណនា​សញ្ញា​ដែល​បាន​កំណត់​"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "គ្មានកម្មវិធី hash សម្រាប់ hashes %s ទេ។"
+
+msgid "Not allowed with folders"
+msgstr "មិនអនុញ្ញាតជាមួយថតឯកសារ"
+
+msgid "nothing connected"
+msgstr "គ្មានអ្វីជាប់ទាក់ទងទេ។"
+
+msgid "Number of lines in script messages"
+msgstr "ចំនួនបន្ទាត់នៅក្នុងសារស្គ្រីប"
+
+msgid "OK"
+msgstr "យល់ព្រម"
+
+msgid "On device:"
+msgstr "នៅលើឧបករណ៍៖"
+
+msgid "Open"
+msgstr "បើក"
+
+msgid "Open actions menu"
+msgstr "បើកម៉ឺនុយសកម្មភាព"
+
+msgid "Open settings/actions menu"
+msgstr "បើកម៉ឺនុយការកំណត់/សកម្មភាព"
+
+msgid "Open with File Commander"
+msgstr "បើកជាមួយ File Commander"
+
+msgid "or save the picture additionally to a file"
+msgstr "ឬរក្សាទុករូបភាពបន្ថែមទៅក្នុងឯកសារ"
+
+msgid "Original subtitles codepage"
+msgstr "ទំព័រកូដចំណងជើងរងដើម"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "ទំព័រកូដចំណងជើងរងដើមសម្រាប់ការបំប្លែងទៅជា UTF-8។"
+
+msgid "Original:"
+msgstr "ដើម៖"
+
+msgid "Owner:"
+msgstr "ម្ចាស់៖"
+
+msgid "Page down list"
+msgstr "បញ្ជីទំព័រចុះក្រោម"
+
+msgid "Page up list"
+msgstr "បញ្ជីទំព័រ"
+
+msgid "Parent Directory"
+msgstr "បញ្ជីឈ្មោះមាតាបិតា"
+
+msgid "Permissions:"
+msgstr "ការអនុញ្ញាត៖"
+
+msgid "Pictures"
+msgstr "រូបភាព"
+
+msgid "play Files"
+msgstr "លេងឯកសារ"
+
+msgid "Play folder"
+msgstr "លេងថត"
+
+msgid "Play title"
+msgstr "លេងចំណងជើង"
+
+msgid "play/show Files"
+msgstr "លេង / បង្ហាញឯកសារ"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Play/view/edit/install/extract/run file ឬបញ្ចូលថត"
+
+msgid "Please enter file/folder name"
+msgstr "សូមបញ្ចូលឈ្មោះឯកសារ/ថតឯកសារ"
+
+msgid "Please enter name of the new directory"
+msgstr "សូមបញ្ចូលឈ្មោះរបស់ថតថ្មី។"
+
+msgid "Please enter name of the new symlink"
+msgstr "សូមបញ្ចូលឈ្មោះនៃតំណនិមិត្តសញ្ញាថ្មី។"
+
+msgid "Please enter password"
+msgstr "សូមបញ្ចូលពាក្យសម្ងាត់"
+
+msgid "Please enter the new directory name"
+msgstr "សូមបញ្ចូលឈ្មោះថតថ្មី។"
+
+msgid "Please enter the new file name"
+msgstr "សូមបញ្ចូលឈ្មោះឯកសារថ្មី។"
+
+msgid "Please wait, Loading image."
+msgstr "សូមរង់ចាំ ការផ្ទុករូបភាព។"
+
+msgid "Press OK or Exit to abort!"
+msgstr "ចុច OK ឬ Exit ដើម្បីបោះបង់!"
+
+msgid "python"
+msgstr "ពស់ថ្លាន់"
+
+msgid "Records"
+msgstr "កំណត់ត្រា"
+
+msgid "Refresh screen"
+msgstr "ធ្វើឱ្យអេក្រង់ស្រស់"
+
+msgid "Regular file"
+msgstr "ឯកសារធម្មតា។"
+
+msgid "Remove current folder from bookmarks"
+msgstr "លុបថតបច្ចុប្បន្នចេញពីចំណាំ"
+
+msgid "Remove from selection (%s)"
+msgstr "លុបចេញពីការជ្រើសរើស (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "លុបថតដែលបានជ្រើសរើសចេញពីចំណាំ"
+
+msgid "Rename"
+msgstr "ប្តូរឈ្មោះ"
+
+msgid "Rename file"
+msgstr "ប្តូរឈ្មោះឯកសារ"
+
+msgid "Rename file/directory"
+msgstr "ប្តូរឈ្មោះឯកសារ/ថតឯកសារ"
+
+msgid "Restart"
+msgstr "ចាប់ផ្ដើមឡើងវិញ"
+
+msgid "Reverse left file sorting"
+msgstr "ការតម្រៀបឯកសារខាងឆ្វេងបញ្ច្រាស"
+
+msgid "Reverse right file sorting"
+msgstr "ការតម្រៀបឯកសារស្តាំបញ្ច្រាស"
+
+msgid "Run script"
+msgstr "ដំណើរការស្គ្រីប"
+
+msgid "Run script in background"
+msgstr "ដំណើរការស្គ្រីបក្នុងផ្ទៃខាងក្រោយ"
+
+msgid "Run script with optional parameter"
+msgstr "ដំណើរការស្គ្រីបជាមួយប៉ារ៉ាម៉ែត្រស្រេចចិត្ត"
+
+msgid "Run script with optional parameter in background"
+msgstr "ដំណើរការស្គ្រីបជាមួយប៉ារ៉ាម៉ែត្រស្រេចចិត្តក្នុងផ្ទៃខាងក្រោយ"
+
+msgid "s"
+msgstr "ស"
+
+msgid "Save cursor position"
+msgstr "រក្សាទុកទីតាំងទស្សន៍ទ្រនិច"
+
+msgid "Save cursor position in active panel."
+msgstr "រក្សាទុកទីតាំងទស្សន៍ទ្រនិចនៅក្នុងបន្ទះសកម្ម។"
+
+msgid "Save left folder on exit"
+msgstr "រក្សាទុកថតខាងឆ្វេងនៅពេលចេញ"
+
+msgid "Save right folder on exit"
+msgstr "រក្សាទុកថតខាងស្តាំនៅពេលចេញ"
+
+msgid "Save the left directory list location on exit."
+msgstr "រក្សាទុកទីតាំងបញ្ជីថតខាងឆ្វេងនៅពេលចេញ។"
+
+msgid "Save the right folder list location on exit."
+msgstr "រក្សាទុកទីតាំងបញ្ជីថតដែលត្រឹមត្រូវនៅពេលចេញ។"
+
+msgid "Search in group selection by"
+msgstr "ស្វែងរកក្នុងការជ្រើសរើសក្រុមដោយ"
+
+msgid "Search text"
+msgstr "ស្វែងរកអត្ថបទ"
+
+msgid "Search text (%s):"
+msgstr "ស្វែងរកអត្ថបទ (%s)៖"
+
+msgid "Search text in file (%s)."
+msgstr "ស្វែងរកអត្ថបទក្នុងឯកសារ (%s)។"
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "ជ្រើសរើស (បញ្ជីប្រភព) ឬបញ្ចូលថត (បញ្ជីគោលដៅ)"
+
+msgid "Select a path"
+msgstr "ជ្រើសរើសផ្លូវមួយ។"
+
+msgid "Select action:"
+msgstr "ជ្រើសរើសសកម្មភាព៖"
+
+msgid "Select All"
+msgstr "ជ្រើសរើសទាំងអស់។"
+
+msgid "Select group"
+msgstr "ជ្រើសរើសក្រុម"
+
+msgid "Select group..."
+msgstr "ជ្រើសរើសក្រុម..."
+
+msgid "Select operation:"
+msgstr "ជ្រើសរើសប្រតិបត្តិការ៖"
+
+msgid "Select your personal settings:"
+msgstr "ជ្រើសរើសការកំណត់ផ្ទាល់ខ្លួនរបស់អ្នក៖"
+
+msgid "Set archive mode (644)"
+msgstr "កំណត់ទម្រង់ប័ណ្ណសារ (644)"
+
+msgid "Set executable mode (755)"
+msgstr "កំណត់របៀបប្រតិបត្តិ (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "កំណត់ថាតើត្រូវបែងចែករវាងអក្សរធំ និងអក្សរតូចសម្រាប់ការស្វែងរក។"
+
+msgid "Settings"
+msgstr "ការកំណត់"
+
+msgid "Settings..."
+msgstr "ការកំណត់..."
+
+msgid "shell"
+msgstr "សែល"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "បង្ហាញជារូបភាព (ចុចគ្រាប់ចុចណាមួយដើម្បីបិទ)"
+
+msgid "Show contents of ipk file"
+msgstr "បង្ហាញមាតិកានៃឯកសារ ipk"
+
+msgid "Show contents of rar file"
+msgstr "បង្ហាញមាតិកានៃឯកសារ rar"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "បង្ហាញមាតិកានៃឯកសារ tar ឬ tar ដែលបានបង្ហាប់"
+
+msgid "Show contents of zip file"
+msgstr "បង្ហាញមាតិកានៃឯកសារ zip"
+
+msgid "Show directories first"
+msgstr "បង្ហាញបញ្ជីឈ្មោះជាមុនសិន"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "បង្ហាញថតនៅលើទីតាំងដំបូង ឬចុងក្រោយនៅក្នុងបន្ទះ (ដើម្បីអនុវត្តការផ្លាស់ប្តូរ FileCommander ត្រូវតែចាប់ផ្តើមឡើងវិញ)។"
+
+msgid "Show image information"
+msgstr "បង្ហាញព័ត៌មានរូបភាព"
+
+msgid "Show next picture"
+msgstr "បង្ហាញរូបភាពបន្ទាប់"
+
+msgid "Show previous picture"
+msgstr "បង្ហាញរូបភាពមុន។"
+
+msgid "Show Script completed message"
+msgstr "បង្ហាញសារដែលបានបញ្ចប់ស្គ្រីប"
+
+msgid "Show task list"
+msgstr "បង្ហាញបញ្ជីភារកិច្ច"
+
+msgid "Show unknown extension as text"
+msgstr "បង្ហាញផ្នែកបន្ថែមមិនស្គាល់ជាអត្ថបទ"
+
+msgid "Size"
+msgstr "ទំហំ"
+
+msgid "Size reverse"
+msgstr "ទំហំបញ្ច្រាស"
+
+msgid "Size:"
+msgstr "ទំហំ៖"
+
+msgid "Socket"
+msgstr "រន្ធ"
+
+msgid "Sorting left files by name, date or size"
+msgstr "តម្រៀបឯកសារខាងឆ្វេងតាមឈ្មោះ កាលបរិច្ឆេទ ឬទំហំ"
+
+msgid "Sorting right files by name, date or size"
+msgstr "ការតម្រៀបឯកសារត្រឹមត្រូវតាមឈ្មោះ កាលបរិច្ឆេទ ឬទំហំ"
+
+msgid "start title"
+msgstr "ចំណងជើងចាប់ផ្តើម"
+
+msgid "Start/stop slide show"
+msgstr "ចាប់ផ្តើម / បញ្ឈប់ការបញ្ចាំងស្លាយ"
+
+msgid "starts with..."
+msgstr "ចាប់ផ្តើមជាមួយ..."
+
+msgid "Storage devices"
+msgstr "ឧបករណ៍ផ្ទុក"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "ប៊ូតុងប្តូរសម្រាប់ការតម្រៀបឯកសារបញ្ច្រាស"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "ប្តូរប៊ូតុងស្តាំ/ឆ្វេងជាមួយឆានែល +/- ឬប៊ូតុងឆានែលបានផ្លាស់ប្តូរជានិច្ច។"
+
+msgid "Symbolic link"
+msgstr "តំណភ្ជាប់និមិត្តសញ្ញា"
+
+msgid "Symlink to"
+msgstr "តំណភ្ជាប់និមិត្តសញ្ញាទៅ"
+
+msgid "Task list"
+msgstr "បញ្ជីកិច្ចការ"
+
+msgid "TB"
+msgstr "ជំងឺរបេង"
+
+msgid "Text not found."
+msgstr "រកមិនឃើញអត្ថបទទេ។"
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "ការស្វែងរកអត្ថបទជាអក្សរតូច ឬអក្សរតូចធំ។"
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "អ្នកនិពន្ធមិនទទួលខុសត្រូវទេ។"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "សមាសភាគកម្មវិធីមើលរូបភាពនៃ File Commander ទាមទារផ្នែកបន្ថែម PicturePlayer ។ ដំឡើង PicturePlayer ដើម្បីបើកដំណើរការនេះ។"
+
+msgid "This line is not editable!"
+msgstr "បន្ទាត់នេះមិនអាចកែប្រែបានទេ!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "ពេលវេលារវាងស្លាយក្នុងកម្មវិធីមើលរូបភាព។"
+
+msgid "Time for Slideshow"
+msgstr "ពេលវេលាសម្រាប់ការបញ្ចាំងស្លាយ"
+
+msgid "to dir"
+msgstr "ដើម្បី dir"
+
+msgid "To next found text"
+msgstr "ទៅអត្ថបទដែលបានរកឃើញបន្ទាប់"
+
+msgid "To previous found text"
+msgstr "ទៅអត្ថបទដែលបានរកឃើញពីមុន"
+
+msgid "Type the name for the new file"
+msgstr "វាយឈ្មោះសម្រាប់ឯកសារថ្មី។"
+
+msgid "Type:"
+msgstr "ប្រភេទ៖"
+
+msgid "Unknown"
+msgstr "មិនស្គាល់"
+
+msgid "Unknown file type. Open as text?"
+msgstr "ប្រភេទឯកសារមិនស្គាល់។ បើកជាអត្ថបទ?"
+
+msgid "Unknown group: %d"
+msgstr "ក្រុមមិនស្គាល់៖ %d"
+
+msgid "Unknown user: %d"
+msgstr "អ្នកប្រើប្រាស់មិនស្គាល់៖ %d"
+
+msgid "unpack archives"
+msgstr "ពន្លាប័ណ្ណសារ"
+
+msgid "unpack gzip Files"
+msgstr "ពន្លាឯកសារ gzip"
+
+msgid "unpack Rar Files"
+msgstr "ពន្លាឯកសារ Rar"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "ពន្លាឯកសារ tar/ដែលបានបង្ហាប់"
+
+msgid "Unpack to %s"
+msgstr "ស្រាយកញ្ចប់ទៅ %s"
+
+msgid "Unpack to current folder"
+msgstr "ស្រាយកញ្ចប់ទៅថតបច្ចុប្បន្ន"
+
+msgid "unpack zip Files"
+msgstr "ពន្លាឯកសារ zip"
+
+msgid "Unsupported archive type."
+msgstr "ប្រភេទប័ណ្ណសារដែលមិនគាំទ្រ។"
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "មើល ឬកែសម្រួលឯកសារ (ប្រសិនបើទំហំ < 1MB)"
+
+msgid "View or edit this %s script"
+msgstr "មើល ឬកែសម្រួលស្គ្រីប %s នេះ។"
+
+msgid "WARNING!"
+msgstr "ព្រមាន!"
+
+msgid "What do you want to play?\n"
+msgstr "តើអ្នកចង់លេងអ្វី?\n"
+
+msgid "without"
+msgstr "ដោយគ្មាន"
+
+msgid "Yes"
+msgstr "បាទ"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "អ្នក​អាច​កំណត់​ចំនួន​អក្សរ​ពី​ដើម​នៃ​ឈ្មោះ​ឯកសារ​បច្ចុប្បន្ន​ជា​អត្ថបទ​ដែល​បាន​បំពេញ​ជាមុន​ក្នុង​ក្ដារចុច​និម្មិត​សម្រាប់​ការ​បញ្ចូល​កាន់តែ​ងាយស្រួល​តាមរយៈ​ការ​ជ្រើសរើស​ក្រុម។"
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "អ្នក​អាច​កំណត់​ចំនួន​អក្សរ​ពី​ខាង​ចុង​នៃ​ឈ្មោះ​ឯកសារ​បច្ចុប្បន្ន​ជា​អត្ថបទ​ដែល​បាន​បំពេញ​ជាមុន​ក្នុង​ក្ដារចុច​និម្មិត​សម្រាប់​ការ​បញ្ចូល​កាន់តែ​ងាយស្រួល​តាម​រយៈ​ការ​ជ្រើសរើស​ក្រុម។"
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "អ្នក​អាច​កំណត់​នូវ​អ្វី​ដែល​ការ​ជ្រើសរើស​ក្រុម​នឹង​ប្រើ​ - ការចាប់ផ្តើម​ចំណងជើង ចុងបញ្ចប់​នៃ​ចំណងជើង ឬ​មាន​ក្នុង​ចំណងជើង។"
+

@@ -1,0 +1,1050 @@
+# he translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: he <ekekaz@gmail.com>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- הקובץ קיים! החלף"
+
+msgid "- folder exist! Overwrite"
+msgstr "- תיקייה קיימת! החלף"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(מצב בחר)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\nפרמטר אופציונלי:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d KB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - שגיאות חילוץ."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s מוגן בסיסמה."
+
+msgid "%s successfully extracted."
+msgstr "%s חולץ בהצלחה."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<מקלט>"
+
+msgid "Accessed:"
+msgstr "גישה:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "הפעל את רשימת הקבצים השמאלית כמקור לבחירה מרובה"
+
+msgid "Activate left-hand file list as source"
+msgstr "הפעל את רשימת הקבצים השמאלית כמקור"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "הפעל את רשימת הקבצים הימנית כמקור לבחירה מרובה"
+
+msgid "Activate right-hand file list as source"
+msgstr "הפעל את רשימת הקבצים הימנית כמקור"
+
+msgid "Add current folder to bookmarks"
+msgstr "הוסף את התיקייה הנוכחית לסימניות"
+
+msgid "Add plugin to Extensions menu"
+msgstr "הוסף תוסף לתפריט הרחבות"
+
+msgid "Add plugin to main menu"
+msgstr "הוסף תוסף לתפריט הראשי"
+
+msgid "Add selected folder to bookmarks"
+msgstr "הוסף תיקייה שנבחרה לסימניות"
+
+msgid "Add to selection (%s)"
+msgstr "הוסף לבחירה (%s)"
+
+msgid "All"
+msgstr "כֹּל"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "כל הקבצים בספרייה בעלי שם זהה לסרט הנבחר יועתקו או יועברו גם הם."
+
+msgid "All movie extensions"
+msgstr "כל הרחבות הסרטים"
+
+msgid "B"
+msgstr "ב"
+
+msgid "Block device"
+msgstr "חסום מכשיר"
+
+msgid "Calculate file checksums"
+msgstr "חשב סכומי בדיקה של קבצים"
+
+msgid "Calculates file checksums."
+msgstr "מחשב סכומי בדיקה של קבצים."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "לא ניתן להפעיל את %s: %s.\n%s עשוי להיות בתוסף שאינו מותקן."
+
+msgid "Cancel"
+msgstr "לְבַטֵל"
+
+msgid "Cancel execution?"
+msgstr "לבטל את הביצוע?"
+
+msgid "Cannot create target directory."
+msgstr "לא ניתן ליצור ספריית יעד."
+
+msgid "Cannot open image. Open as text?"
+msgstr "לא ניתן לפתוח תמונה. לפתוח כטקסט?"
+
+msgid "Cannot play file."
+msgstr "לא ניתן לנגן קובץ."
+
+msgid "Cannot read file: %s"
+msgstr "לא ניתן לקרוא את הקובץ: %s"
+
+msgid "case insensitive"
+msgstr "חסר רגישות לרישיות"
+
+msgid "case sensitive"
+msgstr "רגיש רישיות"
+
+msgid "Case sensitive search"
+msgstr "חיפוש תלוי רישיות"
+
+msgid "Change buttons for list navigation"
+msgstr "שנה לחצנים לניווט ברשימה"
+
+msgid "Change execute permissions (755/644)"
+msgstr "שנה הרשאות ביצוע (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "כפתור ערוץ תמיד משנה צד"
+
+msgid "Character device"
+msgstr "מכשיר אופי"
+
+msgid "Close"
+msgstr "לִסְגוֹר"
+
+msgid "Compare case sensitive"
+msgstr "השוו רגישות רישיות"
+
+msgid "contains in title"
+msgstr "מכיל בכותרת"
+
+msgid "contains..."
+msgstr "מכיל..."
+
+msgid "Content size:"
+msgstr "גודל תוכן:"
+
+msgid "Copy"
+msgstr "לְהַעְתִיק"
+
+msgid "copy file"
+msgstr "להעתיק קובץ"
+
+msgid "Copy file"
+msgstr "העתק קובץ"
+
+msgid "Copy file/directory to target directory"
+msgstr "העתק קובץ/ספרייה לספריית היעד"
+
+msgid "Copy files/directories to target directory"
+msgstr "העתק קבצים/ספריות לספריית היעד"
+
+msgid "copy folder"
+msgstr "העתק תיקייה"
+
+msgid "Copy folder"
+msgstr "העתק תיקייה"
+
+msgid "Count directory content size"
+msgstr "ספירת גודל תוכן הספרייה"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "ספירת גודל תוכן הספרייה בזמן הליכה (הפעלה/כיבוי)"
+
+msgid "CPU priority for script execution"
+msgstr "עדיפות מעבד לביצוע סקריפט"
+
+msgid "Create directory"
+msgstr "צור ספרייה"
+
+msgid "create symlink ..."
+msgstr "צור קישור סימול..."
+
+msgid "Create symlink to file"
+msgstr "צור קישור סימול לקובץ"
+
+msgid "Create user-named symbolic link"
+msgstr "צור קישור סמלי בשם משתמש"
+
+msgid "d"
+msgstr "ד"
+
+msgid "Date"
+msgstr "תַאֲרִיך"
+
+msgid "Date reverse"
+msgstr "תאריך הפוך"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "ברירת מחדל של עדיפות מעבד (נחמד) עבור סקריפטים מבוצעים. זה יכול להפחית את העומס כך שסקריפטים לא יפריעו לשאר המערכת. (ערכים גבוהים יותר = עדיפות נמוכה יותר)"
+
+msgid "Default directory sorting"
+msgstr "מיון ספריות ברירת מחדל"
+
+msgid "Default file sorting left"
+msgstr "מיון קבצים המוגדר כברירת מחדל שמאלה"
+
+msgid "Default file sorting right"
+msgstr "מיון קבצים ברירת מחדל נכון"
+
+msgid "Default folder"
+msgstr "תיקיית ברירת מחדל"
+
+msgid "Default Folder"
+msgstr "תיקיית ברירת מחדל"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "ברירת המחדל של עדיפות I/O (ionice) עבור סקריפטים מבוצעים. זה יכול להפחית את העומס כך שסקריפטים לא יפריעו לשאר המערכת. (ערכים גבוהים יותר = עדיפות נמוכה יותר)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "שיטת מיון ברירת מחדל עבור ספריות בשתי הפאנלים (כדי להחיל את השינויים יש להפעיל מחדש את FileCommander)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "שיטת מיון ברירת מחדל עבור קבצים בחלונית השמאלית."
+
+msgid "Default sorting method for files in right panel."
+msgstr "שיטת מיון ברירת מחדל עבור קבצים בחלונית הימנית."
+
+msgid "Delete"
+msgstr "לִמְחוֹק"
+
+msgid "Delete current line"
+msgstr "מחק את השורה הנוכחית"
+
+msgid "Delete file"
+msgstr "מחק קובץ"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "מחק קובץ או ספרייה (וכל תוכנו)"
+
+msgid "Delete folder"
+msgstr "מחק תיקייה"
+
+msgid "Delete the selected files or directories"
+msgstr "מחק את הקבצים או הספריות שנבחרו"
+
+msgid "Deselect All"
+msgstr "בטל את הבחירה בהכל"
+
+msgid "Deselect group"
+msgstr "בטל את בחירת הקבוצה"
+
+msgid "Deselect group..."
+msgstr "בטל את בחירת הקבוצה..."
+
+msgid "Directories to group selections"
+msgstr "מדריכים לבחירות קבוצתיות"
+
+msgid "Directory"
+msgstr "מַדרִיך"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "לא ניתן ליצור כאן ספרייה ב<רשימת התקני אחסון> או ב<מקלט>.\nהזז את הבורר שורה אחת למטה או שנה ספרייה."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "הצג שמות קבצים בכותרת. זה שימושי עבור שמות קבצים ארוכים מדי."
+
+msgid "Do you want change rights?\n"
+msgstr "האם אתה רוצה זכויות שינוי?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "האם ברצונך להציג או להפעיל את הסקריפט?\n"
+
+msgid "Edit"
+msgstr "לַעֲרוֹך"
+
+msgid "Edit current line"
+msgstr "ערוך את השורה הנוכחית"
+
+msgid "Edit line"
+msgstr "ערוך שורה"
+
+msgid "Edit new file"
+msgstr "ערוך קובץ חדש"
+
+msgid "Edit position is the line end"
+msgstr "ערוך מיקום הוא סוף השורה"
+
+msgid "end title"
+msgstr "כותרת סיום"
+
+msgid "ends with..."
+msgstr "מסתיים ב..."
+
+msgid "Enter multi-file selection mode"
+msgstr "היכנס למצב בחירת ריבוי קבצים"
+
+msgid "Error"
+msgstr "שְׁגִיאָה"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "שגיאה ביצירת ספרייה %s:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "שגיאה ביצירת הקובץ %s:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "שגיאה בקישור %s ל-%s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "שגיאה בשינוי השם של %s ל-%s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "שגיאה בשמירת: %s"
+
+msgid "Error..."
+msgstr "שְׁגִיאָה..."
+
+msgid "Execution finished!!"
+msgstr "הביצוע הסתיים!!"
+
+msgid "Execution progress\n\n"
+msgstr "התקדמות הביצוע\n\n"
+
+msgid "Exit"
+msgstr "יְצִיאָה"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "צא מהעורך וכתוב שינויים (אם יש)"
+
+msgid "Exit movie player?"
+msgstr "לצאת מנגן הסרטים?"
+
+msgid "Exit picture viewer"
+msgstr "צא ממציג התמונות"
+
+msgid "Extract archive to %s?"
+msgstr "לחלץ ארכיון ל-%s?"
+
+msgid "Extracting..."
+msgstr "מחלץ..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "לא ניתן ליצור קובץ ב-\n<רשימת התקני אחסון> או <מקלט>.\nשנה ספרייה בבקשה."
+
+msgid "File checksums/hashes"
+msgstr "סכומי בדיקות/hash של קבצים"
+
+msgid "File Commander"
+msgstr "מפקד הקבצים"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "File Commander - Addon File-Viewer"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "Commander File - Addon File-Viewer Settings"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "מפקד קבצים - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "מפקד קבצים - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "מפקד קבצים - מטפל כללי בארכיון"
+
+msgid "File Commander - gzip Addon"
+msgstr "מפקד קבצים - תוסף gzip"
+
+msgid "File Commander - ipk Addon"
+msgstr "מפקד קבצים - תוסף ipk"
+
+msgid "File Commander - tar Addon"
+msgstr "מפקד קבצים - תוסף tar"
+
+msgid "File Commander - unrar Addon"
+msgstr "מפקד קבצים - תוסף unrar"
+
+msgid "File Commander - unzip Addon"
+msgstr "מפקד הקבצים - פתח את ה-Addon"
+
+msgid "File not found: %s"
+msgstr "הקובץ לא נמצא: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "הקובץ גדול מדי לפתיחה כטקסט (מקסימום 1MB)."
+
+msgid "File too large to open as text."
+msgstr "הקובץ גדול מדי לפתיחה כטקסט."
+
+msgid "File transfer was cancelled by user"
+msgstr "העברת הקבצים בוטלה על ידי המשתמש"
+
+msgid "File/Directory Status Information"
+msgstr "מידע על מצב קובץ/ספרייה"
+
+msgid "Filenames in header"
+msgstr "שמות קבצים בכותרת"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "סיומת מסנן, (*) מופיעה בכותרת"
+
+msgid "Filter visible file classes by extension."
+msgstr "סנן מחלקות קבצים גלויות לפי סיומת."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "לאובדן נתונים או נזק!!!"
+
+msgid "from dir"
+msgstr "מאת דיר"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "עבור אל התיקיה המסומנת"
+
+msgid "Go to default directory"
+msgstr "עבור אל ספריית ברירת המחדל"
+
+msgid "Go to end of file"
+msgstr "עבור לסוף הקובץ"
+
+msgid "Go to parent directory"
+msgstr "עבור אל ספריית האב"
+
+msgid "Go to start of file"
+msgstr "עבור לתחילת הקובץ"
+
+msgid "Group:"
+msgstr "קְבוּצָה:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "השתנה! האם אתה רוצה לשמור אותו?"
+
+msgid "Hide/Show"
+msgstr "הסתר/הצג"
+
+msgid "I/O priority for script execution"
+msgstr "עדיפות קלט/פלט לביצוע סקריפט"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "אם עורכים קובץ, ניתן להגדיר את מיקום ההתחלה של הסמן בסוף השורה או בתחילתה."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "במצב ריבוי בחירה מעביר את הסמן לפריט הבא לאחר הסימון."
+
+msgid "Inode:"
+msgstr "אינודה:"
+
+msgid "Insert"
+msgstr "לְהַכנִיס"
+
+msgid "Insert line before current line"
+msgstr "הוסף שורה לפני השורה הנוכחית"
+
+msgid "Install"
+msgstr "לְהַתְקִין"
+
+msgid "install/unpack ipk Files"
+msgstr "התקן/פרק קבצי ipk"
+
+msgid "Installing Plugin ..."
+msgstr "מתקין פלאגין..."
+
+msgid "Invert selection"
+msgstr "הפוך בחירה"
+
+msgid "Invert Selection"
+msgstr "הפוך בחירה"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "לא ניתן לחשב גיבובים ב-<רשימת התקני אחסון>"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "לא ניתן לשנות את מצב הקובץ של <רשימת התקני אחסון>"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "לא ניתן לקבל את סטטוס הקובץ של <רשימת התקני אחסון>"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "עזוב את Commander File"
+
+msgid "Leave multi-select mode"
+msgstr "עזוב את מצב בחירה מרובה"
+
+msgid "Link target:"
+msgstr "יעד קישור:"
+
+msgid "Links:"
+msgstr "קישורים:"
+
+msgid "List of Storage Devices"
+msgstr "רשימה של התקני אחסון"
+
+msgid "Load"
+msgstr "לִטעוֹן"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "הפוך את FileCommander לנגיש מתפריט הרחבות."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "הפוך את FileCommander לנגיש מהתפריט הראשי."
+
+msgid "manage local Files"
+msgstr "לנהל קבצים מקומיים"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "תַפרִיט"
+
+msgid "Menu..."
+msgstr "תַפרִיט..."
+
+msgid "Metadata changed:"
+msgstr "מטא נתונים השתנו:"
+
+msgid "Mode %s (%04o)"
+msgstr "מצב %s (%04o)"
+
+msgid "Modified:"
+msgstr "שונה:"
+
+msgid "Move"
+msgstr "מַהֲלָך"
+
+msgid "Move down list"
+msgstr "זז למטה רשימה"
+
+msgid "move file"
+msgstr "להעביר קובץ"
+
+msgid "Move file"
+msgstr "העבר קובץ"
+
+msgid "Move file/directory to target directory"
+msgstr "העבר את הקובץ/ספרייה לספריית היעד"
+
+msgid "Move files/directories to target directory"
+msgstr "העבר קבצים/ספריות לספריית היעד"
+
+msgid "move folder"
+msgstr "להעביר תיקיה"
+
+msgid "Move folder"
+msgstr "העבר תיקייה"
+
+msgid "Move selector to next item"
+msgstr "העבר את הבורר לפריט הבא"
+
+msgid "Move selector to next item (on/off)"
+msgstr "העבר את הבורר לפריט הבא (הפעלה/כיבוי)"
+
+msgid "Move up list"
+msgstr "עברו למעלה ברשימה"
+
+msgid "Movie"
+msgstr "סֶרֶט"
+
+msgid "MultiSelection Settings"
+msgstr "הגדרות ריבוי בחירה"
+
+msgid "Music"
+msgstr "מוּסִיקָה"
+
+msgid "My extension"
+msgstr "הרחבה שלי"
+
+msgid "My Extension"
+msgstr "ההרחבה שלי"
+
+msgid "n"
+msgstr "נ"
+
+msgid "Name"
+msgstr "שֵׁם"
+
+msgid "Name reverse"
+msgstr "שם הפוך"
+
+msgid "New folder"
+msgstr "תיקייה חדשה"
+
+msgid "New symlink"
+msgstr "קישור סימול חדש"
+
+msgid "new.txt"
+msgstr "new.txt"
+
+msgid "No"
+msgstr "לֹא"
+
+msgid "No files found."
+msgstr "לא נמצאו קבצים."
+
+msgid "No hash calculations configured"
+msgstr "לא הוגדרו חישובי גיבוב"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "אף אחת מתוכניות הגיבוב עבור הגיבובים %s אינה זמינה"
+
+msgid "Not allowed with folders"
+msgstr "אסור עם תיקיות"
+
+msgid "nothing connected"
+msgstr "שום דבר לא קשור"
+
+msgid "Number of lines in script messages"
+msgstr "מספר השורות בהודעות סקריפט"
+
+msgid "OK"
+msgstr "בְּסֵדֶר"
+
+msgid "On device:"
+msgstr "במכשיר:"
+
+msgid "Open"
+msgstr "לִפְתוֹחַ"
+
+msgid "Open actions menu"
+msgstr "פתח את תפריט הפעולות"
+
+msgid "Open settings/actions menu"
+msgstr "פתח את תפריט ההגדרות/פעולות"
+
+msgid "Open with File Commander"
+msgstr "פתח עם מפקד הקבצים"
+
+msgid "or save the picture additionally to a file"
+msgstr "או לשמור את התמונה בנוסף לקובץ"
+
+msgid "Original subtitles codepage"
+msgstr "דף קוד כתוביות מקורי"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "דף כתוביות מקורי להמרה ל-UTF-8."
+
+msgid "Original:"
+msgstr "מְקוֹרִי:"
+
+msgid "Owner:"
+msgstr "בַּעַל:"
+
+msgid "Page down list"
+msgstr "רשימה למטה"
+
+msgid "Page up list"
+msgstr "רשימה למעלה"
+
+msgid "Parent Directory"
+msgstr "ספריית הורים"
+
+msgid "Permissions:"
+msgstr "הרשאות:"
+
+msgid "Pictures"
+msgstr "תמונות"
+
+msgid "play Files"
+msgstr "לשחק קבצים"
+
+msgid "Play folder"
+msgstr "שחק תיקייה"
+
+msgid "Play title"
+msgstr "שחק כותרת"
+
+msgid "play/show Files"
+msgstr "הפעל/הצג קבצים"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "הפעל/הצג/ערוך/התקן/חלץ/הפעל קובץ או היכנס לספרייה"
+
+msgid "Please enter file/folder name"
+msgstr "נא להזין את שם הקובץ/תיקיה"
+
+msgid "Please enter name of the new directory"
+msgstr "נא להזין את שם הספרייה החדשה"
+
+msgid "Please enter name of the new symlink"
+msgstr "נא להזין את השם של הקישור הסמלי החדש"
+
+msgid "Please enter password"
+msgstr "נא להזין סיסמה"
+
+msgid "Please enter the new directory name"
+msgstr "נא להזין את שם הספרייה החדשה"
+
+msgid "Please enter the new file name"
+msgstr "נא להזין את שם הקובץ החדש"
+
+msgid "Please wait, Loading image."
+msgstr "אנא המתן, טוען תמונה."
+
+msgid "Press OK or Exit to abort!"
+msgstr "לחץ על אישור או יציאה כדי לבטל!"
+
+msgid "python"
+msgstr "פִּיתוֹן"
+
+msgid "Records"
+msgstr "שיאים"
+
+msgid "Refresh screen"
+msgstr "רענון מסך"
+
+msgid "Regular file"
+msgstr "קובץ רגיל"
+
+msgid "Remove current folder from bookmarks"
+msgstr "הסר את התיקיה הנוכחית מהסימניות"
+
+msgid "Remove from selection (%s)"
+msgstr "הסר מהבחירה (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "הסר את התיקיה שנבחרה מהסימניות"
+
+msgid "Rename"
+msgstr "שנה שם"
+
+msgid "Rename file"
+msgstr "שנה את שם הקובץ"
+
+msgid "Rename file/directory"
+msgstr "שנה את שם הקובץ/ספרייה"
+
+msgid "Restart"
+msgstr "הפעל מחדש"
+
+msgid "Reverse left file sorting"
+msgstr "הפוך את מיון הקבצים השמאלי"
+
+msgid "Reverse right file sorting"
+msgstr "הפוך את מיון הקבצים הימני"
+
+msgid "Run script"
+msgstr "הפעל סקריפט"
+
+msgid "Run script in background"
+msgstr "הפעל סקריפט ברקע"
+
+msgid "Run script with optional parameter"
+msgstr "הפעל סקריפט עם פרמטר אופציונלי"
+
+msgid "Run script with optional parameter in background"
+msgstr "הפעל סקריפט עם פרמטר אופציונלי ברקע"
+
+msgid "s"
+msgstr "ס"
+
+msgid "Save cursor position"
+msgstr "שמור את מיקום הסמן"
+
+msgid "Save cursor position in active panel."
+msgstr "שמור את מיקום הסמן בחלונית הפעילה."
+
+msgid "Save left folder on exit"
+msgstr "שמור את התיקייה השמאלית ביציאה"
+
+msgid "Save right folder on exit"
+msgstr "שמור את התיקייה הימנית ביציאה"
+
+msgid "Save the left directory list location on exit."
+msgstr "שמור את מיקום רשימת הספריות השמאלית ביציאה."
+
+msgid "Save the right folder list location on exit."
+msgstr "שמור את מיקום רשימת התיקיות הנכון ביציאה."
+
+msgid "Search in group selection by"
+msgstr "חפש בבחירת הקבוצה לפי"
+
+msgid "Search text"
+msgstr "חיפוש טקסט"
+
+msgid "Search text (%s):"
+msgstr "טקסט חיפוש (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "חפש טקסט בקובץ (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "בחר (רשימת מקורות) או היכנס לספרייה (רשימת יעדים)"
+
+msgid "Select a path"
+msgstr "בחר נתיב"
+
+msgid "Select action:"
+msgstr "בחר פעולה:"
+
+msgid "Select All"
+msgstr "בחר הכל"
+
+msgid "Select group"
+msgstr "בחר קבוצה"
+
+msgid "Select group..."
+msgstr "בחר קבוצה..."
+
+msgid "Select operation:"
+msgstr "בחר פעולה:"
+
+msgid "Select your personal settings:"
+msgstr "בחר את ההגדרות האישיות שלך:"
+
+msgid "Set archive mode (644)"
+msgstr "הגדר מצב ארכיון (644)"
+
+msgid "Set executable mode (755)"
+msgstr "הגדר מצב הפעלה (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "מגדיר אם להבחין בין אותיות רישיות לאותיות קטנות לחיפוש."
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "Settings..."
+msgstr "הגדרות..."
+
+msgid "shell"
+msgstr "פָּגָז"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "הצג כתמונה (לחץ על מקש כלשהו כדי לסגור)"
+
+msgid "Show contents of ipk file"
+msgstr "הצג את התוכן של קובץ ה-ipk"
+
+msgid "Show contents of rar file"
+msgstr "הצג את התוכן של קובץ rar"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "הצג תוכן של קובץ tar או קובץ tar דחוס"
+
+msgid "Show contents of zip file"
+msgstr "הצג את התוכן של קובץ ה-zip"
+
+msgid "Show directories first"
+msgstr "תחילה הצג ספריות"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "הצג ספריות במיקום הראשון או האחרון בחלונית (כדי להחיל את השינויים יש להפעיל מחדש את FileCommander)."
+
+msgid "Show image information"
+msgstr "הצג מידע על תמונה"
+
+msgid "Show next picture"
+msgstr "הצג את התמונה הבאה"
+
+msgid "Show previous picture"
+msgstr "הצג תמונה קודמת"
+
+msgid "Show Script completed message"
+msgstr "הצג הודעת סקריפט שהושלמה"
+
+msgid "Show task list"
+msgstr "הצג רשימת משימות"
+
+msgid "Show unknown extension as text"
+msgstr "הצג סיומת לא ידועה כטקסט"
+
+msgid "Size"
+msgstr "גוֹדֶל"
+
+msgid "Size reverse"
+msgstr "גודל הפוך"
+
+msgid "Size:"
+msgstr "גוֹדֶל:"
+
+msgid "Socket"
+msgstr "שֶׁקַע"
+
+msgid "Sorting left files by name, date or size"
+msgstr "מיון קבצים שמאליים לפי שם, תאריך או גודל"
+
+msgid "Sorting right files by name, date or size"
+msgstr "מיון קבצים נכון לפי שם, תאריך או גודל"
+
+msgid "start title"
+msgstr "כותרת להתחיל"
+
+msgid "Start/stop slide show"
+msgstr "התחל/עצור הצגת שקופיות"
+
+msgid "starts with..."
+msgstr "מתחיל ב..."
+
+msgid "Storage devices"
+msgstr "התקני אחסון"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "כפתורי החלפה למיון קבצים הפוך"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "החלף לחצנים ימין/שמאל עם ערוץ +/- או כפתור הערוץ החליף תמיד את הצד."
+
+msgid "Symbolic link"
+msgstr "קישור סמלי"
+
+msgid "Symlink to"
+msgstr "קישור סימול ל"
+
+msgid "Task list"
+msgstr "רשימת משימות"
+
+msgid "TB"
+msgstr "שַׁחֶפֶת"
+
+msgid "Text not found."
+msgstr "הטקסט לא נמצא."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "חיפוש טקסט כרגיש לאותיות גדולות או לא תלוי רישיות."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "המחברים אינם אחראים"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "רכיב ה-Image Viewer של מפקד הקבצים דורש את סיומת PicturePlayer. התקן את PicturePlayer כדי לאפשר פעולה זו."
+
+msgid "This line is not editable!"
+msgstr "שורה זו אינה ניתנת לעריכה!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "זמן בין שקופיות במצגת השקופיות של מציג התמונות."
+
+msgid "Time for Slideshow"
+msgstr "הגיע הזמן למצגת"
+
+msgid "to dir"
+msgstr "למנהל"
+
+msgid "To next found text"
+msgstr "לטקסט הבא שנמצא"
+
+msgid "To previous found text"
+msgstr "לטקסט שנמצא קודם"
+
+msgid "Type the name for the new file"
+msgstr "הקלד את השם של הקובץ החדש"
+
+msgid "Type:"
+msgstr "סוּג:"
+
+msgid "Unknown"
+msgstr "לֹא יְדוּעַ"
+
+msgid "Unknown file type. Open as text?"
+msgstr "סוג קובץ לא ידוע. לפתוח כטקסט?"
+
+msgid "Unknown group: %d"
+msgstr "קבוצה לא ידועה: %d"
+
+msgid "Unknown user: %d"
+msgstr "משתמש לא ידוע: %d"
+
+msgid "unpack archives"
+msgstr "לפרוק ארכיונים"
+
+msgid "unpack gzip Files"
+msgstr "פרק את קבצי gzip"
+
+msgid "unpack Rar Files"
+msgstr "לפרוק קבצי Rar"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "לפרק קבצי tar/דחוסים tar"
+
+msgid "Unpack to %s"
+msgstr "פרק ל-%s"
+
+msgid "Unpack to current folder"
+msgstr "הוצא מהאריזה לתיקיה הנוכחית"
+
+msgid "unpack zip Files"
+msgstr "לפרוק קבצי zip"
+
+msgid "Unsupported archive type."
+msgstr "סוג ארכיון לא נתמך."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "הצג או ערוך קובץ (אם גודל < 1MB)"
+
+msgid "View or edit this %s script"
+msgstr "הצג או ערוך את הסקריפט של %s זה"
+
+msgid "WARNING!"
+msgstr "אַזהָרָה!"
+
+msgid "What do you want to play?\n"
+msgstr "מה אתה רוצה לשחק?\n"
+
+msgid "without"
+msgstr "לְלֹא"
+
+msgid "Yes"
+msgstr "כֵּן"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "אתה יכול להגדיר את מספר האותיות מתחילת שם הקובץ הנוכחי כטקסט שמולא מראש במקלדת הוירטואלית לקלט קל יותר באמצעות בחירת קבוצה."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "אתה יכול להגדיר את מספר האותיות מסוף שם הקובץ הנוכחי כטקסט שמולא מראש במקלדת הוירטואלית לקלט קל יותר באמצעות בחירת קבוצה."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "אתה יכול להגדיר במה תשתמש בחירה בקבוצה - תחילת כותרת, סוף כותרת או מכיל בכותרת."
+

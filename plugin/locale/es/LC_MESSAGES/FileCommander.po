@@ -1,0 +1,1050 @@
+# es translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: es <ekekaz@gmail.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- ¡el archivo existe! Exagerar"
+
+msgid "- folder exist! Overwrite"
+msgstr "- ¡La carpeta existe! Exagerar"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Seleccionar modo)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\nparámetro opcional:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%dkB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s: errores de extracción."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s está protegido con contraseña."
+
+msgid "%s successfully extracted."
+msgstr "%s extraído exitosamente."
+
+msgid "%s: %s"
+msgstr "%s:%s"
+
+msgid "<Receiver>"
+msgstr "<Receptor>"
+
+msgid "Accessed:"
+msgstr "Accedido:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Activar la lista de archivos de la izquierda como fuente de selección múltiple"
+
+msgid "Activate left-hand file list as source"
+msgstr "Activar la lista de archivos de la izquierda como fuente"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Activar la lista de archivos de la derecha como fuente de selección múltiple"
+
+msgid "Activate right-hand file list as source"
+msgstr "Activar la lista de archivos de la derecha como fuente"
+
+msgid "Add current folder to bookmarks"
+msgstr "Agregar carpeta actual a favoritos"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Agregar complemento al menú Extensiones"
+
+msgid "Add plugin to main menu"
+msgstr "Agregar complemento al menú principal"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Agregar la carpeta seleccionada a favoritos"
+
+msgid "Add to selection (%s)"
+msgstr "Agregar a la selección (%s)"
+
+msgid "All"
+msgstr "Todo"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Todos los archivos del directorio con el mismo nombre que la película seleccionada también se copiarán o moverán."
+
+msgid "All movie extensions"
+msgstr "Todas las extensiones de películas."
+
+msgid "B"
+msgstr "B"
+
+msgid "Block device"
+msgstr "Dispositivo de bloqueo"
+
+msgid "Calculate file checksums"
+msgstr "Calcular sumas de verificación de archivos"
+
+msgid "Calculates file checksums."
+msgstr "Calcula sumas de comprobación de archivos."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "No se puede ejecutar %s: %s.\n%s puede estar en un complemento que no está instalado."
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Cancel execution?"
+msgstr "¿Cancelar la ejecución?"
+
+msgid "Cannot create target directory."
+msgstr "No se puede crear el directorio de destino."
+
+msgid "Cannot open image. Open as text?"
+msgstr "No se puede abrir la imagen. ¿Abrir como texto?"
+
+msgid "Cannot play file."
+msgstr "No se puede reproducir el archivo."
+
+msgid "Cannot read file: %s"
+msgstr "No se puede leer el archivo: %s"
+
+msgid "case insensitive"
+msgstr "no distingue entre mayúsculas y minúsculas"
+
+msgid "case sensitive"
+msgstr "distingue mayúsculas y minúsculas"
+
+msgid "Case sensitive search"
+msgstr "Búsqueda que distingue entre mayúsculas y minúsculas"
+
+msgid "Change buttons for list navigation"
+msgstr "Cambiar botones para la navegación por la lista"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Cambiar permisos de ejecución (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "El botón de canal siempre cambia de lado"
+
+msgid "Character device"
+msgstr "Dispositivo de personaje"
+
+msgid "Close"
+msgstr "Cerca"
+
+msgid "Compare case sensitive"
+msgstr "Comparar entre mayúsculas y minúsculas"
+
+msgid "contains in title"
+msgstr "contiene en el título"
+
+msgid "contains..."
+msgstr "contiene..."
+
+msgid "Content size:"
+msgstr "Tamaño del contenido:"
+
+msgid "Copy"
+msgstr "Copiar"
+
+msgid "copy file"
+msgstr "copiar archivo"
+
+msgid "Copy file"
+msgstr "Copiar archivo"
+
+msgid "Copy file/directory to target directory"
+msgstr "Copiar archivo/directorio al directorio de destino"
+
+msgid "Copy files/directories to target directory"
+msgstr "Copie archivos/directorios al directorio de destino"
+
+msgid "copy folder"
+msgstr "copiar carpeta"
+
+msgid "Copy folder"
+msgstr "Copiar carpeta"
+
+msgid "Count directory content size"
+msgstr "Contar el tamaño del contenido del directorio"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Contar el tamaño del contenido del directorio mientras se camina (activar/desactivar)"
+
+msgid "CPU priority for script execution"
+msgstr "Prioridad de CPU para la ejecución de scripts"
+
+msgid "Create directory"
+msgstr "Crear directorio"
+
+msgid "create symlink ..."
+msgstr "crear enlace simbólico..."
+
+msgid "Create symlink to file"
+msgstr "Crear enlace simbólico al archivo"
+
+msgid "Create user-named symbolic link"
+msgstr "Crear enlace simbólico con nombre de usuario"
+
+msgid "d"
+msgstr "d"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Date reverse"
+msgstr "Fecha inversa"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Prioridad de CPU predeterminada (agradable) para scripts ejecutados. Esto puede reducir la carga para que los scripts no interfieran con el resto del sistema. (valores más altos = prioridad más baja)"
+
+msgid "Default directory sorting"
+msgstr "Clasificación de directorio predeterminada"
+
+msgid "Default file sorting left"
+msgstr "Clasificación de archivos predeterminada a la izquierda"
+
+msgid "Default file sorting right"
+msgstr "Derecho de clasificación de archivos predeterminado"
+
+msgid "Default folder"
+msgstr "Carpeta predeterminada"
+
+msgid "Default Folder"
+msgstr "Carpeta predeterminada"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Prioridad de E/S predeterminada (ionice) para scripts ejecutados. Esto puede reducir la carga para que los scripts no interfieran con el resto del sistema. (valores más altos = prioridad más baja)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Método de clasificación predeterminado para directorios en ambos paneles (para aplicar los cambios se debe reiniciar FileCommander)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Método de clasificación predeterminado para archivos en el panel izquierdo."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Método de clasificación predeterminado para archivos en el panel derecho."
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Delete current line"
+msgstr "Eliminar línea actual"
+
+msgid "Delete file"
+msgstr "Eliminar archivo"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Eliminar archivo o directorio (y todo su contenido)"
+
+msgid "Delete folder"
+msgstr "Eliminar carpeta"
+
+msgid "Delete the selected files or directories"
+msgstr "Eliminar los archivos o directorios seleccionados"
+
+msgid "Deselect All"
+msgstr "Deseleccionar todo"
+
+msgid "Deselect group"
+msgstr "Deseleccionar grupo"
+
+msgid "Deselect group..."
+msgstr "Deseleccionar grupo..."
+
+msgid "Directories to group selections"
+msgstr "Directorios para agrupar selecciones."
+
+msgid "Directory"
+msgstr "Directorio"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "No se puede crear el directorio aquí en\n<Lista de dispositivos de almacenamiento> o <Receptor>.\nMueva el selector una línea debajo o cambie el directorio."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Mostrar nombres de archivos en el encabezado. Es útil para nombres de archivos demasiado largos."
+
+msgid "Do you want change rights?\n"
+msgstr "¿Quieres cambiar los derechos?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "¿Quieres ver o ejecutar el script?\n"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Edit current line"
+msgstr "Editar línea actual"
+
+msgid "Edit line"
+msgstr "Editar línea"
+
+msgid "Edit new file"
+msgstr "Editar nuevo archivo"
+
+msgid "Edit position is the line end"
+msgstr "La posición de edición es el final de la línea."
+
+msgid "end title"
+msgstr "título final"
+
+msgid "ends with..."
+msgstr "termina con..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Ingrese al modo de selección de múltiples archivos"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Error al crear el directorio %s:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Error al crear el archivo %s:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Error al vincular %s con %s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Error al cambiar el nombre de %s a %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Error al guardar: %s"
+
+msgid "Error..."
+msgstr "Error..."
+
+msgid "Execution finished!!"
+msgstr "¡¡Ejecución terminada!!"
+
+msgid "Execution progress\n\n"
+msgstr "Progreso de la ejecución\n\n"
+
+msgid "Exit"
+msgstr "Salida"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Salga del editor y escriba los cambios (si los hay)"
+
+msgid "Exit movie player?"
+msgstr "¿Salir del reproductor de películas?"
+
+msgid "Exit picture viewer"
+msgstr "Salir del visor de imágenes"
+
+msgid "Extract archive to %s?"
+msgstr "¿Extraer archivo a %s?"
+
+msgid "Extracting..."
+msgstr "Extrayendo..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "No se puede crear el archivo en\n<Lista de dispositivos de almacenamiento> o <Receptor>.\nCambie el directorio, por favor."
+
+msgid "File checksums/hashes"
+msgstr "Sumas de comprobación/hashes de archivos"
+
+msgid "File Commander"
+msgstr "Comandante de archivos"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "File Commander - Visor de archivos complementario"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "File Commander - Configuración adicional del visor de archivos"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "File Commander - Complemento Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "File Commander - Complemento Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander: controlador de archivos generalizado"
+
+msgid "File Commander - gzip Addon"
+msgstr "Comandante de archivos: complemento gzip"
+
+msgid "File Commander - ipk Addon"
+msgstr "Comandante de archivos: complemento ipk"
+
+msgid "File Commander - tar Addon"
+msgstr "Comandante de archivos - complemento tar"
+
+msgid "File Commander - unrar Addon"
+msgstr "Comandante de archivos: complemento unrar"
+
+msgid "File Commander - unzip Addon"
+msgstr "File Commander - descomprimir complemento"
+
+msgid "File not found: %s"
+msgstr "Archivo no encontrado: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "El archivo es demasiado grande para abrirlo como texto (máximo 1 MB)."
+
+msgid "File too large to open as text."
+msgstr "El archivo es demasiado grande para abrirlo como texto."
+
+msgid "File transfer was cancelled by user"
+msgstr "La transferencia de archivos fue cancelada por el usuario"
+
+msgid "File/Directory Status Information"
+msgstr "Información de estado de archivo/directorio"
+
+msgid "Filenames in header"
+msgstr "Nombres de archivos en el encabezado"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Extensión de filtro, (*) aparece en el título"
+
+msgid "Filter visible file classes by extension."
+msgstr "Filtrar clases de archivos visibles por extensión."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "por PÉRDIDA O DAÑO DE DATOS!!!"
+
+msgid "from dir"
+msgstr "desde directorio"
+
+msgid "GB"
+msgstr "ES"
+
+msgid "Go to bookmarked folder"
+msgstr "Ir a la carpeta marcada"
+
+msgid "Go to default directory"
+msgstr "Ir al directorio predeterminado"
+
+msgid "Go to end of file"
+msgstr "Ir al final del archivo"
+
+msgid "Go to parent directory"
+msgstr "Ir al directorio principal"
+
+msgid "Go to start of file"
+msgstr "Ir al inicio del archivo"
+
+msgid "Group:"
+msgstr "Grupo:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "ha sido CAMBIADO! ¿Quieres guardarlo?"
+
+msgid "Hide/Show"
+msgstr "Ocultar/Mostrar"
+
+msgid "I/O priority for script execution"
+msgstr "Prioridad de E/S para la ejecución de scripts"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Si edita un archivo, puede establecer la posición inicial del cursor al final o al comienzo de la línea."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "En el modo de selección múltiple, el cursor se mueve al siguiente elemento después de marcar."
+
+msgid "Inode:"
+msgstr "Inodo:"
+
+msgid "Insert"
+msgstr "Insertar"
+
+msgid "Insert line before current line"
+msgstr "Insertar línea antes de la línea actual"
+
+msgid "Install"
+msgstr "Instalar"
+
+msgid "install/unpack ipk Files"
+msgstr "instalar/descomprimir archivos ipk"
+
+msgid "Installing Plugin ..."
+msgstr "Instalando el complemento..."
+
+msgid "Invert selection"
+msgstr "Invertir selección"
+
+msgid "Invert Selection"
+msgstr "Invertir selección"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "No es posible calcular hashes en <Lista de dispositivos de almacenamiento>"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "No es posible cambiar el modo de archivo de <Lista de dispositivos de almacenamiento>"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "No es posible obtener el estado del archivo de <Lista de dispositivos de almacenamiento>"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Salir del comandante del archivo"
+
+msgid "Leave multi-select mode"
+msgstr "Salir del modo de selección múltiple"
+
+msgid "Link target:"
+msgstr "Destino del enlace:"
+
+msgid "Links:"
+msgstr "Campo de golf:"
+
+msgid "List of Storage Devices"
+msgstr "Lista de dispositivos de almacenamiento"
+
+msgid "Load"
+msgstr "Carga"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Haga que FileCommander sea accesible desde el menú Extensiones."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Haga que FileCommander sea accesible desde el menú principal."
+
+msgid "manage local Files"
+msgstr "administrar archivos locales"
+
+msgid "MB"
+msgstr "MEGABYTE"
+
+msgid "MENU"
+msgstr "MENÚ"
+
+msgid "Menu..."
+msgstr "Menú..."
+
+msgid "Metadata changed:"
+msgstr "Metadatos cambiados:"
+
+msgid "Mode %s (%04o)"
+msgstr "Modo %s (%04o)"
+
+msgid "Modified:"
+msgstr "Modificado:"
+
+msgid "Move"
+msgstr "Mover"
+
+msgid "Move down list"
+msgstr "Mover lista hacia abajo"
+
+msgid "move file"
+msgstr "mover archivo"
+
+msgid "Move file"
+msgstr "Mover archivo"
+
+msgid "Move file/directory to target directory"
+msgstr "Mover archivo/directorio al directorio de destino"
+
+msgid "Move files/directories to target directory"
+msgstr "Mover archivos/directorios al directorio de destino"
+
+msgid "move folder"
+msgstr "mover carpeta"
+
+msgid "Move folder"
+msgstr "Mover carpeta"
+
+msgid "Move selector to next item"
+msgstr "Mover el selector al siguiente elemento"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Mover el selector al siguiente elemento (activar/desactivar)"
+
+msgid "Move up list"
+msgstr "Subir lista"
+
+msgid "Movie"
+msgstr "Película"
+
+msgid "MultiSelection Settings"
+msgstr "Configuración de selección múltiple"
+
+msgid "Music"
+msgstr "Música"
+
+msgid "My extension"
+msgstr "mi extensión"
+
+msgid "My Extension"
+msgstr "Mi extensión"
+
+msgid "n"
+msgstr "norte"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Name reverse"
+msgstr "Nombre al revés"
+
+msgid "New folder"
+msgstr "Nueva carpeta"
+
+msgid "New symlink"
+msgstr "Nuevo enlace simbólico"
+
+msgid "new.txt"
+msgstr "nuevo.txt"
+
+msgid "No"
+msgstr "No"
+
+msgid "No files found."
+msgstr "No se encontraron archivos."
+
+msgid "No hash calculations configured"
+msgstr "No hay cálculos hash configurados"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "Ninguno de los programas hash para los hashes %s está disponible"
+
+msgid "Not allowed with folders"
+msgstr "No permitido con carpetas"
+
+msgid "nothing connected"
+msgstr "nada conectado"
+
+msgid "Number of lines in script messages"
+msgstr "Número de líneas en mensajes de script"
+
+msgid "OK"
+msgstr "DE ACUERDO"
+
+msgid "On device:"
+msgstr "En el dispositivo:"
+
+msgid "Open"
+msgstr "Abierto"
+
+msgid "Open actions menu"
+msgstr "Abrir menú de acciones"
+
+msgid "Open settings/actions menu"
+msgstr "Abrir menú de configuración/acciones"
+
+msgid "Open with File Commander"
+msgstr "Abrir con File Commander"
+
+msgid "or save the picture additionally to a file"
+msgstr "o guarde la imagen adicionalmente en un archivo"
+
+msgid "Original subtitles codepage"
+msgstr "Página de códigos de subtítulos originales"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Página de códigos de subtítulos originales para conversión a UTF-8."
+
+msgid "Original:"
+msgstr "Original:"
+
+msgid "Owner:"
+msgstr "Dueño:"
+
+msgid "Page down list"
+msgstr "Lista de avance de página"
+
+msgid "Page up list"
+msgstr "Lista de avance de página"
+
+msgid "Parent Directory"
+msgstr "Directorio de padres"
+
+msgid "Permissions:"
+msgstr "Permisos:"
+
+msgid "Pictures"
+msgstr "Fotos"
+
+msgid "play Files"
+msgstr "reproducir archivos"
+
+msgid "Play folder"
+msgstr "Carpeta de reproducción"
+
+msgid "Play title"
+msgstr "Reproducir título"
+
+msgid "play/show Files"
+msgstr "reproducir/mostrar archivos"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Reproducir/ver/editar/instalar/extraer/ejecutar archivo o ingresar al directorio"
+
+msgid "Please enter file/folder name"
+msgstr "Por favor ingrese el nombre del archivo/carpeta"
+
+msgid "Please enter name of the new directory"
+msgstr "Por favor ingrese el nombre del nuevo directorio"
+
+msgid "Please enter name of the new symlink"
+msgstr "Por favor ingrese el nombre del nuevo enlace simbólico"
+
+msgid "Please enter password"
+msgstr "Por favor ingrese la contraseña"
+
+msgid "Please enter the new directory name"
+msgstr "Por favor ingrese el nuevo nombre del directorio"
+
+msgid "Please enter the new file name"
+msgstr "Por favor ingrese el nuevo nombre del archivo"
+
+msgid "Please wait, Loading image."
+msgstr "Espere, cargando imagen."
+
+msgid "Press OK or Exit to abort!"
+msgstr "¡Presione Aceptar o Salir para cancelar!"
+
+msgid "python"
+msgstr "pitón"
+
+msgid "Records"
+msgstr "Archivos"
+
+msgid "Refresh screen"
+msgstr "Actualizar pantalla"
+
+msgid "Regular file"
+msgstr "archivo normal"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Eliminar la carpeta actual de los marcadores"
+
+msgid "Remove from selection (%s)"
+msgstr "Eliminar de la selección (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Eliminar la carpeta seleccionada de los marcadores"
+
+msgid "Rename"
+msgstr "Rebautizar"
+
+msgid "Rename file"
+msgstr "Cambiar nombre de archivo"
+
+msgid "Rename file/directory"
+msgstr "Cambiar nombre de archivo/directorio"
+
+msgid "Restart"
+msgstr "Reanudar"
+
+msgid "Reverse left file sorting"
+msgstr "Ordenación inversa de archivos a la izquierda"
+
+msgid "Reverse right file sorting"
+msgstr "Clasificación de archivos inversa a la derecha"
+
+msgid "Run script"
+msgstr "Ejecutar script"
+
+msgid "Run script in background"
+msgstr "Ejecutar script en segundo plano"
+
+msgid "Run script with optional parameter"
+msgstr "Ejecutar script con parámetro opcional"
+
+msgid "Run script with optional parameter in background"
+msgstr "Ejecutar script con parámetro opcional en segundo plano"
+
+msgid "s"
+msgstr "s"
+
+msgid "Save cursor position"
+msgstr "Guardar posición del cursor"
+
+msgid "Save cursor position in active panel."
+msgstr "Guarde la posición del cursor en el panel activo."
+
+msgid "Save left folder on exit"
+msgstr "Guardar la carpeta izquierda al salir"
+
+msgid "Save right folder on exit"
+msgstr "Guardar la carpeta derecha al salir"
+
+msgid "Save the left directory list location on exit."
+msgstr "Guarde la ubicación de la lista de directorios de la izquierda al salir."
+
+msgid "Save the right folder list location on exit."
+msgstr "Guarde la ubicación correcta de la lista de carpetas al salir."
+
+msgid "Search in group selection by"
+msgstr "Buscar en selección de grupo por"
+
+msgid "Search text"
+msgstr "Buscar texto"
+
+msgid "Search text (%s):"
+msgstr "Texto de búsqueda (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Buscar texto en archivo (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Seleccione (lista de origen) o ingrese al directorio (lista de destino)"
+
+msgid "Select a path"
+msgstr "Seleccione una ruta"
+
+msgid "Select action:"
+msgstr "Seleccionar acción:"
+
+msgid "Select All"
+msgstr "Seleccionar todo"
+
+msgid "Select group"
+msgstr "Seleccionar grupo"
+
+msgid "Select group..."
+msgstr "Seleccionar grupo..."
+
+msgid "Select operation:"
+msgstr "Seleccionar operación:"
+
+msgid "Select your personal settings:"
+msgstr "Seleccione su configuración personal:"
+
+msgid "Set archive mode (644)"
+msgstr "Establecer modo de archivo (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Establecer modo ejecutable (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Establece si se distingue entre mayúsculas y minúsculas para la búsqueda."
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Settings..."
+msgstr "Ajustes..."
+
+msgid "shell"
+msgstr "caparazón"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Mostrar como imagen (presione cualquier tecla para cerrar)"
+
+msgid "Show contents of ipk file"
+msgstr "Mostrar contenido del archivo ipk"
+
+msgid "Show contents of rar file"
+msgstr "Mostrar contenido del archivo rar"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Mostrar el contenido del archivo tar o tar comprimido"
+
+msgid "Show contents of zip file"
+msgstr "Mostrar contenido del archivo zip"
+
+msgid "Show directories first"
+msgstr "Mostrar directorios primero"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Mostrar directorios en la primera o última posición en el panel (para aplicar los cambios se debe reiniciar FileCommander)."
+
+msgid "Show image information"
+msgstr "Mostrar información de la imagen"
+
+msgid "Show next picture"
+msgstr "Mostrar la siguiente imagen"
+
+msgid "Show previous picture"
+msgstr "Mostrar imagen anterior"
+
+msgid "Show Script completed message"
+msgstr "Mostrar mensaje de secuencia de comandos completada"
+
+msgid "Show task list"
+msgstr "Mostrar lista de tareas"
+
+msgid "Show unknown extension as text"
+msgstr "Mostrar extensión desconocida como texto"
+
+msgid "Size"
+msgstr "Tamaño"
+
+msgid "Size reverse"
+msgstr "Tamaño al revés"
+
+msgid "Size:"
+msgstr "Tamaño:"
+
+msgid "Socket"
+msgstr "Enchufe"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Ordenar los archivos restantes por nombre, fecha o tamaño"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Ordenar archivos correctos por nombre, fecha o tamaño"
+
+msgid "start title"
+msgstr "título inicial"
+
+msgid "Start/stop slide show"
+msgstr "Iniciar/detener presentación de diapositivas"
+
+msgid "starts with..."
+msgstr "comienza con..."
+
+msgid "Storage devices"
+msgstr "Dispositivos de almacenamiento"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Botones de intercambio para ordenación inversa de archivos"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Intercambie los botones derecha/izquierda con el canal +/- o el botón del canal cambia siempre de lado."
+
+msgid "Symbolic link"
+msgstr "Enlace simbólico"
+
+msgid "Symlink to"
+msgstr "Enlace simbólico a"
+
+msgid "Task list"
+msgstr "lista de tareas"
+
+msgid "TB"
+msgstr "tuberculosis"
+
+msgid "Text not found."
+msgstr "Texto no encontrado."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Búsqueda de texto que distingue entre mayúsculas y minúsculas."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Los autores NO SON RESPONSABLES"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "El componente Visor de imágenes de File Commander requiere la extensión PicturePlayer. Instale PicturePlayer para habilitar esta operación."
+
+msgid "This line is not editable!"
+msgstr "¡Esta línea no es editable!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Tiempo entre diapositivas en la presentación de diapositivas del visor de imágenes."
+
+msgid "Time for Slideshow"
+msgstr "Hora de la presentación de diapositivas"
+
+msgid "to dir"
+msgstr "dirigir"
+
+msgid "To next found text"
+msgstr "Al siguiente texto encontrado"
+
+msgid "To previous found text"
+msgstr "Al texto encontrado anterior"
+
+msgid "Type the name for the new file"
+msgstr "Escriba el nombre del nuevo archivo."
+
+msgid "Type:"
+msgstr "Tipo:"
+
+msgid "Unknown"
+msgstr "Desconocido"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Tipo de archivo desconocido. ¿Abrir como texto?"
+
+msgid "Unknown group: %d"
+msgstr "Grupo desconocido: %d"
+
+msgid "Unknown user: %d"
+msgstr "Usuario desconocido: %d"
+
+msgid "unpack archives"
+msgstr "descomprimir archivos"
+
+msgid "unpack gzip Files"
+msgstr "descomprimir archivos gzip"
+
+msgid "unpack Rar Files"
+msgstr "descomprimir archivos Rar"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "descomprimir archivos tar/tar comprimidos"
+
+msgid "Unpack to %s"
+msgstr "Desempaquetar en %s"
+
+msgid "Unpack to current folder"
+msgstr "Desempaquetar en la carpeta actual"
+
+msgid "unpack zip Files"
+msgstr "descomprimir archivos zip"
+
+msgid "Unsupported archive type."
+msgstr "Tipo de archivo no admitido."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Ver o editar archivo (si el tamaño es < 1 MB)"
+
+msgid "View or edit this %s script"
+msgstr "Ver o editar este script de %s"
+
+msgid "WARNING!"
+msgstr "¡ADVERTENCIA!"
+
+msgid "What do you want to play?\n"
+msgstr "¿Qué quieres jugar?\n"
+
+msgid "without"
+msgstr "sin"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Puede establecer el número de letras desde el principio del nombre del archivo actual como texto precargado en el teclado virtual para facilitar la entrada mediante la selección de grupo."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Puede establecer el número de letras desde el final del nombre del archivo actual como texto precargado en el teclado virtual para facilitar la entrada mediante la selección de grupo."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Puede establecer qué utilizará la selección de grupo: inicio del título, final del título o contenido en el título."
+

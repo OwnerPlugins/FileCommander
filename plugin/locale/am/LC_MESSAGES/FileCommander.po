@@ -1,0 +1,1050 @@
+# am translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: am <ekekaz@gmail.com>\n"
+"Language: am\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- ፋይል አለ! ጻፍ"
+
+msgid "- folder exist! Overwrite"
+msgstr "- አቃፊ አለ! ጻፍ"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(የተመረጠ ሁነታ)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\nአማራጭ መለኪያ፡\n%s"
+
+msgid "%d GB"
+msgstr "%d ጂቢ"
+
+msgid "%d kB"
+msgstr "%d ኪባ"
+
+msgid "%d MB"
+msgstr "%d ሜባ"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y፣ %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - የማውጣት ስህተቶች።"
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s በይለፍ ቃል የተጠበቀ ነው።"
+
+msgid "%s successfully extracted."
+msgstr "%s በተሳካ ሁኔታ ወጥቷል።"
+
+msgid "%s: %s"
+msgstr "%s፡ %s"
+
+msgid "<Receiver>"
+msgstr "<ተቀባይ>"
+
+msgid "Accessed:"
+msgstr "ደርሷል፡"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "የግራ እጅ የፋይል ዝርዝርን እንደ ባለብዙ ምርጫ ምንጭ ያግብሩ"
+
+msgid "Activate left-hand file list as source"
+msgstr "የግራ እጅ ፋይል ዝርዝርን እንደ ምንጭ ያግብሩ"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "የቀኝ እጅ የፋይል ዝርዝርን እንደ ባለብዙ ምረጥ ምንጭ ያግብሩ"
+
+msgid "Activate right-hand file list as source"
+msgstr "የቀኝ እጅ የፋይል ዝርዝርን እንደ ምንጭ ያግብሩ"
+
+msgid "Add current folder to bookmarks"
+msgstr "የአሁኑን አቃፊ ወደ ዕልባቶች ያክሉ"
+
+msgid "Add plugin to Extensions menu"
+msgstr "ተሰኪን ወደ የቅጥያዎች ምናሌ ያክሉ"
+
+msgid "Add plugin to main menu"
+msgstr "ተሰኪን ወደ ዋናው ምናሌ ያክሉ"
+
+msgid "Add selected folder to bookmarks"
+msgstr "የተመረጠውን አቃፊ ወደ ዕልባቶች ያክሉ"
+
+msgid "Add to selection (%s)"
+msgstr "ወደ ምርጫ አክል (%s)"
+
+msgid "All"
+msgstr "ሁሉም"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "ከተመረጠው ፊልም ጋር ተመሳሳይ ስም ያላቸው ሁሉም ፋይሎች እንዲሁ ይገለበጣሉ ወይም ይወሰዳሉ።"
+
+msgid "All movie extensions"
+msgstr "ሁሉም የፊልም ቅጥያዎች"
+
+msgid "B"
+msgstr "ለ"
+
+msgid "Block device"
+msgstr "መሣሪያን አግድ"
+
+msgid "Calculate file checksums"
+msgstr "የፋይል ማመሳከሪያዎችን አስሉ"
+
+msgid "Calculates file checksums."
+msgstr "የፋይል ፍተሻዎችን ያሰላል።"
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "%s: %sን ማስኬድ አይቻልም።\n%s ባልተጫነ ተሰኪ ውስጥ ሊኖር ይችላል።"
+
+msgid "Cancel"
+msgstr "ሰርዝ"
+
+msgid "Cancel execution?"
+msgstr "አፈጻጸም ይሰረዝ?"
+
+msgid "Cannot create target directory."
+msgstr "የዒላማ ማውጫ መፍጠር አልተቻለም።"
+
+msgid "Cannot open image. Open as text?"
+msgstr "ምስል መክፈት አልተቻለም። እንደ ጽሑፍ ይከፈታል?"
+
+msgid "Cannot play file."
+msgstr "ፋይል ማጫወት አልተቻለም።"
+
+msgid "Cannot read file: %s"
+msgstr "ፋይል ማንበብ አልተቻለም፡ %s"
+
+msgid "case insensitive"
+msgstr "ጉዳይ የማይሰማ"
+
+msgid "case sensitive"
+msgstr "የጉዳይ ስሜት"
+
+msgid "Case sensitive search"
+msgstr "ኬዝ ስሱ ፍለጋ"
+
+msgid "Change buttons for list navigation"
+msgstr "ለዝርዝር አሰሳ ቁልፎችን ይቀይሩ"
+
+msgid "Change execute permissions (755/644)"
+msgstr "ፈቃዶችን ይቀይሩ (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "የሰርጥ አዝራር ሁልጊዜ ወደ ጎን ይለወጣል"
+
+msgid "Character device"
+msgstr "የቁምፊ መሣሪያ"
+
+msgid "Close"
+msgstr "ገጠመ"
+
+msgid "Compare case sensitive"
+msgstr "የጉዳይ ስሜትን ያወዳድሩ"
+
+msgid "contains in title"
+msgstr "ርዕስ ውስጥ ይዟል"
+
+msgid "contains..."
+msgstr "ይዟል..."
+
+msgid "Content size:"
+msgstr "የይዘት መጠን፡-"
+
+msgid "Copy"
+msgstr "ቅዳ"
+
+msgid "copy file"
+msgstr "ቅጂ ፋይል"
+
+msgid "Copy file"
+msgstr "ፋይል ቅዳ"
+
+msgid "Copy file/directory to target directory"
+msgstr "ፋይል/ ማውጫ ወደ ዒላማው ማውጫ ይቅዱ"
+
+msgid "Copy files/directories to target directory"
+msgstr "ፋይሎችን/ ማውጫዎችን ወደ ዒላማው ማውጫ ይቅዱ"
+
+msgid "copy folder"
+msgstr "አቃፊ ቅዳ"
+
+msgid "Copy folder"
+msgstr "አቃፊ ቅዳ"
+
+msgid "Count directory content size"
+msgstr "የማውጫውን ይዘት መጠን ይቁጠሩ"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "በእግር በሚጓዙበት ጊዜ የማውጫውን ይዘት መጠን መቁጠር (ማብራት / ማጥፋት)"
+
+msgid "CPU priority for script execution"
+msgstr "ለስክሪፕት አፈፃፀም የሲፒዩ ቅድሚያ"
+
+msgid "Create directory"
+msgstr "ማውጫ ፍጠር"
+
+msgid "create symlink ..."
+msgstr "ሲምሊንክ ፍጠር..."
+
+msgid "Create symlink to file"
+msgstr "ወደ ፋይል ሲምሊንክ ይፍጠሩ"
+
+msgid "Create user-named symbolic link"
+msgstr "በተጠቃሚ የተሰየመ ተምሳሌታዊ አገናኝ ይፍጠሩ"
+
+msgid "d"
+msgstr "መ"
+
+msgid "Date"
+msgstr "ቀን"
+
+msgid "Date reverse"
+msgstr "ቀኑ የተገላቢጦሽ ነው።"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "ለተፈጸሙ ስክሪፕቶች ነባሪ የሲፒዩ ቅድሚያ (ቆንጆ)። ይህ ጭነቱን ሊቀንስ ስለሚችል ስክሪፕቶች በተቀረው ስርዓት ውስጥ ጣልቃ እንዳይገቡ። (ከፍተኛ እሴቶች = ዝቅተኛ ቅድሚያ)"
+
+msgid "Default directory sorting"
+msgstr "ነባሪ ማውጫ መደርደር"
+
+msgid "Default file sorting left"
+msgstr "ነባሪ ፋይል መደርደር ግራ"
+
+msgid "Default file sorting right"
+msgstr "ነባሪ ፋይል በትክክል መደርደር"
+
+msgid "Default folder"
+msgstr "ነባሪ አቃፊ"
+
+msgid "Default Folder"
+msgstr "ነባሪ አቃፊ"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "ለተፈጸሙ ስክሪፕቶች ነባሪ የI/O ቅድሚያ (ionice)። ይህ ጭነቱን ሊቀንስ ስለሚችል ስክሪፕቶች በተቀረው ስርዓት ውስጥ ጣልቃ እንዳይገቡ። (ከፍተኛ እሴቶች = ዝቅተኛ ቅድሚያ)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "በሁለቱም ፓነሎች ውስጥ ላሉ ማውጫዎች ነባሪ የመለየት ዘዴ (ለውጦቹን ለመተግበር FileCommander እንደገና መጀመር አለበት)።"
+
+msgid "Default sorting method for files in left panel."
+msgstr "በግራ ፓነል ውስጥ ላሉ ፋይሎች ነባሪ የመለያ ዘዴ።"
+
+msgid "Default sorting method for files in right panel."
+msgstr "በቀኝ ፓነል ውስጥ ያሉ ፋይሎችን ነባሪ የመለየት ዘዴ።"
+
+msgid "Delete"
+msgstr "ሰርዝ"
+
+msgid "Delete current line"
+msgstr "የአሁኑን መስመር ሰርዝ"
+
+msgid "Delete file"
+msgstr "ፋይል ሰርዝ"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "ፋይል ወይም ማውጫ ሰርዝ (እና ሁሉንም ይዘቶቹ)"
+
+msgid "Delete folder"
+msgstr "አቃፊ ሰርዝ"
+
+msgid "Delete the selected files or directories"
+msgstr "የተመረጡትን ፋይሎች ወይም ማውጫዎች ሰርዝ"
+
+msgid "Deselect All"
+msgstr "ሁሉንም አይምረጡ"
+
+msgid "Deselect group"
+msgstr "ቡድን አይምረጡ"
+
+msgid "Deselect group..."
+msgstr "ቡድን አይምረጡ..."
+
+msgid "Directories to group selections"
+msgstr "ለቡድን ምርጫዎች ማውጫ"
+
+msgid "Directory"
+msgstr "ማውጫ"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "ማውጫ እዚህ\n<የማከማቻ መሳሪያዎች ዝርዝር> ወይም <ተቀባዩ> ላይ መፍጠር አይቻልም።\nመራጭን ከታች አንድ መስመር ይውሰዱ ወይም ማውጫውን ይቀይሩ።"
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "የፋይል ስሞችን በራስጌ አሳይ። በጣም ረጅም ለሆኑ የፋይል ስሞች ጠቃሚ ነው."
+
+msgid "Do you want change rights?\n"
+msgstr "መብቶችን መቀየር ይፈልጋሉ?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "ስክሪፕቱን ማየት ወይም ማስኬድ ይፈልጋሉ?\n"
+
+msgid "Edit"
+msgstr "አርትዕ"
+
+msgid "Edit current line"
+msgstr "የአሁኑን መስመር ያርትዑ"
+
+msgid "Edit line"
+msgstr "መስመር አርትዕ"
+
+msgid "Edit new file"
+msgstr "አዲስ ፋይል ያርትዑ"
+
+msgid "Edit position is the line end"
+msgstr "የአርትዕ አቀማመጥ የመስመሩ መጨረሻ ነው።"
+
+msgid "end title"
+msgstr "መጨረሻ ርዕስ"
+
+msgid "ends with..."
+msgstr "ያበቃል በ..."
+
+msgid "Enter multi-file selection mode"
+msgstr "ባለብዙ ፋይል ምርጫ ሁነታን አስገባ"
+
+msgid "Error"
+msgstr "ስህተት"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "ማውጫ %s:\n%s መፍጠር ላይ ስህተት"
+
+msgid "Error creating file %s:\n%s"
+msgstr "%s:\n%s ፋይል መፍጠር ላይ ስህተት"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "%sን ከ%s:\n%s ጋር ማገናኘት ላይ ስህተት"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "%sን ወደ %s:\n%s መቀየር ላይ ስህተት"
+
+msgid "Error saving: %s"
+msgstr "በማስቀመጥ ላይ ስህተት፡ %s"
+
+msgid "Error..."
+msgstr "ስህተት..."
+
+msgid "Execution finished!!"
+msgstr "አፈፃፀሙ ተጠናቀቀ!!"
+
+msgid "Execution progress\n\n"
+msgstr "የማስፈጸም ሂደት\n\n"
+
+msgid "Exit"
+msgstr "ውጣ"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "ከአርታዒው ይውጡ እና ለውጦችን ይፃፉ (ካለ)"
+
+msgid "Exit movie player?"
+msgstr "የፊልም ማጫወቻ ይውጣ?"
+
+msgid "Exit picture viewer"
+msgstr "ከሥዕል መመልከቻ ውጣ"
+
+msgid "Extract archive to %s?"
+msgstr "ማህደር ወደ %s ማውጣት?"
+
+msgid "Extracting..."
+msgstr "በማውጣት ላይ..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "ፋይል በ\n<የማከማቻ መሳሪያዎች ዝርዝር> ወይም <ተቀባይ> ላይ ሊፈጠር አይችልም።\nእባክዎ ማውጫን ይቀይሩ።"
+
+msgid "File checksums/hashes"
+msgstr "የፋይል ቼኮች / hashes"
+
+msgid "File Commander"
+msgstr "የፋይል አዛዥ"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "የፋይል አዛዥ - አዶን ፋይል-መመልከቻ"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "የፋይል አዛዥ - የአዶን ፋይል-መመልከቻ ቅንጅቶች"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "የፋይል አዛዥ - አዶን ሚዲያ ማጫወቻ"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "የፋይል አዛዥ - አዶን ፊልም ማጫወቻ"
+
+msgid "File Commander - generalised archive handler"
+msgstr "የፋይል አዛዥ - አጠቃላይ የማህደር ተቆጣጣሪ"
+
+msgid "File Commander - gzip Addon"
+msgstr "የፋይል አዛዥ - gzip Adddon"
+
+msgid "File Commander - ipk Addon"
+msgstr "የፋይል አዛዥ - ipk አዶን"
+
+msgid "File Commander - tar Addon"
+msgstr "የፋይል አዛዥ - ታር አዶን"
+
+msgid "File Commander - unrar Addon"
+msgstr "የፋይል አዛዥ - unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "የፋይል አዛዥ - አዶን ዚፕ ይክፈቱ"
+
+msgid "File not found: %s"
+msgstr "ፋይል አልተገኘም: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "ፋይል እንደ ጽሑፍ ለመክፈት በጣም ትልቅ ነው (ቢበዛ 1 ሜባ)።"
+
+msgid "File too large to open as text."
+msgstr "ፋይል እንደ ጽሑፍ ለመክፈት በጣም ትልቅ ነው።"
+
+msgid "File transfer was cancelled by user"
+msgstr "ፋይል ማስተላለፍ በተጠቃሚ ተሰርዟል።"
+
+msgid "File/Directory Status Information"
+msgstr "የፋይል/የመመሪያ ሁኔታ መረጃ"
+
+msgid "Filenames in header"
+msgstr "የፋይል ስሞች በራስጌ"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "የማጣሪያ ቅጥያ፣ (*) በርዕስ ውስጥ ይታያል"
+
+msgid "Filter visible file classes by extension."
+msgstr "የሚታዩ የፋይል ክፍሎችን በቅጥያ አጣራ።"
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "ለ DATA ኪሳራ ወይም ጉዳት !!!"
+
+msgid "from dir"
+msgstr "ከድር"
+
+msgid "GB"
+msgstr "ጂቢ"
+
+msgid "Go to bookmarked folder"
+msgstr "ወደ ዕልባት የተደረገበት አቃፊ ይሂዱ"
+
+msgid "Go to default directory"
+msgstr "ወደ ነባሪ ማውጫ ይሂዱ"
+
+msgid "Go to end of file"
+msgstr "ወደ ፋይል መጨረሻ ይሂዱ"
+
+msgid "Go to parent directory"
+msgstr "ወደ የወላጅ ማውጫ ይሂዱ"
+
+msgid "Go to start of file"
+msgstr "ወደ ፋይል መጀመሪያ ይሂዱ"
+
+msgid "Group:"
+msgstr "ቡድን፡"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "ተቀይሯል! ማስቀመጥ ትፈልጋለህ?"
+
+msgid "Hide/Show"
+msgstr "ደብቅ/ አሳይ"
+
+msgid "I/O priority for script execution"
+msgstr "ለስክሪፕት አፈፃፀም የI/O ቅድሚያ"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "ፋይልን አርትዕ ካደረጉ የጠቋሚውን መጀመሪያ ቦታ በመጨረሻው ወይም በመስመሩ መጀመሪያ ላይ ማዘጋጀት ይችላሉ።"
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "በባለብዙ ምርጫ ሁነታ ላይ ምልክት ካደረጉ በኋላ ጠቋሚውን ወደ ቀጣዩ ንጥል ያንቀሳቅሳል።"
+
+msgid "Inode:"
+msgstr "Inode፡"
+
+msgid "Insert"
+msgstr "አስገባ"
+
+msgid "Insert line before current line"
+msgstr "ከአሁኑ መስመር በፊት መስመር አስገባ"
+
+msgid "Install"
+msgstr "ጫን"
+
+msgid "install/unpack ipk Files"
+msgstr "የipk ፋይሎችን ጫን / ንቀቅ"
+
+msgid "Installing Plugin ..."
+msgstr "ተሰኪን በመጫን ላይ..."
+
+msgid "Invert selection"
+msgstr "ምርጫ ገለባ"
+
+msgid "Invert Selection"
+msgstr "የተገላቢጦሽ ምርጫ"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "በ<የማከማቻ መሳሪያዎች ዝርዝር> ላይ ሃሽዎችን ማስላት አይቻልም"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "የ <የማከማቻ መሳሪያዎች ዝርዝር> የፋይል ሁነታን መቀየር አይቻልም"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "የ<የማከማቻ መሳሪያዎች ዝርዝር> የፋይል ሁኔታን ማግኘት አይቻልም"
+
+msgid "KB"
+msgstr "ኬቢ"
+
+msgid "Leave File Commander"
+msgstr "የፋይል አዛዥን ይተው"
+
+msgid "Leave multi-select mode"
+msgstr "ባለብዙ ምርጫ ሁነታን ይተው"
+
+msgid "Link target:"
+msgstr "የአገናኝ ዒላማ፡"
+
+msgid "Links:"
+msgstr "አገናኞች፡"
+
+msgid "List of Storage Devices"
+msgstr "የማከማቻ መሳሪያዎች ዝርዝር"
+
+msgid "Load"
+msgstr "ጫን"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "FileCommanderን ከቅጥያዎች ምናሌው ተደራሽ ያድርጉት።"
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "FileCommander ከዋናው ምናሌ ተደራሽ አድርግ።"
+
+msgid "manage local Files"
+msgstr "አካባቢያዊ ፋይሎችን ያቀናብሩ"
+
+msgid "MB"
+msgstr "ሜባ"
+
+msgid "MENU"
+msgstr "MENU"
+
+msgid "Menu..."
+msgstr "ምናሌ..."
+
+msgid "Metadata changed:"
+msgstr "ዲበ ውሂብ ተለውጧል፡-"
+
+msgid "Mode %s (%04o)"
+msgstr "ሁነታ %s (%04o)"
+
+msgid "Modified:"
+msgstr "የተሻሻለው፡-"
+
+msgid "Move"
+msgstr "አንቀሳቅስ"
+
+msgid "Move down list"
+msgstr "ወደ ታች ዝርዝር አንቀሳቅስ"
+
+msgid "move file"
+msgstr "ፋይል ማንቀሳቀስ"
+
+msgid "Move file"
+msgstr "ፋይል አንቀሳቅስ"
+
+msgid "Move file/directory to target directory"
+msgstr "ፋይል/ማውጫ ወደ ዒላማ ማውጫ ውሰድ"
+
+msgid "Move files/directories to target directory"
+msgstr "ፋይሎችን/ ማውጫዎችን ወደ ዒላማ ማውጫ ያንቀሳቅሱ"
+
+msgid "move folder"
+msgstr "አቃፊ አንቀሳቅስ"
+
+msgid "Move folder"
+msgstr "አቃፊ አንቀሳቅስ"
+
+msgid "Move selector to next item"
+msgstr "መራጩን ወደ ቀጣዩ ንጥል ያንቀሳቅሱ"
+
+msgid "Move selector to next item (on/off)"
+msgstr "መራጩን ወደ ቀጣዩ ንጥል ያንቀሳቅሱ (ማብራት/ማጥፋት)"
+
+msgid "Move up list"
+msgstr "ወደ ላይ ዝርዝር"
+
+msgid "Movie"
+msgstr "ፊልም"
+
+msgid "MultiSelection Settings"
+msgstr "ባለብዙ ምርጫ ቅንብሮች"
+
+msgid "Music"
+msgstr "ሙዚቃ"
+
+msgid "My extension"
+msgstr "የእኔ ቅጥያ"
+
+msgid "My Extension"
+msgstr "የእኔ ቅጥያ"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "ስም"
+
+msgid "Name reverse"
+msgstr "ስም ተገላቢጦሽ"
+
+msgid "New folder"
+msgstr "አዲስ አቃፊ"
+
+msgid "New symlink"
+msgstr "አዲስ ሲምሊንክ"
+
+msgid "new.txt"
+msgstr "አዲስ.txt"
+
+msgid "No"
+msgstr "አይ"
+
+msgid "No files found."
+msgstr "ምንም ፋይሎች አልተገኙም።"
+
+msgid "No hash calculations configured"
+msgstr "ምንም የሃሽ ስሌቶች አልተዋቀሩም።"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "ለ hashes %s የትኛውም የሃሽ ፕሮግራሞች የሉም"
+
+msgid "Not allowed with folders"
+msgstr "ከአቃፊዎች ጋር አይፈቀድም።"
+
+msgid "nothing connected"
+msgstr "ምንም አልተገናኘም።"
+
+msgid "Number of lines in script messages"
+msgstr "በስክሪፕት መልእክቶች ውስጥ የመስመሮች ብዛት"
+
+msgid "OK"
+msgstr "እሺ"
+
+msgid "On device:"
+msgstr "በመሳሪያ ላይ፡-"
+
+msgid "Open"
+msgstr "ክፈት"
+
+msgid "Open actions menu"
+msgstr "የእርምጃዎች ምናሌን ክፈት"
+
+msgid "Open settings/actions menu"
+msgstr "የቅንብሮች/የድርጊቶች ምናሌን ክፈት"
+
+msgid "Open with File Commander"
+msgstr "በፋይል አዛዥ ክፈት"
+
+msgid "or save the picture additionally to a file"
+msgstr "ወይም ስዕሉን በተጨማሪ ወደ ፋይል ያስቀምጡ"
+
+msgid "Original subtitles codepage"
+msgstr "ኦሪጅናል የትርጉም ጽሑፎች ኮድ ገጽ"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "ወደ ዩቲኤፍ-8 ለመቀየር የመጀመሪያ የትርጉም ጽሑፎች ኮድ ገጽ።"
+
+msgid "Original:"
+msgstr "ኦሪጅናል፡"
+
+msgid "Owner:"
+msgstr "ባለቤት፡"
+
+msgid "Page down list"
+msgstr "የገጽ ዝርዝር"
+
+msgid "Page up list"
+msgstr "ገጽ ወደ ላይ ዝርዝር"
+
+msgid "Parent Directory"
+msgstr "የወላጅ ማውጫ"
+
+msgid "Permissions:"
+msgstr "ፈቃዶች፡-"
+
+msgid "Pictures"
+msgstr "ስዕሎች"
+
+msgid "play Files"
+msgstr "ፋይሎችን አጫውት።"
+
+msgid "Play folder"
+msgstr "አቃፊ አጫውት።"
+
+msgid "Play title"
+msgstr "ርዕስ መጫወት"
+
+msgid "play/show Files"
+msgstr "ፋይሎችን አጫውት/አሳይ"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "ፋይልን አጫውት/ይመልከት/አርትዕ/ጫን/ማውጣት/አሂድ ወይም ማውጫ አስገባ"
+
+msgid "Please enter file/folder name"
+msgstr "እባክዎ የፋይል/የአቃፊ ስም ያስገቡ"
+
+msgid "Please enter name of the new directory"
+msgstr "እባክዎ የአዲሱን ማውጫ ስም ያስገቡ"
+
+msgid "Please enter name of the new symlink"
+msgstr "እባክዎ የአዲሱን ሲምሊንክ ስም ያስገቡ"
+
+msgid "Please enter password"
+msgstr "እባክህ የይለፍ ቃል አስገባ"
+
+msgid "Please enter the new directory name"
+msgstr "እባክዎ አዲሱን የማውጫ ስም ያስገቡ"
+
+msgid "Please enter the new file name"
+msgstr "እባክዎ አዲሱን የፋይል ስም ያስገቡ"
+
+msgid "Please wait, Loading image."
+msgstr "እባክህ ጠብቅ፣ ምስል በመጫን ላይ።"
+
+msgid "Press OK or Exit to abort!"
+msgstr "ለማቋረጥ እሺን ይጫኑ ወይም ውጣ!"
+
+msgid "python"
+msgstr "ፓይቶን"
+
+msgid "Records"
+msgstr "መዝገቦች"
+
+msgid "Refresh screen"
+msgstr "ማያን አድስ"
+
+msgid "Regular file"
+msgstr "መደበኛ ፋይል"
+
+msgid "Remove current folder from bookmarks"
+msgstr "የአሁኑን አቃፊ ከዕልባቶች ያስወግዱ"
+
+msgid "Remove from selection (%s)"
+msgstr "ከምርጫ አስወግድ (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "የተመረጠውን አቃፊ ከዕልባቶች ያስወግዱ"
+
+msgid "Rename"
+msgstr "እንደገና ይሰይሙ"
+
+msgid "Rename file"
+msgstr "ፋይሉን እንደገና ይሰይሙ"
+
+msgid "Rename file/directory"
+msgstr "ፋይል/ ማውጫን እንደገና ሰይም"
+
+msgid "Restart"
+msgstr "እንደገና ጀምር"
+
+msgid "Reverse left file sorting"
+msgstr "የግራ ፋይል መደርደርን ገልብጥ"
+
+msgid "Reverse right file sorting"
+msgstr "የቀኝ ፋይል መደርደርን ገልብጥ"
+
+msgid "Run script"
+msgstr "ስክሪፕት አሂድ"
+
+msgid "Run script in background"
+msgstr "ስክሪፕት ከበስተጀርባ አሂድ"
+
+msgid "Run script with optional parameter"
+msgstr "ስክሪፕቱን ከአማራጭ መለኪያ ጋር ያሂዱ"
+
+msgid "Run script with optional parameter in background"
+msgstr "ከበስተጀርባ ካለው አማራጭ መለኪያ ጋር ስክሪፕት ያሂዱ"
+
+msgid "s"
+msgstr "ኤስ"
+
+msgid "Save cursor position"
+msgstr "የጠቋሚ ቦታን ያስቀምጡ"
+
+msgid "Save cursor position in active panel."
+msgstr "የጠቋሚውን አቀማመጥ በንቃት ፓነል ውስጥ ያስቀምጡ።"
+
+msgid "Save left folder on exit"
+msgstr "በመውጣት ላይ የግራ አቃፊን ያስቀምጡ"
+
+msgid "Save right folder on exit"
+msgstr "በመውጣት ላይ ትክክለኛውን አቃፊ ያስቀምጡ"
+
+msgid "Save the left directory list location on exit."
+msgstr "በመውጣት ላይ የግራ ማውጫ ዝርዝር ቦታን ያስቀምጡ።"
+
+msgid "Save the right folder list location on exit."
+msgstr "በመውጣት ላይ ትክክለኛውን የአቃፊ ዝርዝር ቦታ ያስቀምጡ።"
+
+msgid "Search in group selection by"
+msgstr "በቡድን ምርጫ ውስጥ ይፈልጉ"
+
+msgid "Search text"
+msgstr "ጽሑፍ ይፈልጉ"
+
+msgid "Search text (%s):"
+msgstr "ጽሑፍ ይፈልጉ (%s)፦"
+
+msgid "Search text in file (%s)."
+msgstr "በፋይል ውስጥ ጽሑፍ ይፈልጉ (%s)።"
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "ይምረጡ (ምንጭ ዝርዝር) ወይም ማውጫ ያስገቡ (የዒላማ ዝርዝር)"
+
+msgid "Select a path"
+msgstr "መንገድ ይምረጡ"
+
+msgid "Select action:"
+msgstr "እርምጃ ይምረጡ፡"
+
+msgid "Select All"
+msgstr "ሁሉንም ይምረጡ"
+
+msgid "Select group"
+msgstr "ቡድን ይምረጡ"
+
+msgid "Select group..."
+msgstr "ቡድን ይምረጡ..."
+
+msgid "Select operation:"
+msgstr "ክወና ይምረጡ፡-"
+
+msgid "Select your personal settings:"
+msgstr "የግል ቅንብሮችዎን ይምረጡ፡-"
+
+msgid "Set archive mode (644)"
+msgstr "የማህደር ሁነታን አዘጋጅ (644)"
+
+msgid "Set executable mode (755)"
+msgstr "የሚተገበር ሁነታን አዘጋጅ (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "ለመፈለግ በትልቅ እና በትንንሽ ሆሄ መካከል መለየትን ያዘጋጃል።"
+
+msgid "Settings"
+msgstr "ቅንብሮች"
+
+msgid "Settings..."
+msgstr "ቅንብሮች..."
+
+msgid "shell"
+msgstr "ቅርፊት"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "እንደ ስዕል አሳይ (ለመዝጋት ማንኛውንም ቁልፍ ይጫኑ)"
+
+msgid "Show contents of ipk file"
+msgstr "የipk ፋይል ይዘቶችን አሳይ"
+
+msgid "Show contents of rar file"
+msgstr "የrar ፋይል ይዘቶችን አሳይ"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "የታር ወይም የታመቀ የታር ፋይል ይዘቶችን አሳይ"
+
+msgid "Show contents of zip file"
+msgstr "የዚፕ ፋይል ይዘቶችን አሳይ"
+
+msgid "Show directories first"
+msgstr "መጀመሪያ ማውጫዎችን አሳይ"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "በፓነል ውስጥ በመጀመሪያ ወይም በመጨረሻው ቦታ ላይ ማውጫዎችን አሳይ (ለውጦቹን ለመተግበር FileCommander እንደገና መጀመር አለበት)።"
+
+msgid "Show image information"
+msgstr "የምስል መረጃ አሳይ"
+
+msgid "Show next picture"
+msgstr "የሚቀጥለውን ምስል አሳይ"
+
+msgid "Show previous picture"
+msgstr "የቀደመውን ምስል አሳይ"
+
+msgid "Show Script completed message"
+msgstr "ስክሪፕት የተጠናቀቀ መልእክት አሳይ"
+
+msgid "Show task list"
+msgstr "የተግባር ዝርዝር አሳይ"
+
+msgid "Show unknown extension as text"
+msgstr "ያልታወቀ ቅጥያ እንደ ጽሑፍ አሳይ"
+
+msgid "Size"
+msgstr "መጠን"
+
+msgid "Size reverse"
+msgstr "መጠን ተቃራኒ"
+
+msgid "Size:"
+msgstr "መጠን፡"
+
+msgid "Socket"
+msgstr "ሶኬት"
+
+msgid "Sorting left files by name, date or size"
+msgstr "የግራ ፋይሎችን በስም፣ ቀን ወይም መጠን መደርደር"
+
+msgid "Sorting right files by name, date or size"
+msgstr "ትክክለኛ ፋይሎችን በስም፣ ቀን ወይም መጠን መደርደር"
+
+msgid "start title"
+msgstr "ርዕስ ጀምር"
+
+msgid "Start/stop slide show"
+msgstr "የስላይድ ትዕይንት ጀምር/አቁም"
+
+msgid "starts with..."
+msgstr "የሚጀምረው በ..."
+
+msgid "Storage devices"
+msgstr "የማከማቻ መሳሪያዎች"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "የተገላቢጦሽ ፋይል መደርደር አዝራሮችን ይቀያይሩ"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "የቀኝ/ግራ አዝራሮችን በሰርጥ +/- ይቀያይሩ ወይም የሰርጡ ቁልፍ ሁል ጊዜ ወደ ጎን ተቀይሯል።"
+
+msgid "Symbolic link"
+msgstr "ተምሳሌታዊ አገናኝ"
+
+msgid "Symlink to"
+msgstr "ምልክት ማድረጊያ"
+
+msgid "Task list"
+msgstr "የተግባር ዝርዝር"
+
+msgid "TB"
+msgstr "ቲቢ"
+
+msgid "Text not found."
+msgstr "ጽሑፍ አልተገኘም።"
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "የጽሑፍ ፍለጋ እንደ ጉዳይ ሚስጥራዊነት ወይም ጉዳይ የማይሰማ።"
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "ደራሲዎቹ ተጠያቂ አይደሉም"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "የፋይል አዛዥ የምስል መመልከቻ አካል የ PicturePlayer ቅጥያ ያስፈልገዋል። ይህን ተግባር ለማንቃት PicturePlayer ጫን።"
+
+msgid "This line is not editable!"
+msgstr "ይህ መስመር ሊስተካከል የሚችል አይደለም!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "በምስል መመልከቻ ስላይዶች መካከል ያለው ጊዜ።"
+
+msgid "Time for Slideshow"
+msgstr "ለስላይድ ትዕይንት ጊዜ"
+
+msgid "to dir"
+msgstr "ወደ dir"
+
+msgid "To next found text"
+msgstr "ወደ ቀጣዩ የተገኘ ጽሑፍ"
+
+msgid "To previous found text"
+msgstr "ወደ ቀዳሚው የተገኘ ጽሑፍ"
+
+msgid "Type the name for the new file"
+msgstr "ለአዲሱ ፋይል ስም ይተይቡ"
+
+msgid "Type:"
+msgstr "ዓይነት፡-"
+
+msgid "Unknown"
+msgstr "ያልታወቀ"
+
+msgid "Unknown file type. Open as text?"
+msgstr "ያልታወቀ የፋይል አይነት። እንደ ጽሑፍ ይከፈታል?"
+
+msgid "Unknown group: %d"
+msgstr "ያልታወቀ ቡድን፡ %d"
+
+msgid "Unknown user: %d"
+msgstr "ያልታወቀ ተጠቃሚ፡ %d"
+
+msgid "unpack archives"
+msgstr "ማህደሮችን ንቀል"
+
+msgid "unpack gzip Files"
+msgstr "gzip ፋይሎችን ይንቀሉ"
+
+msgid "unpack Rar Files"
+msgstr "የራር ፋይሎችን ይንቀሉ"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "የታሸገ ታር/የተጨመቁ ታር ፋይሎች"
+
+msgid "Unpack to %s"
+msgstr "ወደ %s ያራግፉ"
+
+msgid "Unpack to current folder"
+msgstr "ወደ የአሁኑ አቃፊ ይንቀሉ"
+
+msgid "unpack zip Files"
+msgstr "ዚፕ ፋይሎችን ይንቀሉ"
+
+msgid "Unsupported archive type."
+msgstr "የማይደገፍ የማህደር አይነት።"
+
+msgid "v"
+msgstr "ቁ"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "ፋይሉን ይመልከቱ ወይም ያርትዑ (መጠን <1 ሜባ ከሆነ)"
+
+msgid "View or edit this %s script"
+msgstr "ይህንን %s ስክሪፕት ይመልከቱ ወይም ያርትዑ"
+
+msgid "WARNING!"
+msgstr "ማስጠንቀቂያ!"
+
+msgid "What do you want to play?\n"
+msgstr "ምን መጫወት ትፈልጋለህ?\n"
+
+msgid "without"
+msgstr "ያለ"
+
+msgid "Yes"
+msgstr "አዎ"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "በቡድን መረጣ ለቀላል ግብአት በምናባዊ ቁልፍ ሰሌዳ ቀድሞ እንደተሞላ ፅሁፉ አሁን ካለው የፋይል ስም መጀመሪያ ጀምሮ የፊደሎችን ብዛት ማዘጋጀት ይችላሉ።"
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "በቡድን ምርጫ ለቀላል ግብአት በምናባዊ ቁልፍ ሰሌዳ ቀድሞ እንደተሞላ ፅሁፉ አሁን ካለው የፋይል ስም መጨረሻ የፊደሎችን ብዛት ማቀናበር ይችላሉ።"
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "የቡድን ምርጫ ምን እንደሚጠቀም ማቀናበር ይችላሉ - የርዕስ መጀመሪያ ፣ የርዕስ መጨረሻ ወይም በርዕስ ውስጥ ይይዛል።"
+

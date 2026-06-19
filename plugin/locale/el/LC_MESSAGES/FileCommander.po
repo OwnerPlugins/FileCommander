@@ -1,0 +1,1050 @@
+# el translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: el <ekekaz@gmail.com>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- υπάρχει αρχείο! Αντικατάσταση"
+
+msgid "- folder exist! Overwrite"
+msgstr "- Ο φάκελος υπάρχει! Αντικατάσταση"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Επιλογή λειτουργίας)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\προαιρετική παράμετρος:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%μικρό"
+
+msgid "%s - extraction errors."
+msgstr "%s - σφάλματα εξαγωγής."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "Το %s προστατεύεται με κωδικό πρόσβασης."
+
+msgid "%s successfully extracted."
+msgstr "%s εξήχθη με επιτυχία."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Δέκτης>"
+
+msgid "Accessed:"
+msgstr "Πρόσβαση:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Ενεργοποιήστε την αριστερή λίστα αρχείων ως πηγή πολλαπλής επιλογής"
+
+msgid "Activate left-hand file list as source"
+msgstr "Ενεργοποιήστε την αριστερή λίστα αρχείων ως πηγή"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Ενεργοποιήστε τη δεξιά λίστα αρχείων ως πηγή πολλαπλής επιλογής"
+
+msgid "Activate right-hand file list as source"
+msgstr "Ενεργοποιήστε τη δεξιά λίστα αρχείων ως πηγή"
+
+msgid "Add current folder to bookmarks"
+msgstr "Προσθήκη τρέχοντος φακέλου στους σελιδοδείκτες"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Προσθήκη προσθήκης στο μενού Επεκτάσεις"
+
+msgid "Add plugin to main menu"
+msgstr "Προσθήκη προσθήκης στο κύριο μενού"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Προσθήκη επιλεγμένου φακέλου στους σελιδοδείκτες"
+
+msgid "Add to selection (%s)"
+msgstr "Προσθήκη στην επιλογή (%s)"
+
+msgid "All"
+msgstr "Ολοι"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Όλα τα αρχεία στον κατάλογο με το ίδιο όνομα με την επιλεγμένη ταινία θα αντιγραφούν ή θα μετακινηθούν επίσης."
+
+msgid "All movie extensions"
+msgstr "Όλες οι επεκτάσεις ταινιών"
+
+msgid "B"
+msgstr "σι"
+
+msgid "Block device"
+msgstr "Αποκλεισμός συσκευής"
+
+msgid "Calculate file checksums"
+msgstr "Υπολογίστε τα αθροίσματα ελέγχου αρχείων"
+
+msgid "Calculates file checksums."
+msgstr "Υπολογίζει αθροίσματα ελέγχου αρχείων."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "Δεν είναι δυνατή η εκτέλεση του %s: %s.\nΤο %s ενδέχεται να βρίσκεται σε μια προσθήκη που δεν είναι εγκατεστημένη."
+
+msgid "Cancel"
+msgstr "Ματαίωση"
+
+msgid "Cancel execution?"
+msgstr "Ακύρωση εκτέλεσης;"
+
+msgid "Cannot create target directory."
+msgstr "Δεν είναι δυνατή η δημιουργία καταλόγου προορισμού."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Δεν είναι δυνατό το άνοιγμα της εικόνας. Άνοιγμα ως κείμενο;"
+
+msgid "Cannot play file."
+msgstr "Δεν είναι δυνατή η αναπαραγωγή του αρχείου."
+
+msgid "Cannot read file: %s"
+msgstr "Δεν είναι δυνατή η ανάγνωση του αρχείου: %s"
+
+msgid "case insensitive"
+msgstr "χωρίς διάκριση πεζών-κεφαλαίων"
+
+msgid "case sensitive"
+msgstr "διάκριση πεζών-κεφαλαίων"
+
+msgid "Case sensitive search"
+msgstr "Αναζήτηση με διάκριση πεζών-κεφαλαίων"
+
+msgid "Change buttons for list navigation"
+msgstr "Κουμπιά αλλαγής για πλοήγηση στη λίστα"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Αλλαγή δικαιωμάτων εκτέλεσης (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Το κουμπί καναλιού αλλάζει πάντα πλευρές"
+
+msgid "Character device"
+msgstr "Συσκευή χαρακτήρων"
+
+msgid "Close"
+msgstr "Κοντά"
+
+msgid "Compare case sensitive"
+msgstr "Συγκρίνετε διάκριση πεζών-κεφαλαίων"
+
+msgid "contains in title"
+msgstr "περιέχει στον τίτλο"
+
+msgid "contains..."
+msgstr "περιέχει..."
+
+msgid "Content size:"
+msgstr "Μέγεθος περιεχομένου:"
+
+msgid "Copy"
+msgstr "Αντίγραφο"
+
+msgid "copy file"
+msgstr "αντιγραφή αρχείου"
+
+msgid "Copy file"
+msgstr "Αντιγραφή αρχείου"
+
+msgid "Copy file/directory to target directory"
+msgstr "Αντιγραφή αρχείου/καταλόγου στον κατάλογο προορισμού"
+
+msgid "Copy files/directories to target directory"
+msgstr "Αντιγράψτε αρχεία/καταλόγους στον κατάλογο προορισμού"
+
+msgid "copy folder"
+msgstr "φάκελο αντιγραφής"
+
+msgid "Copy folder"
+msgstr "Αντιγραφή φακέλου"
+
+msgid "Count directory content size"
+msgstr "Καταμέτρηση μεγέθους περιεχομένου καταλόγου"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Μέτρηση μεγέθους περιεχομένου καταλόγου ενώ περπατάτε (ενεργοποίηση/απενεργοποίηση)"
+
+msgid "CPU priority for script execution"
+msgstr "Προτεραιότητα CPU για εκτέλεση σεναρίου"
+
+msgid "Create directory"
+msgstr "Δημιουργία καταλόγου"
+
+msgid "create symlink ..."
+msgstr "δημιουργία συμβολικού συνδέσμου..."
+
+msgid "Create symlink to file"
+msgstr "Δημιουργία συμβολικού συνδέσμου σε αρχείο"
+
+msgid "Create user-named symbolic link"
+msgstr "Δημιουργήστε συμβολικό σύνδεσμο με όνομα χρήστη"
+
+msgid "d"
+msgstr "ρε"
+
+msgid "Date"
+msgstr "Ημερομηνία"
+
+msgid "Date reverse"
+msgstr "Ημερομηνία αντίστροφη"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Προεπιλεγμένη προτεραιότητα CPU (ωραία) για εκτελεσμένα σενάρια. Αυτό μπορεί να μειώσει το φόρτο έτσι ώστε τα σενάρια να μην παρεμβαίνουν στο υπόλοιπο σύστημα. (υψηλότερες τιμές = χαμηλότερη προτεραιότητα)"
+
+msgid "Default directory sorting"
+msgstr "Προεπιλεγμένη ταξινόμηση καταλόγου"
+
+msgid "Default file sorting left"
+msgstr "Προεπιλεγμένη ταξινόμηση αρχείων αριστερά"
+
+msgid "Default file sorting right"
+msgstr "Προεπιλεγμένη σωστή ταξινόμηση αρχείων"
+
+msgid "Default folder"
+msgstr "Προεπιλεγμένος φάκελος"
+
+msgid "Default Folder"
+msgstr "Προεπιλεγμένος φάκελος"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Προεπιλεγμένη προτεραιότητα εισόδου/εξόδου (ionice) για εκτελεσμένα σενάρια. Αυτό μπορεί να μειώσει το φόρτο έτσι ώστε τα σενάρια να μην παρεμβαίνουν στο υπόλοιπο σύστημα. (υψηλότερες τιμές = χαμηλότερη προτεραιότητα)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Προεπιλεγμένη μέθοδος ταξινόμησης για τους καταλόγους και στους δύο πίνακες (για να εφαρμοστούν οι αλλαγές πρέπει να γίνει επανεκκίνηση του FileCommander)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Προεπιλεγμένη μέθοδος ταξινόμησης για αρχεία στον αριστερό πίνακα."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Προεπιλεγμένη μέθοδος ταξινόμησης για αρχεία στον δεξιό πίνακα."
+
+msgid "Delete"
+msgstr "Διαγράφω"
+
+msgid "Delete current line"
+msgstr "Διαγραφή τρέχουσας γραμμής"
+
+msgid "Delete file"
+msgstr "Διαγραφή αρχείου"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Διαγραφή αρχείου ή καταλόγου (και όλων των περιεχομένων του)"
+
+msgid "Delete folder"
+msgstr "Διαγραφή φακέλου"
+
+msgid "Delete the selected files or directories"
+msgstr "Διαγράψτε τα επιλεγμένα αρχεία ή καταλόγους"
+
+msgid "Deselect All"
+msgstr "Καταργήστε την επιλογή όλων"
+
+msgid "Deselect group"
+msgstr "Αποεπιλογή ομάδας"
+
+msgid "Deselect group..."
+msgstr "Αποεπιλογή ομάδας..."
+
+msgid "Directories to group selections"
+msgstr "Κατάλογοι για ομαδικές επιλογές"
+
+msgid "Directory"
+msgstr "Τηλεφωνικός κατάλογος"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Δεν είναι δυνατή η δημιουργία καταλόγου εδώ στο\n<List of Storage Devices> ή <Receiver>.\nΜετακινήστε τον επιλογέα μία γραμμή παρακάτω ή αλλάξτε τον κατάλογο."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Εμφάνιση ονομάτων αρχείων στην κεφαλίδα. Είναι χρήσιμο για ονόματα αρχείων που είναι πολύ μεγάλα."
+
+msgid "Do you want change rights?\n"
+msgstr "Θέλετε δικαιώματα αλλαγής;\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Θέλετε να προβάλετε ή να εκτελέσετε το σενάριο;\n"
+
+msgid "Edit"
+msgstr "Εκδίδω"
+
+msgid "Edit current line"
+msgstr "Επεξεργασία τρέχουσας γραμμής"
+
+msgid "Edit line"
+msgstr "Επεξεργασία γραμμής"
+
+msgid "Edit new file"
+msgstr "Επεξεργασία νέου αρχείου"
+
+msgid "Edit position is the line end"
+msgstr "Η θέση επεξεργασίας είναι το τέλος της γραμμής"
+
+msgid "end title"
+msgstr "τίτλος τέλους"
+
+msgid "ends with..."
+msgstr "τελειώνει με..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Μπείτε σε λειτουργία επιλογής πολλών αρχείων"
+
+msgid "Error"
+msgstr "Σφάλμα"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Σφάλμα δημιουργίας καταλόγου %s:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Σφάλμα κατά τη δημιουργία του αρχείου %s:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Σφάλμα σύνδεσης %s με %s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Σφάλμα μετονομασίας %s σε %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Σφάλμα αποθήκευσης: %s"
+
+msgid "Error..."
+msgstr "Σφάλμα..."
+
+msgid "Execution finished!!"
+msgstr "Ολοκληρώθηκε η εκτέλεση!!"
+
+msgid "Execution progress\n\n"
+msgstr "Πρόοδος εκτέλεσης\n\n"
+
+msgid "Exit"
+msgstr "Εξοδος"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Βγείτε από το πρόγραμμα επεξεργασίας και γράψτε τις αλλαγές (αν υπάρχουν)"
+
+msgid "Exit movie player?"
+msgstr "Έξοδος από το πρόγραμμα αναπαραγωγής ταινιών;"
+
+msgid "Exit picture viewer"
+msgstr "Έξοδος από το πρόγραμμα προβολής εικόνων"
+
+msgid "Extract archive to %s?"
+msgstr "Εξαγωγή αρχείου στο %s;"
+
+msgid "Extracting..."
+msgstr "Εξαγωγή..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Δεν είναι δυνατή η δημιουργία αρχείου σε\n<List of Storage Devices> ή <Receiver>.\nΑλλάξτε τον κατάλογο, παρακαλώ."
+
+msgid "File checksums/hashes"
+msgstr "Αρχείο αθροισμάτων ελέγχου/κατακερματισμού"
+
+msgid "File Commander"
+msgstr "Διοικητής αρχείου"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "File Commander - Addon File-Viewer"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "File Commander - Addon File-Viewer Settings"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "File Commander - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "File Commander - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander - γενικευμένος χειριστής αρχείων"
+
+msgid "File Commander - gzip Addon"
+msgstr "File Commander - gzip Addon"
+
+msgid "File Commander - ipk Addon"
+msgstr "File Commander - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "File Commander - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "File Commander - unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "File Commander - αποσυμπιέστε το Addon"
+
+msgid "File not found: %s"
+msgstr "Το αρχείο δεν βρέθηκε: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Το αρχείο είναι πολύ μεγάλο για να ανοίξει ως κείμενο (μέγιστο 1 MB)."
+
+msgid "File too large to open as text."
+msgstr "Το αρχείο είναι πολύ μεγάλο για να ανοίξει ως κείμενο."
+
+msgid "File transfer was cancelled by user"
+msgstr "Η μεταφορά αρχείων ακυρώθηκε από τον χρήστη"
+
+msgid "File/Directory Status Information"
+msgstr "Πληροφορίες κατάστασης αρχείου/καταλόγου"
+
+msgid "Filenames in header"
+msgstr "Ονόματα αρχείων στην κεφαλίδα"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Η επέκταση φίλτρου, (*) εμφανίζεται στον τίτλο"
+
+msgid "Filter visible file classes by extension."
+msgstr "Φιλτράρετε ορατές κατηγορίες αρχείων κατά επέκταση."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "για ΑΠΩΛΕΙΑ Ή ΖΗΜΙΑ ΔΕΔΟΜΕΝΩΝ !!!"
+
+msgid "from dir"
+msgstr "από σκην"
+
+msgid "GB"
+msgstr "γιγαμπάιτ"
+
+msgid "Go to bookmarked folder"
+msgstr "Μεταβείτε στον σελιδοδείκτη φάκελο"
+
+msgid "Go to default directory"
+msgstr "Μεταβείτε στον προεπιλεγμένο κατάλογο"
+
+msgid "Go to end of file"
+msgstr "Μεταβείτε στο τέλος του αρχείου"
+
+msgid "Go to parent directory"
+msgstr "Μεταβείτε στον γονικό κατάλογο"
+
+msgid "Go to start of file"
+msgstr "Μεταβείτε στην αρχή του αρχείου"
+
+msgid "Group:"
+msgstr "Ομάδα:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "ΑΛΛΑΞΕ! Θέλετε να το αποθηκεύσετε;"
+
+msgid "Hide/Show"
+msgstr "Απόκρυψη/Εμφάνιση"
+
+msgid "I/O priority for script execution"
+msgstr "Προτεραιότητα εισόδου/εξόδου για εκτέλεση σεναρίου"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Εάν επεξεργάζεστε ένα αρχείο, μπορείτε να ορίσετε τη θέση έναρξης του δρομέα στο τέλος ή στην αρχή της γραμμής."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "Στη λειτουργία πολλαπλών επιλογών μετακινεί τον κέρσορα στο επόμενο στοιχείο μετά τη σήμανση."
+
+msgid "Inode:"
+msgstr "Inode:"
+
+msgid "Insert"
+msgstr "Εισάγω"
+
+msgid "Insert line before current line"
+msgstr "Εισαγάγετε γραμμή πριν από την τρέχουσα γραμμή"
+
+msgid "Install"
+msgstr "Εγκαθιστώ"
+
+msgid "install/unpack ipk Files"
+msgstr "εγκατάσταση / αποσυσκευασία αρχείων ipk"
+
+msgid "Installing Plugin ..."
+msgstr "Εγκατάσταση προσθήκης..."
+
+msgid "Invert selection"
+msgstr "Αντιστροφή επιλογής"
+
+msgid "Invert Selection"
+msgstr "Αντιστροφή επιλογής"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "Δεν είναι δυνατός ο υπολογισμός των κατακερματισμών στη <List of Storage Devices>"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Δεν είναι δυνατή η αλλαγή της λειτουργίας αρχείου του <List of Storage Devices>"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Δεν είναι δυνατό να λάβετε την κατάσταση του αρχείου <List of Storage Devices>"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Αφήστε το File Commander"
+
+msgid "Leave multi-select mode"
+msgstr "Αποχώρηση από τη λειτουργία πολλαπλής επιλογής"
+
+msgid "Link target:"
+msgstr "Στόχος σύνδεσης:"
+
+msgid "Links:"
+msgstr "Εδαφος διά παιγνίδι γκολφ:"
+
+msgid "List of Storage Devices"
+msgstr "Λίστα συσκευών αποθήκευσης"
+
+msgid "Load"
+msgstr "Φορτίο"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Κάντε το FileCommander προσβάσιμο από το μενού Επεκτάσεις."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Κάντε το FileCommander προσβάσιμο από το κύριο μενού."
+
+msgid "manage local Files"
+msgstr "διαχείριση τοπικών αρχείων"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "ΜΕΝΟΥ"
+
+msgid "Menu..."
+msgstr "Μενού..."
+
+msgid "Metadata changed:"
+msgstr "Τα μεταδεδομένα άλλαξαν:"
+
+msgid "Mode %s (%04o)"
+msgstr "Λειτουργία %s (%04o)"
+
+msgid "Modified:"
+msgstr "Τροποποιήθηκε:"
+
+msgid "Move"
+msgstr "Κίνηση"
+
+msgid "Move down list"
+msgstr "Μετακίνηση προς τα κάτω στη λίστα"
+
+msgid "move file"
+msgstr "μετακίνηση αρχείου"
+
+msgid "Move file"
+msgstr "Μετακίνηση αρχείου"
+
+msgid "Move file/directory to target directory"
+msgstr "Μετακίνηση αρχείου/καταλόγου στον κατάλογο προορισμού"
+
+msgid "Move files/directories to target directory"
+msgstr "Μετακίνηση αρχείων/καταλόγων στον κατάλογο προορισμού"
+
+msgid "move folder"
+msgstr "μετακίνηση φακέλου"
+
+msgid "Move folder"
+msgstr "Μετακίνηση φακέλου"
+
+msgid "Move selector to next item"
+msgstr "Μετακινήστε τον επιλογέα στο επόμενο στοιχείο"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Μετακίνηση επιλογέα στο επόμενο στοιχείο (on/off)"
+
+msgid "Move up list"
+msgstr "Μετακίνηση επάνω στη λίστα"
+
+msgid "Movie"
+msgstr "Ταινία"
+
+msgid "MultiSelection Settings"
+msgstr "Ρυθμίσεις πολλαπλών επιλογών"
+
+msgid "Music"
+msgstr "Μουσική"
+
+msgid "My extension"
+msgstr "Η προέκτασή μου"
+
+msgid "My Extension"
+msgstr "Η επέκταση μου"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "Ονομα"
+
+msgid "Name reverse"
+msgstr "Αντίστροφη ονομασία"
+
+msgid "New folder"
+msgstr "Νέος φάκελος"
+
+msgid "New symlink"
+msgstr "Νέος συμβολικός σύνδεσμος"
+
+msgid "new.txt"
+msgstr "new.txt"
+
+msgid "No"
+msgstr "Οχι"
+
+msgid "No files found."
+msgstr "Δεν βρέθηκαν αρχεία."
+
+msgid "No hash calculations configured"
+msgstr "Δεν έχουν διαμορφωθεί υπολογισμοί κατακερματισμού"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "Κανένα από τα προγράμματα κατακερματισμού για τους κατακερματισμούς %s δεν είναι διαθέσιμο"
+
+msgid "Not allowed with folders"
+msgstr "Δεν επιτρέπεται με φακέλους"
+
+msgid "nothing connected"
+msgstr "τίποτα συνδεδεμένο"
+
+msgid "Number of lines in script messages"
+msgstr "Αριθμός γραμμών σε μηνύματα σεναρίου"
+
+msgid "OK"
+msgstr "ΕΝΤΑΞΕΙ"
+
+msgid "On device:"
+msgstr "Στη συσκευή:"
+
+msgid "Open"
+msgstr "Ανοιχτό"
+
+msgid "Open actions menu"
+msgstr "Ανοίξτε το μενού ενεργειών"
+
+msgid "Open settings/actions menu"
+msgstr "Ανοίξτε το μενού ρυθμίσεων/ενεργειών"
+
+msgid "Open with File Commander"
+msgstr "Άνοιγμα με το File Commander"
+
+msgid "or save the picture additionally to a file"
+msgstr "ή αποθηκεύστε την εικόνα επιπλέον σε ένα αρχείο"
+
+msgid "Original subtitles codepage"
+msgstr "Αρχική κωδικοσελίδα υπότιτλων"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Αρχική κωδικοσελίδα υπότιτλων για μετατροπή σε UTF-8."
+
+msgid "Original:"
+msgstr "Πρωτότυπο:"
+
+msgid "Owner:"
+msgstr "Ιδιοκτήτης:"
+
+msgid "Page down list"
+msgstr "Σελίδα κάτω λίστα"
+
+msgid "Page up list"
+msgstr "Σελίδα επάνω λίστα"
+
+msgid "Parent Directory"
+msgstr "Κατάλογος Γονέων"
+
+msgid "Permissions:"
+msgstr "Άδειες:"
+
+msgid "Pictures"
+msgstr "Εικόνες"
+
+msgid "play Files"
+msgstr "αναπαραγωγή αρχείων"
+
+msgid "Play folder"
+msgstr "Αναπαραγωγή φακέλου"
+
+msgid "Play title"
+msgstr "Αναπαραγωγή τίτλου"
+
+msgid "play/show Files"
+msgstr "αναπαραγωγή/εμφάνιση Αρχείων"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Αναπαραγωγή/προβολή/επεξεργασία/εγκατάσταση/εξαγωγή/εκτέλεση αρχείου ή εισαγωγή καταλόγου"
+
+msgid "Please enter file/folder name"
+msgstr "Εισαγάγετε όνομα αρχείου/φακέλου"
+
+msgid "Please enter name of the new directory"
+msgstr "Εισαγάγετε το όνομα του νέου καταλόγου"
+
+msgid "Please enter name of the new symlink"
+msgstr "Εισαγάγετε το όνομα του νέου συμβολικού συνδέσμου"
+
+msgid "Please enter password"
+msgstr "Εισαγάγετε κωδικό πρόσβασης"
+
+msgid "Please enter the new directory name"
+msgstr "Εισαγάγετε το νέο όνομα καταλόγου"
+
+msgid "Please enter the new file name"
+msgstr "Εισαγάγετε το νέο όνομα αρχείου"
+
+msgid "Please wait, Loading image."
+msgstr "Περιμένετε, Φόρτωση εικόνας."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Πατήστε OK ή Έξοδος για ακύρωση!"
+
+msgid "python"
+msgstr "Πύθων"
+
+msgid "Records"
+msgstr "Εγγραφές"
+
+msgid "Refresh screen"
+msgstr "Ανανέωση οθόνης"
+
+msgid "Regular file"
+msgstr "Κανονικό αρχείο"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Αφαιρέστε τον τρέχοντα φάκελο από τους σελιδοδείκτες"
+
+msgid "Remove from selection (%s)"
+msgstr "Αφαίρεση από την επιλογή (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Αφαιρέστε τον επιλεγμένο φάκελο από τους σελιδοδείκτες"
+
+msgid "Rename"
+msgstr "Μετονομάζω"
+
+msgid "Rename file"
+msgstr "Μετονομασία αρχείου"
+
+msgid "Rename file/directory"
+msgstr "Μετονομασία αρχείου/καταλόγου"
+
+msgid "Restart"
+msgstr "Επανεκκίνηση"
+
+msgid "Reverse left file sorting"
+msgstr "Αντίστροφη αριστερή ταξινόμηση αρχείων"
+
+msgid "Reverse right file sorting"
+msgstr "Ανάστροφη δεξιά ταξινόμηση αρχείων"
+
+msgid "Run script"
+msgstr "Εκτέλεση σεναρίου"
+
+msgid "Run script in background"
+msgstr "Εκτέλεση σεναρίου στο παρασκήνιο"
+
+msgid "Run script with optional parameter"
+msgstr "Εκτέλεση σεναρίου με προαιρετική παράμετρο"
+
+msgid "Run script with optional parameter in background"
+msgstr "Εκτέλεση σεναρίου με προαιρετική παράμετρο στο παρασκήνιο"
+
+msgid "s"
+msgstr "μικρό"
+
+msgid "Save cursor position"
+msgstr "Αποθήκευση θέσης δρομέα"
+
+msgid "Save cursor position in active panel."
+msgstr "Αποθηκεύστε τη θέση του δρομέα στον ενεργό πίνακα."
+
+msgid "Save left folder on exit"
+msgstr "Αποθηκεύστε τον αριστερό φάκελο κατά την έξοδο"
+
+msgid "Save right folder on exit"
+msgstr "Αποθηκεύστε το δεξί φάκελο κατά την έξοδο"
+
+msgid "Save the left directory list location on exit."
+msgstr "Αποθηκεύστε τη θέση της λίστας του αριστερού καταλόγου κατά την έξοδο."
+
+msgid "Save the right folder list location on exit."
+msgstr "Αποθηκεύστε τη σωστή θέση της λίστας φακέλων κατά την έξοδο."
+
+msgid "Search in group selection by"
+msgstr "Αναζήτηση στην επιλογή ομάδας κατά"
+
+msgid "Search text"
+msgstr "Αναζήτηση κειμένου"
+
+msgid "Search text (%s):"
+msgstr "Κείμενο αναζήτησης (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Αναζήτηση κειμένου στο αρχείο (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Επιλέξτε (λίστα προέλευσης) ή εισαγάγετε τον κατάλογο (λίστα προορισμού)"
+
+msgid "Select a path"
+msgstr "Επιλέξτε μια διαδρομή"
+
+msgid "Select action:"
+msgstr "Επιλέξτε ενέργεια:"
+
+msgid "Select All"
+msgstr "Επιλέξτε Όλα"
+
+msgid "Select group"
+msgstr "Επιλέξτε ομάδα"
+
+msgid "Select group..."
+msgstr "Επιλέξτε ομάδα..."
+
+msgid "Select operation:"
+msgstr "Επιλογή λειτουργίας:"
+
+msgid "Select your personal settings:"
+msgstr "Επιλέξτε τις προσωπικές σας ρυθμίσεις:"
+
+msgid "Set archive mode (644)"
+msgstr "Ορισμός λειτουργίας αρχειοθέτησης (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Ορισμός εκτελέσιμης λειτουργίας (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Ρυθμίζει εάν θα γίνεται διάκριση μεταξύ κεφαλαίων και πεζών για αναζήτηση."
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Settings..."
+msgstr "Ρυθμίσεις..."
+
+msgid "shell"
+msgstr "κέλυφος"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Εμφάνιση ως εικόνα (πατήστε οποιοδήποτε πλήκτρο για να κλείσετε)"
+
+msgid "Show contents of ipk file"
+msgstr "Εμφάνιση των περιεχομένων του αρχείου ipk"
+
+msgid "Show contents of rar file"
+msgstr "Εμφάνιση των περιεχομένων του αρχείου rar"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Εμφάνιση περιεχομένων αρχείου tar ή συμπιεσμένου tar"
+
+msgid "Show contents of zip file"
+msgstr "Εμφάνιση των περιεχομένων του αρχείου zip"
+
+msgid "Show directories first"
+msgstr "Εμφάνιση καταλόγων πρώτα"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Εμφάνιση καταλόγων στην πρώτη ή την τελευταία θέση στον πίνακα (για να εφαρμοστούν οι αλλαγές πρέπει να γίνει επανεκκίνηση του FileCommander)."
+
+msgid "Show image information"
+msgstr "Εμφάνιση πληροφοριών εικόνας"
+
+msgid "Show next picture"
+msgstr "Εμφάνιση επόμενης εικόνας"
+
+msgid "Show previous picture"
+msgstr "Εμφάνιση προηγούμενης εικόνας"
+
+msgid "Show Script completed message"
+msgstr "Εμφάνιση μηνύματος ολοκληρωμένου σεναρίου"
+
+msgid "Show task list"
+msgstr "Εμφάνιση λίστας εργασιών"
+
+msgid "Show unknown extension as text"
+msgstr "Εμφάνιση άγνωστης επέκτασης ως κείμενο"
+
+msgid "Size"
+msgstr "Μέγεθος"
+
+msgid "Size reverse"
+msgstr "Αντίστροφο μέγεθος"
+
+msgid "Size:"
+msgstr "Μέγεθος:"
+
+msgid "Socket"
+msgstr "Υποδοχή"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Ταξινόμηση των αριστερών αρχείων κατά όνομα, ημερομηνία ή μέγεθος"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Ταξινόμηση σωστών αρχείων κατά όνομα, ημερομηνία ή μέγεθος"
+
+msgid "start title"
+msgstr "τίτλος έναρξης"
+
+msgid "Start/stop slide show"
+msgstr "Έναρξη/διακοπή προβολής διαφανειών"
+
+msgid "starts with..."
+msgstr "ξεκινά με..."
+
+msgid "Storage devices"
+msgstr "Συσκευές αποθήκευσης"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Κουμπιά εναλλαγής για αντίστροφη ταξινόμηση αρχείων"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Εναλλάξτε τα κουμπιά δεξιά/αριστερά με κανάλι +/- ή το κουμπί καναλιού άλλαζε πάντα το πλάι."
+
+msgid "Symbolic link"
+msgstr "Συμβολικός σύνδεσμος"
+
+msgid "Symlink to"
+msgstr "Symlink to"
+
+msgid "Task list"
+msgstr "Λίστα εργασιών"
+
+msgid "TB"
+msgstr "ΤΒ"
+
+msgid "Text not found."
+msgstr "Το κείμενο δεν βρέθηκε."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Αναζήτηση κειμένου ως διάκριση πεζών-κεφαλαίων ή χωρίς διάκριση πεζών-κεφαλαίων."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Οι συγγραφείς ΔΕΝ φέρουν ευθύνη"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "Το στοιχείο Image Viewer του File Commander απαιτεί την επέκταση PicturePlayer. Εγκαταστήστε το PicturePlayer για να ενεργοποιήσετε αυτήν τη λειτουργία."
+
+msgid "This line is not editable!"
+msgstr "Αυτή η γραμμή δεν είναι επεξεργάσιμη!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Χρόνος μεταξύ των διαφανειών στην παρουσίαση προβολής εικόνων."
+
+msgid "Time for Slideshow"
+msgstr "Ώρα για Slideshow"
+
+msgid "to dir"
+msgstr "να σκην"
+
+msgid "To next found text"
+msgstr "Στο επόμενο κείμενο που βρέθηκε"
+
+msgid "To previous found text"
+msgstr "Στο προηγούμενο κείμενο που βρέθηκε"
+
+msgid "Type the name for the new file"
+msgstr "Πληκτρολογήστε το όνομα για το νέο αρχείο"
+
+msgid "Type:"
+msgstr "Τύπος:"
+
+msgid "Unknown"
+msgstr "Αγνωστος"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Άγνωστος τύπος αρχείου. Άνοιγμα ως κείμενο;"
+
+msgid "Unknown group: %d"
+msgstr "Άγνωστη ομάδα: %d"
+
+msgid "Unknown user: %d"
+msgstr "Άγνωστος χρήστης: %d"
+
+msgid "unpack archives"
+msgstr "αποσυμπιέστε τα αρχεία"
+
+msgid "unpack gzip Files"
+msgstr "αποσυμπιέστε τα αρχεία gzip"
+
+msgid "unpack Rar Files"
+msgstr "αποσυσκευάστε τα αρχεία Rar"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "αποσυσκευάστε αρχεία tar/συμπιεσμένου tar"
+
+msgid "Unpack to %s"
+msgstr "Αποσυσκευάστε στο %s"
+
+msgid "Unpack to current folder"
+msgstr "Αποσυσκευάστε τον τρέχοντα φάκελο"
+
+msgid "unpack zip Files"
+msgstr "αποσυμπιέστε τα αρχεία zip"
+
+msgid "Unsupported archive type."
+msgstr "Μη υποστηριζόμενος τύπος αρχείου."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Προβολή ή επεξεργασία αρχείου (εάν μέγεθος < 1 MB)"
+
+msgid "View or edit this %s script"
+msgstr "Προβολή ή επεξεργασία αυτού του σεναρίου %s"
+
+msgid "WARNING!"
+msgstr "ΠΡΟΕΙΔΟΠΟΙΗΣΗ!"
+
+msgid "What do you want to play?\n"
+msgstr "Τι θέλετε να παίξετε;\n"
+
+msgid "without"
+msgstr "χωρίς"
+
+msgid "Yes"
+msgstr "Ναί"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Μπορείτε να ορίσετε τον αριθμό των γραμμάτων από την αρχή του τρέχοντος ονόματος αρχείου ως το προσυμπληρωμένο κείμενο στο εικονικό πληκτρολόγιο για ευκολότερη εισαγωγή μέσω της επιλογής ομάδας."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Μπορείτε να ορίσετε τον αριθμό των γραμμάτων από το τέλος του τρέχοντος ονόματος αρχείου ως το προσυμπληρωμένο κείμενο στο εικονικό πληκτρολόγιο για ευκολότερη εισαγωγή μέσω της επιλογής ομάδας."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Μπορείτε να ορίσετε τι θα χρησιμοποιεί η ομαδική επιλογή - αρχή τίτλου, τέλος τίτλου ή περιέχει στον τίτλο."
+

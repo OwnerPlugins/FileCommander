@@ -1,0 +1,1050 @@
+# eu translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: eu <ekekaz@gmail.com>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- Fitxategia existitzen da! Gainidatzi"
+
+msgid "- folder exist! Overwrite"
+msgstr "- Badago karpeta! Gainidatzi"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Hautatu modua)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\nhautazko parametroa:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - erauzketa-erroreak."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s pasahitz babestuta dago."
+
+msgid "%s successfully extracted."
+msgstr "%s behar bezala atera da."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Hartzailea>"
+
+msgid "Accessed:"
+msgstr "Sarbidea:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Aktibatu ezkerreko fitxategien zerrenda hautapen anitzeko iturri gisa"
+
+msgid "Activate left-hand file list as source"
+msgstr "Aktibatu ezkerreko fitxategien zerrenda iturri gisa"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Aktibatu eskuineko fitxategien zerrenda aukera anitzeko iturri gisa"
+
+msgid "Activate right-hand file list as source"
+msgstr "Aktibatu eskuineko fitxategien zerrenda iturri gisa"
+
+msgid "Add current folder to bookmarks"
+msgstr "Gehitu uneko karpeta laster-marketara"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Gehitu plugina Hedapenak menura"
+
+msgid "Add plugin to main menu"
+msgstr "Gehitu plugina menu nagusian"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Gehitu hautatutako karpeta laster-marketara"
+
+msgid "Add to selection (%s)"
+msgstr "Gehitu hautapenera (%s)"
+
+msgid "All"
+msgstr "Denak"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Hautatutako filmaren izen bera duten direktorioko fitxategi guztiak ere kopiatuko dira edo mugituko dira."
+
+msgid "All movie extensions"
+msgstr "Filmaren luzapen guztiak"
+
+msgid "B"
+msgstr "B"
+
+msgid "Block device"
+msgstr "Blokeatu gailua"
+
+msgid "Calculate file checksums"
+msgstr "Kalkulatu fitxategien egiaztagiriak"
+
+msgid "Calculates file checksums."
+msgstr "Fitxategien batuketak kalkulatzen ditu."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "Ezin da %s exekutatu: %s.\n%s instalatuta ez dagoen plugin batean egon daiteke."
+
+msgid "Cancel"
+msgstr "Utzi"
+
+msgid "Cancel execution?"
+msgstr "Exekuzioa bertan behera utzi?"
+
+msgid "Cannot create target directory."
+msgstr "Ezin da sortu helburu-direktorioa."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Ezin da irudia ireki. Testu gisa ireki?"
+
+msgid "Cannot play file."
+msgstr "Ezin da fitxategia erreproduzitu."
+
+msgid "Cannot read file: %s"
+msgstr "Ezin da fitxategia irakurri: %s"
+
+msgid "case insensitive"
+msgstr "maiuskulak eta minuskulak bereizten ditu"
+
+msgid "case sensitive"
+msgstr "maiuskulak eta minuskulak bereizten dira"
+
+msgid "Case sensitive search"
+msgstr "Maiuskulak eta minuskulak bereizten dira"
+
+msgid "Change buttons for list navigation"
+msgstr "Aldatu zerrendan nabigaziorako botoiak"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Aldatu exekutatzeko baimenak (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Kanalaren botoiak beti aldatzen du aldeak"
+
+msgid "Character device"
+msgstr "Pertsonaien gailua"
+
+msgid "Close"
+msgstr "Itxi"
+
+msgid "Compare case sensitive"
+msgstr "Konparatu maiuskulak eta minuskulak bereizten direla"
+
+msgid "contains in title"
+msgstr "izenburuan dauka"
+
+msgid "contains..."
+msgstr "dauka..."
+
+msgid "Content size:"
+msgstr "Edukiaren tamaina:"
+
+msgid "Copy"
+msgstr "Kopiatu"
+
+msgid "copy file"
+msgstr "kopiatu fitxategia"
+
+msgid "Copy file"
+msgstr "Kopiatu fitxategia"
+
+msgid "Copy file/directory to target directory"
+msgstr "Kopiatu fitxategia/direktorioa helburuko direktoriora"
+
+msgid "Copy files/directories to target directory"
+msgstr "Kopiatu fitxategiak/direktorioak xede-direktoriora"
+
+msgid "copy folder"
+msgstr "kopiatu karpeta"
+
+msgid "Copy folder"
+msgstr "Kopiatu karpeta"
+
+msgid "Count directory content size"
+msgstr "Direktorioaren edukiaren tamaina zenbatu"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Direktorioaren edukiaren tamaina zenbatzea oinez ibiltzean (aktibatuta/desaktibatuta)"
+
+msgid "CPU priority for script execution"
+msgstr "PUZaren lehentasuna script-a exekutatzeko"
+
+msgid "Create directory"
+msgstr "Sortu direktorioa"
+
+msgid "create symlink ..."
+msgstr "sortu esteka sinbolikoa..."
+
+msgid "Create symlink to file"
+msgstr "Sortu esteka sinbolikoa fitxategirako"
+
+msgid "Create user-named symbolic link"
+msgstr "Sortu erabiltzaileak izena duen esteka sinbolikoa"
+
+msgid "d"
+msgstr "d"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Date reverse"
+msgstr "Dataren alderantzizkoa"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "PUZaren lehentasun lehenetsia (polita) exekutatutako scriptetarako. Honek karga murriztu dezake, scriptek sistemaren gainerakoekin oztopatu ez dezaten. (balio altuagoak = lehentasun txikiagoa)"
+
+msgid "Default directory sorting"
+msgstr "Direktorioen ordena lehenetsia"
+
+msgid "Default file sorting left"
+msgstr "Fitxategien sailkapen lehenetsia utzi da"
+
+msgid "Default file sorting right"
+msgstr "Fitxategiak ordenatzeko lehenetsia"
+
+msgid "Default folder"
+msgstr "Karpeta lehenetsia"
+
+msgid "Default Folder"
+msgstr "Karpeta lehenetsia"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "I/O lehentasun lehenetsia (ionice) exekutatutako scriptetarako. Honek karga murriztu dezake, scriptek sistemaren gainerakoekin oztopatu ez dezaten. (balio altuagoak = lehentasun txikiagoa)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Bi paneletako direktorioetarako ordenatzeko metodo lehenetsia (aldaketak aplikatzeko FileCommander berrabiarazi behar da)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Ezkerreko paneleko fitxategiak ordenatzeko metodo lehenetsia."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Eskuineko paneleko fitxategiak ordenatzeko metodo lehenetsia."
+
+msgid "Delete"
+msgstr "Ezabatu"
+
+msgid "Delete current line"
+msgstr "Ezabatu uneko lerroa"
+
+msgid "Delete file"
+msgstr "Ezabatu fitxategia"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Ezabatu fitxategia edo direktorioa (eta bere eduki guztia)"
+
+msgid "Delete folder"
+msgstr "Ezabatu karpeta"
+
+msgid "Delete the selected files or directories"
+msgstr "Ezabatu hautatutako fitxategiak edo direktorioak"
+
+msgid "Deselect All"
+msgstr "Deshautatu Guztiak"
+
+msgid "Deselect group"
+msgstr "Deshautatu taldea"
+
+msgid "Deselect group..."
+msgstr "Deshautatu taldea..."
+
+msgid "Directories to group selections"
+msgstr "Taldeko hautapenetarako direktorioak"
+
+msgid "Directory"
+msgstr "Direktorioa"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Ezin da hemen direktorioa sortu\n<Biltegiratze-gailuen zerrenda> edo <Hargailua>.\nMugi hautatzailea lerro bat beherago edo aldatu direktorioa."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Erakutsi fitxategi-izenak goiburuan. Baliagarria da luzeegiak diren fitxategi-izenetarako."
+
+msgid "Do you want change rights?\n"
+msgstr "Eskubideak aldatu nahi dituzu?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Scripta ikusi edo exekutatu nahi duzu?\n"
+
+msgid "Edit"
+msgstr "Editatu"
+
+msgid "Edit current line"
+msgstr "Editatu uneko lerroa"
+
+msgid "Edit line"
+msgstr "Editatu lerroa"
+
+msgid "Edit new file"
+msgstr "Editatu fitxategi berria"
+
+msgid "Edit position is the line end"
+msgstr "Editatu posizioa lerro amaiera da"
+
+msgid "end title"
+msgstr "amaierako izenburua"
+
+msgid "ends with..."
+msgstr "bukatzen da..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Sartu fitxategi anitzeko aukeraketa moduan"
+
+msgid "Error"
+msgstr "Errorea"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Errore bat gertatu da %s direktorioa sortzean:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Errore bat gertatu da %s fitxategia sortzean:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Errore bat gertatu da %s %s-rekin lotzean:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Errore bat gertatu da %s izena aldatzean %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Errorea gordetzean: %s"
+
+msgid "Error..."
+msgstr "Errorea..."
+
+msgid "Execution finished!!"
+msgstr "Exekuzioa amaituta!!"
+
+msgid "Execution progress\n\n"
+msgstr "Exekuzioaren aurrerapena\n\n"
+
+msgid "Exit"
+msgstr "Irten"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Irten editorea eta idatzi aldaketak (halakorik badago)"
+
+msgid "Exit movie player?"
+msgstr "Film erreproduzitzailea irten?"
+
+msgid "Exit picture viewer"
+msgstr "Irten argazki-ikustailean"
+
+msgid "Extract archive to %s?"
+msgstr "Artxiboa %s-ra atera?"
+
+msgid "Extracting..."
+msgstr "Erauzten..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Ezin da fitxategia sortu\n<Biltegiratze-gailuen zerrenda> edo <Hargailua>.\nAldatu direktorioa, mesedez."
+
+msgid "File checksums/hashes"
+msgstr "Fitxategi batuketak/hashak"
+
+msgid "File Commander"
+msgstr "Fitxategiko komandantea"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "File Commander - Fitxategi-ikuslea gehigarria"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "File Commander - Fitxategi-ikuslearen ezarpenak gehigarria"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "File Commander - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "File Commander - Gehigarria Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander - artxibo-kudeatzaile orokortua"
+
+msgid "File Commander - gzip Addon"
+msgstr "File Commander - gzip gehigarria"
+
+msgid "File Commander - ipk Addon"
+msgstr "File Commander - ipk gehigarria"
+
+msgid "File Commander - tar Addon"
+msgstr "File Commander - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "File Commander - unrar gehigarria"
+
+msgid "File Commander - unzip Addon"
+msgstr "File Commander - deskonprimitu gehigarria"
+
+msgid "File not found: %s"
+msgstr "Ez da aurkitu fitxategia: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Fitxategi handiegia testu gisa irekitzeko (gehienez 1 MB)."
+
+msgid "File too large to open as text."
+msgstr "Fitxategia handiegia testu gisa irekitzeko."
+
+msgid "File transfer was cancelled by user"
+msgstr "Fitxategien transferentzia bertan behera utzi du erabiltzaileak"
+
+msgid "File/Directory Status Information"
+msgstr "Fitxategi/Direktorioaren egoerari buruzko informazioa"
+
+msgid "Filenames in header"
+msgstr "Fitxategi-izenak goiburuan"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Iragazkiaren luzapena, (*) agertzen da izenburuan"
+
+msgid "Filter visible file classes by extension."
+msgstr "Iragazi ikusgai dauden fitxategi-klaseak luzapenaren arabera."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "DATU GALERA EDO KALTEETAKO !!!"
+
+msgid "from dir"
+msgstr "zuzendaritik"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "Joan laster markadun karpetara"
+
+msgid "Go to default directory"
+msgstr "Joan direktorio lehenetsira"
+
+msgid "Go to end of file"
+msgstr "Joan fitxategiaren amaierara"
+
+msgid "Go to parent directory"
+msgstr "Joan gurasoen direktoriora"
+
+msgid "Go to start of file"
+msgstr "Joan fitxategiaren hasierara"
+
+msgid "Group:"
+msgstr "Taldea:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "ALDATUA izan da! Gorde nahi al duzu?"
+
+msgid "Hide/Show"
+msgstr "Ezkutatu/Erakutsi"
+
+msgid "I/O priority for script execution"
+msgstr "I/O lehentasuna script exekutatzeko"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Fitxategi bat editatzen baduzu, kurtsorearen hasierako posizioa ezar dezakezu lerroaren amaieran edo hasieran."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "Aukera anitzeko moduan kurtsorea markatu ondoren hurrengo elementura mugitzen du."
+
+msgid "Inode:"
+msgstr "Inodoa:"
+
+msgid "Insert"
+msgstr "Txertatu"
+
+msgid "Insert line before current line"
+msgstr "Txertatu lerroa uneko lerroaren aurretik"
+
+msgid "Install"
+msgstr "Instalatu"
+
+msgid "install/unpack ipk Files"
+msgstr "instalatu/deskonprimitu ipk fitxategiak"
+
+msgid "Installing Plugin ..."
+msgstr "Plugin-a instalatzen..."
+
+msgid "Invert selection"
+msgstr "Alderantzikatu hautaketa"
+
+msgid "Invert Selection"
+msgstr "Alderantzikatu hautaketa"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "Ezin da hash-ak kalkulatu <Biltegiratzeko gailuen zerrenda>-n"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Ezin da <Biltegiratzeko gailuen zerrenda> fitxategi-modua aldatu"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Ezin da <Biltegiratzeko gailuen zerrenda> fitxategiaren egoera lortu"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Utzi File Commander"
+
+msgid "Leave multi-select mode"
+msgstr "Irten aukeraketa anitzeko modua"
+
+msgid "Link target:"
+msgstr "Estekaren helburua:"
+
+msgid "Links:"
+msgstr "Estekak:"
+
+msgid "List of Storage Devices"
+msgstr "Biltegiratze gailuen zerrenda"
+
+msgid "Load"
+msgstr "Kargatu"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Egin FileCommander eskuragarria Luzapenak menutik."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Egin FileCommander eskuragarri menu nagusitik."
+
+msgid "manage local Files"
+msgstr "tokiko fitxategiak kudeatu"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "MENUA"
+
+msgid "Menu..."
+msgstr "Menua..."
+
+msgid "Metadata changed:"
+msgstr "Metadatuak aldatu dira:"
+
+msgid "Mode %s (%04o)"
+msgstr "%s modua (%04o)"
+
+msgid "Modified:"
+msgstr "Aldatua:"
+
+msgid "Move"
+msgstr "Mugitu"
+
+msgid "Move down list"
+msgstr "Mugitu behera zerrenda"
+
+msgid "move file"
+msgstr "mugitu fitxategia"
+
+msgid "Move file"
+msgstr "Mugitu fitxategia"
+
+msgid "Move file/directory to target directory"
+msgstr "Eraman fitxategia/direktorioa helburuko direktoriora"
+
+msgid "Move files/directories to target directory"
+msgstr "Eraman fitxategiak/direktorioak helburuko direktoriora"
+
+msgid "move folder"
+msgstr "mugitu karpeta"
+
+msgid "Move folder"
+msgstr "Mugitu karpeta"
+
+msgid "Move selector to next item"
+msgstr "Mugitu hautatzailea hurrengo elementura"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Eraman hautatzailea hurrengo elementura (aktibatuta/desaktibatuta)"
+
+msgid "Move up list"
+msgstr "Gora zerrendan"
+
+msgid "Movie"
+msgstr "Filma"
+
+msgid "MultiSelection Settings"
+msgstr "Aukera anitzeko ezarpenak"
+
+msgid "Music"
+msgstr "Musika"
+
+msgid "My extension"
+msgstr "Nire luzapena"
+
+msgid "My Extension"
+msgstr "Nire luzapena"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "Izena"
+
+msgid "Name reverse"
+msgstr "Izenaren alderantzizkoa"
+
+msgid "New folder"
+msgstr "Karpeta berria"
+
+msgid "New symlink"
+msgstr "Esteka simboliko berria"
+
+msgid "new.txt"
+msgstr "berria.txt"
+
+msgid "No"
+msgstr "Ez"
+
+msgid "No files found."
+msgstr "Ez da fitxategirik aurkitu."
+
+msgid "No hash calculations configured"
+msgstr "Ez dago hash kalkulurik konfiguratuta"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "%s hashetarako programarik ez dago erabilgarri"
+
+msgid "Not allowed with folders"
+msgstr "Ez da onartzen karpetekin"
+
+msgid "nothing connected"
+msgstr "ezer lotuta"
+
+msgid "Number of lines in script messages"
+msgstr "Script-mezuetako lerro kopurua"
+
+msgid "OK"
+msgstr "Ados"
+
+msgid "On device:"
+msgstr "Gailuan:"
+
+msgid "Open"
+msgstr "Ireki"
+
+msgid "Open actions menu"
+msgstr "Ireki ekintzen menua"
+
+msgid "Open settings/actions menu"
+msgstr "Ireki ezarpen/ekintzen menua"
+
+msgid "Open with File Commander"
+msgstr "Ireki File Commander-ekin"
+
+msgid "or save the picture additionally to a file"
+msgstr "edo gorde argazkia fitxategi batean gainera"
+
+msgid "Original subtitles codepage"
+msgstr "Jatorrizko azpitituluen kode orria"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Jatorrizko azpitituluen kode orria UTF-8ra bihurtzeko."
+
+msgid "Original:"
+msgstr "Jatorrizkoa:"
+
+msgid "Owner:"
+msgstr "Jabea:"
+
+msgid "Page down list"
+msgstr "Orritik beherako zerrenda"
+
+msgid "Page up list"
+msgstr "Orrialde gorako zerrenda"
+
+msgid "Parent Directory"
+msgstr "Gurasoen direktorioa"
+
+msgid "Permissions:"
+msgstr "Baimenak:"
+
+msgid "Pictures"
+msgstr "Irudiak"
+
+msgid "play Files"
+msgstr "erreproduzitu Fitxategiak"
+
+msgid "Play folder"
+msgstr "Erreproduzitu karpeta"
+
+msgid "Play title"
+msgstr "Jolastu izenburua"
+
+msgid "play/show Files"
+msgstr "erreproduzitu/erakutsi Fitxategiak"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Erreproduzitu/ikusi/editatu/instalatu/erautzi/exekutatu fitxategia edo sartu direktorioa"
+
+msgid "Please enter file/folder name"
+msgstr "Mesedez, idatzi fitxategi/karpeta izena"
+
+msgid "Please enter name of the new directory"
+msgstr "Mesedez, idatzi direktorio berriaren izena"
+
+msgid "Please enter name of the new symlink"
+msgstr "Mesedez, idatzi esteka sinboliko berriaren izena"
+
+msgid "Please enter password"
+msgstr "Mesedez, sartu pasahitza"
+
+msgid "Please enter the new directory name"
+msgstr "Mesedez, sartu direktorio-izen berria"
+
+msgid "Please enter the new file name"
+msgstr "Mesedez, idatzi fitxategi-izen berria"
+
+msgid "Please wait, Loading image."
+msgstr "Mesedez, itxaron, irudia kargatzen."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Sakatu Ados edo Irten bertan behera uzteko!"
+
+msgid "python"
+msgstr "pitoia"
+
+msgid "Records"
+msgstr "Erregistroak"
+
+msgid "Refresh screen"
+msgstr "Freskatu pantaila"
+
+msgid "Regular file"
+msgstr "Fitxa arrunta"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Kendu uneko karpeta laster-marketatik"
+
+msgid "Remove from selection (%s)"
+msgstr "Kendu hautapenetik (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Kendu hautatutako karpeta laster-marketatik"
+
+msgid "Rename"
+msgstr "Aldatu izena"
+
+msgid "Rename file"
+msgstr "Fitxategiaren izena aldatu"
+
+msgid "Rename file/directory"
+msgstr "Aldatu fitxategia/direktorioa"
+
+msgid "Restart"
+msgstr "Berrabiarazi"
+
+msgid "Reverse left file sorting"
+msgstr "Alderantziz ezkerreko fitxategien ordenazioa"
+
+msgid "Reverse right file sorting"
+msgstr "Alderantziz eskuineko fitxategiak ordenatzea"
+
+msgid "Run script"
+msgstr "Exekutatu gidoia"
+
+msgid "Run script in background"
+msgstr "Exekutatu scripta atzeko planoan"
+
+msgid "Run script with optional parameter"
+msgstr "Exekutatu scripta aukerako parametroarekin"
+
+msgid "Run script with optional parameter in background"
+msgstr "Exekutatu scripta atzeko planoan aukerako parametroarekin"
+
+msgid "s"
+msgstr "s"
+
+msgid "Save cursor position"
+msgstr "Gorde kurtsorearen posizioa"
+
+msgid "Save cursor position in active panel."
+msgstr "Gorde kurtsorearen posizioa panel aktiboan."
+
+msgid "Save left folder on exit"
+msgstr "Gorde ezkerreko karpeta irtetean"
+
+msgid "Save right folder on exit"
+msgstr "Gorde eskuineko karpeta irtetean"
+
+msgid "Save the left directory list location on exit."
+msgstr "Gorde ezkerreko direktorio-zerrendaren kokapena irteeran."
+
+msgid "Save the right folder list location on exit."
+msgstr "Gorde karpeta zerrendaren kokapena irtetean."
+
+msgid "Search in group selection by"
+msgstr "Bilatu taldeen aukeraketan arabera"
+
+msgid "Search text"
+msgstr "Bilatu testua"
+
+msgid "Search text (%s):"
+msgstr "Bilatu testua (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Bilatu testua fitxategian (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Hautatu (iturburu-zerrenda) edo sartu direktorioa (helburu-zerrenda)"
+
+msgid "Select a path"
+msgstr "Hautatu bide bat"
+
+msgid "Select action:"
+msgstr "Hautatu ekintza:"
+
+msgid "Select All"
+msgstr "Hautatu Guztiak"
+
+msgid "Select group"
+msgstr "Hautatu taldea"
+
+msgid "Select group..."
+msgstr "Hautatu taldea..."
+
+msgid "Select operation:"
+msgstr "Hautatu eragiketa:"
+
+msgid "Select your personal settings:"
+msgstr "Hautatu zure ezarpen pertsonalak:"
+
+msgid "Set archive mode (644)"
+msgstr "Ezarri artxibo modua (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Ezarri exekutagarri modua (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Bilatzeko maiuskulak eta minuskulak bereizi behar diren ezartzen du."
+
+msgid "Settings"
+msgstr "Ezarpenak"
+
+msgid "Settings..."
+msgstr "Ezarpenak..."
+
+msgid "shell"
+msgstr "oskola"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Erakutsi irudi gisa (sakatu edozein tekla ixteko)"
+
+msgid "Show contents of ipk file"
+msgstr "Erakutsi ipk fitxategiaren edukia"
+
+msgid "Show contents of rar file"
+msgstr "Erakutsi rar fitxategiaren edukia"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Erakutsi tar edo tar fitxategi konprimituaren edukia"
+
+msgid "Show contents of zip file"
+msgstr "Erakutsi zip fitxategiaren edukia"
+
+msgid "Show directories first"
+msgstr "Erakutsi direktorioa lehenik"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Erakutsi direktorioak paneleko lehen edo azken posizioetan (aldaketak aplikatzeko FileCommander berrabiarazi behar da)."
+
+msgid "Show image information"
+msgstr "Erakutsi irudiaren informazioa"
+
+msgid "Show next picture"
+msgstr "Erakutsi hurrengo argazkia"
+
+msgid "Show previous picture"
+msgstr "Erakutsi aurreko argazkia"
+
+msgid "Show Script completed message"
+msgstr "Erakutsi Script amaitutako mezua"
+
+msgid "Show task list"
+msgstr "Erakutsi zereginen zerrenda"
+
+msgid "Show unknown extension as text"
+msgstr "Erakutsi luzapen ezezaguna testu gisa"
+
+msgid "Size"
+msgstr "Tamaina"
+
+msgid "Size reverse"
+msgstr "Tamaina alderantzizkoa"
+
+msgid "Size:"
+msgstr "Tamaina:"
+
+msgid "Socket"
+msgstr "Entxufea"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Ezkerreko fitxategiak izen, data edo tamainaren arabera ordenatzea"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Fitxategi egokiak izen, data edo tamainaren arabera ordenatzea"
+
+msgid "start title"
+msgstr "hasierako izenburua"
+
+msgid "Start/stop slide show"
+msgstr "Hasi/gelditu diapositiba emanaldia"
+
+msgid "starts with..."
+msgstr "hasten da..."
+
+msgid "Storage devices"
+msgstr "Biltegiratze-gailuak"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Trukatu botoiak alderantzizko fitxategiak ordenatzeko"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Trukatu botoiak eskuinera/ezkerrera kanalarekin +/-rekin edo kanalaren botoia beti alboan aldatzen da."
+
+msgid "Symbolic link"
+msgstr "Lotura sinbolikoa"
+
+msgid "Symlink to"
+msgstr "Esteka sinbolikoa"
+
+msgid "Task list"
+msgstr "Zereginen zerrenda"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Text not found."
+msgstr "Ez da aurkitu testua."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Testua bilatzea maiuskulak eta minuskulak bereizten ditu."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Egileak EZ DIRA ARDURADUNA"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "File Commander-en Image Viewer osagaiak PicturePlayer luzapena behar du. Eragiketa hau gaitzeko, instalatu PicturePlayer."
+
+msgid "This line is not editable!"
+msgstr "Lerro hau ez da editagarria!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Diapositiben arteko denbora irudi-ikuslearen aurkezpenean."
+
+msgid "Time for Slideshow"
+msgstr "Aurkezpenerako ordua"
+
+msgid "to dir"
+msgstr "zuzendu"
+
+msgid "To next found text"
+msgstr "Aurkitutako hurrengo testura"
+
+msgid "To previous found text"
+msgstr "Aurkitutako aurreko testura"
+
+msgid "Type the name for the new file"
+msgstr "Idatzi fitxategi berriaren izena"
+
+msgid "Type:"
+msgstr "Mota:"
+
+msgid "Unknown"
+msgstr "Ezezaguna"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Fitxategi mota ezezaguna. Testu gisa ireki?"
+
+msgid "Unknown group: %d"
+msgstr "Talde ezezaguna: %d"
+
+msgid "Unknown user: %d"
+msgstr "Erabiltzaile ezezaguna: %d"
+
+msgid "unpack archives"
+msgstr "deskonprimitu artxiboak"
+
+msgid "unpack gzip Files"
+msgstr "deskonprimitu gzip fitxategiak"
+
+msgid "unpack Rar Files"
+msgstr "deskonprimitu Rar fitxategiak"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "deskonprimitu tar/tar fitxategi konprimituak"
+
+msgid "Unpack to %s"
+msgstr "Despakitu %s-ra"
+
+msgid "Unpack to current folder"
+msgstr "Deskonprimitu uneko karpetan"
+
+msgid "unpack zip Files"
+msgstr "deskonprimitu zip fitxategiak"
+
+msgid "Unsupported archive type."
+msgstr "Onartzen ez den artxibo mota."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Ikusi edo editatu fitxategia (tamaina < 1MB bada)"
+
+msgid "View or edit this %s script"
+msgstr "Ikusi edo editatu %s script hau"
+
+msgid "WARNING!"
+msgstr "KONTUZ!"
+
+msgid "What do you want to play?\n"
+msgstr "Zer jolastu nahi duzu?\n"
+
+msgid "without"
+msgstr "gabe"
+
+msgid "Yes"
+msgstr "Bai"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Uneko fitxategi-izenaren hasierako letra-kopurua ezar dezakezu teklatu birtualean aurrez betetako testu gisa, talde hautapenaren bidez sarrera errazteko."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Uneko fitxategi-izenaren amaierako letra-kopurua ezar dezakezu teklatu birtualean aurrez betetako testu gisa, talde hautapenaren bidez sarrera errazteko."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Talde-hautaketak zer erabiliko duen ezar dezakezu: izenburuaren hasiera, izenburuaren amaiera edo izenburuan eduki."
+

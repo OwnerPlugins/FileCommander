@@ -1,0 +1,1050 @@
+# ar translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ar <ekekaz@gmail.com>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- الملف موجود! الكتابة فوق"
+
+msgid "- folder exist! Overwrite"
+msgstr "- المجلد موجود! الكتابة فوق"
+
+msgid "?"
+msgstr "؟"
+
+msgid "(Selectmode)"
+msgstr "(وضع التحديد)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\nالمعلمة الاختيارية:\n%s"
+
+msgid "%d GB"
+msgstr "%d غيغابايت"
+
+msgid "%d kB"
+msgstr "%d كيلو بايت"
+
+msgid "%d MB"
+msgstr "%d ميغابايت"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y، %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - أخطاء في الاستخراج."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s محمي بكلمة مرور."
+
+msgid "%s successfully extracted."
+msgstr "تم استخراج %s بنجاح."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<المتلقي>"
+
+msgid "Accessed:"
+msgstr "تم الوصول إليه:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "قم بتنشيط قائمة الملفات اليسرى كمصدر متعدد التحديد"
+
+msgid "Activate left-hand file list as source"
+msgstr "تنشيط قائمة الملفات اليسرى كمصدر"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "قم بتنشيط قائمة الملفات اليمنى كمصدر متعدد التحديد"
+
+msgid "Activate right-hand file list as source"
+msgstr "تنشيط قائمة الملفات اليمنى كمصدر"
+
+msgid "Add current folder to bookmarks"
+msgstr "إضافة المجلد الحالي إلى الإشارات المرجعية"
+
+msgid "Add plugin to Extensions menu"
+msgstr "أضف مكونًا إضافيًا إلى قائمة الإضافات"
+
+msgid "Add plugin to main menu"
+msgstr "إضافة البرنامج المساعد إلى القائمة الرئيسية"
+
+msgid "Add selected folder to bookmarks"
+msgstr "إضافة المجلد المحدد إلى الإشارات المرجعية"
+
+msgid "Add to selection (%s)"
+msgstr "إضافة إلى التحديد (%s)"
+
+msgid "All"
+msgstr "الجميع"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "سيتم نسخ جميع الملفات الموجودة في الدليل والتي تحمل نفس اسم الفيلم المحدد أو نقلها أيضًا."
+
+msgid "All movie extensions"
+msgstr "جميع ملحقات الفيلم"
+
+msgid "B"
+msgstr "ب"
+
+msgid "Block device"
+msgstr "جهاز الحظر"
+
+msgid "Calculate file checksums"
+msgstr "حساب المجاميع الاختبارية للملف"
+
+msgid "Calculates file checksums."
+msgstr "يحسب المجاميع الاختبارية للملف."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "لا يمكن تشغيل %s: %s.\n%s قد يكون موجوداً في مكون إضافي غير مثبت."
+
+msgid "Cancel"
+msgstr "يلغي"
+
+msgid "Cancel execution?"
+msgstr "إلغاء التنفيذ؟"
+
+msgid "Cannot create target directory."
+msgstr "لا يمكن إنشاء الدليل الهدف."
+
+msgid "Cannot open image. Open as text?"
+msgstr "لا يمكن فتح الصورة. هل تريد فتحه كنص؟"
+
+msgid "Cannot play file."
+msgstr "لا يمكن تشغيل الملف."
+
+msgid "Cannot read file: %s"
+msgstr "لا يمكن قراءة الملف: %s"
+
+msgid "case insensitive"
+msgstr "غير حساس لحالة الأحرف"
+
+msgid "case sensitive"
+msgstr "حساسية الموضوع"
+
+msgid "Case sensitive search"
+msgstr "بحث حساس لحالة الأحرف"
+
+msgid "Change buttons for list navigation"
+msgstr "تغيير الأزرار للتنقل في القائمة"
+
+msgid "Change execute permissions (755/644)"
+msgstr "تغيير أذونات التنفيذ (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "زر القناة يتغير دائمًا"
+
+msgid "Character device"
+msgstr "جهاز حرف"
+
+msgid "Close"
+msgstr "يغلق"
+
+msgid "Compare case sensitive"
+msgstr "قارن حساس لحالة الأحرف"
+
+msgid "contains in title"
+msgstr "يحتوي في العنوان"
+
+msgid "contains..."
+msgstr "يتضمن..."
+
+msgid "Content size:"
+msgstr "حجم المحتوى:"
+
+msgid "Copy"
+msgstr "ينسخ"
+
+msgid "copy file"
+msgstr "نسخ الملف"
+
+msgid "Copy file"
+msgstr "نسخ الملف"
+
+msgid "Copy file/directory to target directory"
+msgstr "انسخ الملف/الدليل إلى الدليل الهدف"
+
+msgid "Copy files/directories to target directory"
+msgstr "انسخ الملفات/الدلائل إلى الدليل الهدف"
+
+msgid "copy folder"
+msgstr "نسخ المجلد"
+
+msgid "Copy folder"
+msgstr "نسخ المجلد"
+
+msgid "Count directory content size"
+msgstr "حساب حجم محتوى الدليل"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "حساب حجم محتوى الدليل أثناء المشي (تشغيل/إيقاف)"
+
+msgid "CPU priority for script execution"
+msgstr "أولوية وحدة المعالجة المركزية لتنفيذ البرنامج النصي"
+
+msgid "Create directory"
+msgstr "إنشاء الدليل"
+
+msgid "create symlink ..."
+msgstr "إنشاء رابط رمزي..."
+
+msgid "Create symlink to file"
+msgstr "إنشاء رابط رمزي للملف"
+
+msgid "Create user-named symbolic link"
+msgstr "قم بإنشاء رابط رمزي باسم المستخدم"
+
+msgid "d"
+msgstr "د"
+
+msgid "Date"
+msgstr "تاريخ"
+
+msgid "Date reverse"
+msgstr "التاريخ معكوس"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "أولوية وحدة المعالجة المركزية الافتراضية (لطيفة) للبرامج النصية المنفذة. يمكن أن يؤدي ذلك إلى تقليل الحمل بحيث لا تتداخل البرامج النصية مع بقية النظام. (القيم الأعلى = الأولوية الأقل)"
+
+msgid "Default directory sorting"
+msgstr "فرز الدليل الافتراضي"
+
+msgid "Default file sorting left"
+msgstr "فرز الملفات الافتراضي لليسار"
+
+msgid "Default file sorting right"
+msgstr "الفرز الافتراضي للملفات صحيح"
+
+msgid "Default folder"
+msgstr "المجلد الافتراضي"
+
+msgid "Default Folder"
+msgstr "المجلد الافتراضي"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "أولوية الإدخال/الإخراج الافتراضية (ionice) للبرامج النصية المنفذة. يمكن أن يؤدي ذلك إلى تقليل الحمل بحيث لا تتداخل البرامج النصية مع بقية النظام. (القيم الأعلى = الأولوية الأقل)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "طريقة الفرز الافتراضية للأدلة في كلتا اللوحتين (لتطبيق التغييرات، يجب إعادة تشغيل FileCommander)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "طريقة الفرز الافتراضية للملفات الموجودة في اللوحة اليسرى."
+
+msgid "Default sorting method for files in right panel."
+msgstr "طريقة الفرز الافتراضية للملفات الموجودة في اللوحة اليمنى."
+
+msgid "Delete"
+msgstr "يمسح"
+
+msgid "Delete current line"
+msgstr "حذف السطر الحالي"
+
+msgid "Delete file"
+msgstr "حذف الملف"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "حذف الملف أو الدليل (وجميع محتوياته)"
+
+msgid "Delete folder"
+msgstr "حذف المجلد"
+
+msgid "Delete the selected files or directories"
+msgstr "احذف الملفات أو الدلائل المحددة"
+
+msgid "Deselect All"
+msgstr "قم بإلغاء تحديد الكل"
+
+msgid "Deselect group"
+msgstr "قم بإلغاء تحديد المجموعة"
+
+msgid "Deselect group..."
+msgstr "إلغاء تحديد المجموعة..."
+
+msgid "Directories to group selections"
+msgstr "الدلائل لاختيارات المجموعة"
+
+msgid "Directory"
+msgstr "دليل"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "لا يمكن إنشاء الدليل هنا على\n<قائمة أجهزة التخزين> أو <المستقبل>.\nحرك المحدد سطراً واحداً أدناه أو قم بتغيير الدليل."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "عرض أسماء الملفات في الرأس. إنه مفيد لأسماء الملفات الطويلة جدًا."
+
+msgid "Do you want change rights?\n"
+msgstr "هل تريد تغيير الحقوق؟\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "هل تريد عرض البرنامج النصي أو تشغيله؟\n"
+
+msgid "Edit"
+msgstr "يحرر"
+
+msgid "Edit current line"
+msgstr "تحرير السطر الحالي"
+
+msgid "Edit line"
+msgstr "تحرير الخط"
+
+msgid "Edit new file"
+msgstr "تحرير ملف جديد"
+
+msgid "Edit position is the line end"
+msgstr "موضع التحرير هو نهاية السطر"
+
+msgid "end title"
+msgstr "عنوان النهاية"
+
+msgid "ends with..."
+msgstr "ينتهي ب..."
+
+msgid "Enter multi-file selection mode"
+msgstr "الدخول إلى وضع اختيار الملفات المتعددة"
+
+msgid "Error"
+msgstr "خطأ"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "خطأ في إنشاء الدليل %s:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "خطأ في إنشاء الملف %s:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "خطأ في ربط %s بـ %s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "حدث خطأ أثناء إعادة تسمية %s إلى %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "خطأ في الحفظ: %s"
+
+msgid "Error..."
+msgstr "خطأ..."
+
+msgid "Execution finished!!"
+msgstr "انتهى التنفيذ!!"
+
+msgid "Execution progress\n\n"
+msgstr "تقدم التنفيذ\n\n"
+
+msgid "Exit"
+msgstr "مخرج"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "الخروج من المحرر وكتابة التغييرات (إن وجدت)"
+
+msgid "Exit movie player?"
+msgstr "هل تريد الخروج من مشغل الأفلام؟"
+
+msgid "Exit picture viewer"
+msgstr "الخروج من عارض الصور"
+
+msgid "Extract archive to %s?"
+msgstr "استخراج الأرشيف إلى %s؟"
+
+msgid "Extracting..."
+msgstr "استخراج..."
+
+msgid "FIFO"
+msgstr "يصرف أولاً"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "لا يمكن إنشاء الملف على\n<قائمة أجهزة التخزين> أو <المستقبل>.\nيرجى تغيير الدليل."
+
+msgid "File checksums/hashes"
+msgstr "المجموع الاختباري/التجزئة للملف"
+
+msgid "File Commander"
+msgstr "قائد الملف"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "قائد الملف - الملحق عارض الملفات"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "قائد الملف - إعدادات عارض الملفات الإضافية"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "قائد الملف - الملحق Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "قائد الملف - الملحق Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "قائد الملف - معالج الأرشيف المعمم"
+
+msgid "File Commander - gzip Addon"
+msgstr "قائد الملف - gzip الملحق"
+
+msgid "File Commander - ipk Addon"
+msgstr "قائد الملف - ipk الملحق"
+
+msgid "File Commander - tar Addon"
+msgstr "قائد الملف - القطران الملحق"
+
+msgid "File Commander - unrar Addon"
+msgstr "قائد الملف - ملحق إلغاء الضغط"
+
+msgid "File Commander - unzip Addon"
+msgstr "قائد الملف - فك ضغط الملحق"
+
+msgid "File not found: %s"
+msgstr "لم يتم العثور على الملف: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "الملف كبير جدًا بحيث لا يمكن فتحه كنص (بحد أقصى 1 ميجابايت)."
+
+msgid "File too large to open as text."
+msgstr "الملف كبير جدًا بحيث لا يمكن فتحه كنص."
+
+msgid "File transfer was cancelled by user"
+msgstr "تم إلغاء نقل الملف من قبل المستخدم"
+
+msgid "File/Directory Status Information"
+msgstr "معلومات حالة الملف/الدليل"
+
+msgid "Filenames in header"
+msgstr "أسماء الملفات في الرأس"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "يظهر ملحق الفلتر (*) في العنوان"
+
+msgid "Filter visible file classes by extension."
+msgstr "تصفية فئات الملفات المرئية حسب الامتداد."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "لفقدان البيانات أو الضرر !!!"
+
+msgid "from dir"
+msgstr "من دير"
+
+msgid "GB"
+msgstr "غيغابايت"
+
+msgid "Go to bookmarked folder"
+msgstr "انتقل إلى المجلد الذي تم وضع إشارة مرجعية عليه"
+
+msgid "Go to default directory"
+msgstr "انتقل إلى الدليل الافتراضي"
+
+msgid "Go to end of file"
+msgstr "انتقل إلى نهاية الملف"
+
+msgid "Go to parent directory"
+msgstr "انتقل إلى الدليل الأصل"
+
+msgid "Go to start of file"
+msgstr "انتقل إلى بداية الملف"
+
+msgid "Group:"
+msgstr "مجموعة:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "تم التغيير! هل تريد حفظه؟"
+
+msgid "Hide/Show"
+msgstr "إخفاء/إظهار"
+
+msgid "I/O priority for script execution"
+msgstr "أولوية الإدخال/الإخراج لتنفيذ البرنامج النصي"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "في حالة تحرير ملف، يمكنك ضبط موضع بداية المؤشر في نهاية السطر أو بدايته."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "في وضع التحديد المتعدد، ينقل المؤشر إلى العنصر التالي بعد وضع علامة عليه."
+
+msgid "Inode:"
+msgstr "إينود:"
+
+msgid "Insert"
+msgstr "إدراج"
+
+msgid "Insert line before current line"
+msgstr "إدراج سطر قبل السطر الحالي"
+
+msgid "Install"
+msgstr "ثَبَّتَ"
+
+msgid "install/unpack ipk Files"
+msgstr "تثبيت/فك ملفات ipk"
+
+msgid "Installing Plugin ..."
+msgstr "جارٍ تثبيت البرنامج المساعد..."
+
+msgid "Invert selection"
+msgstr "عكس التحديد"
+
+msgid "Invert Selection"
+msgstr "عكس التحديد"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "لا يمكن حساب التجزئة في <قائمة أجهزة التخزين>"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "لا يمكن تغيير وضع الملف <قائمة أجهزة التخزين>"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "لا يمكن الحصول على حالة الملف <قائمة أجهزة التخزين>"
+
+msgid "KB"
+msgstr "كيلو بايت"
+
+msgid "Leave File Commander"
+msgstr "ترك قائد الملف"
+
+msgid "Leave multi-select mode"
+msgstr "اترك وضع التحديد المتعدد"
+
+msgid "Link target:"
+msgstr "هدف الارتباط:"
+
+msgid "Links:"
+msgstr "الروابط:"
+
+msgid "List of Storage Devices"
+msgstr "قائمة أجهزة التخزين"
+
+msgid "Load"
+msgstr "حمولة"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "اجعل FileCommander قابلاً للوصول من قائمة الامتدادات."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "جعل FileCommander يمكن الوصول إليه من القائمة الرئيسية."
+
+msgid "manage local Files"
+msgstr "إدارة الملفات المحلية"
+
+msgid "MB"
+msgstr "ميغابايت"
+
+msgid "MENU"
+msgstr "قائمة طعام"
+
+msgid "Menu..."
+msgstr "قائمة طعام..."
+
+msgid "Metadata changed:"
+msgstr "تم تغيير البيانات الوصفية:"
+
+msgid "Mode %s (%04o)"
+msgstr "الوضع %s (%04o)"
+
+msgid "Modified:"
+msgstr "معدل:"
+
+msgid "Move"
+msgstr "يتحرك"
+
+msgid "Move down list"
+msgstr "انتقل إلى أسفل القائمة"
+
+msgid "move file"
+msgstr "نقل الملف"
+
+msgid "Move file"
+msgstr "نقل الملف"
+
+msgid "Move file/directory to target directory"
+msgstr "انقل الملف/الدليل إلى الدليل الهدف"
+
+msgid "Move files/directories to target directory"
+msgstr "نقل الملفات/الدلائل إلى الدليل الهدف"
+
+msgid "move folder"
+msgstr "نقل المجلد"
+
+msgid "Move folder"
+msgstr "نقل المجلد"
+
+msgid "Move selector to next item"
+msgstr "نقل المحدد إلى العنصر التالي"
+
+msgid "Move selector to next item (on/off)"
+msgstr "نقل المحدد إلى العنصر التالي (تشغيل/إيقاف)"
+
+msgid "Move up list"
+msgstr "تحريك القائمة لأعلى"
+
+msgid "Movie"
+msgstr "فيلم"
+
+msgid "MultiSelection Settings"
+msgstr "إعدادات التحديد المتعدد"
+
+msgid "Music"
+msgstr "موسيقى"
+
+msgid "My extension"
+msgstr "امتدادي"
+
+msgid "My Extension"
+msgstr "ملحق بلدي"
+
+msgid "n"
+msgstr "ن"
+
+msgid "Name"
+msgstr "اسم"
+
+msgid "Name reverse"
+msgstr "الاسم معكوس"
+
+msgid "New folder"
+msgstr "مجلد جديد"
+
+msgid "New symlink"
+msgstr "رابط رمزي جديد"
+
+msgid "new.txt"
+msgstr "new.txt"
+
+msgid "No"
+msgstr "لا"
+
+msgid "No files found."
+msgstr "لم يتم العثور على ملفات."
+
+msgid "No hash calculations configured"
+msgstr "لم يتم تكوين أي حسابات تجزئة"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "لا يتوفر أي من برامج التجزئة للتجزئات %s"
+
+msgid "Not allowed with folders"
+msgstr "غير مسموح به مع المجلدات"
+
+msgid "nothing connected"
+msgstr "لا شيء متصل"
+
+msgid "Number of lines in script messages"
+msgstr "عدد الأسطر في الرسائل النصية"
+
+msgid "OK"
+msgstr "نعم"
+
+msgid "On device:"
+msgstr "على الجهاز:"
+
+msgid "Open"
+msgstr "يفتح"
+
+msgid "Open actions menu"
+msgstr "فتح قائمة الإجراءات"
+
+msgid "Open settings/actions menu"
+msgstr "افتح قائمة الإعدادات/الإجراءات"
+
+msgid "Open with File Commander"
+msgstr "فتح مع قائد الملف"
+
+msgid "or save the picture additionally to a file"
+msgstr "أو احفظ الصورة بالإضافة إلى ذلك في ملف"
+
+msgid "Original subtitles codepage"
+msgstr "صفحة رموز الترجمة الأصلية"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "صفحة رموز الترجمة الأصلية للتحويل إلى UTF-8."
+
+msgid "Original:"
+msgstr "إبداعي:"
+
+msgid "Owner:"
+msgstr "مالك:"
+
+msgid "Page down list"
+msgstr "قائمة الصفحة لأسفل"
+
+msgid "Page up list"
+msgstr "قائمة الصفحة لأعلى"
+
+msgid "Parent Directory"
+msgstr "دليل الوالدين"
+
+msgid "Permissions:"
+msgstr "الأذونات:"
+
+msgid "Pictures"
+msgstr "الصور"
+
+msgid "play Files"
+msgstr "تشغيل الملفات"
+
+msgid "Play folder"
+msgstr "تشغيل المجلد"
+
+msgid "Play title"
+msgstr "لعب العنوان"
+
+msgid "play/show Files"
+msgstr "تشغيل/إظهار الملفات"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "تشغيل/عرض/تحرير/تثبيت/استخراج/تشغيل الملف أو إدخال الدليل"
+
+msgid "Please enter file/folder name"
+msgstr "الرجاء إدخال اسم الملف/المجلد"
+
+msgid "Please enter name of the new directory"
+msgstr "الرجاء إدخال اسم الدليل الجديد"
+
+msgid "Please enter name of the new symlink"
+msgstr "الرجاء إدخال اسم الارتباط الرمزي الجديد"
+
+msgid "Please enter password"
+msgstr "الرجاء إدخال كلمة المرور"
+
+msgid "Please enter the new directory name"
+msgstr "الرجاء إدخال اسم الدليل الجديد"
+
+msgid "Please enter the new file name"
+msgstr "الرجاء إدخال اسم الملف الجديد"
+
+msgid "Please wait, Loading image."
+msgstr "يرجى الانتظار، جارٍ تحميل الصورة."
+
+msgid "Press OK or Exit to abort!"
+msgstr "اضغط على "موافق" أو "خروج" للإجهاض!"
+
+msgid "python"
+msgstr "بيثون"
+
+msgid "Records"
+msgstr "السجلات"
+
+msgid "Refresh screen"
+msgstr "تحديث الشاشة"
+
+msgid "Regular file"
+msgstr "ملف عادي"
+
+msgid "Remove current folder from bookmarks"
+msgstr "إزالة المجلد الحالي من الإشارات المرجعية"
+
+msgid "Remove from selection (%s)"
+msgstr "إزالة من التحديد (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "إزالة المجلد المحدد من الإشارات المرجعية"
+
+msgid "Rename"
+msgstr "إعادة تسمية"
+
+msgid "Rename file"
+msgstr "إعادة تسمية الملف"
+
+msgid "Rename file/directory"
+msgstr "إعادة تسمية الملف/الدليل"
+
+msgid "Restart"
+msgstr "إعادة تشغيل"
+
+msgid "Reverse left file sorting"
+msgstr "عكس فرز الملفات اليسرى"
+
+msgid "Reverse right file sorting"
+msgstr "عكس فرز الملفات الصحيح"
+
+msgid "Run script"
+msgstr "تشغيل البرنامج النصي"
+
+msgid "Run script in background"
+msgstr "تشغيل البرنامج النصي في الخلفية"
+
+msgid "Run script with optional parameter"
+msgstr "تشغيل البرنامج النصي مع المعلمة الاختيارية"
+
+msgid "Run script with optional parameter in background"
+msgstr "تشغيل البرنامج النصي مع المعلمة الاختيارية في الخلفية"
+
+msgid "s"
+msgstr "ق"
+
+msgid "Save cursor position"
+msgstr "حفظ موضع المؤشر"
+
+msgid "Save cursor position in active panel."
+msgstr "حفظ موضع المؤشر في اللوحة النشطة."
+
+msgid "Save left folder on exit"
+msgstr "حفظ المجلد الأيسر عند الخروج"
+
+msgid "Save right folder on exit"
+msgstr "حفظ المجلد الصحيح عند الخروج"
+
+msgid "Save the left directory list location on exit."
+msgstr "احفظ موقع قائمة الدليل الأيسر عند الخروج."
+
+msgid "Save the right folder list location on exit."
+msgstr "احفظ موقع قائمة المجلدات الصحيح عند الخروج."
+
+msgid "Search in group selection by"
+msgstr "البحث في اختيار المجموعة عن طريق"
+
+msgid "Search text"
+msgstr "بحث في النص"
+
+msgid "Search text (%s):"
+msgstr "نص البحث (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "البحث عن نص في الملف (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "حدد (قائمة المصادر) أو أدخل الدليل (قائمة الأهداف)"
+
+msgid "Select a path"
+msgstr "حدد المسار"
+
+msgid "Select action:"
+msgstr "حدد الإجراء:"
+
+msgid "Select All"
+msgstr "حدد الكل"
+
+msgid "Select group"
+msgstr "حدد المجموعة"
+
+msgid "Select group..."
+msgstr "تحديد المجموعة..."
+
+msgid "Select operation:"
+msgstr "حدد العملية:"
+
+msgid "Select your personal settings:"
+msgstr "حدد إعداداتك الشخصية:"
+
+msgid "Set archive mode (644)"
+msgstr "ضبط وضع الأرشيف (644)"
+
+msgid "Set executable mode (755)"
+msgstr "تعيين الوضع القابل للتنفيذ (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "يضبط ما إذا كان سيتم التمييز بين الأحرف الكبيرة والصغيرة للبحث."
+
+msgid "Settings"
+msgstr "إعدادات"
+
+msgid "Settings..."
+msgstr "إعدادات..."
+
+msgid "shell"
+msgstr "صدَفَة"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "إظهار كصورة (اضغط على أي مفتاح للإغلاق)"
+
+msgid "Show contents of ipk file"
+msgstr "عرض محتويات ملف ipk"
+
+msgid "Show contents of rar file"
+msgstr "عرض محتويات ملف rar"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "إظهار محتويات القطران أو ملف القطران المضغوط"
+
+msgid "Show contents of zip file"
+msgstr "إظهار محتويات الملف المضغوط"
+
+msgid "Show directories first"
+msgstr "إظهار الدلائل أولا"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "إظهار الدلائل في المواضع الأولى أو الأخيرة في اللوحة (لتطبيق التغييرات، يجب إعادة تشغيل FileCommander)."
+
+msgid "Show image information"
+msgstr "إظهار معلومات الصورة"
+
+msgid "Show next picture"
+msgstr "إظهار الصورة التالية"
+
+msgid "Show previous picture"
+msgstr "إظهار الصورة السابقة"
+
+msgid "Show Script completed message"
+msgstr "إظهار رسالة البرنامج النصي المكتمل"
+
+msgid "Show task list"
+msgstr "إظهار قائمة المهام"
+
+msgid "Show unknown extension as text"
+msgstr "إظهار الامتداد غير المعروف كنص"
+
+msgid "Size"
+msgstr "مقاس"
+
+msgid "Size reverse"
+msgstr "الحجم معكوس"
+
+msgid "Size:"
+msgstr "مقاس:"
+
+msgid "Socket"
+msgstr "المقبس"
+
+msgid "Sorting left files by name, date or size"
+msgstr "فرز الملفات المتبقية حسب الاسم أو التاريخ أو الحجم"
+
+msgid "Sorting right files by name, date or size"
+msgstr "فرز الملفات الصحيحة حسب الاسم أو التاريخ أو الحجم"
+
+msgid "start title"
+msgstr "بداية العنوان"
+
+msgid "Start/stop slide show"
+msgstr "بدء/إيقاف عرض الشرائح"
+
+msgid "starts with..."
+msgstr "يبدأ ب..."
+
+msgid "Storage devices"
+msgstr "أجهزة التخزين"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "أزرار المبادلة لفرز الملفات العكسي"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "قم بتبديل الأزرار لليمين/لليسار باستخدام القناة +/- أو يتغير زر القناة دائمًا على الجانب."
+
+msgid "Symbolic link"
+msgstr "رابط رمزي"
+
+msgid "Symlink to"
+msgstr "الارتباط الرمزي ل"
+
+msgid "Task list"
+msgstr "قائمة المهام"
+
+msgid "TB"
+msgstr "السل"
+
+msgid "Text not found."
+msgstr "لم يتم العثور على النص."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "البحث عن النص باعتباره حساسًا لحالة الأحرف أو غير حساس لحالة الأحرف."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "المؤلفون ليسوا مسؤولين"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "يتطلب مكون Image Viewer في File Commander امتداد PicturePlayer. قم بتثبيت PicturePlayer لتمكين هذه العملية."
+
+msgid "This line is not editable!"
+msgstr "هذا السطر غير قابل للتحرير!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "الوقت بين الشرائح في عرض شرائح عارض الصور."
+
+msgid "Time for Slideshow"
+msgstr "الوقت لعرض الشرائح"
+
+msgid "to dir"
+msgstr "إلى دير"
+
+msgid "To next found text"
+msgstr "إلى النص الذي تم العثور عليه بعد ذلك"
+
+msgid "To previous found text"
+msgstr "إلى النص الذي تم العثور عليه سابقًا"
+
+msgid "Type the name for the new file"
+msgstr "اكتب اسم الملف الجديد"
+
+msgid "Type:"
+msgstr "يكتب:"
+
+msgid "Unknown"
+msgstr "مجهول"
+
+msgid "Unknown file type. Open as text?"
+msgstr "نوع الملف غير معروف. هل تريد فتحه كنص؟"
+
+msgid "Unknown group: %d"
+msgstr "مجموعة غير معروفة: %d"
+
+msgid "Unknown user: %d"
+msgstr "مستخدم غير معروف: %d"
+
+msgid "unpack archives"
+msgstr "فك ضغط المحفوظات"
+
+msgid "unpack gzip Files"
+msgstr "فك ضغط ملفات gzip"
+
+msgid "unpack Rar Files"
+msgstr "فك ضغط ملفات Rar"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "فك ضغط ملفات القطران/القطران المضغوطة"
+
+msgid "Unpack to %s"
+msgstr "قم بفك الحزم إلى %s"
+
+msgid "Unpack to current folder"
+msgstr "فك إلى المجلد الحالي"
+
+msgid "unpack zip Files"
+msgstr "فك ضغط الملفات المضغوطة"
+
+msgid "Unsupported archive type."
+msgstr "نوع الأرشيف غير مدعوم."
+
+msgid "v"
+msgstr "ضد"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "عرض الملف أو تحريره (إذا كان الحجم أقل من 1 ميجابايت)"
+
+msgid "View or edit this %s script"
+msgstr "عرض أو تحرير هذا البرنامج النصي %s"
+
+msgid "WARNING!"
+msgstr "تحذير!"
+
+msgid "What do you want to play?\n"
+msgstr "ماذا تريد أن تلعب؟\n"
+
+msgid "without"
+msgstr "بدون"
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "يمكنك ضبط عدد الأحرف من بداية اسم الملف الحالي كنص تم ملؤه مسبقًا في لوحة المفاتيح الافتراضية لتسهيل الإدخال عبر تحديد المجموعة."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "يمكنك ضبط عدد الأحرف من نهاية اسم الملف الحالي كنص مملوء مسبقًا في لوحة المفاتيح الافتراضية لتسهيل الإدخال عبر تحديد المجموعة."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "يمكنك تعيين ما سيستخدمه اختيار المجموعة - بداية العنوان أو نهاية العنوان أو ما يحتوي عليه في العنوان."
+

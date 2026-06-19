@@ -1,0 +1,1050 @@
+# ku translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ku <ekekaz@gmail.com>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- pel heye! Zêde binivîsin"
+
+msgid "- folder exist! Overwrite"
+msgstr "- Peldanka heye! Zêde binivîsin"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Moda Hilbijêre)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\Parametreya bijartî:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - xeletiyên derxistinê."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s şîfre parastî ye."
+
+msgid "%s successfully extracted."
+msgstr "%s bi serkeftî hate derxistin."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Receiver>"
+
+msgid "Accessed:"
+msgstr "Gihîştin:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Lîsteya pelê ya çepê wekî çavkaniya pir-hilbijartî çalak bikin"
+
+msgid "Activate left-hand file list as source"
+msgstr "Lîsteya pelê ya çepê wekî çavkanî çalak bike"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Lîsteya pelê ya rastê wekî çavkaniya pir-hilbijartî çalak bike"
+
+msgid "Activate right-hand file list as source"
+msgstr "Lîsteya pelê ya rastê wekî çavkanî çalak bike"
+
+msgid "Add current folder to bookmarks"
+msgstr "Peldanka heyî li nîşangiran zêde bikin"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Pêvekê li menuya Pêvekan zêde bikin"
+
+msgid "Add plugin to main menu"
+msgstr "Pêvekê li menuya sereke zêde bikin"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Peldanka hilbijartî li nîşangiran zêde bikin"
+
+msgid "Add to selection (%s)"
+msgstr "Zêde bike hilbijartî (%s)"
+
+msgid "All"
+msgstr "Gişt"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Hemî pelên di pelrêça bi heman navî wekî fîlima hilbijartî dê werin kopî kirin an jî bêne barkirin."
+
+msgid "All movie extensions"
+msgstr "Hemû dirêjkirinên fîlmê"
+
+msgid "B"
+msgstr "B"
+
+msgid "Block device"
+msgstr "Amûrê asteng bike"
+
+msgid "Calculate file checksums"
+msgstr "Kontrolên pelan hesab bikin"
+
+msgid "Calculates file checksums."
+msgstr "Kontrolên pelan hesab dike."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "%s nayê xebitandin: %s.\n%s dibe ku di pêvekek ku nehatiye saz kirin de be."
+
+msgid "Cancel"
+msgstr "Bişûndekirin"
+
+msgid "Cancel execution?"
+msgstr "îdamê betal bike?"
+
+msgid "Cannot create target directory."
+msgstr "Nikare pelrêça armanc biafirîne."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Nikare wêneyê veke. Wek nivîsê veke?"
+
+msgid "Cannot play file."
+msgstr "Pelê nayê lîstin."
+
+msgid "Cannot read file: %s"
+msgstr "Pelê nayê xwendin: %s"
+
+msgid "case insensitive"
+msgstr "doza bêhesas"
+
+msgid "case sensitive"
+msgstr "doza hesas"
+
+msgid "Case sensitive search"
+msgstr "Lêgerîna hesas a dozê"
+
+msgid "Change buttons for list navigation"
+msgstr "Bişkokên ji bo navîgasyon navnîşê biguherînin"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Guhertina destûrên bicihkirinê (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Bişkojka kanalê her gav aliyan diguhezîne"
+
+msgid "Character device"
+msgstr "Amûra karakter"
+
+msgid "Close"
+msgstr "Nêzîkî"
+
+msgid "Compare case sensitive"
+msgstr "Berawirdî doza hesas"
+
+msgid "contains in title"
+msgstr "di sernavê de heye"
+
+msgid "contains..."
+msgstr "dihewîne..."
+
+msgid "Content size:"
+msgstr "Mezinahiya naverokê:"
+
+msgid "Copy"
+msgstr "Kopî"
+
+msgid "copy file"
+msgstr "pelê kopî bikin"
+
+msgid "Copy file"
+msgstr "Pelê kopî bikin"
+
+msgid "Copy file/directory to target directory"
+msgstr "Pelê / pelrêçek li pelrêça armancê kopî bikin"
+
+msgid "Copy files/directories to target directory"
+msgstr "Pelên / peldankan li pelrêça armancê kopî bikin"
+
+msgid "copy folder"
+msgstr "peldanka kopî bikin"
+
+msgid "Copy folder"
+msgstr "Peldanka kopî bikin"
+
+msgid "Count directory content size"
+msgstr "Mezinahiya naveroka pelrêçê bijmêre"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Hejmartina mezinahiya naveroka pelrêça dema meşînê (vexistin/çalakî)"
+
+msgid "CPU priority for script execution"
+msgstr "Pêşîniya CPU ji bo darvekirina skrîptê"
+
+msgid "Create directory"
+msgstr "Peldanka çêbikin"
+
+msgid "create symlink ..."
+msgstr "girêdana sembolê çêbikin ..."
+
+msgid "Create symlink to file"
+msgstr "Symlink ji pelê re çêbikin"
+
+msgid "Create user-named symbolic link"
+msgstr "Girêdana sembolîk bi navê bikarhêner biafirînin"
+
+msgid "d"
+msgstr "d"
+
+msgid "Date"
+msgstr "Rojek"
+
+msgid "Date reverse"
+msgstr "Dîrok berevajî"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Pêşengiya CPU-ya xwerû (baş) ji bo nivîsarên hatine darvekirin. Ev dikare barkirinê kêm bike da ku nivîsar bi pergala mayî re mudaxele neke. (nirxên bilind = pêşanî kêmtir)"
+
+msgid "Default directory sorting"
+msgstr "Rêzkirina pelrêça xwerû"
+
+msgid "Default file sorting left"
+msgstr "Rêzkirina pelê ya xwerû hiştin"
+
+msgid "Default file sorting right"
+msgstr "Rastkirina pelê ya xwerû"
+
+msgid "Default folder"
+msgstr "Peldanka xwerû"
+
+msgid "Default Folder"
+msgstr "Peldanka xwerû"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Pêşîniya I/O ya xwerû (ioni) ji bo nivîsarên hatine darvekirin. Ev dikare barkirinê kêm bike da ku nivîsar bi pergala mayî re mudaxele neke. (nirxên bilind = pêşanî kêmtir)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Rêbaza veqetandek ji bo pelrêçan di her du panelan de (ji bo sepandina guhertinan divê FileCommander ji nû ve were destpêkirin)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Ji bo pelên di panela çepê de rêbaza dabeşkirina xwerû."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Ji bo pelên di panela rastê de rêbaza dabeşkirina xwerû."
+
+msgid "Delete"
+msgstr "Jêbirin"
+
+msgid "Delete current line"
+msgstr "Xeta heyî jêbirin"
+
+msgid "Delete file"
+msgstr "Pelê jêbirin"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Pelê an pelrêça jêbirin (û hemî naveroka wê)"
+
+msgid "Delete folder"
+msgstr "Peldanka jêbirin"
+
+msgid "Delete the selected files or directories"
+msgstr "Pelên hilbijartî an peldankan jêbirin"
+
+msgid "Deselect All"
+msgstr "Hemî hilbijart"
+
+msgid "Deselect group"
+msgstr "Komê jêbirin"
+
+msgid "Deselect group..."
+msgstr "Hilbijartina komê..."
+
+msgid "Directories to group selections"
+msgstr "Derhêner ji bo hilbijartinên komê"
+
+msgid "Directory"
+msgstr "Directory"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Li vir li ser\n<Lîsteya Amûrên hilanînê> an <Receiver>-yê pelrêçek çênabe.\nHelbijêrker yek rêzek li jêr bigerin an pelrêça biguherînin."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Navên pelan di serî de nîşan bidin. Ew ji bo navên pelên ku pir dirêj in bikêr e."
+
+msgid "Do you want change rights?\n"
+msgstr "Ma hûn mafên guhertinê dixwazin?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Ma tu dixwazî ​​skrîptê bibînî an bixebitî?\n"
+
+msgid "Edit"
+msgstr "Weşandin"
+
+msgid "Edit current line"
+msgstr "Rêza heyî biguherîne"
+
+msgid "Edit line"
+msgstr "Rêzika biguherîne"
+
+msgid "Edit new file"
+msgstr "Pelê nû biguherîne"
+
+msgid "Edit position is the line end"
+msgstr "Helwesta biguherîne dawiya rêzê ye"
+
+msgid "end title"
+msgstr "sernavê dawî"
+
+msgid "ends with..."
+msgstr "bi dawî dibe..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Têkeve moda hilbijartina pir-pel"
+
+msgid "Error"
+msgstr "Şaşî"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Di afirandina pelrêça %s de çewtî:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Di afirandina pelê %s de çewtî:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Çewtiya girêdana %s bi %s re:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Çewtiya guhertina navê %s bo %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Di tomarkirinê de çewtî: %s"
+
+msgid "Error..."
+msgstr "Şaşî..."
+
+msgid "Execution finished!!"
+msgstr "Îdam qediya!!"
+
+msgid "Execution progress\n\n"
+msgstr "Pêşveçûna înfazê\n\n"
+
+msgid "Exit"
+msgstr "Derî"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Ji edîtorê derkeve û guhertinan binivîsîne (heke hebe)"
+
+msgid "Exit movie player?"
+msgstr "Ji lîstikvana fîlimê derkeve?"
+
+msgid "Exit picture viewer"
+msgstr "Ji dîmendera wêneyê derkeve"
+
+msgid "Extract archive to %s?"
+msgstr "Arşîvê ji %s re derxe?"
+
+msgid "Extracting..."
+msgstr "Derxistina..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Dosya li ser\n<Lîsteya Amûrên hilanînê> an <Rêgir> nayê çêkirin.\nJi kerema xwe re pelrêça biguherînin."
+
+msgid "File checksums/hashes"
+msgstr "Kontrolên pelan / haş"
+
+msgid "File Commander"
+msgstr "Fermandarê Pelê"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "Fermandarê Pelê - Addon File-Viewer"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "Fermandarê Pelê - Mîhengên Pelê-Nêrîner Addon"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "Fermandarê Pelê - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "Fermandarê Pelê - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "Fermandarê Pelê - rêvekerê arşîva giştî"
+
+msgid "File Commander - gzip Addon"
+msgstr "Fermandarê Pelê - gzip Addon"
+
+msgid "File Commander - ipk Addon"
+msgstr "Fermandarê Pelê - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "Fermandarê Pelê - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "Fermandarê Pelê - Unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "Fermandarê Pelê - Addon veke"
+
+msgid "File not found: %s"
+msgstr "Pelê nehat dîtin: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Pelê pir mezin e ku wekî nivîsê vebe (herî zêde 1 MB)."
+
+msgid "File too large to open as text."
+msgstr "Pelê pir mezin e ku wekî nivîsê vebe."
+
+msgid "File transfer was cancelled by user"
+msgstr "Veguheztina pelê ji hêla bikarhêner ve hate betal kirin"
+
+msgid "File/Directory Status Information"
+msgstr "Agahdariya Rewşa Pelê / Derhênerê"
+
+msgid "Filenames in header"
+msgstr "Navên pelan di serî de"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Berfirehkirina Parzûnê, (*) di sernavê de xuya dike"
+
+msgid "Filter visible file classes by extension."
+msgstr "Bi dirêjkirinê dersên pelê yên xuyayî parzînin."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "ji bo DATA WINDA AN ZERARÊ !!!"
+
+msgid "from dir"
+msgstr "ji dir"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "Biçe peldanka nîşankirî"
+
+msgid "Go to default directory"
+msgstr "Biçe pelrêça xwerû"
+
+msgid "Go to end of file"
+msgstr "Biçe dawiya pelê"
+
+msgid "Go to parent directory"
+msgstr "Biçe pelrêça dêûbav"
+
+msgid "Go to start of file"
+msgstr "Biçe destpêka pelê"
+
+msgid "Group:"
+msgstr "Kom:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "hat GUHERÎN! Ma hûn dixwazin wê xilas bikin?"
+
+msgid "Hide/Show"
+msgstr "Veşêre / Nîşan bide"
+
+msgid "I/O priority for script execution"
+msgstr "Pêşîniya I/O ji bo pêkanîna skrîptê"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Ger pelê biguhezîne, hûn dikarin pozîsyona destpêkirina nîşankerê li dawiya an destpêka rêzê destnîşan bikin."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "Di moda pir-hilbijartinê de piştî nîşankirinê kursorê diguhezîne ser babeta din."
+
+msgid "Inode:"
+msgstr "Inode:"
+
+msgid "Insert"
+msgstr "Lêzêdekirin"
+
+msgid "Insert line before current line"
+msgstr "Xeta berî xeta heyî têxe"
+
+msgid "Install"
+msgstr "Lêkirin"
+
+msgid "install/unpack ipk Files"
+msgstr "Pelên ipk saz bikin/pak bikin"
+
+msgid "Installing Plugin ..."
+msgstr "Plugin Saz dike..."
+
+msgid "Invert selection"
+msgstr "Hilbijartina berevajî bikin"
+
+msgid "Invert Selection"
+msgstr "Hilbijartina Vegere"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "Hesabkirina haşeyan li ser <Lîsteya Amûrên hilanînê> ne mumkin e"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Ne mumkin e ku moda pelê ya <Lîsteya Amûrên hilanînê> biguhere"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Ne mimkun e ku meriv statûya pelê ya <Lîsteya Amûrên Veşartinê> bigire"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Fermandarê Pelê bihêle"
+
+msgid "Leave multi-select mode"
+msgstr "Moda pir-hilbijartinê bihêlin"
+
+msgid "Link target:"
+msgstr "Armanca girêdanê:"
+
+msgid "Links:"
+msgstr "Girêdan:"
+
+msgid "List of Storage Devices"
+msgstr "Lîsteya Amûrên Storage"
+
+msgid "Load"
+msgstr "Dawetkirin"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "FileCommander ji pêşeka Extensions bigihînin."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "FileCommander ji menuya sereke bigihînin."
+
+msgid "manage local Files"
+msgstr "Pelên herêmî birêve bibin"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "QERTA XÛREKÊ"
+
+msgid "Menu..."
+msgstr "Qerta xûrekê..."
+
+msgid "Metadata changed:"
+msgstr "Metadata guherî:"
+
+msgid "Mode %s (%04o)"
+msgstr "Moda %s (%04o)"
+
+msgid "Modified:"
+msgstr "Guhertin:"
+
+msgid "Move"
+msgstr "Barkirin"
+
+msgid "Move down list"
+msgstr "Lîsteya jêrîn bar bikin"
+
+msgid "move file"
+msgstr "pelê bar bike"
+
+msgid "Move file"
+msgstr "Pelê bar bikin"
+
+msgid "Move file/directory to target directory"
+msgstr "Pelê / pelrêçê veguherînin pelrêça armanc"
+
+msgid "Move files/directories to target directory"
+msgstr "Pelên / peldankan biguhezînin pelrêça armanc"
+
+msgid "move folder"
+msgstr "peldanka barkirin"
+
+msgid "Move folder"
+msgstr "Peldanka bar bike"
+
+msgid "Move selector to next item"
+msgstr "Hilbijêrê biguhezîne ser babetekê din"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Hilbijêrê biguhezîne ser babeta din (çalak/çalak)"
+
+msgid "Move up list"
+msgstr "Lîsteyê hilkişin jor"
+
+msgid "Movie"
+msgstr "Fîlm"
+
+msgid "MultiSelection Settings"
+msgstr "Mîhengên MultiSelection"
+
+msgid "Music"
+msgstr "Mûzîk"
+
+msgid "My extension"
+msgstr "My extension"
+
+msgid "My Extension"
+msgstr "My Extension"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "Nav"
+
+msgid "Name reverse"
+msgstr "Nav berepaş"
+
+msgid "New folder"
+msgstr "Peldanka nû"
+
+msgid "New symlink"
+msgstr "Symlinka nû"
+
+msgid "new.txt"
+msgstr "new.txt"
+
+msgid "No"
+msgstr "Na"
+
+msgid "No files found."
+msgstr "Dosya nehat dîtin."
+
+msgid "No hash calculations configured"
+msgstr "Hesabên haş nehatine mîheng kirin"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "Yek ji bernameyên hash ji bo haşe %s peyda nabe"
+
+msgid "Not allowed with folders"
+msgstr "Bi peldankan re destûr nayê dayîn"
+
+msgid "nothing connected"
+msgstr "tiştek ne girêdayî ye"
+
+msgid "Number of lines in script messages"
+msgstr "Hejmara rêzikên di peyamên skrîptê de"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On device:"
+msgstr "Li ser cîhazê:"
+
+msgid "Open"
+msgstr "Vekirî"
+
+msgid "Open actions menu"
+msgstr "Menuya çalakiyan vekin"
+
+msgid "Open settings/actions menu"
+msgstr "Pêşeka mîhengan/çalakiyan vekin"
+
+msgid "Open with File Commander"
+msgstr "Bi Fermandarê Pelê vekin"
+
+msgid "or save the picture additionally to a file"
+msgstr "an jî wêneyê li pelek din hilînin"
+
+msgid "Original subtitles codepage"
+msgstr "Kodrûpela binnivîsê ya orjînal"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Kodrûpela binnivîsê ya orjînal ji bo veguheztina UTF-8."
+
+msgid "Original:"
+msgstr "Eslî:"
+
+msgid "Owner:"
+msgstr "Xwedî:"
+
+msgid "Page down list"
+msgstr "Lîsteya jêrîn a rûpelê"
+
+msgid "Page up list"
+msgstr "Lîsteya rûpela bilind"
+
+msgid "Parent Directory"
+msgstr "Parent Directory"
+
+msgid "Permissions:"
+msgstr "Destûr:"
+
+msgid "Pictures"
+msgstr "Wêne"
+
+msgid "play Files"
+msgstr "Pelên lîstin"
+
+msgid "Play folder"
+msgstr "Peldanka lîstin"
+
+msgid "Play title"
+msgstr "Sernavê bilîzin"
+
+msgid "play/show Files"
+msgstr "lîstin / Pelan nîşan bide"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Pelê lîstin / binihêrin / biguherînin / saz bikin / derxînin / bixebitin an pelrêça têkevin"
+
+msgid "Please enter file/folder name"
+msgstr "Ji kerema xwe navê pel/peldankê binivîse"
+
+msgid "Please enter name of the new directory"
+msgstr "Ji kerema xwe navê pelrêça nû binivîse"
+
+msgid "Please enter name of the new symlink"
+msgstr "Ji kerema xwe navê sîmgirêka nû binivîse"
+
+msgid "Please enter password"
+msgstr "Ji kerema xwe şîfreya xwe binivîse"
+
+msgid "Please enter the new directory name"
+msgstr "Ji kerema xwe navê pelrêça nû binivîse"
+
+msgid "Please enter the new file name"
+msgstr "Ji kerema xwe navê pelê nû binivîse"
+
+msgid "Please wait, Loading image."
+msgstr "Ji kerema xwe li bendê bin, Wêne tê barkirin."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Ji bo betalkirinê OK an Derketinê bikirtînin!"
+
+msgid "python"
+msgstr "python"
+
+msgid "Records"
+msgstr "Records"
+
+msgid "Refresh screen"
+msgstr "Nûvekirina ekranê"
+
+msgid "Regular file"
+msgstr "Pelê birêkûpêk"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Peldanka heyî ji nîşangiran rake"
+
+msgid "Remove from selection (%s)"
+msgstr "Ji bijartinê rake (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Peldanka hilbijartî ji nîşangiran rake"
+
+msgid "Rename"
+msgstr "Rename"
+
+msgid "Rename file"
+msgstr "Navê pelê biguherîne"
+
+msgid "Rename file/directory"
+msgstr "Navê pel / pelrêçê biguherîne"
+
+msgid "Restart"
+msgstr "Ji nû ve bidin destpêkirin"
+
+msgid "Reverse left file sorting"
+msgstr "Rêzkirina pelê çepê berevajî"
+
+msgid "Reverse right file sorting"
+msgstr "Rêzkirina pelê rastê berevajî"
+
+msgid "Run script"
+msgstr "Skrîptê bixebitîne"
+
+msgid "Run script in background"
+msgstr "Skrîptê di paşperdeyê de bimeşîne"
+
+msgid "Run script with optional parameter"
+msgstr "Skrîpta bi parametreya vebijarkî bixebite"
+
+msgid "Run script with optional parameter in background"
+msgstr "Skrîpta bi parametreya vebijarkî di paşperdeyê de bimeşîne"
+
+msgid "s"
+msgstr "s"
+
+msgid "Save cursor position"
+msgstr "Save helwesta cursor"
+
+msgid "Save cursor position in active panel."
+msgstr "Di panela çalak de pozîsyona kursorê hilînin."
+
+msgid "Save left folder on exit"
+msgstr "Di derketinê de peldanka çepê hilînin"
+
+msgid "Save right folder on exit"
+msgstr "Di derketinê de peldanka rastê hilînin"
+
+msgid "Save the left directory list location on exit."
+msgstr "Di derketinê de cîhê navnîşa pelrêça çepê hilînin."
+
+msgid "Save the right folder list location on exit."
+msgstr "Di derketinê de cîhê navnîşa peldanka rast hilînin."
+
+msgid "Search in group selection by"
+msgstr "Di hilbijartina komê de bigerin"
+
+msgid "Search text"
+msgstr "Li nivîsê bigerin"
+
+msgid "Search text (%s):"
+msgstr "Nivîsa lêgerînê (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Li nivîsa pelê (%s) bigere."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Hilbijêre (lîsteya çavkaniyê) an pelrêça (lîsteya armanc) binivîse"
+
+msgid "Select a path"
+msgstr "Rêyek hilbijêrin"
+
+msgid "Select action:"
+msgstr "Hilbijartina çalakiyê:"
+
+msgid "Select All"
+msgstr "Hemî Hilbijêre"
+
+msgid "Select group"
+msgstr "Koma hilbijêre"
+
+msgid "Select group..."
+msgstr "Koma hilbijêre..."
+
+msgid "Select operation:"
+msgstr "Hilbijartina operasyonê:"
+
+msgid "Select your personal settings:"
+msgstr "Mîhengên xweya kesane hilbijêrin:"
+
+msgid "Set archive mode (644)"
+msgstr "Moda arşîvê saz bike (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Moda îcrakar saz bike (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Saz dike ku ji bo lêgerînê di navbera herfa mezin û ya piçûk de cûdahiyek çêbike."
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Settings..."
+msgstr "Mîhengan..."
+
+msgid "shell"
+msgstr "legan"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Wekî Wêneyê Nîşan Bide (Ji bo girtinê her bişkojkê bikirtînin)"
+
+msgid "Show contents of ipk file"
+msgstr "Naveroka pelê ipk nîşan bide"
+
+msgid "Show contents of rar file"
+msgstr "Naveroka pelê rar nîşan bide"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Naveroka tar an pelê tar-ê ya pêçandî nîşan bide"
+
+msgid "Show contents of zip file"
+msgstr "Naveroka pelê zip nîşan bide"
+
+msgid "Show directories first"
+msgstr "Pêşî derhêneran nîşan bide"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Di panelê de li ser pozîsyonên yekem an paşîn pelrêçan nîşan bidin (ji bo sepandina guhertinan divê FileCommander ji nû ve were destpêkirin)."
+
+msgid "Show image information"
+msgstr "Agahdariya wêneyê nîşan bide"
+
+msgid "Show next picture"
+msgstr "Wêneyê paşîn nîşan bide"
+
+msgid "Show previous picture"
+msgstr "Wêneyê berê nîşan bide"
+
+msgid "Show Script completed message"
+msgstr "Peyama qedandî ya Skrîptê nîşan bide"
+
+msgid "Show task list"
+msgstr "Lîsteya peywiran nîşan bide"
+
+msgid "Show unknown extension as text"
+msgstr "Berfirehiya nenas wekî nivîsê nîşan bide"
+
+msgid "Size"
+msgstr "Mezinayî"
+
+msgid "Size reverse"
+msgstr "Mezinahî berevajî"
+
+msgid "Size:"
+msgstr "Mezinayî:"
+
+msgid "Socket"
+msgstr "Qûlka çav"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Pelên çepê li gorî nav, tarîx an mezinahiyê veqetînin"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Pelên rast bi nav, tarîx an mezinahiyê veqetînin"
+
+msgid "start title"
+msgstr "sernavê dest pê bike"
+
+msgid "Start/stop slide show"
+msgstr "Pêşandana slaytê dest pê bike / rawestîne"
+
+msgid "starts with..."
+msgstr "dest pê dike bi..."
+
+msgid "Storage devices"
+msgstr "Amûrên hilanînê"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Bişkojkên guheztin ji bo birêkûpêkkirina pelê berevajî"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Bişkokên rast/çep bi kanala +/- re biguhezînin an jî bişkoka kanalê her gav li alîkî diguhere."
+
+msgid "Symbolic link"
+msgstr "Girêdana sembolîk"
+
+msgid "Symlink to"
+msgstr "Symlink to"
+
+msgid "Task list"
+msgstr "lîsteya Task"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Text not found."
+msgstr "Nivîs nehat dîtin."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Lêgerîna metnê wekî hesasiyeta meselê an jî nehesasiya dozê."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Nivîskar NE BERPIRSYAR in"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "Parçeya Wêne Viewer ya Fermandarek Pelê pêveka PicturePlayer hewce dike. PicturePlayer saz bikin da ku vê operasyonê çalak bikin."
+
+msgid "This line is not editable!"
+msgstr "Ev rêz nayê guhertin!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Demjimêra di navbera slaytan de di pêşandana dîmendera wêneyê de."
+
+msgid "Time for Slideshow"
+msgstr "Dem ji bo Slideshow"
+
+msgid "to dir"
+msgstr "to dir"
+
+msgid "To next found text"
+msgstr "Ji bo nivîsa dîtî ya paşîn"
+
+msgid "To previous found text"
+msgstr "Ji bo nivîsa ku berê hatî dîtin"
+
+msgid "Type the name for the new file"
+msgstr "Navê pelê nû binivîse"
+
+msgid "Type:"
+msgstr "Awa:"
+
+msgid "Unknown"
+msgstr "Nenas"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Cureyê pelê nenas. Wek nivîsê veke?"
+
+msgid "Unknown group: %d"
+msgstr "Koma nenas: %d"
+
+msgid "Unknown user: %d"
+msgstr "Bikarhêner nenas: %d"
+
+msgid "unpack archives"
+msgstr "arşîvan vekin"
+
+msgid "unpack gzip Files"
+msgstr "Pelên gzip vekin"
+
+msgid "unpack Rar Files"
+msgstr "Pelên Rar vekin"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "Pelên tar / tar ên pêçandî vekin"
+
+msgid "Unpack to %s"
+msgstr "Ji %s re pakkirin"
+
+msgid "Unpack to current folder"
+msgstr "Peldanka heyî vekin"
+
+msgid "unpack zip Files"
+msgstr "Pelên zip vekin"
+
+msgid "Unsupported archive type."
+msgstr "Cureya arşîvê ya nepiştgirî."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Pelê binihêrin an biguherînin (heke mezinahî < 1 MB)"
+
+msgid "View or edit this %s script"
+msgstr "Vê nivîsarê %s binihêrin an biguherînin"
+
+msgid "WARNING!"
+msgstr "GAZÎ!"
+
+msgid "What do you want to play?\n"
+msgstr "Tu dixwazî ​​çi bileyzî?\n"
+
+msgid "without"
+msgstr "bê"
+
+msgid "Yes"
+msgstr "Erê"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Hûn dikarin hejmara tîpan ji destpêka navê pelê ya heyî ve wekî nivîsa ku ji berê ve li klavyeya virtual hatî dagirtin destnîşan bikin da ku bi hilbijartina komê re hêsantir têkevin."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Hûn dikarin hejmara tîpan ji dawiya navê pelê ya heyî wekî nivîsa ku ji berê ve di klavyeya virtual de hatî dagirtin destnîşan bikin da ku bi hilbijartina komê re hêsantir têkevin."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Hûn dikarin destnîşan bikin ka dê hilbijartina komê çi bikar bîne - destpêka sernavê, dawiya sernavê an di sernavê de heye."
+

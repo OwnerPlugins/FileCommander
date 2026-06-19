@@ -1,0 +1,1050 @@
+# zh_SG translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: zh_SG <ekekaz@gmail.com>\n"
+"Language: zh_SG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- 文件存在！覆盖"
+
+msgid "- folder exist! Overwrite"
+msgstr "- 文件夹存在！覆盖"
+
+msgid "?"
+msgstr "？"
+
+msgid "(Selectmode)"
+msgstr "（选择模式）"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\n可选参数:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y，%H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - 提取错误。"
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s（%s）"
+
+msgid "%s is password protected."
+msgstr "%s 受密码保护。"
+
+msgid "%s successfully extracted."
+msgstr "%s 成功提取。"
+
+msgid "%s: %s"
+msgstr "%s：%s"
+
+msgid "<Receiver>"
+msgstr "<接收者>"
+
+msgid "Accessed:"
+msgstr "已访问："
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "激活左侧文件列表作为多选源"
+
+msgid "Activate left-hand file list as source"
+msgstr "激活左侧文件列表作为源"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "激活右侧文件列表作为多选源"
+
+msgid "Activate right-hand file list as source"
+msgstr "激活右侧文件列表作为源"
+
+msgid "Add current folder to bookmarks"
+msgstr "将当前文件夹添加到书签"
+
+msgid "Add plugin to Extensions menu"
+msgstr "将插件添加到扩展菜单"
+
+msgid "Add plugin to main menu"
+msgstr "将插件添加到主菜单"
+
+msgid "Add selected folder to bookmarks"
+msgstr "将选定的文件夹添加到书签"
+
+msgid "Add to selection (%s)"
+msgstr "添加到选择(%s)"
+
+msgid "All"
+msgstr "全部"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "目录中与所选电影同名的所有文件也将被复制或移动。"
+
+msgid "All movie extensions"
+msgstr "所有电影扩展"
+
+msgid "B"
+msgstr "乙"
+
+msgid "Block device"
+msgstr "块设备"
+
+msgid "Calculate file checksums"
+msgstr "计算文件校验和"
+
+msgid "Calculates file checksums."
+msgstr "计算文件校验和。"
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "无法运行 %s: %s。\n%s 可能位于未安装的插件中​​。"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cancel execution?"
+msgstr "取消执行？"
+
+msgid "Cannot create target directory."
+msgstr "无法创建目标目录。"
+
+msgid "Cannot open image. Open as text?"
+msgstr "无法打开图像。以文本形式打开？"
+
+msgid "Cannot play file."
+msgstr "无法播放文件。"
+
+msgid "Cannot read file: %s"
+msgstr "无法读取文件：%s"
+
+msgid "case insensitive"
+msgstr "不区分大小写"
+
+msgid "case sensitive"
+msgstr "区分大小写"
+
+msgid "Case sensitive search"
+msgstr "区分大小写的搜索"
+
+msgid "Change buttons for list navigation"
+msgstr "更改列表导航按钮"
+
+msgid "Change execute permissions (755/644)"
+msgstr "更改执行权限 (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "频道按钮总是改变方向"
+
+msgid "Character device"
+msgstr "字符设备"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Compare case sensitive"
+msgstr "比较区分大小写"
+
+msgid "contains in title"
+msgstr "包含在标题中"
+
+msgid "contains..."
+msgstr "包含..."
+
+msgid "Content size:"
+msgstr "内容大小："
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "copy file"
+msgstr "复制文件"
+
+msgid "Copy file"
+msgstr "复制文件"
+
+msgid "Copy file/directory to target directory"
+msgstr "复制文件/目录到目标目录"
+
+msgid "Copy files/directories to target directory"
+msgstr "将文件/目录复制到目标目录"
+
+msgid "copy folder"
+msgstr "复制文件夹"
+
+msgid "Copy folder"
+msgstr "复制文件夹"
+
+msgid "Count directory content size"
+msgstr "计算目录内容大小"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "边走边计算目录内容大小（开/关）"
+
+msgid "CPU priority for script execution"
+msgstr "脚本执行的CPU优先级"
+
+msgid "Create directory"
+msgstr "创建目录"
+
+msgid "create symlink ..."
+msgstr "创建符号链接..."
+
+msgid "Create symlink to file"
+msgstr "创建文件的符号链接"
+
+msgid "Create user-named symbolic link"
+msgstr "创建用户命名的符号链接"
+
+msgid "d"
+msgstr "d"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Date reverse"
+msgstr "日期反转"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "执行脚本的默认 CPU 优先级（很好）。这可以减少负载，以便脚本不会干扰系统的其余部分。 （值越高=优先级越低）"
+
+msgid "Default directory sorting"
+msgstr "默认目录排序"
+
+msgid "Default file sorting left"
+msgstr "默认文件左排序"
+
+msgid "Default file sorting right"
+msgstr "默认文件排序权"
+
+msgid "Default folder"
+msgstr "默认文件夹"
+
+msgid "Default Folder"
+msgstr "默认文件夹"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "执行脚本的默认 I/O 优先级 (ionice)。这可以减少负载，以便脚本不会干扰系统的其余部分。 （值越高=优先级越低）"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "两个面板中目录的默认排序方法（要应用更改，必须重新启动 FileCommander）。"
+
+msgid "Default sorting method for files in left panel."
+msgstr "左侧面板中文件的默认排序方法。"
+
+msgid "Default sorting method for files in right panel."
+msgstr "右侧面板中文件的默认排序方法。"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete current line"
+msgstr "删除当前行"
+
+msgid "Delete file"
+msgstr "删除文件"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "删除文件或目录（及其所有内容）"
+
+msgid "Delete folder"
+msgstr "删除文件夹"
+
+msgid "Delete the selected files or directories"
+msgstr "删除选定的文件或目录"
+
+msgid "Deselect All"
+msgstr "取消全选"
+
+msgid "Deselect group"
+msgstr "取消选择组"
+
+msgid "Deselect group..."
+msgstr "取消选择组..."
+
+msgid "Directories to group selections"
+msgstr "目录到组选择"
+
+msgid "Directory"
+msgstr "目录"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "无法在\n<存储设备列表> 或<接收器> 上创建目录。\n将选择器移到下面一行或更改目录。"
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "在标题中显示文件名。它对于太长的文件名很有用。"
+
+msgid "Do you want change rights?\n"
+msgstr "您想要更改权限吗？\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "您想查看或运行该脚本吗？\n"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit current line"
+msgstr "编辑当前行"
+
+msgid "Edit line"
+msgstr "编辑行"
+
+msgid "Edit new file"
+msgstr "编辑新文件"
+
+msgid "Edit position is the line end"
+msgstr "编辑位置为行尾"
+
+msgid "end title"
+msgstr "结束标题"
+
+msgid "ends with..."
+msgstr "结束于..."
+
+msgid "Enter multi-file selection mode"
+msgstr "进入多文件选择模式"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "创建目录 %s 时出错:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "创建文件 %s 时出错:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "将 %s 链接到 %s 时出错:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "将 %s 重命名为 %s 时出错:\n%s"
+
+msgid "Error saving: %s"
+msgstr "保存时出错：%s"
+
+msgid "Error..."
+msgstr "错误..."
+
+msgid "Execution finished!!"
+msgstr "执行完毕！！"
+
+msgid "Execution progress\n\n"
+msgstr "执行进度\n\n"
+
+msgid "Exit"
+msgstr "出口"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "退出编辑器并写入更改（如果有）"
+
+msgid "Exit movie player?"
+msgstr "退出电影播放器​​？"
+
+msgid "Exit picture viewer"
+msgstr "退出图片查看器"
+
+msgid "Extract archive to %s?"
+msgstr "将存档解压缩到 %s？"
+
+msgid "Extracting..."
+msgstr "正在提取..."
+
+msgid "FIFO"
+msgstr "先进先出"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "无法在<存储设备列表> 或<接收器> 上创建文件。\n请更改目录。"
+
+msgid "File checksums/hashes"
+msgstr "文件校验和/哈希值"
+
+msgid "File Commander"
+msgstr "文件指挥官"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "文件指挥官 - 插件文件查看器"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "文件指挥官 - 插件文件查看器设置"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "文件指挥官 - 插件媒体播放器"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "文件指挥官 - 插件电影播放器"
+
+msgid "File Commander - generalised archive handler"
+msgstr "文件指挥官 - 通用归档处理程序"
+
+msgid "File Commander - gzip Addon"
+msgstr "文件指挥官 - gzip 插件"
+
+msgid "File Commander - ipk Addon"
+msgstr "文件指挥官 - ipk 插件"
+
+msgid "File Commander - tar Addon"
+msgstr "文件指挥官 - tar 插件"
+
+msgid "File Commander - unrar Addon"
+msgstr "文件指挥官 - 解压缩插件"
+
+msgid "File Commander - unzip Addon"
+msgstr "文件指挥官 - 解压缩插件"
+
+msgid "File not found: %s"
+msgstr "未找到文件：%s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "文件太大，无法以文本形式打开（最大 1MB）。"
+
+msgid "File too large to open as text."
+msgstr "文件太大，无法以文本形式打开。"
+
+msgid "File transfer was cancelled by user"
+msgstr "文件传输已被用户取消"
+
+msgid "File/Directory Status Information"
+msgstr "文件/目录状态信息"
+
+msgid "Filenames in header"
+msgstr "标题中的文件名"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "过滤器扩展名，(*) 出现在标题中"
+
+msgid "Filter visible file classes by extension."
+msgstr "按扩展名过滤可见文件类别。"
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "以防数据丢失或损坏！！！"
+
+msgid "from dir"
+msgstr "来自目录"
+
+msgid "GB"
+msgstr "国标"
+
+msgid "Go to bookmarked folder"
+msgstr "转到已添加书签的文件夹"
+
+msgid "Go to default directory"
+msgstr "转到默认目录"
+
+msgid "Go to end of file"
+msgstr "转到文件末尾"
+
+msgid "Go to parent directory"
+msgstr "转到父目录"
+
+msgid "Go to start of file"
+msgstr "转到文件开头"
+
+msgid "Group:"
+msgstr "团体："
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "已更改！你想保存它吗？"
+
+msgid "Hide/Show"
+msgstr "隐藏/显示"
+
+msgid "I/O priority for script execution"
+msgstr "脚本执行的I/O优先级"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "如果编辑文件，您可以将光标开始位置设置在行尾或行首。"
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "在多选模式下，标记后将光标移动到下一项。"
+
+msgid "Inode:"
+msgstr "索引节点："
+
+msgid "Insert"
+msgstr "插入"
+
+msgid "Insert line before current line"
+msgstr "在当前行之前插入行"
+
+msgid "Install"
+msgstr "安装"
+
+msgid "install/unpack ipk Files"
+msgstr "安装/解压 ipk 文件"
+
+msgid "Installing Plugin ..."
+msgstr "正在安装插件..."
+
+msgid "Invert selection"
+msgstr "反转选择"
+
+msgid "Invert Selection"
+msgstr "反转选择"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "无法计算 <存储设备列表> 上的哈希值"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "无法更改<存储设备列表>的文件模式"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "无法获取<存储设备列表>的文件状态"
+
+msgid "KB"
+msgstr "知识库"
+
+msgid "Leave File Commander"
+msgstr "离开文件指挥官"
+
+msgid "Leave multi-select mode"
+msgstr "离开多选模式"
+
+msgid "Link target:"
+msgstr "链接目标："
+
+msgid "Links:"
+msgstr "链接："
+
+msgid "List of Storage Devices"
+msgstr "存储设备列表"
+
+msgid "Load"
+msgstr "加载"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "使 FileCommander 可从“扩展”菜单访问。"
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "使 FileCommander 可从主菜单访问。"
+
+msgid "manage local Files"
+msgstr "管理本地文件"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "菜单"
+
+msgid "Menu..."
+msgstr "菜单..."
+
+msgid "Metadata changed:"
+msgstr "元数据已更改："
+
+msgid "Mode %s (%04o)"
+msgstr "模式 %s (%04o)"
+
+msgid "Modified:"
+msgstr "修改的："
+
+msgid "Move"
+msgstr "移动"
+
+msgid "Move down list"
+msgstr "下移列表"
+
+msgid "move file"
+msgstr "移动文件"
+
+msgid "Move file"
+msgstr "移动文件"
+
+msgid "Move file/directory to target directory"
+msgstr "将文件/目录移动到目标目录"
+
+msgid "Move files/directories to target directory"
+msgstr "将文件/目录移动到目标目录"
+
+msgid "move folder"
+msgstr "移动文件夹"
+
+msgid "Move folder"
+msgstr "移动文件夹"
+
+msgid "Move selector to next item"
+msgstr "将选择器移至下一个项目"
+
+msgid "Move selector to next item (on/off)"
+msgstr "将选择器移至下一个项目（开/关）"
+
+msgid "Move up list"
+msgstr "上移列表"
+
+msgid "Movie"
+msgstr "电影"
+
+msgid "MultiSelection Settings"
+msgstr "多项选择设置"
+
+msgid "Music"
+msgstr "音乐"
+
+msgid "My extension"
+msgstr "我的分机"
+
+msgid "My Extension"
+msgstr "我的扩展"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "姓名"
+
+msgid "Name reverse"
+msgstr "姓名反转"
+
+msgid "New folder"
+msgstr "新建文件夹"
+
+msgid "New symlink"
+msgstr "新的符号链接"
+
+msgid "new.txt"
+msgstr "新的.txt"
+
+msgid "No"
+msgstr "不"
+
+msgid "No files found."
+msgstr "没有找到文件。"
+
+msgid "No hash calculations configured"
+msgstr "未配置哈希计算"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "哈希值 %s 的哈希程序均不可用"
+
+msgid "Not allowed with folders"
+msgstr "不允许与文件夹一起使用"
+
+msgid "nothing connected"
+msgstr "没有任何联系"
+
+msgid "Number of lines in script messages"
+msgstr "脚本消息中的行数"
+
+msgid "OK"
+msgstr "好的"
+
+msgid "On device:"
+msgstr "在设备上："
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Open actions menu"
+msgstr "打开操作菜单"
+
+msgid "Open settings/actions menu"
+msgstr "打开设置/操作菜单"
+
+msgid "Open with File Commander"
+msgstr "使用文件命令器打开"
+
+msgid "or save the picture additionally to a file"
+msgstr "或将图片另外保存到文件中"
+
+msgid "Original subtitles codepage"
+msgstr "原始字幕代码页"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "用于转换为 UTF-8 的原始字幕代码页。"
+
+msgid "Original:"
+msgstr "原来的："
+
+msgid "Owner:"
+msgstr "所有者："
+
+msgid "Page down list"
+msgstr "向下翻页列表"
+
+msgid "Page up list"
+msgstr "向上翻页列表"
+
+msgid "Parent Directory"
+msgstr "家长目录"
+
+msgid "Permissions:"
+msgstr "权限："
+
+msgid "Pictures"
+msgstr "图片"
+
+msgid "play Files"
+msgstr "播放文件"
+
+msgid "Play folder"
+msgstr "播放文件夹"
+
+msgid "Play title"
+msgstr "播放标题"
+
+msgid "play/show Files"
+msgstr "播放/显示文件"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "播放/查看/编辑/安装/解压/运行文件或进入目录"
+
+msgid "Please enter file/folder name"
+msgstr "请输入文件/文件夹名称"
+
+msgid "Please enter name of the new directory"
+msgstr "请输入新目录的名称"
+
+msgid "Please enter name of the new symlink"
+msgstr "请输入新符号链接的名称"
+
+msgid "Please enter password"
+msgstr "请输入密码"
+
+msgid "Please enter the new directory name"
+msgstr "请输入新的目录名称"
+
+msgid "Please enter the new file name"
+msgstr "请输入新文件名"
+
+msgid "Please wait, Loading image."
+msgstr "请稍等，正在加载图片。"
+
+msgid "Press OK or Exit to abort!"
+msgstr "按 OK 或 Exit 中止！"
+
+msgid "python"
+msgstr "Python"
+
+msgid "Records"
+msgstr "记录"
+
+msgid "Refresh screen"
+msgstr "刷新屏幕"
+
+msgid "Regular file"
+msgstr "常规文件"
+
+msgid "Remove current folder from bookmarks"
+msgstr "从书签中删除当前文件夹"
+
+msgid "Remove from selection (%s)"
+msgstr "从选择中删除 (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "从书签中删除选定的文件夹"
+
+msgid "Rename"
+msgstr "重命名"
+
+msgid "Rename file"
+msgstr "重命名文件"
+
+msgid "Rename file/directory"
+msgstr "重命名文件/目录"
+
+msgid "Restart"
+msgstr "重新启动"
+
+msgid "Reverse left file sorting"
+msgstr "逆向左文件排序"
+
+msgid "Reverse right file sorting"
+msgstr "文件逆向右排序"
+
+msgid "Run script"
+msgstr "运行脚本"
+
+msgid "Run script in background"
+msgstr "在后台运行脚本"
+
+msgid "Run script with optional parameter"
+msgstr "使用可选参数运行脚本"
+
+msgid "Run script with optional parameter in background"
+msgstr "在后台运行带有可选参数的脚本"
+
+msgid "s"
+msgstr "s"
+
+msgid "Save cursor position"
+msgstr "保存光标位置"
+
+msgid "Save cursor position in active panel."
+msgstr "保存活动面板中的光标位置。"
+
+msgid "Save left folder on exit"
+msgstr "退出时保存左侧文件夹"
+
+msgid "Save right folder on exit"
+msgstr "退出时保存右侧文件夹"
+
+msgid "Save the left directory list location on exit."
+msgstr "退出时保存左侧目录列表位置。"
+
+msgid "Save the right folder list location on exit."
+msgstr "退出时保存正确的文件夹列表位置。"
+
+msgid "Search in group selection by"
+msgstr "在组选择中搜索"
+
+msgid "Search text"
+msgstr "搜索文字"
+
+msgid "Search text (%s):"
+msgstr "搜索文本（%s）："
+
+msgid "Search text in file (%s)."
+msgstr "搜索文件 (%s) 中的文本。"
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "选择（源列表）或输入目录（目标列表）"
+
+msgid "Select a path"
+msgstr "选择路径"
+
+msgid "Select action:"
+msgstr "选择动作："
+
+msgid "Select All"
+msgstr "选择全部"
+
+msgid "Select group"
+msgstr "选择组"
+
+msgid "Select group..."
+msgstr "选择组..."
+
+msgid "Select operation:"
+msgstr "选择操作："
+
+msgid "Select your personal settings:"
+msgstr "选择您的个人设置："
+
+msgid "Set archive mode (644)"
+msgstr "设置存档模式 (644)"
+
+msgid "Set executable mode (755)"
+msgstr "设置可执行模式 (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "设置搜索时是否区分大小写。"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Settings..."
+msgstr "设置..."
+
+msgid "shell"
+msgstr "壳"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "显示为图片（按任意键关闭）"
+
+msgid "Show contents of ipk file"
+msgstr "显示ipk文件的内容"
+
+msgid "Show contents of rar file"
+msgstr "显示rar文件的内容"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "显示 tar 或压缩 tar 文件的内容"
+
+msgid "Show contents of zip file"
+msgstr "显示 zip 文件的内容"
+
+msgid "Show directories first"
+msgstr "首先显示目录"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "在面板中的第一个或最后一个位置显示目录（要应用更改，必须重新启动 FileCommander）。"
+
+msgid "Show image information"
+msgstr "显示图像信息"
+
+msgid "Show next picture"
+msgstr "显示下一张图片"
+
+msgid "Show previous picture"
+msgstr "显示上一张图片"
+
+msgid "Show Script completed message"
+msgstr "显示脚本完成消息"
+
+msgid "Show task list"
+msgstr "显示任务列表"
+
+msgid "Show unknown extension as text"
+msgstr "将未知扩展名显示为文本"
+
+msgid "Size"
+msgstr "尺寸"
+
+msgid "Size reverse"
+msgstr "尺寸反转"
+
+msgid "Size:"
+msgstr "尺寸："
+
+msgid "Socket"
+msgstr "插座"
+
+msgid "Sorting left files by name, date or size"
+msgstr "按名称、日期或大小对左侧文件进行排序"
+
+msgid "Sorting right files by name, date or size"
+msgstr "按名称、日期或大小对正确的文件进行排序"
+
+msgid "start title"
+msgstr "开始标题"
+
+msgid "Start/stop slide show"
+msgstr "开始/停止幻灯片放映"
+
+msgid "starts with..."
+msgstr "开始于..."
+
+msgid "Storage devices"
+msgstr "存储设备"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "交换按钮以进行反向文件排序"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "将按钮右/左与通道 +/- 交换，或通道按钮始终更改为侧面。"
+
+msgid "Symbolic link"
+msgstr "符号链接"
+
+msgid "Symlink to"
+msgstr "符号链接到"
+
+msgid "Task list"
+msgstr "任务清单"
+
+msgid "TB"
+msgstr "结核病"
+
+msgid "Text not found."
+msgstr "未找到文本。"
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "文本搜索区分大小写或不区分大小写。"
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "作者不承担任何责任"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "File Commander 的图像查看器组件需要 PicturePlayer 扩展。安装 PicturePlayer 以启用此操作。"
+
+msgid "This line is not editable!"
+msgstr "此行不可编辑！"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "图像查看器幻灯片中幻灯片之间的时间。"
+
+msgid "Time for Slideshow"
+msgstr "幻灯片放映时间"
+
+msgid "to dir"
+msgstr "到目录"
+
+msgid "To next found text"
+msgstr "到下一个找到的文本"
+
+msgid "To previous found text"
+msgstr "到上一个找到的文本"
+
+msgid "Type the name for the new file"
+msgstr "输入新文件的名称"
+
+msgid "Type:"
+msgstr "类型："
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unknown file type. Open as text?"
+msgstr "未知的文件类型。以文本形式打开？"
+
+msgid "Unknown group: %d"
+msgstr "未知组：%d"
+
+msgid "Unknown user: %d"
+msgstr "未知用户：%d"
+
+msgid "unpack archives"
+msgstr "解压档案"
+
+msgid "unpack gzip Files"
+msgstr "解压 gzip 文件"
+
+msgid "unpack Rar Files"
+msgstr "解压 Rar 文件"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "解压 tar/压缩的 tar 文件"
+
+msgid "Unpack to %s"
+msgstr "解压到 %s"
+
+msgid "Unpack to current folder"
+msgstr "解压到当前文件夹"
+
+msgid "unpack zip Files"
+msgstr "解压 zip 文件"
+
+msgid "Unsupported archive type."
+msgstr "不支持的存档类型。"
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "查看或编辑文件（如果大小 < 1MB）"
+
+msgid "View or edit this %s script"
+msgstr "查看或编辑此 %s 脚本"
+
+msgid "WARNING!"
+msgstr "警告！"
+
+msgid "What do you want to play?\n"
+msgstr "你想玩什么？\n"
+
+msgid "without"
+msgstr "没有"
+
+msgid "Yes"
+msgstr "是的"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "您可以将当前文件名开头的字母数设置为预填充到虚拟键盘中的文本，以便通过组选择更轻松地输入。"
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "您可以将当前文件名末尾的字母数设置为预填充到虚拟键盘中的文本，以便通过组选择更轻松地输入。"
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "您可以设置组选择使用的内容 - 标题开始、标题结束或包含在标题中。"
+

@@ -1,0 +1,1050 @@
+# ka translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ka <ekekaz@gmail.com>\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- ფაილი არსებობს! გადაწერა"
+
+msgid "- folder exist! Overwrite"
+msgstr "- საქაღალდე არსებობს! გადაწერა"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(არჩეული რეჟიმი)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\არასავალდებულო პარამეტრი:\n%s"
+
+msgid "%d GB"
+msgstr "%d გბაიტი"
+
+msgid "%d kB"
+msgstr "%d კბაიტი"
+
+msgid "%d MB"
+msgstr "%d მბაიტი"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - ამოღების შეცდომები."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s დაცულია პაროლით."
+
+msgid "%s successfully extracted."
+msgstr "%s წარმატებით იქნა ამოღებული."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<მიმღები>"
+
+msgid "Accessed:"
+msgstr "წვდომა:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "გაააქტიურეთ მარცხენა ფაილების სია მრავალ არჩევის წყაროდ"
+
+msgid "Activate left-hand file list as source"
+msgstr "გააქტიურეთ მარცხენა ფაილების სია წყაროდ"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "გაააქტიურეთ ფაილების სია, როგორც მრავალჯერადი წყარო"
+
+msgid "Activate right-hand file list as source"
+msgstr "გააქტიურეთ მარჯვენა ფაილების სია წყაროდ"
+
+msgid "Add current folder to bookmarks"
+msgstr "დაამატეთ მიმდინარე საქაღალდე სანიშნეებში"
+
+msgid "Add plugin to Extensions menu"
+msgstr "დაამატეთ დანამატი გაფართოებების მენიუში"
+
+msgid "Add plugin to main menu"
+msgstr "დაამატეთ მოდული მთავარ მენიუში"
+
+msgid "Add selected folder to bookmarks"
+msgstr "დაამატეთ არჩეული საქაღალდე სანიშნეებში"
+
+msgid "Add to selection (%s)"
+msgstr "შერჩევაში დამატება (%s)"
+
+msgid "All"
+msgstr "ყველა"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "დირექტორიაში არსებული ყველა ფაილი იგივე სახელით, როგორც არჩეული ფილმი, ასევე კოპირდება ან გადაადგილდება."
+
+msgid "All movie extensions"
+msgstr "ფილმის ყველა გაფართოება"
+
+msgid "B"
+msgstr "ბ"
+
+msgid "Block device"
+msgstr "მოწყობილობის დაბლოკვა"
+
+msgid "Calculate file checksums"
+msgstr "ფაილის შემოწმების ჯამების გამოთვლა"
+
+msgid "Calculates file checksums."
+msgstr "ითვლის ფაილის შემოწმების ჯამებს."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "შეუძლებელია %s: %s გაშვება.\n%s შეიძლება იყოს დაინსტალირებული დანამატში."
+
+msgid "Cancel"
+msgstr "გაუქმება"
+
+msgid "Cancel execution?"
+msgstr "გააუქმოს შესრულება?"
+
+msgid "Cannot create target directory."
+msgstr "სამიზნე დირექტორიას შექმნა შეუძლებელია."
+
+msgid "Cannot open image. Open as text?"
+msgstr "სურათის გახსნა შეუძლებელია. გაიხსნას როგორც ტექსტი?"
+
+msgid "Cannot play file."
+msgstr "ფაილის დაკვრა შეუძლებელია."
+
+msgid "Cannot read file: %s"
+msgstr "ფაილის წაკითხვა შეუძლებელია: %s"
+
+msgid "case insensitive"
+msgstr "შემთხვევის უგრძნობი"
+
+msgid "case sensitive"
+msgstr "შემთხვევის მგრძნობიარე"
+
+msgid "Case sensitive search"
+msgstr "საქმესთან დაკავშირებული ძიება"
+
+msgid "Change buttons for list navigation"
+msgstr "სიის ნავიგაციის ღილაკების შეცვლა"
+
+msgid "Change execute permissions (755/644)"
+msgstr "შესრულების ნებართვების შეცვლა (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "არხის ღილაკი ყოველთვის იცვლის მხარეს"
+
+msgid "Character device"
+msgstr "სახასიათო მოწყობილობა"
+
+msgid "Close"
+msgstr "დახურვა"
+
+msgid "Compare case sensitive"
+msgstr "შეადარეთ რეგისტრირებული ასოები"
+
+msgid "contains in title"
+msgstr "შეიცავს სათაურში"
+
+msgid "contains..."
+msgstr "შეიცავს..."
+
+msgid "Content size:"
+msgstr "შინაარსის ზომა:"
+
+msgid "Copy"
+msgstr "კოპირება"
+
+msgid "copy file"
+msgstr "ფაილის კოპირება"
+
+msgid "Copy file"
+msgstr "დააკოპირეთ ფაილი"
+
+msgid "Copy file/directory to target directory"
+msgstr "დააკოპირეთ ფაილი / დირექტორია სამიზნე დირექტორიაში"
+
+msgid "Copy files/directories to target directory"
+msgstr "დააკოპირეთ ფაილები / დირექტორიები სამიზნე დირექტორიაში"
+
+msgid "copy folder"
+msgstr "კოპირების საქაღალდე"
+
+msgid "Copy folder"
+msgstr "საქაღალდის კოპირება"
+
+msgid "Count directory content size"
+msgstr "დაითვალეთ დირექტორიაში შინაარსის ზომა"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "დირექტორიის შინაარსის ზომის დათვლა სიარულის დროს (ჩართვა/გამორთვა)"
+
+msgid "CPU priority for script execution"
+msgstr "CPU პრიორიტეტი სკრიპტის შესრულებისთვის"
+
+msgid "Create directory"
+msgstr "შექმენით დირექტორია"
+
+msgid "create symlink ..."
+msgstr "სიმბლინკის შექმნა..."
+
+msgid "Create symlink to file"
+msgstr "შექმენით symlink ფაილზე"
+
+msgid "Create user-named symbolic link"
+msgstr "შექმენით მომხმარებლის სახელით სიმბოლური ბმული"
+
+msgid "d"
+msgstr "დ"
+
+msgid "Date"
+msgstr "თარიღი"
+
+msgid "Date reverse"
+msgstr "თარიღი შებრუნებულია"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "CPU-ის ნაგულისხმევი პრიორიტეტი (ლამაზი) შესრულებული სკრიპტებისთვის. ამან შეიძლება შეამციროს დატვირთვა ისე, რომ სკრიპტებმა ხელი არ შეუშალოს სისტემის დანარჩენ ნაწილს. (უფრო მაღალი მნიშვნელობები = დაბალი პრიორიტეტი)"
+
+msgid "Default directory sorting"
+msgstr "ნაგულისხმევი დირექტორია დახარისხება"
+
+msgid "Default file sorting left"
+msgstr "ფაილის ნაგულისხმევი დახარისხება დარჩა"
+
+msgid "Default file sorting right"
+msgstr "ფაილის ნაგულისხმევი დახარისხება სწორად"
+
+msgid "Default folder"
+msgstr "ნაგულისხმევი საქაღალდე"
+
+msgid "Default Folder"
+msgstr "ნაგულისხმევი საქაღალდე"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "ნაგულისხმევი I/O პრიორიტეტი (ionice) შესრულებული სკრიპტებისთვის. ამან შეიძლება შეამციროს დატვირთვა ისე, რომ სკრიპტებმა ხელი არ შეუშალოს სისტემის დანარჩენ ნაწილს. (უფრო მაღალი მნიშვნელობები = დაბალი პრიორიტეტი)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "ორივე პანელში დირექტორიების დახარისხების ნაგულისხმევი მეთოდი (ცვლილებების გამოსაყენებლად FileCommander უნდა გადატვირთოთ)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "მარცხენა პანელში ფაილების დახარისხების ნაგულისხმევი მეთოდი."
+
+msgid "Default sorting method for files in right panel."
+msgstr "ფაილების დახარისხების ნაგულისხმევი მეთოდი მარჯვენა პანელში."
+
+msgid "Delete"
+msgstr "წაშლა"
+
+msgid "Delete current line"
+msgstr "წაშალეთ მიმდინარე ხაზი"
+
+msgid "Delete file"
+msgstr "ფაილის წაშლა"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "წაშალეთ ფაილი ან დირექტორია (და მთელი მისი შინაარსი)"
+
+msgid "Delete folder"
+msgstr "საქაღალდის წაშლა"
+
+msgid "Delete the selected files or directories"
+msgstr "წაშალეთ არჩეული ფაილები ან დირექტორიები"
+
+msgid "Deselect All"
+msgstr "გააუქმეთ ყველა"
+
+msgid "Deselect group"
+msgstr "ჯგუფის არჩევის გაუქმება"
+
+msgid "Deselect group..."
+msgstr "ჯგუფის არჩევის გაუქმება..."
+
+msgid "Directories to group selections"
+msgstr "დირექტორიები ჯგუფური შერჩევისთვის"
+
+msgid "Directory"
+msgstr "დირექტორია"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "დირექტორია ვერ იქმნება აქ\n<Storage Devices> ან <Receiver>-ზე.\nგადაიტანეთ ამომრჩეველი ერთი ხაზით ქვემოთ ან შეცვალეთ დირექტორია."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "ფაილის სახელების ჩვენება სათაურში. ის სასარგებლოა ფაილის სახელებისთვის, რომლებიც ძალიან გრძელია."
+
+msgid "Do you want change rights?\n"
+msgstr "გსურთ უფლებების შეცვლა?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "გსურთ სკრიპტის ნახვა ან გაშვება?\n"
+
+msgid "Edit"
+msgstr "რედაქტირება"
+
+msgid "Edit current line"
+msgstr "მიმდინარე ხაზის რედაქტირება"
+
+msgid "Edit line"
+msgstr "ხაზის რედაქტირება"
+
+msgid "Edit new file"
+msgstr "ახალი ფაილის რედაქტირება"
+
+msgid "Edit position is the line end"
+msgstr "რედაქტირების პოზიცია არის ხაზის დასასრული"
+
+msgid "end title"
+msgstr "დასასრულის სათაური"
+
+msgid "ends with..."
+msgstr "მთავრდება..."
+
+msgid "Enter multi-file selection mode"
+msgstr "შედით მრავალფაილის შერჩევის რეჟიმში"
+
+msgid "Error"
+msgstr "შეცდომა"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "შეცდომა დირექტორია %s:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "შეცდომა ფაილის %s:\n%s შექმნისას"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "შეცდომა %s-თან %s-თან დაკავშირებისას:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "შეცდომა %s-ს %s-ად გადარქმევისას:\n%s"
+
+msgid "Error saving: %s"
+msgstr "შეცდომა შენახვისას: %s"
+
+msgid "Error..."
+msgstr "შეცდომა..."
+
+msgid "Execution finished!!"
+msgstr "აღსრულება დასრულდა!!"
+
+msgid "Execution progress\n\n"
+msgstr "შესრულების პროგრესი\n\n"
+
+msgid "Exit"
+msgstr "გასვლა"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "გამოდით რედაქტორიდან და ჩაწერეთ ცვლილებები (ასეთის არსებობის შემთხვევაში)"
+
+msgid "Exit movie player?"
+msgstr "გსურთ ფილმის დამკვრელი გასვლა?"
+
+msgid "Exit picture viewer"
+msgstr "გამოდით სურათების მნახველიდან"
+
+msgid "Extract archive to %s?"
+msgstr "გსურთ არქივის ამოღება %s-ში?"
+
+msgid "Extracting..."
+msgstr "მიმდინარეობს ამოღება..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "ფაილის შექმნა შეუძლებელია\n<Storage Devices> ან <Receiver>-ზე.\nშეცვალეთ დირექტორია, გთხოვთ."
+
+msgid "File checksums/hashes"
+msgstr "ფაილების შემოწმებები/ჰეშები"
+
+msgid "File Commander"
+msgstr "ფაილის მეთაური"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "File Commander - Addon File-Viewer"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "File Commander - Addon File-Viewer Settings"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "File Commander - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "File Commander - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander - განზოგადებული არქივის დამმუშავებელი"
+
+msgid "File Commander - gzip Addon"
+msgstr "ფაილის მეთაური - gzip Addon"
+
+msgid "File Commander - ipk Addon"
+msgstr "ფაილის მეთაური - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "ფაილის მეთაური - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "ფაილის მეთაური - unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "File Commander - გახსენით Addon"
+
+msgid "File not found: %s"
+msgstr "ფაილი ვერ მოიძებნა: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "ფაილი ძალიან დიდია ტექსტის სახით გასახსნელად (მაქსიმუმ 1 მბ)."
+
+msgid "File too large to open as text."
+msgstr "ფაილი ძალიან დიდია ტექსტის სახით გასახსნელად."
+
+msgid "File transfer was cancelled by user"
+msgstr "ფაილის გადაცემა გაუქმდა მომხმარებლის მიერ"
+
+msgid "File/Directory Status Information"
+msgstr "ფაილის/დირექტორის სტატუსის ინფორმაცია"
+
+msgid "Filenames in header"
+msgstr "ფაილების სახელები სათაურში"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "ფილტრის გაფართოება, (*) გამოჩნდება სათაურში"
+
+msgid "Filter visible file classes by extension."
+msgstr "ხილული ფაილის კლასების გაფილტვრა გაფართოების მიხედვით."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "მონაცემთა დაკარგვის ან დაზიანებისთვის !!!"
+
+msgid "from dir"
+msgstr "რეჟ"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "გადადით მონიშნულ საქაღალდეში"
+
+msgid "Go to default directory"
+msgstr "გადადით ნაგულისხმევ დირექტორიაში"
+
+msgid "Go to end of file"
+msgstr "გადადით ფაილის ბოლოს"
+
+msgid "Go to parent directory"
+msgstr "გადადით მშობლის დირექტორიაში"
+
+msgid "Go to start of file"
+msgstr "გადადით ფაილის დასაწყისში"
+
+msgid "Group:"
+msgstr "ჯგუფი:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "შეიცვალა! გსურთ მისი გადარჩენა?"
+
+msgid "Hide/Show"
+msgstr "დამალვა/ჩვენება"
+
+msgid "I/O priority for script execution"
+msgstr "I/O პრიორიტეტი სკრიპტის შესრულებისთვის"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "ფაილის რედაქტირების შემთხვევაში, შეგიძლიათ დააყენოთ კურსორის საწყისი პოზიცია ხაზის ბოლოს ან დასაწყისში."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "მრავალ შერჩევის რეჟიმში, მარკირების შემდეგ კურსორი გადააქვს შემდეგ პუნქტზე."
+
+msgid "Inode:"
+msgstr "ინოდი:"
+
+msgid "Insert"
+msgstr "ჩასმა"
+
+msgid "Insert line before current line"
+msgstr "ჩადეთ ხაზი მიმდინარე ხაზის წინ"
+
+msgid "Install"
+msgstr "დააინსტალირეთ"
+
+msgid "install/unpack ipk Files"
+msgstr "დააინსტალირეთ/გაშალეთ ipk ფაილები"
+
+msgid "Installing Plugin ..."
+msgstr "მოდულის ინსტალაცია..."
+
+msgid "Invert selection"
+msgstr "შებრუნებული შერჩევა"
+
+msgid "Invert Selection"
+msgstr "შებრუნებული შერჩევა"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "შეუძლებელია ჰეშების გამოთვლა <Storage Devices>-ზე"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "შეუძლებელია <List of Storage Devices> ფაილის რეჟიმის შეცვლა"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "შეუძლებელია <List of Storage Devices> ფაილის სტატუსის მიღება"
+
+msgid "KB"
+msgstr "კბ"
+
+msgid "Leave File Commander"
+msgstr "დატოვე ფაილის მეთაური"
+
+msgid "Leave multi-select mode"
+msgstr "დატოვეთ მრავალჯერადი არჩევის რეჟიმი"
+
+msgid "Link target:"
+msgstr "ლინკის მიზანი:"
+
+msgid "Links:"
+msgstr "ბმულები:"
+
+msgid "List of Storage Devices"
+msgstr "შენახვის მოწყობილობების სია"
+
+msgid "Load"
+msgstr "ჩატვირთვა"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "გახადეთ FileCommander ხელმისაწვდომი გაფართოებების მენიუდან."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "გახადეთ FileCommander ხელმისაწვდომი მთავარი მენიუდან."
+
+msgid "manage local Files"
+msgstr "ადგილობრივი ფაილების მართვა"
+
+msgid "MB"
+msgstr "მბ"
+
+msgid "MENU"
+msgstr "მენიუ"
+
+msgid "Menu..."
+msgstr "მენიუ..."
+
+msgid "Metadata changed:"
+msgstr "მეტამონაცემები შეიცვალა:"
+
+msgid "Mode %s (%04o)"
+msgstr "რეჟიმი %s (%04o)"
+
+msgid "Modified:"
+msgstr "შეცვლილია:"
+
+msgid "Move"
+msgstr "გადაადგილება"
+
+msgid "Move down list"
+msgstr "სიის ქვემოთ გადატანა"
+
+msgid "move file"
+msgstr "ფაილის გადატანა"
+
+msgid "Move file"
+msgstr "ფაილის გადატანა"
+
+msgid "Move file/directory to target directory"
+msgstr "ფაილის/საქაღალდის გადატანა სამიზნე დირექტორიაში"
+
+msgid "Move files/directories to target directory"
+msgstr "გადაიტანეთ ფაილები/საქაღალდეები სამიზნე დირექტორიაში"
+
+msgid "move folder"
+msgstr "საქაღალდის გადატანა"
+
+msgid "Move folder"
+msgstr "საქაღალდის გადატანა"
+
+msgid "Move selector to next item"
+msgstr "ამომრჩევის გადატანა შემდეგ პუნქტზე"
+
+msgid "Move selector to next item (on/off)"
+msgstr "ამომრჩევის გადატანა შემდეგ ელემენტზე (ჩართვა/გამორთვა)"
+
+msgid "Move up list"
+msgstr "სიის ზემოთ გადაადგილება"
+
+msgid "Movie"
+msgstr "ფილმი"
+
+msgid "MultiSelection Settings"
+msgstr "MultiSelection პარამეტრები"
+
+msgid "Music"
+msgstr "მუსიკა"
+
+msgid "My extension"
+msgstr "ჩემი გაფართოება"
+
+msgid "My Extension"
+msgstr "ჩემი გაფართოება"
+
+msgid "n"
+msgstr "ნ"
+
+msgid "Name"
+msgstr "სახელი"
+
+msgid "Name reverse"
+msgstr "სახელი საპირისპირო"
+
+msgid "New folder"
+msgstr "ახალი საქაღალდე"
+
+msgid "New symlink"
+msgstr "ახალი სიმლინკი"
+
+msgid "new.txt"
+msgstr "new.txt"
+
+msgid "No"
+msgstr "არა"
+
+msgid "No files found."
+msgstr "ფაილები ვერ მოიძებნა."
+
+msgid "No hash calculations configured"
+msgstr "ჰეშის გამოთვლები არ არის კონფიგურირებული"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "%s ჰეშების არცერთი პროგრამა არ არის ხელმისაწვდომი"
+
+msgid "Not allowed with folders"
+msgstr "დაუშვებელია საქაღალდეებით"
+
+msgid "nothing connected"
+msgstr "არაფერი დაკავშირებული"
+
+msgid "Number of lines in script messages"
+msgstr "სკრიპტის შეტყობინებებში ხაზების რაოდენობა"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On device:"
+msgstr "მოწყობილობაზე:"
+
+msgid "Open"
+msgstr "გახსენით"
+
+msgid "Open actions menu"
+msgstr "გახსენით მოქმედებების მენიუ"
+
+msgid "Open settings/actions menu"
+msgstr "გახსენით პარამეტრები/მოქმედებების მენიუ"
+
+msgid "Open with File Commander"
+msgstr "გახსენით File Commander-ით"
+
+msgid "or save the picture additionally to a file"
+msgstr "ან შეინახეთ სურათი დამატებით ფაილში"
+
+msgid "Original subtitles codepage"
+msgstr "ორიგინალური სუბტიტრების კოდის გვერდი"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "ორიგინალური სუბტიტრების კოდის გვერდი UTF-8-ში კონვერტაციისთვის."
+
+msgid "Original:"
+msgstr "ორიგინალი:"
+
+msgid "Owner:"
+msgstr "მფლობელი:"
+
+msgid "Page down list"
+msgstr "გვერდის ქვემოთ სია"
+
+msgid "Page up list"
+msgstr "გვერდის სია"
+
+msgid "Parent Directory"
+msgstr "მშობლის დირექტორია"
+
+msgid "Permissions:"
+msgstr "ნებართვები:"
+
+msgid "Pictures"
+msgstr "სურათები"
+
+msgid "play Files"
+msgstr "ფაილების თამაში"
+
+msgid "Play folder"
+msgstr "დაკვრა საქაღალდე"
+
+msgid "Play title"
+msgstr "დაუკარით სათაური"
+
+msgid "play/show Files"
+msgstr "ფაილების დაკვრა/ჩვენება"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "ფაილის დაკვრა/ნახვა/რედაქტირება/ინსტალაცია/ ამონაწერი/გაშვება ან შეიყვანეთ დირექტორია"
+
+msgid "Please enter file/folder name"
+msgstr "გთხოვთ, შეიყვანოთ ფაილის/საქაღალდის სახელი"
+
+msgid "Please enter name of the new directory"
+msgstr "გთხოვთ, შეიყვანოთ ახალი დირექტორიას სახელი"
+
+msgid "Please enter name of the new symlink"
+msgstr "გთხოვთ, შეიყვანოთ ახალი სიმბმულის სახელი"
+
+msgid "Please enter password"
+msgstr "გთხოვთ შეიყვანოთ პაროლი"
+
+msgid "Please enter the new directory name"
+msgstr "გთხოვთ, შეიყვანოთ ახალი დირექტორია სახელი"
+
+msgid "Please enter the new file name"
+msgstr "გთხოვთ, შეიყვანოთ ფაილის ახალი სახელი"
+
+msgid "Please wait, Loading image."
+msgstr "გთხოვთ დაელოდოთ, იტვირთება სურათი."
+
+msgid "Press OK or Exit to abort!"
+msgstr "დააჭირეთ OK ან გასვლა შეწყვეტისთვის!"
+
+msgid "python"
+msgstr "პითონი"
+
+msgid "Records"
+msgstr "ჩანაწერები"
+
+msgid "Refresh screen"
+msgstr "ეკრანის განახლება"
+
+msgid "Regular file"
+msgstr "რეგულარული ფაილი"
+
+msgid "Remove current folder from bookmarks"
+msgstr "წაშალეთ მიმდინარე საქაღალდე სანიშნეებიდან"
+
+msgid "Remove from selection (%s)"
+msgstr "ამოღება არჩევიდან (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "ამოიღეთ არჩეული საქაღალდე სანიშნეებიდან"
+
+msgid "Rename"
+msgstr "გადარქმევა"
+
+msgid "Rename file"
+msgstr "ფაილის გადარქმევა"
+
+msgid "Rename file/directory"
+msgstr "ფაილის/საქაღალდის სახელის გადარქმევა"
+
+msgid "Restart"
+msgstr "გადატვირთეთ"
+
+msgid "Reverse left file sorting"
+msgstr "ფაილის მარცხენა დახარისხების შებრუნება"
+
+msgid "Reverse right file sorting"
+msgstr "ფაილის შებრუნება მარჯვნივ დახარისხება"
+
+msgid "Run script"
+msgstr "სკრიპტის გაშვება"
+
+msgid "Run script in background"
+msgstr "სკრიპტის გაშვება ფონზე"
+
+msgid "Run script with optional parameter"
+msgstr "სკრიპტის გაშვება არასავალდებულო პარამეტრით"
+
+msgid "Run script with optional parameter in background"
+msgstr "გაუშვით სკრიპტი არასავალდებულო პარამეტრით ფონზე"
+
+msgid "s"
+msgstr "ს"
+
+msgid "Save cursor position"
+msgstr "კურსორის პოზიციის შენახვა"
+
+msgid "Save cursor position in active panel."
+msgstr "შეინახეთ კურსორის პოზიცია აქტიურ პანელში."
+
+msgid "Save left folder on exit"
+msgstr "შეინახეთ მარცხენა საქაღალდე გასვლისას"
+
+msgid "Save right folder on exit"
+msgstr "შეინახეთ მარჯვენა საქაღალდე გასვლისას"
+
+msgid "Save the left directory list location on exit."
+msgstr "შეინახეთ მარცხენა დირექტორიაში სიის მდებარეობა გასასვლელში."
+
+msgid "Save the right folder list location on exit."
+msgstr "შეინახეთ საქაღალდეების სიის სწორი მდებარეობა გასასვლელში."
+
+msgid "Search in group selection by"
+msgstr "ძიება ჯგუფში შერჩევის მიხედვით"
+
+msgid "Search text"
+msgstr "ტექსტის ძიება"
+
+msgid "Search text (%s):"
+msgstr "საძიებო ტექსტი (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "მოძებნეთ ტექსტი ფაილში (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "აირჩიეთ (წყაროს სია) ან შეიყვანეთ დირექტორია (სამიზნე სია)"
+
+msgid "Select a path"
+msgstr "აირჩიეთ ბილიკი"
+
+msgid "Select action:"
+msgstr "აირჩიეთ მოქმედება:"
+
+msgid "Select All"
+msgstr "აირჩიეთ ყველა"
+
+msgid "Select group"
+msgstr "აირჩიეთ ჯგუფი"
+
+msgid "Select group..."
+msgstr "აირჩიეთ ჯგუფი..."
+
+msgid "Select operation:"
+msgstr "აირჩიეთ ოპერაცია:"
+
+msgid "Select your personal settings:"
+msgstr "აირჩიეთ თქვენი პირადი პარამეტრები:"
+
+msgid "Set archive mode (644)"
+msgstr "დააყენეთ არქივის რეჟიმი (644)"
+
+msgid "Set executable mode (755)"
+msgstr "შესრულებადი რეჟიმის დაყენება (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "ადგენს განასხვავოს თუ არა დიდი და პატარა რეგისტრი საძიებლად."
+
+msgid "Settings"
+msgstr "პარამეტრები"
+
+msgid "Settings..."
+msgstr "პარამეტრები..."
+
+msgid "shell"
+msgstr "ჭურვი"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "სურათის სახით ჩვენება (დახურვისთვის დააჭირეთ ნებისმიერ ღილაკს)"
+
+msgid "Show contents of ipk file"
+msgstr "აჩვენეთ ipk ფაილის შინაარსი"
+
+msgid "Show contents of rar file"
+msgstr "rar ფაილის შინაარსის ჩვენება"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "აჩვენეთ tar ან შეკუმშული tar ფაილის შინაარსი"
+
+msgid "Show contents of zip file"
+msgstr "zip ფაილის შინაარსის ჩვენება"
+
+msgid "Show directories first"
+msgstr "ჯერ დირექტორიების ჩვენება"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "პანელის პირველ ან ბოლო პოზიციებზე დირექტორიების ჩვენება (ცვლილებების გამოსაყენებლად FileCommander უნდა გადატვირთოთ)."
+
+msgid "Show image information"
+msgstr "სურათის ინფორმაციის ჩვენება"
+
+msgid "Show next picture"
+msgstr "შემდეგი სურათის ჩვენება"
+
+msgid "Show previous picture"
+msgstr "წინა სურათის ჩვენება"
+
+msgid "Show Script completed message"
+msgstr "სკრიპტის დასრულებული შეტყობინების ჩვენება"
+
+msgid "Show task list"
+msgstr "დავალების სიის ჩვენება"
+
+msgid "Show unknown extension as text"
+msgstr "უცნობი გაფართოების ჩვენება ტექსტად"
+
+msgid "Size"
+msgstr "ზომა"
+
+msgid "Size reverse"
+msgstr "ზომა საპირისპირო"
+
+msgid "Size:"
+msgstr "ზომა:"
+
+msgid "Socket"
+msgstr "სოკეტი"
+
+msgid "Sorting left files by name, date or size"
+msgstr "მარცხენა ფაილების დახარისხება სახელის, თარიღის ან ზომის მიხედვით"
+
+msgid "Sorting right files by name, date or size"
+msgstr "ფაილების სწორად დახარისხება სახელის, თარიღის ან ზომის მიხედვით"
+
+msgid "start title"
+msgstr "საწყისი სათაური"
+
+msgid "Start/stop slide show"
+msgstr "სლაიდ შოუს დაწყება/შეჩერება"
+
+msgid "starts with..."
+msgstr "იწყება..."
+
+msgid "Storage devices"
+msgstr "შესანახი მოწყობილობები"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "შეცვალეთ ღილაკები ფაილების საპირისპირო დახარისხებისთვის"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "შეცვალეთ ღილაკები მარჯვნივ/მარცხნივ არხით +/- ან არხის ღილაკი ყოველთვის იცვლებოდა გვერდით."
+
+msgid "Symbolic link"
+msgstr "სიმბოლური ბმული"
+
+msgid "Symlink to"
+msgstr "სიმბოლური ბმული"
+
+msgid "Task list"
+msgstr "დავალების სია"
+
+msgid "TB"
+msgstr "ტუბერკულოზი"
+
+msgid "Text not found."
+msgstr "ტექსტი ვერ მოიძებნა."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "ტექსტის ძიება, როგორც რეგისტრირებული ან რეგისტრირებული."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "ავტორები არ არიან პასუხისმგებელი"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "File Commander-ის Image Viewer კომპონენტი მოითხოვს PicturePlayer გაფართოებას. დააინსტალირეთ PicturePlayer ამ ოპერაციის ჩასართავად."
+
+msgid "This line is not editable!"
+msgstr "ეს ხაზი არ არის რედაქტირებადი!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "დრო სლაიდებს შორის სურათების მაყურებლის სლაიდშოუში."
+
+msgid "Time for Slideshow"
+msgstr "სლაიდშოუს დროა"
+
+msgid "to dir"
+msgstr "რეჟ"
+
+msgid "To next found text"
+msgstr "შემდეგ ნაპოვნი ტექსტი"
+
+msgid "To previous found text"
+msgstr "წინა ნაპოვნი ტექსტი"
+
+msgid "Type the name for the new file"
+msgstr "ჩაწერეთ სახელი ახალი ფაილისთვის"
+
+msgid "Type:"
+msgstr "ტიპი:"
+
+msgid "Unknown"
+msgstr "უცნობი"
+
+msgid "Unknown file type. Open as text?"
+msgstr "ფაილის ტიპი უცნობია. გაიხსნას როგორც ტექსტი?"
+
+msgid "Unknown group: %d"
+msgstr "უცნობი ჯგუფი: %d"
+
+msgid "Unknown user: %d"
+msgstr "უცნობი მომხმარებელი: %d"
+
+msgid "unpack archives"
+msgstr "ამოალაგე არქივები"
+
+msgid "unpack gzip Files"
+msgstr "გახსენით gzip ფაილები"
+
+msgid "unpack Rar Files"
+msgstr "გახსენით Rar ფაილები"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "ამოალაგეთ tar/შეკუმშული tar ფაილები"
+
+msgid "Unpack to %s"
+msgstr "შეფუთვა %s-ში"
+
+msgid "Unpack to current folder"
+msgstr "შეფუთვა მიმდინარე საქაღალდეში"
+
+msgid "unpack zip Files"
+msgstr "გახსენით zip ფაილები"
+
+msgid "Unsupported archive type."
+msgstr "არქივის ტიპი მხარდაუჭერელია."
+
+msgid "v"
+msgstr "ვ"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "ფაილის ნახვა ან რედაქტირება (თუ ზომა < 1 მბ)"
+
+msgid "View or edit this %s script"
+msgstr "ამ %s სკრიპტის ნახვა ან რედაქტირება"
+
+msgid "WARNING!"
+msgstr "გაფრთხილება!"
+
+msgid "What do you want to play?\n"
+msgstr "რისი თამაში გინდა?\n"
+
+msgid "without"
+msgstr "გარეშე"
+
+msgid "Yes"
+msgstr "დიახ"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "თქვენ შეგიძლიათ დააყენოთ ასოების რაოდენობა მიმდინარე ფაილის სახელის დასაწყისიდან, როგორც წინასწარ შევსებული ტექსტი ვირტუალურ კლავიატურაზე, ჯგუფის შერჩევის გზით უფრო ადვილად შეყვანისთვის."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "თქვენ შეგიძლიათ დააყენოთ ასოების რაოდენობა მიმდინარე ფაილის სახელის ბოლოდან, როგორც წინასწარ შევსებული ტექსტი ვირტუალურ კლავიატურაზე, რათა უფრო ადვილად შეიტანოთ ჯგუფური შერჩევის გზით."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "შეგიძლიათ დააყენოთ რას გამოიყენებს ჯგუფური შერჩევა - სათაურის დასაწყისი, სათაურის დასასრული ან შეიცავს სათაურში."
+

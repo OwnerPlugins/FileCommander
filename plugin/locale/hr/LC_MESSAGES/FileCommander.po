@@ -1,0 +1,1050 @@
+# hr translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: hr <ekekaz@gmail.com>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- datoteka postoji! Prebrisati"
+
+msgid "- folder exist! Overwrite"
+msgstr "- folder postoji! Prebrisati"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Odaberi način)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\neobavezni parametar:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - pogreške ekstrakcije."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s je zaštićen lozinkom."
+
+msgid "%s successfully extracted."
+msgstr "%s uspješno ekstrahirano."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Prijemnik>"
+
+msgid "Accessed:"
+msgstr "Pristupljeno:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Aktivirajte popis datoteka s lijeve strane kao višestruki odabir izvora"
+
+msgid "Activate left-hand file list as source"
+msgstr "Aktivirajte popis datoteka s lijeve strane kao izvor"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Aktivirajte desni popis datoteka kao višestruki odabir izvora"
+
+msgid "Activate right-hand file list as source"
+msgstr "Aktivirajte desni popis datoteka kao izvor"
+
+msgid "Add current folder to bookmarks"
+msgstr "Dodaj trenutnu mapu u oznake"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Dodajte dodatak u izbornik Proširenja"
+
+msgid "Add plugin to main menu"
+msgstr "Dodajte dodatak u glavni izbornik"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Dodajte odabranu mapu u oznake"
+
+msgid "Add to selection (%s)"
+msgstr "Dodaj u odabir (%s)"
+
+msgid "All"
+msgstr "Sve"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Također će se kopirati ili premjestiti sve datoteke u direktoriju s istim nazivom kao i odabrani film."
+
+msgid "All movie extensions"
+msgstr "Sva filmska proširenja"
+
+msgid "B"
+msgstr "B"
+
+msgid "Block device"
+msgstr "Blokiraj uređaj"
+
+msgid "Calculate file checksums"
+msgstr "Izračunajte kontrolne zbrojeve datoteka"
+
+msgid "Calculates file checksums."
+msgstr "Izračunava kontrolne zbrojeve datoteka."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "Nije moguće pokrenuti %s: %s.\n%s je možda u dodatku koji nije instaliran."
+
+msgid "Cancel"
+msgstr "Otkazati"
+
+msgid "Cancel execution?"
+msgstr "Otkazati izvršenje?"
+
+msgid "Cannot create target directory."
+msgstr "Nije moguće stvoriti ciljni direktorij."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Nije moguće otvoriti sliku. Otvoriti kao tekst?"
+
+msgid "Cannot play file."
+msgstr "Nije moguće reproducirati datoteku."
+
+msgid "Cannot read file: %s"
+msgstr "Ne mogu pročitati datoteku: %s"
+
+msgid "case insensitive"
+msgstr "neosjetljivo na velika i mala slova"
+
+msgid "case sensitive"
+msgstr "osjetljiv na velika i mala slova"
+
+msgid "Case sensitive search"
+msgstr "Pretraživanje osjetljivo na velika i mala slova"
+
+msgid "Change buttons for list navigation"
+msgstr "Promjena gumba za navigaciju popisom"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Promjena dopuštenja za izvršenje (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Gumb kanala uvijek mijenja strane"
+
+msgid "Character device"
+msgstr "Uređaj znakova"
+
+msgid "Close"
+msgstr "Zatvoriti"
+
+msgid "Compare case sensitive"
+msgstr "Usporedba osjetljiva na velika i mala slova"
+
+msgid "contains in title"
+msgstr "sadrži u naslovu"
+
+msgid "contains..."
+msgstr "sadrži..."
+
+msgid "Content size:"
+msgstr "Veličina sadržaja:"
+
+msgid "Copy"
+msgstr "Kopirati"
+
+msgid "copy file"
+msgstr "kopirati datoteku"
+
+msgid "Copy file"
+msgstr "Kopiraj datoteku"
+
+msgid "Copy file/directory to target directory"
+msgstr "Kopiraj datoteku/direktorij u ciljni direktorij"
+
+msgid "Copy files/directories to target directory"
+msgstr "Kopiraj datoteke/direktorije u ciljni direktorij"
+
+msgid "copy folder"
+msgstr "kopija mape"
+
+msgid "Copy folder"
+msgstr "Kopiraj mapu"
+
+msgid "Count directory content size"
+msgstr "Brojite veličinu sadržaja direktorija"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Brojanje veličine sadržaja imenika tijekom hodanja (uključeno/isključeno)"
+
+msgid "CPU priority for script execution"
+msgstr "CPU prioritet za izvršavanje skripte"
+
+msgid "Create directory"
+msgstr "Stvorite imenik"
+
+msgid "create symlink ..."
+msgstr "kreiraj simbolički link..."
+
+msgid "Create symlink to file"
+msgstr "Stvorite simboličku vezu do datoteke"
+
+msgid "Create user-named symbolic link"
+msgstr "Stvorite simboličnu vezu s korisničkim imenom"
+
+msgid "d"
+msgstr "d"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Date reverse"
+msgstr "Datum obrnuto"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Zadani CPU prioritet (lijep) za izvršene skripte. To može smanjiti opterećenje tako da skripte ne ometaju ostatak sustava. (više vrijednosti = niži prioritet)"
+
+msgid "Default directory sorting"
+msgstr "Zadano sortiranje imenika"
+
+msgid "Default file sorting left"
+msgstr "Zadano sortiranje datoteka lijevo"
+
+msgid "Default file sorting right"
+msgstr "Zadano desno sortiranje datoteka"
+
+msgid "Default folder"
+msgstr "Zadana mapa"
+
+msgid "Default Folder"
+msgstr "Zadana mapa"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Zadani I/O prioritet (ionice) za izvršene skripte. To može smanjiti opterećenje tako da skripte ne ometaju ostatak sustava. (više vrijednosti = niži prioritet)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Zadana metoda sortiranja za direktorije u oba panela (za primjenu promjena FileCommander se mora ponovno pokrenuti)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Zadana metoda sortiranja datoteka na lijevoj ploči."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Zadana metoda sortiranja datoteka na desnoj ploči."
+
+msgid "Delete"
+msgstr "Izbrisati"
+
+msgid "Delete current line"
+msgstr "Izbriši trenutnu liniju"
+
+msgid "Delete file"
+msgstr "Izbriši datoteku"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Izbriši datoteku ili direktorij (i sav njegov sadržaj)"
+
+msgid "Delete folder"
+msgstr "Izbriši mapu"
+
+msgid "Delete the selected files or directories"
+msgstr "Izbrišite odabrane datoteke ili direktorije"
+
+msgid "Deselect All"
+msgstr "Odznačite sve"
+
+msgid "Deselect group"
+msgstr "Poništi odabir grupe"
+
+msgid "Deselect group..."
+msgstr "Poništi odabir grupe..."
+
+msgid "Directories to group selections"
+msgstr "Imenici za grupne odabire"
+
+msgid "Directory"
+msgstr "Imenik"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Direktorij se ne može stvoriti ovdje na\n<List of Storage Devices> ili <Receiver>.\nPomaknite birač jedan red ispod ili promijenite direktorij."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Prikaži nazive datoteka u zaglavlju. Korisno je za preduge nazive datoteka."
+
+msgid "Do you want change rights?\n"
+msgstr "Želite li promijeniti prava?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Želite li pogledati ili pokrenuti skriptu?\n"
+
+msgid "Edit"
+msgstr "Uredi"
+
+msgid "Edit current line"
+msgstr "Uredi trenutni redak"
+
+msgid "Edit line"
+msgstr "Uredi liniju"
+
+msgid "Edit new file"
+msgstr "Uredi novu datoteku"
+
+msgid "Edit position is the line end"
+msgstr "Položaj uređivanja je kraj retka"
+
+msgid "end title"
+msgstr "završni naslov"
+
+msgid "ends with..."
+msgstr "završava s..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Uđite u način odabira više datoteka"
+
+msgid "Error"
+msgstr "Greška"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Pogreška pri stvaranju direktorija %s:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Pogreška pri stvaranju datoteke %s:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Pogreška pri povezivanju %s s %s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Pogreška pri preimenovanju %s u %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Pogreška pri spremanju: %s"
+
+msgid "Error..."
+msgstr "Greška..."
+
+msgid "Execution finished!!"
+msgstr "Ovrha završena!!"
+
+msgid "Execution progress\n\n"
+msgstr "Napredak izvršenja\n\n"
+
+msgid "Exit"
+msgstr "Izlaz"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Izađite iz uređivača i upišite promjene (ako postoje)"
+
+msgid "Exit movie player?"
+msgstr "Izaći iz playera filmova?"
+
+msgid "Exit picture viewer"
+msgstr "Izađi iz preglednika slika"
+
+msgid "Extract archive to %s?"
+msgstr "Raspakirati arhivu u %s?"
+
+msgid "Extracting..."
+msgstr "Izdvajanje..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Datoteka se ne može stvoriti na\n<List of Storage Devices> ili <Receiver>.\nPromijenite direktorij, molimo."
+
+msgid "File checksums/hashes"
+msgstr "Datoteka kontrolnih zbrojeva/raspršivanja"
+
+msgid "File Commander"
+msgstr "Zapovjednik datoteka"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "File Commander - Addon File-Viewer"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "File Commander - Addon File-Viewer Settings"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "File Commander - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "File Commander - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander - generalizirani rukovatelj arhivama"
+
+msgid "File Commander - gzip Addon"
+msgstr "File Commander - gzip Addon"
+
+msgid "File Commander - ipk Addon"
+msgstr "File Commander - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "File Commander - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "File Commander - Unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "File Commander - raspakirajte Addon"
+
+msgid "File not found: %s"
+msgstr "Datoteka nije pronađena: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Datoteka je prevelika za otvaranje kao tekst (maksimalno 1 MB)."
+
+msgid "File too large to open as text."
+msgstr "Datoteka je prevelika za otvaranje kao tekst."
+
+msgid "File transfer was cancelled by user"
+msgstr "Korisnik je otkazao prijenos datoteke"
+
+msgid "File/Directory Status Information"
+msgstr "Informacije o statusu datoteke/direktorija"
+
+msgid "Filenames in header"
+msgstr "Imena datoteka u zaglavlju"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Ekstenzija filtra, (*) pojavljuje se u naslovu"
+
+msgid "Filter visible file classes by extension."
+msgstr "Filtrirajte vidljive klase datoteka prema ekstenziji."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "za GUBITAK ILI OŠTEĆENJE PODATAKA !!!"
+
+msgid "from dir"
+msgstr "od red"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "Idi na označenu mapu"
+
+msgid "Go to default directory"
+msgstr "Idi na zadani direktorij"
+
+msgid "Go to end of file"
+msgstr "Idi na kraj datoteke"
+
+msgid "Go to parent directory"
+msgstr "Idite u nadređeni imenik"
+
+msgid "Go to start of file"
+msgstr "Idi na početak datoteke"
+
+msgid "Group:"
+msgstr "Skupina:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "je PROMIJENJENO! Želite li ga spremiti?"
+
+msgid "Hide/Show"
+msgstr "Sakrij/prikaži"
+
+msgid "I/O priority for script execution"
+msgstr "I/O prioritet za izvršavanje skripte"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Ako uređujete datoteku, možete postaviti početnu poziciju kursora na kraju ili početku retka."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "U načinu višestrukog odabira pomiče kursor na sljedeću stavku nakon označavanja."
+
+msgid "Inode:"
+msgstr "Inod:"
+
+msgid "Insert"
+msgstr "Umetnuti"
+
+msgid "Insert line before current line"
+msgstr "Umetni redak prije trenutnog retka"
+
+msgid "Install"
+msgstr "Instalirati"
+
+msgid "install/unpack ipk Files"
+msgstr "instalirajte/otpakirajte ipk datoteke"
+
+msgid "Installing Plugin ..."
+msgstr "Instaliranje dodatka..."
+
+msgid "Invert selection"
+msgstr "Obrnuti odabir"
+
+msgid "Invert Selection"
+msgstr "Obrnuti odabir"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "Nije moguće izračunati hashove na <List of Storage Devices>"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Nije moguće promijeniti način datoteke za <List of Storage Devices>"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Nije moguće dobiti status datoteke <List of Storage Devices>"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Napustite File Commander"
+
+msgid "Leave multi-select mode"
+msgstr "Napustite način višestrukog odabira"
+
+msgid "Link target:"
+msgstr "Cilj veze:"
+
+msgid "Links:"
+msgstr "Linkovi:"
+
+msgid "List of Storage Devices"
+msgstr "Popis uređaja za pohranu"
+
+msgid "Load"
+msgstr "Opterećenje"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Učinite FileCommander dostupnim iz izbornika Extensions."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Učinite FileCommander dostupnim iz glavnog izbornika."
+
+msgid "manage local Files"
+msgstr "upravljanje lokalnim datotekama"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "JELOVNIK"
+
+msgid "Menu..."
+msgstr "Jelovnik..."
+
+msgid "Metadata changed:"
+msgstr "Metapodaci promijenjeni:"
+
+msgid "Mode %s (%04o)"
+msgstr "Način %s (%04o)"
+
+msgid "Modified:"
+msgstr "Izmijenjeno:"
+
+msgid "Move"
+msgstr "Potez"
+
+msgid "Move down list"
+msgstr "Pomakni popis prema dolje"
+
+msgid "move file"
+msgstr "premjesti datoteku"
+
+msgid "Move file"
+msgstr "Premjesti datoteku"
+
+msgid "Move file/directory to target directory"
+msgstr "Premjesti datoteku/direktorij u ciljni direktorij"
+
+msgid "Move files/directories to target directory"
+msgstr "Premjestite datoteke/direktorije u ciljni direktorij"
+
+msgid "move folder"
+msgstr "premjesti mapu"
+
+msgid "Move folder"
+msgstr "Premjesti mapu"
+
+msgid "Move selector to next item"
+msgstr "Premjesti birač na sljedeću stavku"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Premjesti birač na sljedeću stavku (uključeno/isključeno)"
+
+msgid "Move up list"
+msgstr "Pomakni gore popis"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "MultiSelection Settings"
+msgstr "Postavke višestrukog odabira"
+
+msgid "Music"
+msgstr "Glazba"
+
+msgid "My extension"
+msgstr "Moj nastavak"
+
+msgid "My Extension"
+msgstr "Moj nastavak"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "Ime"
+
+msgid "Name reverse"
+msgstr "Ime naličje"
+
+msgid "New folder"
+msgstr "Nova mapa"
+
+msgid "New symlink"
+msgstr "Nova simbolička veza"
+
+msgid "new.txt"
+msgstr "novo.txt"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "No files found."
+msgstr "Nije pronađena nijedna datoteka."
+
+msgid "No hash calculations configured"
+msgstr "Nema konfiguriranih hash izračuna"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "Niti jedan od hash programa za hash %s nije dostupan"
+
+msgid "Not allowed with folders"
+msgstr "Nije dopušteno s mapama"
+
+msgid "nothing connected"
+msgstr "ništa povezano"
+
+msgid "Number of lines in script messages"
+msgstr "Broj redaka u porukama skripte"
+
+msgid "OK"
+msgstr "U REDU"
+
+msgid "On device:"
+msgstr "Na uređaju:"
+
+msgid "Open"
+msgstr "Otvoriti"
+
+msgid "Open actions menu"
+msgstr "Otvorite izbornik radnji"
+
+msgid "Open settings/actions menu"
+msgstr "Otvorite izbornik postavki/radnji"
+
+msgid "Open with File Commander"
+msgstr "Otvorite File Commanderom"
+
+msgid "or save the picture additionally to a file"
+msgstr "ili dodatno spremite sliku u datoteku"
+
+msgid "Original subtitles codepage"
+msgstr "Izvorna kodna stranica titlova"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Izvorna kodna stranica titlova za konverziju u UTF-8."
+
+msgid "Original:"
+msgstr "Izvornik:"
+
+msgid "Owner:"
+msgstr "Vlasnik:"
+
+msgid "Page down list"
+msgstr "Lista prema dolje"
+
+msgid "Page up list"
+msgstr "Lista prema gore"
+
+msgid "Parent Directory"
+msgstr "Nadređeni imenik"
+
+msgid "Permissions:"
+msgstr "Dozvole:"
+
+msgid "Pictures"
+msgstr "Slike"
+
+msgid "play Files"
+msgstr "igrati datoteke"
+
+msgid "Play folder"
+msgstr "Igraj mapu"
+
+msgid "Play title"
+msgstr "Naslov reprodukcije"
+
+msgid "play/show Files"
+msgstr "reproduciraj/prikaži datoteke"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Reproduciraj/pregledaj/uredi/instaliraj/ekstrahiraj/pokreni datoteku ili uđi u direktorij"
+
+msgid "Please enter file/folder name"
+msgstr "Unesite naziv datoteke/mape"
+
+msgid "Please enter name of the new directory"
+msgstr "Unesite naziv novog imenika"
+
+msgid "Please enter name of the new symlink"
+msgstr "Unesite naziv nove simboličke veze"
+
+msgid "Please enter password"
+msgstr "Molimo unesite lozinku"
+
+msgid "Please enter the new directory name"
+msgstr "Unesite novi naziv direktorija"
+
+msgid "Please enter the new file name"
+msgstr "Unesite novi naziv datoteke"
+
+msgid "Please wait, Loading image."
+msgstr "Molimo pričekajte, učitavanje slike."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Pritisnite OK ili Izlaz za prekid!"
+
+msgid "python"
+msgstr "piton"
+
+msgid "Records"
+msgstr "Zapisi"
+
+msgid "Refresh screen"
+msgstr "Osvježi zaslon"
+
+msgid "Regular file"
+msgstr "Obična datoteka"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Ukloni trenutnu mapu iz oznaka"
+
+msgid "Remove from selection (%s)"
+msgstr "Ukloni iz odabira (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Ukloni odabranu mapu iz oznaka"
+
+msgid "Rename"
+msgstr "Preimenovati"
+
+msgid "Rename file"
+msgstr "Preimenuj datoteku"
+
+msgid "Rename file/directory"
+msgstr "Preimenuj datoteku/direktorij"
+
+msgid "Restart"
+msgstr "Ponovno pokretanje"
+
+msgid "Reverse left file sorting"
+msgstr "Obrnuto lijevo sortiranje datoteka"
+
+msgid "Reverse right file sorting"
+msgstr "Obrnuto desno sortiranje datoteka"
+
+msgid "Run script"
+msgstr "Pokreni skriptu"
+
+msgid "Run script in background"
+msgstr "Pokreni skriptu u pozadini"
+
+msgid "Run script with optional parameter"
+msgstr "Pokreni skriptu s izbornim parametrom"
+
+msgid "Run script with optional parameter in background"
+msgstr "Pokreni skriptu s izbornim parametrom u pozadini"
+
+msgid "s"
+msgstr "s"
+
+msgid "Save cursor position"
+msgstr "Spremi poziciju kursora"
+
+msgid "Save cursor position in active panel."
+msgstr "Spremi položaj kursora u aktivnoj ploči."
+
+msgid "Save left folder on exit"
+msgstr "Spremi lijevu mapu na izlazu"
+
+msgid "Save right folder on exit"
+msgstr "Spremi desnu mapu na izlazu"
+
+msgid "Save the left directory list location on exit."
+msgstr "Spremite lijevu lokaciju popisa direktorija pri izlazu."
+
+msgid "Save the right folder list location on exit."
+msgstr "Spremite pravu lokaciju popisa mapa na izlazu."
+
+msgid "Search in group selection by"
+msgstr "Traži u grupnom odabiru prema"
+
+msgid "Search text"
+msgstr "Traži tekst"
+
+msgid "Search text (%s):"
+msgstr "Traži tekst (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Traži tekst u datoteci (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Odaberite (izvorni popis) ili unesite direktorij (ciljni popis)"
+
+msgid "Select a path"
+msgstr "Odaberite put"
+
+msgid "Select action:"
+msgstr "Odaberite radnju:"
+
+msgid "Select All"
+msgstr "Odaberite sve"
+
+msgid "Select group"
+msgstr "Odaberite grupu"
+
+msgid "Select group..."
+msgstr "Odaberite grupu..."
+
+msgid "Select operation:"
+msgstr "Odaberite operaciju:"
+
+msgid "Select your personal settings:"
+msgstr "Odaberite svoje osobne postavke:"
+
+msgid "Set archive mode (644)"
+msgstr "Postavi način arhiviranja (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Postavi izvršni način rada (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Postavlja hoće li se prilikom pretraživanja razlikovati velika i mala slova."
+
+msgid "Settings"
+msgstr "postavke"
+
+msgid "Settings..."
+msgstr "Postavke..."
+
+msgid "shell"
+msgstr "ljuska"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Prikaži kao sliku (pritisnite bilo koju tipku za zatvaranje)"
+
+msgid "Show contents of ipk file"
+msgstr "Prikaži sadržaj ipk datoteke"
+
+msgid "Show contents of rar file"
+msgstr "Prikaži sadržaj rar datoteke"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Prikaži sadržaj tar ili komprimirane tar datoteke"
+
+msgid "Show contents of zip file"
+msgstr "Prikaži sadržaj zip datoteke"
+
+msgid "Show directories first"
+msgstr "Prvo prikaži imenike"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Prikaži direktorije na prvim ili zadnjim pozicijama u ploči (za primjenu promjena FileCommander se mora ponovno pokrenuti)."
+
+msgid "Show image information"
+msgstr "Prikaži informacije o slici"
+
+msgid "Show next picture"
+msgstr "Prikaži sljedeću sliku"
+
+msgid "Show previous picture"
+msgstr "Prikaži prethodnu sliku"
+
+msgid "Show Script completed message"
+msgstr "Prikaži poruku o dovršenoj skripti"
+
+msgid "Show task list"
+msgstr "Prikaži popis zadataka"
+
+msgid "Show unknown extension as text"
+msgstr "Prikaži nepoznato proširenje kao tekst"
+
+msgid "Size"
+msgstr "Veličina"
+
+msgid "Size reverse"
+msgstr "Veličina obrnuto"
+
+msgid "Size:"
+msgstr "Veličina:"
+
+msgid "Socket"
+msgstr "Utičnica"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Sortiranje preostalih datoteka prema nazivu, datumu ili veličini"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Razvrstavanje pravih datoteka prema nazivu, datumu ili veličini"
+
+msgid "start title"
+msgstr "početni naslov"
+
+msgid "Start/stop slide show"
+msgstr "Pokretanje/zaustavljanje dijaprojekcije"
+
+msgid "starts with..."
+msgstr "počinje sa..."
+
+msgid "Storage devices"
+msgstr "Uređaji za pohranu podataka"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Gumbi za promjenu za obrnuto sortiranje datoteka"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Zamijenite gumbe desno/lijevo s kanalom +/- ili je gumb kanala uvijek promijenjen na stranu."
+
+msgid "Symbolic link"
+msgstr "Simbolička veza"
+
+msgid "Symlink to"
+msgstr "Simbolna veza na"
+
+msgid "Task list"
+msgstr "Popis zadataka"
+
+msgid "TB"
+msgstr "TBC"
+
+msgid "Text not found."
+msgstr "Tekst nije pronađen."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Pretraživanje teksta osjetljivo na velika ili mala slova."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Autori NE NOSE ODGOVORNOST"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "Komponenta Image Viewer File Commandera zahtijeva proširenje PicturePlayer. Instalirajte PicturePlayer da omogućite ovu operaciju."
+
+msgid "This line is not editable!"
+msgstr "Ovaj redak nije moguće uređivati!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Vrijeme između slajdova u dijaprojekciji preglednika slika."
+
+msgid "Time for Slideshow"
+msgstr "Vrijeme je za prezentaciju"
+
+msgid "to dir"
+msgstr "do dir"
+
+msgid "To next found text"
+msgstr "Na sljedeći pronađeni tekst"
+
+msgid "To previous found text"
+msgstr "Na prethodni pronađeni tekst"
+
+msgid "Type the name for the new file"
+msgstr "Upišite naziv za novu datoteku"
+
+msgid "Type:"
+msgstr "Tip:"
+
+msgid "Unknown"
+msgstr "Nepoznato"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Nepoznata vrsta datoteke. Otvoriti kao tekst?"
+
+msgid "Unknown group: %d"
+msgstr "Nepoznata grupa: %d"
+
+msgid "Unknown user: %d"
+msgstr "Nepoznati korisnik: %d"
+
+msgid "unpack archives"
+msgstr "raspakirati arhive"
+
+msgid "unpack gzip Files"
+msgstr "raspakirajte gzip datoteke"
+
+msgid "unpack Rar Files"
+msgstr "raspakirajte Rar datoteke"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "raspakirajte tar/komprimirane tar datoteke"
+
+msgid "Unpack to %s"
+msgstr "Raspakirajte u %s"
+
+msgid "Unpack to current folder"
+msgstr "Raspakirajte u trenutnu mapu"
+
+msgid "unpack zip Files"
+msgstr "raspakirajte zip datoteke"
+
+msgid "Unsupported archive type."
+msgstr "Nepodržana vrsta arhive."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Pregledajte ili uredite datoteku (ako je veličina < 1 MB)"
+
+msgid "View or edit this %s script"
+msgstr "Pogledajte ili uredite ovu %s skriptu"
+
+msgid "WARNING!"
+msgstr "UPOZORENJE!"
+
+msgid "What do you want to play?\n"
+msgstr "Što želite igrati?\n"
+
+msgid "without"
+msgstr "bez"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Možete postaviti broj slova od početka trenutnog naziva datoteke kao teksta unaprijed ispunjenog u virtualnu tipkovnicu za lakši unos putem grupnog odabira."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Možete postaviti broj slova s ​​kraja naziva trenutne datoteke kao tekst unaprijed ispunjen u virtualnu tipkovnicu za lakši unos putem grupnog odabira."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Možete postaviti što će grupni odabir koristiti - početak naslova, kraj naslova ili sadržaj u naslovu."
+

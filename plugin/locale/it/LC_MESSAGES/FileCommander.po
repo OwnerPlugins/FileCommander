@@ -634,9 +634,6 @@ msgstr "Nessun file trovato."
 msgid "No hash calculations configured"
 msgstr "Nessun calcolo hash configurato"
 
-msgid "No image viewer available."
-msgstr "Nessun visualizzatore di immagini disponibile."
-
 msgid "None of the hash programs for the hashes %s are available"
 msgstr "Nessuno dei programmi hash per gli hash %s è disponibile"
 

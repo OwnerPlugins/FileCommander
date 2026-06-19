@@ -1,0 +1,1050 @@
+# my translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: my <ekekaz@gmail.com>\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- ဖိုင်ရှိပါတယ်! ထပ်ရေးပါ။"
+
+msgid "- folder exist! Overwrite"
+msgstr "- ဖိုင်တွဲ ရှိပါသည်! ထပ်ရေးပါ။"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(ရွေးချယ်မုဒ်)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\noptional parameter-\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y၊ %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - ထုတ်ယူမှု အမှားအယွင်းများ"
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s သည် စကားဝှက်ဖြင့် ကာကွယ်ထားသည်။"
+
+msgid "%s successfully extracted."
+msgstr "%s ကို အောင်မြင်စွာ ထုတ်ယူပြီးပါပြီ။"
+
+msgid "%s: %s"
+msgstr "%s- %s"
+
+msgid "<Receiver>"
+msgstr "<လက်ခံသူ>"
+
+msgid "Accessed:"
+msgstr "ဝင်ရောက်ခဲ့သည်-"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "ဘယ်ဘက်လက်ဖြင့် ဖိုင်စာရင်းကို ရွေးချယ်ပြီး အရင်းအမြစ်များစွာဖြင့် အသက်သွင်းပါ။"
+
+msgid "Activate left-hand file list as source"
+msgstr "ဘယ်ဘက်ဖိုင်စာရင်းကို အရင်းအမြစ်အဖြစ် အသက်သွင်းပါ။"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Multi-select အရင်းအမြစ်အဖြစ် ညာဖက်ဖိုင်စာရင်းကို အသက်သွင်းပါ။"
+
+msgid "Activate right-hand file list as source"
+msgstr "ညာလက်ဖိုင်စာရင်းကို အရင်းအမြစ်အဖြစ် အသက်သွင်းပါ။"
+
+msgid "Add current folder to bookmarks"
+msgstr "လက်ရှိဖိုင်တွဲကို စာညှပ်များထဲသို့ ထည့်ပါ။"
+
+msgid "Add plugin to Extensions menu"
+msgstr "တိုးချဲ့မှုများမီနူးသို့ ပလပ်အင်ထည့်ပါ။"
+
+msgid "Add plugin to main menu"
+msgstr "ပင်မမီနူးသို့ ပလပ်အင်ထည့်ပါ။"
+
+msgid "Add selected folder to bookmarks"
+msgstr "ရွေးထားသောဖိုင်တွဲကို စာညှပ်များထဲသို့ ထည့်ပါ။"
+
+msgid "Add to selection (%s)"
+msgstr "ရွေးချယ်မှုသို့ ထည့်ပါ (%s)"
+
+msgid "All"
+msgstr "အားလုံး"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "ရွေးချယ်ထားသည့် ရုပ်ရှင်ကဲ့သို့ အမည်တူ လမ်းညွှန်ရှိ ဖိုင်များအားလုံးကိုလည်း ကူးယူ သို့မဟုတ် ရွှေ့ပါမည်။"
+
+msgid "All movie extensions"
+msgstr "ရုပ်ရှင် တိုးချဲ့မှုများ အားလုံး"
+
+msgid "B"
+msgstr "ခ"
+
+msgid "Block device"
+msgstr "စက်ပစ္စည်းကို ပိတ်ပါ။"
+
+msgid "Calculate file checksums"
+msgstr "ဖိုင် checksum တွက်ချက်ပါ။"
+
+msgid "Calculates file checksums."
+msgstr "ဖိုင်စစ်ဆေးမှုများကို တွက်ချက်သည်။"
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "%s ကို မလုပ်ဆောင်နိုင်ပါ- %s.\n%s သည် မတပ်ဆင်ရသေးသော ပလပ်အင်တစ်ခုတွင် ရှိနေနိုင်သည်။"
+
+msgid "Cancel"
+msgstr "မလုပ်တော့"
+
+msgid "Cancel execution?"
+msgstr "လုပ်ဆောင်မှုကို ပယ်ဖျက်မလား။"
+
+msgid "Cannot create target directory."
+msgstr "ပစ်မှတ်လမ်းညွှန်ကို ဖန်တီး၍မရပါ။"
+
+msgid "Cannot open image. Open as text?"
+msgstr "ပုံဖွင့်၍မရပါ။ စာသားအဖြစ် ဖွင့်မလား။"
+
+msgid "Cannot play file."
+msgstr "ဖိုင်ကိုဖွင့်၍မရပါ။"
+
+msgid "Cannot read file: %s"
+msgstr "ဖိုင်ကို ဖတ်၍မရပါ- %s"
+
+msgid "case insensitive"
+msgstr "case insensitive"
+
+msgid "case sensitive"
+msgstr "စာလုံးအကြီးအသေးသတိထားရမည်"
+
+msgid "Case sensitive search"
+msgstr "ဖြစ်ရပ်မှန် ရှာဖွေမှု"
+
+msgid "Change buttons for list navigation"
+msgstr "စာရင်းလမ်းညွှန်မှုအတွက် ခလုတ်များပြောင်းပါ။"
+
+msgid "Change execute permissions (755/644)"
+msgstr "လုပ်ဆောင်ခွင့်ပြုချက်များကို ပြောင်းလဲပါ (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "ချန်နယ်ခလုတ်သည် အမြဲတမ်း ဘေးနှစ်ဖက်ကို ပြောင်းလဲသည်။"
+
+msgid "Character device"
+msgstr "ဇာတ်ကောင်တွေပါပဲ။"
+
+msgid "Close"
+msgstr "ပိတ်လိုက်"
+
+msgid "Compare case sensitive"
+msgstr "ဖြစ်ရပ်မှန် နှိုင်းယှဉ်ပါ။"
+
+msgid "contains in title"
+msgstr "ခေါင်းစဉ်တွင်ပါရှိသည်။"
+
+msgid "contains..."
+msgstr "ပါဝင်သည်..."
+
+msgid "Content size:"
+msgstr "အကြောင်းအရာအရွယ်အစား-"
+
+msgid "Copy"
+msgstr "ကော်ပီ"
+
+msgid "copy file"
+msgstr "ဖိုင်ကိုကော်ပီ"
+
+msgid "Copy file"
+msgstr "ဖိုင်ကိုကူးယူပါ။"
+
+msgid "Copy file/directory to target directory"
+msgstr "ပစ်မှတ်လမ်းညွှန်သို့ ဖိုင်/လမ်းညွှန်ကို ကူးယူပါ။"
+
+msgid "Copy files/directories to target directory"
+msgstr "ပစ်မှတ်လမ်းညွှန်သို့ ဖိုင်များ/လမ်းညွှန်များကို ကူးယူပါ။"
+
+msgid "copy folder"
+msgstr "ဖိုင်တွဲကို ကူးယူပါ။"
+
+msgid "Copy folder"
+msgstr "ဖိုင်တွဲကို ကူးယူပါ။"
+
+msgid "Count directory content size"
+msgstr "လမ်းညွှန်အကြောင်းအရာ အရွယ်အစားကို ရေတွက်ပါ။"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "လမ်းလျှောက်နေစဉ် လမ်းညွှန်အကြောင်းအရာ အရွယ်အစားကို ရေတွက်ခြင်း (ဖွင့်/ပိတ်)"
+
+msgid "CPU priority for script execution"
+msgstr "Script လုပ်ဆောင်မှုအတွက် CPU ဦးစားပေး"
+
+msgid "Create directory"
+msgstr "လမ်းညွှန်ဖန်တီးပါ။"
+
+msgid "create symlink ..."
+msgstr "symlink ဖန်တီးပါ..."
+
+msgid "Create symlink to file"
+msgstr "ဖိုင်သို့ symlink ဖန်တီးပါ။"
+
+msgid "Create user-named symbolic link"
+msgstr "အသုံးပြုသူအမည်ဖြင့် သင်္ကေတလင့်ခ်ကို ဖန်တီးပါ။"
+
+msgid "d"
+msgstr "ဃ"
+
+msgid "Date"
+msgstr "ရက်စွဲ"
+
+msgid "Date reverse"
+msgstr "ရက်စွဲပြောင်းပြန်"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "လုပ်ဆောင်ပြီးသော script များအတွက် မူရင်း CPU ဦးစားပေး (ကောင်း)။ ၎င်းသည် script များသည် ကျန်ရှိသော system ကို အနှောင့်အယှက်မဖြစ်စေရန် ဝန်ကိုလျှော့ချနိုင်သည်။ (ပိုမိုမြင့်မားသောတန်ဖိုးများ = ဦးစားပေးအဆင့်နိမ့်)"
+
+msgid "Default directory sorting"
+msgstr "ပုံသေ လမ်းညွှန် စီခြင်း"
+
+msgid "Default file sorting left"
+msgstr "ပုံသေဖိုင်ကို စီစဥ်ထားခဲ့တယ်။"
+
+msgid "Default file sorting right"
+msgstr "ပုံသေ ဖိုင်ကို စီစဥ်ထားသည် မဟုတ်လား။"
+
+msgid "Default folder"
+msgstr "ပုံသေဖိုင်တွဲ"
+
+msgid "Default Folder"
+msgstr "ပုံသေ ဖိုင်တွဲ"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "လုပ်ဆောင်ပြီးသော script များအတွက် မူရင်း I/O ဦးစားပေး (ionice)။ ၎င်းသည် script များသည် ကျန်ရှိသော system ကို အနှောင့်အယှက်မဖြစ်စေရန် ဝန်ကိုလျှော့ချနိုင်သည်။ (ပိုမိုမြင့်မားသောတန်ဖိုးများ = ဦးစားပေးအဆင့်နိမ့်)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "အကန့်နှစ်ခုလုံးရှိ လမ်းညွှန်များအတွက် ပုံသေ စီခြင်းနည်းလမ်း (အပြောင်းအလဲများကို အသုံးချရန် FileCommander ကို ပြန်လည်စတင်ရပါမည်)။"
+
+msgid "Default sorting method for files in left panel."
+msgstr "ဘယ်ဘက်အကန့်ရှိ ဖိုင်များအတွက် ပုံသေ စီခြင်းနည်းလမ်း။"
+
+msgid "Default sorting method for files in right panel."
+msgstr "ညာဘက်အကန့်ရှိ ဖိုင်များအတွက် ပုံသေ စီခြင်းနည်းလမ်း။"
+
+msgid "Delete"
+msgstr "ဖျက်ပါ။"
+
+msgid "Delete current line"
+msgstr "လက်ရှိလိုင်းကိုဖျက်ပါ။"
+
+msgid "Delete file"
+msgstr "ဖိုင်ကိုဖျက်ပါ။"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "ဖိုင် သို့မဟုတ် လမ်းညွှန် (နှင့် ၎င်း၏ အကြောင်းအရာအားလုံးကို) ဖျက်ပါ"
+
+msgid "Delete folder"
+msgstr "ဖိုင်တွဲကိုဖျက်ပါ။"
+
+msgid "Delete the selected files or directories"
+msgstr "ရွေးချယ်ထားသောဖိုင်များ သို့မဟုတ် လမ်းညွှန်များကို ဖျက်ပါ။"
+
+msgid "Deselect All"
+msgstr "အားလုံးကို ဖြုတ်လိုက်ပါ။"
+
+msgid "Deselect group"
+msgstr "အဖွဲ့ကို ရွေးခြင်းမှ ဖြုတ်ပါ။"
+
+msgid "Deselect group..."
+msgstr "အဖွဲ့ကို မရွေးပါ..."
+
+msgid "Directories to group selections"
+msgstr "အဖွဲ့ရွေးချယ်မှုများအတွက် လမ်းညွှန်များ"
+
+msgid "Directory"
+msgstr "အဘိဓာန်"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "လမ်းညွှန်ကို ဤနေရာတွင်\n<သိုလှောင်ကိရိယာများစာရင်း> သို့မဟုတ် <လက်ခံသူ> ပေါ်တွင် ဖန်တီး၍မရပါ။\nရွေးချယ်မှုအား အောက်ဖော်ပြပါ စာကြောင်းတစ်ကြောင်းကို ရွှေ့ပါ သို့မဟုတ် လမ်းညွှန်ကို ပြောင်းပါ။"
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "ခေါင်းစီးတွင် ဖိုင်အမည်များကို ပြသပါ။ ရှည်လွန်းသော ဖိုင်အမည်များအတွက် အသုံးဝင်သည်။"
+
+msgid "Do you want change rights?\n"
+msgstr "အခွင့်အရေးများကို ပြောင်းလဲလိုပါသလား။\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "ဇာတ်ညွှန်းကို ကြည့်ရှုရန် သို့မဟုတ် လုပ်ဆောင်လိုပါသလား။\n"
+
+msgid "Edit"
+msgstr "တည်းဖြတ်ပါ။"
+
+msgid "Edit current line"
+msgstr "လက်ရှိလိုင်းကို တည်းဖြတ်ပါ။"
+
+msgid "Edit line"
+msgstr "စာကြောင်းကို တည်းဖြတ်ပါ။"
+
+msgid "Edit new file"
+msgstr "ဖိုင်အသစ်ကို တည်းဖြတ်ပါ။"
+
+msgid "Edit position is the line end"
+msgstr "Edit position သည် line end ဖြစ်သည်။"
+
+msgid "end title"
+msgstr "အဆုံးခေါင်းစဉ်"
+
+msgid "ends with..."
+msgstr "ဖြင့် အဆုံးသတ်သည်..."
+
+msgid "Enter multi-file selection mode"
+msgstr "ဖိုင်များစွာ ရွေးချယ်မှုမုဒ်ကို ထည့်သွင်းပါ။"
+
+msgid "Error"
+msgstr "အမှား"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "%s လမ်းညွှန်ကို ဖန်တီးရာတွင် အမှားအယွင်းရှိပါသည်:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "%s:\n%s ဖိုင်ဖန်တီးရာတွင် အမှားအယွင်းရှိသည်။"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "%s ကို %s နှင့် လင့်ခ်ချိတ်ရာတွင် အမှားအယွင်းရှိပါသည်-\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "%s ကို %s:\n%s သို့ အမည်ပြောင်းရာတွင် အမှားအယွင်းရှိသည်။"
+
+msgid "Error saving: %s"
+msgstr "သိမ်းဆည်းမှုအမှား- %s"
+
+msgid "Error..."
+msgstr "အမှား..."
+
+msgid "Execution finished!!"
+msgstr "ကွပ်မျက်မှုပြီးပါပြီ !!"
+
+msgid "Execution progress\n\n"
+msgstr "လုပ်ဆောင်မှု တိုးတက်မှု\n\n"
+
+msgid "Exit"
+msgstr "ထွက်ပေါက်"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "တည်းဖြတ်သူမှထွက်ပြီး အပြောင်းအလဲများရေးပါ (ရှိပါက)"
+
+msgid "Exit movie player?"
+msgstr "ရုပ်ရှင်ပလေယာမှ ထွက်မလား။"
+
+msgid "Exit picture viewer"
+msgstr "ရုပ်ပုံကြည့်ရှုသူမှ ထွက်ပါ။"
+
+msgid "Extract archive to %s?"
+msgstr "မှတ်တမ်းဟောင်းကို %s သို့ ထုတ်ယူမလား။"
+
+msgid "Extracting..."
+msgstr "ထုတ်ယူနေသည်..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "ဖိုင်ကို\n<သိုလှောင်ကိရိယာများစာရင်း> သို့မဟုတ် <လက်ခံသူ>တွင် ဖန်တီး၍မရပါ။\nကျေးဇူးပြု၍ လမ်းညွှန်ကိုပြောင်းပါ။"
+
+msgid "File checksums/hashes"
+msgstr "checksums/hashes ဖိုင်"
+
+msgid "File Commander"
+msgstr "File Commander"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "File Commander - Addon File-Viewer"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "File Commander - Addon File-Viewer ဆက်တင်များ"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "File Commander - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "File Commander - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander - ယေဘုယျအားဖြင့် archive handler"
+
+msgid "File Commander - gzip Addon"
+msgstr "File Commander - gzip Addon"
+
+msgid "File Commander - ipk Addon"
+msgstr "File Commander - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "File Commander - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "File Commander - unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "File Commander - Addon ကို ဇစ်ဖွင့်ပါ။"
+
+msgid "File not found: %s"
+msgstr "ဖိုင်မတွေ့ပါ- %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "စာသားအဖြစ် ဖွင့်ရန် ဖိုင်အလွန်ကြီးသည် (အများဆုံး 1MB)။"
+
+msgid "File too large to open as text."
+msgstr "စာသားအဖြစ် ဖွင့်ရန် ဖိုင်ကြီးလွန်းသည်။"
+
+msgid "File transfer was cancelled by user"
+msgstr "ဖိုင်လွှဲပြောင်းခြင်းကို အသုံးပြုသူမှ ပယ်ဖျက်ခဲ့သည်။"
+
+msgid "File/Directory Status Information"
+msgstr "ဖိုင်/လမ်းညွှန် အခြေအနေ အချက်အလက်"
+
+msgid "Filenames in header"
+msgstr "ခေါင်းစီးရှိ ဖိုင်အမည်များ"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Filter extension၊ (*) ခေါင်းစဉ်တွင် ပေါ်လာသည်။"
+
+msgid "Filter visible file classes by extension."
+msgstr "တိုးချဲ့မှုဖြင့် မြင်နိုင်သော ဖိုင်အတန်းများကို စစ်ထုတ်ပါ။"
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "ဒေတာဆုံးရှုံးမှု သို့မဟုတ် ပျက်စီးမှုအတွက်!!!"
+
+msgid "from dir"
+msgstr "dir မှ"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "မှတ်သားထားသော ဖိုင်တွဲသို့ သွားပါ။"
+
+msgid "Go to default directory"
+msgstr "မူရင်းလမ်းညွှန်သို့ သွားပါ။"
+
+msgid "Go to end of file"
+msgstr "ဖိုင်၏အဆုံးသို့သွားပါ။"
+
+msgid "Go to parent directory"
+msgstr "မိဘလမ်းညွှန်သို့သွားပါ။"
+
+msgid "Go to start of file"
+msgstr "ဖိုင်၏အစသို့သွားပါ။"
+
+msgid "Group:"
+msgstr "အဖွဲ့-"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "has been CHANGED! ၎င်းကို သိမ်းဆည်းလိုပါသလား။"
+
+msgid "Hide/Show"
+msgstr "ဖျောက်/ပြပါ။"
+
+msgid "I/O priority for script execution"
+msgstr "Script လုပ်ဆောင်မှုအတွက် I/O ဦးစားပေး"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "ဖိုင်တစ်ခုကို တည်းဖြတ်ပါက၊ အဆုံးတွင် သို့မဟုတ် စာကြောင်း၏အစတွင် ကာဆာစတင်မှုအနေအထားကို သင်သတ်မှတ်နိုင်သည်။"
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "ရွေးချယ်မှုအများအပြားမုဒ်တွင် အမှတ်အသားပြုပြီးနောက် ကာဆာကို နောက်အကြောင်းအရာသို့ ရွှေ့သည်။"
+
+msgid "Inode:"
+msgstr "Inode-"
+
+msgid "Insert"
+msgstr "ထည့်ပါ။"
+
+msgid "Insert line before current line"
+msgstr "လက်ရှိမျဉ်းရှေ့တွင် လိုင်းထည့်ပါ။"
+
+msgid "Install"
+msgstr "တပ်ဆင်ပါ။"
+
+msgid "install/unpack ipk Files"
+msgstr "ipk ဖိုင်များကို ထည့်သွင်း/ထုပ်ပိုးပါ။"
+
+msgid "Installing Plugin ..."
+msgstr "ပလပ်အင်ကို ထည့်သွင်းနေသည်..."
+
+msgid "Invert selection"
+msgstr "ရွေးချယ်မှုကို ပြောင်းပြန်လှန်ပါ။"
+
+msgid "Invert Selection"
+msgstr "ရွေးချယ်မှုကို ပြောင်းပြန်လှန်ပါ။"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "< Storage Devices များစာရင်း> တွင် hash များကို တွက်ချက်၍မရပါ။"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "<List of Storage Devices> ၏ ဖိုင်မုဒ်ကို ပြောင်းရန် မဖြစ်နိုင်ပါ။"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "<List of Storage Devices> ၏ ဖိုင်အခြေအနေကို ရယူရန် မဖြစ်နိုင်ပါ။"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "File Commander ထားခဲ့ပါ။"
+
+msgid "Leave multi-select mode"
+msgstr "Multi-select မုဒ်ကို ချန်ထားပါ။"
+
+msgid "Link target:"
+msgstr "လင့်ခ်ပစ်မှတ်-"
+
+msgid "Links:"
+msgstr "လင့်ခ်များ-"
+
+msgid "List of Storage Devices"
+msgstr "သိုလှောင်ကိရိယာများစာရင်း"
+
+msgid "Load"
+msgstr "ဝန်"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Extensions မီနူးမှ FileCommander ကို ဝင်သုံးနိုင်ပါစေ။"
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "ပင်မမီနူးမှ FileCommander ကို အသုံးပြုနိုင်ရန် ပြုလုပ်ပါ။"
+
+msgid "manage local Files"
+msgstr "ဒေသတွင်းဖိုင်များကို စီမံခန့်ခွဲပါ။"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "MENU"
+
+msgid "Menu..."
+msgstr "မီနူး..."
+
+msgid "Metadata changed:"
+msgstr "မက်တာဒေတာကို ပြောင်းထားသည်-"
+
+msgid "Mode %s (%04o)"
+msgstr "မုဒ် %s (%04o)"
+
+msgid "Modified:"
+msgstr "ပြင်ဆင်ထားသည်-"
+
+msgid "Move"
+msgstr "ရွှေ့ပါ။"
+
+msgid "Move down list"
+msgstr "အောက်စာရင်းကိုရွှေ့ပါ။"
+
+msgid "move file"
+msgstr "ဖိုင်ကိုရွှေ့ပါ။"
+
+msgid "Move file"
+msgstr "ဖိုင်ကိုရွှေ့ပါ။"
+
+msgid "Move file/directory to target directory"
+msgstr "ပစ်မှတ်လမ်းညွှန်သို့ ဖိုင်/လမ်းကြောင်းကို ရွှေ့ပါ။"
+
+msgid "Move files/directories to target directory"
+msgstr "ပစ်မှတ်လမ်းညွှန်သို့ ဖိုင်များ/လမ်းညွှန်များကို ရွှေ့ပါ။"
+
+msgid "move folder"
+msgstr "folder ကိုရွှေ့ပါ။"
+
+msgid "Move folder"
+msgstr "ဖိုင်တွဲကို ရွှေ့ပါ။"
+
+msgid "Move selector to next item"
+msgstr "ရွေးချယ်သူကို နောက်အကြောင်းအရာသို့ ရွှေ့ပါ။"
+
+msgid "Move selector to next item (on/off)"
+msgstr "ရွေးချယ်သူကို နောက်အကြောင်းအရာသို့ ရွှေ့ပါ (ဖွင့်/ပိတ်)"
+
+msgid "Move up list"
+msgstr "စာရင်းကို ရွှေ့ပါ။"
+
+msgid "Movie"
+msgstr "ရုပ်ရှင်"
+
+msgid "MultiSelection Settings"
+msgstr "MultiSelection ဆက်တင်များ"
+
+msgid "Music"
+msgstr "ဂီတ"
+
+msgid "My extension"
+msgstr "ကျွန်ုပ်၏တိုးချဲ့မှု"
+
+msgid "My Extension"
+msgstr "ကျွန်ုပ်၏ တိုးချဲ့မှု"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "နာမည်"
+
+msgid "Name reverse"
+msgstr "နာမည်ပြောင်းပြန်"
+
+msgid "New folder"
+msgstr "ဖိုင်တွဲအသစ်"
+
+msgid "New symlink"
+msgstr "သင်္ကေတအသစ်"
+
+msgid "new.txt"
+msgstr "new.txt"
+
+msgid "No"
+msgstr "မရှိ"
+
+msgid "No files found."
+msgstr "ဖိုင်မတွေ့ပါ။"
+
+msgid "No hash calculations configured"
+msgstr "hash တွက်ချက်မှုများကို ပြင်ဆင်သတ်မှတ်ထားခြင်းမရှိပါ။"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "hashs %s အတွက် hash ပရိုဂရမ်တစ်ခုမျှ မရနိုင်ပါ။"
+
+msgid "Not allowed with folders"
+msgstr "ဖိုင်တွဲများဖြင့် ခွင့်မပြုပါ။"
+
+msgid "nothing connected"
+msgstr "ဘာမှမချိတ်ဆက်ဘူး။"
+
+msgid "Number of lines in script messages"
+msgstr "Script မက်ဆေ့ချ်များတွင် လိုင်းအရေအတွက်"
+
+msgid "OK"
+msgstr "အိုကေ"
+
+msgid "On device:"
+msgstr "စက်ပေါ်တွင်-"
+
+msgid "Open"
+msgstr "ဖွင့်သည်။"
+
+msgid "Open actions menu"
+msgstr "လုပ်ဆောင်ချက်များမီနူးကိုဖွင့်ပါ။"
+
+msgid "Open settings/actions menu"
+msgstr "ဆက်တင်များ/လုပ်ဆောင်ချက်မီနူးကိုဖွင့်ပါ။"
+
+msgid "Open with File Commander"
+msgstr "File Commander ဖြင့်ဖွင့်ပါ။"
+
+msgid "or save the picture additionally to a file"
+msgstr "သို့မဟုတ် ဓာတ်ပုံကို ဖိုင်တစ်ခုတွင် ထပ်မံသိမ်းဆည်းပါ။"
+
+msgid "Original subtitles codepage"
+msgstr "မူရင်းစာတန်းထိုး ကုဒ်စာမျက်နှာ"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "UTF-8 သို့ ပြောင်းရန်အတွက် မူရင်းစာတန်းထိုး ကုဒ်စာမျက်နှာ။"
+
+msgid "Original:"
+msgstr "မူရင်း-"
+
+msgid "Owner:"
+msgstr "ပိုင်ရှင်-"
+
+msgid "Page down list"
+msgstr "စာမျက်နှာအောက်စာရင်း"
+
+msgid "Page up list"
+msgstr "စာမျက်နှာတက်စာရင်း"
+
+msgid "Parent Directory"
+msgstr "မိဘလမ်းညွှန်"
+
+msgid "Permissions:"
+msgstr "ခွင့်ပြုချက်များ-"
+
+msgid "Pictures"
+msgstr "ပုံတွေ"
+
+msgid "play Files"
+msgstr "Files ကိုဖွင့်ပါ။"
+
+msgid "Play folder"
+msgstr "ဖိုင်တွဲဖွင့်ပါ။"
+
+msgid "Play title"
+msgstr "ခေါင်းစဉ်ဖွင့်ပါ။"
+
+msgid "play/show Files"
+msgstr "ဖိုင်များကိုဖွင့်/ပြသပါ။"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Play/view/edit/install/extract/run ဖိုင် သို့မဟုတ် လမ်းညွှန်ရိုက်ထည့်ပါ။"
+
+msgid "Please enter file/folder name"
+msgstr "ကျေးဇူးပြု၍ ဖိုင်/ဖိုင်တွဲအမည်ကို ထည့်ပါ။"
+
+msgid "Please enter name of the new directory"
+msgstr "ကျေးဇူးပြု၍ လမ်းညွှန်အသစ်၏ အမည်ကို ထည့်ပါ။"
+
+msgid "Please enter name of the new symlink"
+msgstr "သင်္ကေတလင့်ခ်အသစ်၏ အမည်ကို ကျေးဇူးပြု၍ ထည့်သွင်းပါ။"
+
+msgid "Please enter password"
+msgstr "စကားဝှက်ထည့်ပါ။"
+
+msgid "Please enter the new directory name"
+msgstr "ကျေးဇူးပြု၍ လမ်းညွှန်အမည်အသစ်ကို ထည့်သွင်းပါ။"
+
+msgid "Please enter the new file name"
+msgstr "ကျေးဇူးပြု၍ ဖိုင်အမည်အသစ်ကို ထည့်သွင်းပါ။"
+
+msgid "Please wait, Loading image."
+msgstr "ခေတ္တစောင့်ပါ၊ ပုံကို တင်နေပါသည်။"
+
+msgid "Press OK or Exit to abort!"
+msgstr "ဖျက်ရန် OK သို့မဟုတ် Exit ကိုနှိပ်ပါ။"
+
+msgid "python"
+msgstr "စပါးအုံး"
+
+msgid "Records"
+msgstr "မှတ်တမ်းများ"
+
+msgid "Refresh screen"
+msgstr "မျက်နှာပြင်ကို ပြန်လည်စတင်ပါ။"
+
+msgid "Regular file"
+msgstr "ပုံမှန်ဖိုင်"
+
+msgid "Remove current folder from bookmarks"
+msgstr "လက်ရှိဖိုင်တွဲကို စာညှပ်များမှ ဖယ်ရှားပါ။"
+
+msgid "Remove from selection (%s)"
+msgstr "ရွေးချယ်မှုမှ ဖယ်ရှားပါ (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "ရွေးထားသောဖိုင်တွဲကို စာညှပ်များမှ ဖယ်ရှားပါ။"
+
+msgid "Rename"
+msgstr "အမည်ပြောင်းပါ။"
+
+msgid "Rename file"
+msgstr "ဖိုင်အမည်ပြောင်းပါ။"
+
+msgid "Rename file/directory"
+msgstr "ဖိုင်/လမ်းညွှန်ကို အမည်ပြောင်းပါ။"
+
+msgid "Restart"
+msgstr "ပြန်စတင်သည်"
+
+msgid "Reverse left file sorting"
+msgstr "ဘယ်ဘက် ဖိုင်ကို ပြောင်းပြန်စီခြင်း"
+
+msgid "Reverse right file sorting"
+msgstr "ဖိုင်ကို ညာဘက်ပြောင်းပြန်စီခြင်း"
+
+msgid "Run script"
+msgstr "ဇာတ်ညွှန်းကို ဖွင့်ပါ။"
+
+msgid "Run script in background"
+msgstr "နောက်ခံတွင် script ကိုဖွင့်ပါ။"
+
+msgid "Run script with optional parameter"
+msgstr "ရွေးချယ်နိုင်သော ကန့်သတ်ဘောင်ဖြင့် script ကိုဖွင့်ပါ။"
+
+msgid "Run script with optional parameter in background"
+msgstr "နောက်ခံတွင် ရွေးချယ်နိုင်သော ကန့်သတ်ဘောင်ဖြင့် ဇာတ်ညွှန်းကို ဖွင့်ပါ။"
+
+msgid "s"
+msgstr "၎"
+
+msgid "Save cursor position"
+msgstr "ကာဆာ အနေအထားကို သိမ်းဆည်းပါ။"
+
+msgid "Save cursor position in active panel."
+msgstr "လက်ရှိအကန့်တွင် ကာဆာရာထူးကို သိမ်းဆည်းပါ။"
+
+msgid "Save left folder on exit"
+msgstr "ထွက်ပေါက်တွင် ဘယ်ဘက်ဖိုင်တွဲကို သိမ်းဆည်းပါ။"
+
+msgid "Save right folder on exit"
+msgstr "ထွက်ပေါက်တွင် ညာဘက်ဖိုင်တွဲကို သိမ်းဆည်းပါ။"
+
+msgid "Save the left directory list location on exit."
+msgstr "ထွက်ပေါက်တွင် ဘယ်ဘက်လမ်းညွှန်စာရင်းတည်နေရာကို သိမ်းဆည်းပါ။"
+
+msgid "Save the right folder list location on exit."
+msgstr "ထွက်ပေါက်တွင် မှန်ကန်သော ဖိုင်တွဲစာရင်းတည်နေရာကို သိမ်းဆည်းပါ။"
+
+msgid "Search in group selection by"
+msgstr "အုပ်စုရွေးချယ်မှုတွင် ရှာဖွေပါ။"
+
+msgid "Search text"
+msgstr "စာသားကိုရှာပါ။"
+
+msgid "Search text (%s):"
+msgstr "စာသား (%s) ရှာရန်-"
+
+msgid "Search text in file (%s)."
+msgstr "ဖိုင် (%s) တွင် စာသားကို ရှာပါ။"
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "(ရင်းမြစ်စာရင်း) ကိုရွေးချယ်ပါ သို့မဟုတ် လမ်းညွှန်ရိုက်ထည့်ပါ (ပစ်မှတ်စာရင်း)"
+
+msgid "Select a path"
+msgstr "လမ်းကြောင်းတစ်ခုကို ရွေးပါ။"
+
+msgid "Select action:"
+msgstr "လုပ်ဆောင်ချက်ကို ရွေးပါ-"
+
+msgid "Select All"
+msgstr "အားလုံးကို ရွေးပါ။"
+
+msgid "Select group"
+msgstr "အဖွဲ့ကို ရွေးပါ။"
+
+msgid "Select group..."
+msgstr "အဖွဲ့ကို ရွေးပါ..."
+
+msgid "Select operation:"
+msgstr "လုပ်ဆောင်ချက်ကို ရွေးပါ-"
+
+msgid "Select your personal settings:"
+msgstr "သင်၏ကိုယ်ရေးကိုယ်တာဆက်တင်များကို ရွေးပါ-"
+
+msgid "Set archive mode (644)"
+msgstr "မှတ်တမ်းမုဒ်ကို သတ်မှတ်ပါ (644)"
+
+msgid "Set executable mode (755)"
+msgstr "အကောင်အထည်ဖော်နိုင်သောမုဒ်ကို သတ်မှတ်ပါ (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "ရှာဖွေခြင်းအတွက် စာလုံးအကြီးနှင့် အသေးကို ခွဲခြားရန် သတ်မှတ်သည်။"
+
+msgid "Settings"
+msgstr "ဆက်တင်များ"
+
+msgid "Settings..."
+msgstr "ဆက်တင်များ..."
+
+msgid "shell"
+msgstr "အခွံ"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "ပုံအဖြစ် ပြပါ (ပိတ်ရန် သော့ကို နှိပ်ပါ)"
+
+msgid "Show contents of ipk file"
+msgstr "ipk ဖိုင်၏အကြောင်းအရာများကိုပြသပါ။"
+
+msgid "Show contents of rar file"
+msgstr "rar ဖိုင်၏အကြောင်းအရာများကိုပြသပါ။"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "ကတ္တရာစေး သို့မဟုတ် ချုံ့ထားသော tar ဖိုင်၏ အကြောင်းအရာများကို ပြပါ။"
+
+msgid "Show contents of zip file"
+msgstr "ဇစ်ဖိုင်၏အကြောင်းအရာများကိုပြသပါ။"
+
+msgid "Show directories first"
+msgstr "လမ်းညွှန်များကို ဦးစွာပြသပါ။"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "အကန့်ရှိ ပထမ သို့မဟုတ် နောက်ဆုံး ရာထူးများတွင် လမ်းညွှန်များကို ပြပါ (အပြောင်းအလဲများကို အသုံးချရန် FileCommander ကို ပြန်လည်စတင်ရပါမည်)။"
+
+msgid "Show image information"
+msgstr "ပုံအချက်အလက်ပြပါ။"
+
+msgid "Show next picture"
+msgstr "နောက်ပုံပြပါ။"
+
+msgid "Show previous picture"
+msgstr "ယခင်ပုံကိုပြပါ။"
+
+msgid "Show Script completed message"
+msgstr "Script ပြီးသွားသော မက်ဆေ့ချ်ကို ပြပါ။"
+
+msgid "Show task list"
+msgstr "လုပ်ဆောင်စရာစာရင်းကို ပြပါ။"
+
+msgid "Show unknown extension as text"
+msgstr "အမည်မသိ extension ကို စာသားအဖြစ် ပြပါ။"
+
+msgid "Size"
+msgstr "အရွယ်အစား"
+
+msgid "Size reverse"
+msgstr "အရွယ်အစားပြောင်းပြန်"
+
+msgid "Size:"
+msgstr "အရွယ်အစား-"
+
+msgid "Socket"
+msgstr "ပလပ်ပေါက်"
+
+msgid "Sorting left files by name, date or size"
+msgstr "ဘယ်ဖိုင်များကို အမည်၊ ရက်စွဲ သို့မဟုတ် အရွယ်အစားဖြင့် စီရန်"
+
+msgid "Sorting right files by name, date or size"
+msgstr "အမည်၊ ရက်စွဲ သို့မဟုတ် အရွယ်အစားအလိုက် မှန်ကန်သောဖိုင်များကို စီခြင်း။"
+
+msgid "start title"
+msgstr "စတင်ခေါင်းစဉ်"
+
+msgid "Start/stop slide show"
+msgstr "စလိုက်ရှိုးကို စတင်/ရပ်ပါ။"
+
+msgid "starts with..."
+msgstr "ဖြင့်စတင်သည်..."
+
+msgid "Storage devices"
+msgstr "သိုလှောင်ကိရိယာများ"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "ဖိုင်ပြောင်းပြန်စီခြင်းအတွက် လဲလှယ်ခလုတ်များ"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "ချန်နယ် +/- ဖြင့် ညာဘက်/ဘယ်ဘက် ခလုတ်များကို လဲလှယ်ပါ သို့မဟုတ် ချန်နယ်ခလုတ်ကို အမြဲတမ်း ဘေးဘက်သို့ ပြောင်းထားသည်။"
+
+msgid "Symbolic link"
+msgstr "သင်္ကေတလင့်ခ်"
+
+msgid "Symlink to"
+msgstr "သင်္ကေတလင့်ခ်"
+
+msgid "Task list"
+msgstr "အလုပ်စာရင်း"
+
+msgid "TB"
+msgstr "တီဘီ"
+
+msgid "Text not found."
+msgstr "စာသားမတွေ့ပါ။"
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "စာလုံးအကြီးအသေး သို့မဟုတ် အသေးအမွှားအဖြစ် စာသားရှာဖွေခြင်း။"
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "စာရေးဆရာတွေက တာဝန်မယူဘူး။"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "File Commander ၏ Image Viewer အစိတ်အပိုင်းသည် PicturePlayer တိုးချဲ့မှု လိုအပ်သည်။ ဤလုပ်ဆောင်ချက်ကိုဖွင့်ရန် PicturePlayer ကို ထည့်သွင်းပါ။"
+
+msgid "This line is not editable!"
+msgstr "ဤစာကြောင်းကို ပြင်၍မရပါ။"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "ရုပ်ပုံကြည့်ရှုသူ ဆလိုက်ရှိုးရှိ ဆလိုက်များကြား အချိန်။"
+
+msgid "Time for Slideshow"
+msgstr "Slideshow အတွက် အချိန်"
+
+msgid "to dir"
+msgstr "dir"
+
+msgid "To next found text"
+msgstr "နောက်တွေ့တဲ့ စာသားအတွက်"
+
+msgid "To previous found text"
+msgstr "ယခင်တွေ့ရှိရသောစာသားသို့"
+
+msgid "Type the name for the new file"
+msgstr "ဖိုင်အသစ်အတွက် အမည်ကို ရိုက်ထည့်ပါ။"
+
+msgid "Type:"
+msgstr "အမျိုးအစား-"
+
+msgid "Unknown"
+msgstr "မသိ"
+
+msgid "Unknown file type. Open as text?"
+msgstr "အမည်မသိဖိုင်အမျိုးအစား။ စာသားအဖြစ် ဖွင့်မလား။"
+
+msgid "Unknown group: %d"
+msgstr "အမည်မသိအဖွဲ့- %d"
+
+msgid "Unknown user: %d"
+msgstr "အမည်မသိအသုံးပြုသူ- %d"
+
+msgid "unpack archives"
+msgstr "မော်ကွန်းတိုက်များကို ထုပ်ပိုးပါ။"
+
+msgid "unpack gzip Files"
+msgstr "gzip ဖိုင်များကို ဖြည်ပါ။"
+
+msgid "unpack Rar Files"
+msgstr "Rar ဖိုင်များကို ဖြည်ပါ။"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "ကတ္တရာစေး/ချုံ့ထားသော ကတ္တရာစေးဖိုင်များကို ထုပ်ပိုးပါ။"
+
+msgid "Unpack to %s"
+msgstr "%s သို့ ထုပ်ပိုးပါ။"
+
+msgid "Unpack to current folder"
+msgstr "လက်ရှိဖိုင်တွဲသို့ ထုပ်ပိုးလိုက်ပါ။"
+
+msgid "unpack zip Files"
+msgstr "ဇစ်ဖိုင်များကို ဖြည်ပါ။"
+
+msgid "Unsupported archive type."
+msgstr "ပံ့ပိုးမထားသော မှတ်တမ်းအမျိုးအစား။"
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "ဖိုင်ကိုကြည့်ရှုခြင်း သို့မဟုတ် တည်းဖြတ်ခြင်း (အရွယ်အစား < 1MB ဆိုလျှင်)"
+
+msgid "View or edit this %s script"
+msgstr "ဤ %s ဇာတ်ညွှန်းကို ကြည့်ရှု သို့မဟုတ် တည်းဖြတ်ပါ။"
+
+msgid "WARNING!"
+msgstr "သတိပေးချက်။"
+
+msgid "What do you want to play?\n"
+msgstr "ဘာကစားချင်လဲ။\n"
+
+msgid "without"
+msgstr "မပါဘဲ"
+
+msgid "Yes"
+msgstr "ဟုတ်ကဲ့"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "အဖွဲ့ရွေးချယ်မှုမှတစ်ဆင့် ပိုမိုလွယ်ကူစွာထည့်သွင်းနိုင်စေရန်အတွက် လက်ရှိဖိုင်အမည်၏အစမှ စာလုံးအရေအတွက်ကို virtual keyboard ထဲသို့ ကြိုတင်ဖြည့်သွင်းထားသည့်အတိုင်း သင်သတ်မှတ်နိုင်သည်။"
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "အဖွဲ့ရွေးချယ်မှုမှတစ်ဆင့် ပိုမိုလွယ်ကူစွာထည့်သွင်းနိုင်စေရန်အတွက် လက်ရှိဖိုင်အမည်၏အဆုံးမှ စာလုံးအရေအတွက်ကို virtual keyboard ထဲသို့ ကြိုတင်ဖြည့်သွင်းထားသည့်အတိုင်း သင်သတ်မှတ်နိုင်သည်။"
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "အဖွဲ့ရွေးချယ်ရာတွင် အသုံးပြုမည့်အရာကို သင်သတ်မှတ်နိုင်သည် - ခေါင်းစဉ်၏အစ၊ ခေါင်းစဉ်၏အဆုံး သို့မဟုတ် ခေါင်းစဉ်တွင်ပါရှိသည်။"
+

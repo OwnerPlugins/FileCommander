@@ -1,0 +1,1050 @@
+# ko translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ko <ekekaz@gmail.com>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- 파일이 존재합니다! 덮어쓰기"
+
+msgid "- folder exist! Overwrite"
+msgstr "- 폴더가 존재합니다! 덮어쓰기"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(선택 모드)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\n선택적 매개변수:\n%s"
+
+msgid "%d GB"
+msgstr "%dGB"
+
+msgid "%d kB"
+msgstr "%dKB"
+
+msgid "%d MB"
+msgstr "%dMB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%에스"
+
+msgid "%s - extraction errors."
+msgstr "%s - 추출 오류입니다."
+
+msgid "%s (%04o)"
+msgstr "%s(%04o)"
+
+msgid "%s (%s)"
+msgstr "%봄 여름 시즌)"
+
+msgid "%s is password protected."
+msgstr "%s은(는) 비밀번호로 보호되어 있습니다."
+
+msgid "%s successfully extracted."
+msgstr "%s이(가) 성공적으로 추출되었습니다."
+
+msgid "%s: %s"
+msgstr "%봄 여름 시즌"
+
+msgid "<Receiver>"
+msgstr "<수신자>"
+
+msgid "Accessed:"
+msgstr "액세스됨:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "다중 선택 소스로 왼쪽 파일 목록 활성화"
+
+msgid "Activate left-hand file list as source"
+msgstr "왼쪽 파일 목록을 소스로 활성화"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "다중 선택 소스로 오른쪽 파일 목록 활성화"
+
+msgid "Activate right-hand file list as source"
+msgstr "오른쪽 파일 목록을 소스로 활성화"
+
+msgid "Add current folder to bookmarks"
+msgstr "현재 폴더를 북마크에 추가"
+
+msgid "Add plugin to Extensions menu"
+msgstr "확장 메뉴에 플러그인 추가"
+
+msgid "Add plugin to main menu"
+msgstr "메인 메뉴에 플러그인 추가"
+
+msgid "Add selected folder to bookmarks"
+msgstr "선택한 폴더를 북마크에 추가"
+
+msgid "Add to selection (%s)"
+msgstr "선택 항목에 추가(%s)"
+
+msgid "All"
+msgstr "모두"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "선택한 동영상과 동일한 이름을 가진 디렉터리의 모든 파일도 복사되거나 이동됩니다."
+
+msgid "All movie extensions"
+msgstr "모든 영화 확장자"
+
+msgid "B"
+msgstr "비"
+
+msgid "Block device"
+msgstr "블록 장치"
+
+msgid "Calculate file checksums"
+msgstr "파일 체크섬 계산"
+
+msgid "Calculates file checksums."
+msgstr "파일 체크섬을 계산합니다."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "%s을(를) 실행할 수 없습니다: %s.\n%s이(가) 설치되지 않은 플러그인에 있을 수 있습니다."
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Cancel execution?"
+msgstr "실행을 취소하시겠습니까?"
+
+msgid "Cannot create target directory."
+msgstr "대상 디렉터리를 생성할 수 없습니다."
+
+msgid "Cannot open image. Open as text?"
+msgstr "이미지를 열 수 없습니다. 텍스트로 열까요?"
+
+msgid "Cannot play file."
+msgstr "파일을 재생할 수 없습니다."
+
+msgid "Cannot read file: %s"
+msgstr "파일을 읽을 수 없습니다: %s"
+
+msgid "case insensitive"
+msgstr "대소문자를 구분하지 않음"
+
+msgid "case sensitive"
+msgstr "대소문자 구분"
+
+msgid "Case sensitive search"
+msgstr "대소문자 구분 검색"
+
+msgid "Change buttons for list navigation"
+msgstr "목록 탐색 버튼 변경"
+
+msgid "Change execute permissions (755/644)"
+msgstr "실행 권한 변경(755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "채널 버튼은 항상 측면을 변경합니다"
+
+msgid "Character device"
+msgstr "캐릭터 디바이스"
+
+msgid "Close"
+msgstr "닫다"
+
+msgid "Compare case sensitive"
+msgstr "대소문자를 구분하여 비교"
+
+msgid "contains in title"
+msgstr "제목에 포함"
+
+msgid "contains..."
+msgstr "포함하다..."
+
+msgid "Content size:"
+msgstr "콘텐츠 크기:"
+
+msgid "Copy"
+msgstr "복사"
+
+msgid "copy file"
+msgstr "파일 복사"
+
+msgid "Copy file"
+msgstr "파일 복사"
+
+msgid "Copy file/directory to target directory"
+msgstr "파일/디렉토리를 대상 디렉토리로 복사"
+
+msgid "Copy files/directories to target directory"
+msgstr "파일/디렉터리를 대상 디렉터리에 복사"
+
+msgid "copy folder"
+msgstr "폴더 복사"
+
+msgid "Copy folder"
+msgstr "폴더 복사"
+
+msgid "Count directory content size"
+msgstr "디렉터리 콘텐츠 크기 계산"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "걷는 동안 디렉터리 콘텐츠 크기 계산(켜기/끄기)"
+
+msgid "CPU priority for script execution"
+msgstr "스크립트 실행을 위한 CPU 우선순위"
+
+msgid "Create directory"
+msgstr "디렉터리 생성"
+
+msgid "create symlink ..."
+msgstr "심볼릭 링크 생성 ..."
+
+msgid "Create symlink to file"
+msgstr "파일에 대한 심볼릭 링크 생성"
+
+msgid "Create user-named symbolic link"
+msgstr "사용자 이름의 심볼릭 링크 생성"
+
+msgid "d"
+msgstr "디"
+
+msgid "Date"
+msgstr "날짜"
+
+msgid "Date reverse"
+msgstr "날짜 반전"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "실행된 스크립트에 대한 기본 CPU 우선순위(nice)입니다. 이렇게 하면 스크립트가 시스템의 나머지 부분을 방해하지 않도록 부하를 줄일 수 있습니다. (값이 높을수록 우선순위가 낮음)"
+
+msgid "Default directory sorting"
+msgstr "기본 디렉토리 정렬"
+
+msgid "Default file sorting left"
+msgstr "기본 파일 정렬 왼쪽"
+
+msgid "Default file sorting right"
+msgstr "기본 파일 정렬 오른쪽"
+
+msgid "Default folder"
+msgstr "기본 폴더"
+
+msgid "Default Folder"
+msgstr "기본 폴더"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "실행된 스크립트에 대한 기본 I/O 우선순위(ionice)입니다. 이렇게 하면 스크립트가 시스템의 나머지 부분을 방해하지 않도록 부하를 줄일 수 있습니다. (값이 높을수록 우선순위가 낮음)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "두 패널의 디렉터리에 대한 기본 정렬 방법(변경 사항을 적용하려면 FileCommander를 다시 시작해야 함)"
+
+msgid "Default sorting method for files in left panel."
+msgstr "왼쪽 패널의 파일에 대한 기본 정렬 방법입니다."
+
+msgid "Default sorting method for files in right panel."
+msgstr "오른쪽 패널의 파일에 대한 기본 정렬 방법입니다."
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Delete current line"
+msgstr "현재 줄 삭제"
+
+msgid "Delete file"
+msgstr "파일 삭제"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "파일 또는 디렉터리(및 모든 내용) 삭제"
+
+msgid "Delete folder"
+msgstr "폴더 삭제"
+
+msgid "Delete the selected files or directories"
+msgstr "선택한 파일 또는 디렉터리 삭제"
+
+msgid "Deselect All"
+msgstr "모두 선택 취소"
+
+msgid "Deselect group"
+msgstr "그룹 선택 해제"
+
+msgid "Deselect group..."
+msgstr "그룹 선택 해제..."
+
+msgid "Directories to group selections"
+msgstr "그룹 선택 디렉토리"
+
+msgid "Directory"
+msgstr "예배 규칙서"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "디렉터리는 여기서\n<저장 장치 목록> 또는 <수신기>에 생성될 수 없습니다.\n선택기를 한 줄 아래로 이동하거나 디렉터리를 변경하십시오."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "헤더에 파일 이름을 표시합니다. 파일 이름이 너무 긴 경우에 유용합니다."
+
+msgid "Do you want change rights?\n"
+msgstr "변경 권한을 원하십니까?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "스크립트를 보거나 실행하시겠습니까?\n"
+
+msgid "Edit"
+msgstr "편집하다"
+
+msgid "Edit current line"
+msgstr "현재 줄 편집"
+
+msgid "Edit line"
+msgstr "라인 편집"
+
+msgid "Edit new file"
+msgstr "새 파일 편집"
+
+msgid "Edit position is the line end"
+msgstr "편집 위치는 줄 끝입니다."
+
+msgid "end title"
+msgstr "끝 제목"
+
+msgid "ends with..."
+msgstr "다음으로 끝납니다..."
+
+msgid "Enter multi-file selection mode"
+msgstr "다중 파일 선택 모드로 전환"
+
+msgid "Error"
+msgstr "오류"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "%s 디렉토리를 생성하는 동안 오류가 발생했습니다.\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "%s 파일을 생성하는 동안 오류가 발생했습니다.\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "%s을(를) %s에 연결하는 동안 오류가 발생했습니다.\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "%s 이름을 %s(으)로 바꾸는 동안 오류가 발생했습니다.\n%s"
+
+msgid "Error saving: %s"
+msgstr "저장 오류: %s"
+
+msgid "Error..."
+msgstr "오류..."
+
+msgid "Execution finished!!"
+msgstr "실행완료!!"
+
+msgid "Execution progress\n\n"
+msgstr "실행 진행 중\n\n"
+
+msgid "Exit"
+msgstr "출구"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "편집기를 종료하고 변경사항 쓰기(있는 경우)"
+
+msgid "Exit movie player?"
+msgstr "영화 플레이어를 종료하시겠습니까?"
+
+msgid "Exit picture viewer"
+msgstr "사진 뷰어 종료"
+
+msgid "Extract archive to %s?"
+msgstr "아카이브를 %s에 추출하시겠습니까?"
+
+msgid "Extracting..."
+msgstr "적출..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "<저장 장치 목록> 또는 <수신기>에서\n파일을 생성할 수 없습니다.\n디렉터리를 변경하십시오."
+
+msgid "File checksums/hashes"
+msgstr "파일 체크섬/해시"
+
+msgid "File Commander"
+msgstr "파일 커맨더"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "파일 사령관 - 애드온 파일 뷰어"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "File Commander - 애드온 파일 뷰어 설정"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "파일 커맨더 - 애드온 Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "파일 커맨더 - 애드온 Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "파일 사령관 - 일반화된 아카이브 처리기"
+
+msgid "File Commander - gzip Addon"
+msgstr "파일 사령관 - gzip 애드온"
+
+msgid "File Commander - ipk Addon"
+msgstr "파일 커맨더 - ipk 애드온"
+
+msgid "File Commander - tar Addon"
+msgstr "파일 커맨더 - tar 애드온"
+
+msgid "File Commander - unrar Addon"
+msgstr "파일 커맨더 - unrar 애드온"
+
+msgid "File Commander - unzip Addon"
+msgstr "파일 커맨더 - 압축 풀기 애드온"
+
+msgid "File not found: %s"
+msgstr "파일을 찾을 수 없습니다: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "파일이 너무 커서 텍스트로 열 수 없습니다(최대 1MB)."
+
+msgid "File too large to open as text."
+msgstr "파일이 너무 커서 텍스트로 열 수 없습니다."
+
+msgid "File transfer was cancelled by user"
+msgstr "사용자가 파일 전송을 취소했습니다."
+
+msgid "File/Directory Status Information"
+msgstr "파일/디렉터리 상태 정보"
+
+msgid "Filenames in header"
+msgstr "헤더의 파일 이름"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "필터 확장자(*)가 제목에 표시됩니다."
+
+msgid "Filter visible file classes by extension."
+msgstr "확장자별로 표시되는 파일 클래스를 필터링합니다."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "데이터 손실 또는 손상의 경우 !!!"
+
+msgid "from dir"
+msgstr "디렉토리에서"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "북마크한 폴더로 이동"
+
+msgid "Go to default directory"
+msgstr "기본 디렉터리로 이동"
+
+msgid "Go to end of file"
+msgstr "파일 끝으로 이동"
+
+msgid "Go to parent directory"
+msgstr "상위 디렉토리로 이동"
+
+msgid "Go to start of file"
+msgstr "파일의 시작으로 이동"
+
+msgid "Group:"
+msgstr "그룹:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "변경되었습니다! 저장하시겠습니까?"
+
+msgid "Hide/Show"
+msgstr "숨기기/보이기"
+
+msgid "I/O priority for script execution"
+msgstr "스크립트 실행을 위한 I/O 우선순위"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "파일을 편집하는 경우 커서 시작 위치를 줄 끝이나 시작 부분으로 설정할 수 있습니다."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "다중 선택 모드에서는 표시 후 커서를 다음 항목으로 이동합니다."
+
+msgid "Inode:"
+msgstr "아이노드:"
+
+msgid "Insert"
+msgstr "끼워 넣다"
+
+msgid "Insert line before current line"
+msgstr "현재 줄 앞에 줄 삽입"
+
+msgid "Install"
+msgstr "설치하다"
+
+msgid "install/unpack ipk Files"
+msgstr "ipk 파일 설치/압축 풀기"
+
+msgid "Installing Plugin ..."
+msgstr "플러그인 설치 중..."
+
+msgid "Invert selection"
+msgstr "선택 반전"
+
+msgid "Invert Selection"
+msgstr "선택 반전"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "<저장 장치 목록>에서는 해시를 계산할 수 없습니다."
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "<저장장치 목록>의 파일 모드는 변경할 수 없습니다."
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "<저장장치 목록>의 파일 상태를 가져올 수 없습니다."
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "파일 사령관 나가기"
+
+msgid "Leave multi-select mode"
+msgstr "다중 선택 모드 종료"
+
+msgid "Link target:"
+msgstr "링크 대상:"
+
+msgid "Links:"
+msgstr "모래밭:"
+
+msgid "List of Storage Devices"
+msgstr "저장 장치 목록"
+
+msgid "Load"
+msgstr "짐"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "확장 메뉴에서 FileCommander에 액세스할 수 있도록 합니다."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "FileCommander를 메인 메뉴에서 접근 가능하게 만드세요."
+
+msgid "manage local Files"
+msgstr "로컬 파일 관리"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "메뉴"
+
+msgid "Menu..."
+msgstr "메뉴..."
+
+msgid "Metadata changed:"
+msgstr "메타데이터가 변경되었습니다:"
+
+msgid "Mode %s (%04o)"
+msgstr "모드 %s(%04o)"
+
+msgid "Modified:"
+msgstr "수정됨:"
+
+msgid "Move"
+msgstr "이동하다"
+
+msgid "Move down list"
+msgstr "목록 아래로 이동"
+
+msgid "move file"
+msgstr "파일 이동"
+
+msgid "Move file"
+msgstr "파일 이동"
+
+msgid "Move file/directory to target directory"
+msgstr "파일/디렉터리를 대상 디렉터리로 이동"
+
+msgid "Move files/directories to target directory"
+msgstr "파일/디렉터리를 대상 디렉터리로 이동"
+
+msgid "move folder"
+msgstr "폴더 이동"
+
+msgid "Move folder"
+msgstr "폴더 이동"
+
+msgid "Move selector to next item"
+msgstr "선택기를 다음 항목으로 이동"
+
+msgid "Move selector to next item (on/off)"
+msgstr "선택기를 다음 항목으로 이동(켜기/끄기)"
+
+msgid "Move up list"
+msgstr "목록 위로 이동"
+
+msgid "Movie"
+msgstr "영화"
+
+msgid "MultiSelection Settings"
+msgstr "다중 선택 설정"
+
+msgid "Music"
+msgstr "음악"
+
+msgid "My extension"
+msgstr "내 확장 프로그램"
+
+msgid "My Extension"
+msgstr "내 확장 프로그램"
+
+msgid "n"
+msgstr "N"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Name reverse"
+msgstr "이름 반전"
+
+msgid "New folder"
+msgstr "새 폴더"
+
+msgid "New symlink"
+msgstr "새로운 심볼릭 링크"
+
+msgid "new.txt"
+msgstr "new.txt"
+
+msgid "No"
+msgstr "아니요"
+
+msgid "No files found."
+msgstr "파일을 찾을 수 없습니다."
+
+msgid "No hash calculations configured"
+msgstr "구성된 해시 계산이 없습니다."
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "해시 %s에 대한 해시 프로그램을 사용할 수 없습니다."
+
+msgid "Not allowed with folders"
+msgstr "폴더에는 허용되지 않음"
+
+msgid "nothing connected"
+msgstr "연결된 게 하나도 없어"
+
+msgid "Number of lines in script messages"
+msgstr "스크립트 메시지의 줄 수"
+
+msgid "OK"
+msgstr "좋아요"
+
+msgid "On device:"
+msgstr "기기에서:"
+
+msgid "Open"
+msgstr "열려 있는"
+
+msgid "Open actions menu"
+msgstr "작업 메뉴 열기"
+
+msgid "Open settings/actions menu"
+msgstr "설정/작업 메뉴 열기"
+
+msgid "Open with File Commander"
+msgstr "파일 커맨더로 열기"
+
+msgid "or save the picture additionally to a file"
+msgstr "또는 사진을 파일에 추가로 저장"
+
+msgid "Original subtitles codepage"
+msgstr "원본 자막 코드페이지"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "UTF-8로 변환하기 위한 원본 자막 코드페이지입니다."
+
+msgid "Original:"
+msgstr "원래의:"
+
+msgid "Owner:"
+msgstr "소유자:"
+
+msgid "Page down list"
+msgstr "페이지다운 목록"
+
+msgid "Page up list"
+msgstr "페이지 업 목록"
+
+msgid "Parent Directory"
+msgstr "부모 디렉토리"
+
+msgid "Permissions:"
+msgstr "권한:"
+
+msgid "Pictures"
+msgstr "영화"
+
+msgid "play Files"
+msgstr "파일 재생"
+
+msgid "Play folder"
+msgstr "플레이 폴더"
+
+msgid "Play title"
+msgstr "타이틀 재생"
+
+msgid "play/show Files"
+msgstr "파일 재생/표시"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "파일 재생/보기/편집/설치/추출/실행 또는 디렉토리 입력"
+
+msgid "Please enter file/folder name"
+msgstr "파일/폴더 이름을 입력하세요."
+
+msgid "Please enter name of the new directory"
+msgstr "새 디렉터리의 이름을 입력하세요."
+
+msgid "Please enter name of the new symlink"
+msgstr "새 심볼릭 링크의 이름을 입력하세요."
+
+msgid "Please enter password"
+msgstr "비밀번호를 입력해주세요"
+
+msgid "Please enter the new directory name"
+msgstr "새 디렉터리 이름을 입력하세요."
+
+msgid "Please enter the new file name"
+msgstr "새 파일 이름을 입력하세요."
+
+msgid "Please wait, Loading image."
+msgstr "잠시 기다려 주십시오. 이미지를 로드하는 중입니다."
+
+msgid "Press OK or Exit to abort!"
+msgstr "중단하려면 확인 또는 종료를 누르세요!"
+
+msgid "python"
+msgstr "파이썬"
+
+msgid "Records"
+msgstr "기록"
+
+msgid "Refresh screen"
+msgstr "화면 새로 고침"
+
+msgid "Regular file"
+msgstr "일반 파일"
+
+msgid "Remove current folder from bookmarks"
+msgstr "북마크에서 현재 폴더 제거"
+
+msgid "Remove from selection (%s)"
+msgstr "선택 항목에서 제거(%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "북마크에서 선택한 폴더 제거"
+
+msgid "Rename"
+msgstr "이름 바꾸기"
+
+msgid "Rename file"
+msgstr "파일 이름 바꾸기"
+
+msgid "Rename file/directory"
+msgstr "파일/디렉토리 이름 바꾸기"
+
+msgid "Restart"
+msgstr "다시 시작"
+
+msgid "Reverse left file sorting"
+msgstr "역방향 왼쪽 파일 정렬"
+
+msgid "Reverse right file sorting"
+msgstr "역방향 파일 정렬"
+
+msgid "Run script"
+msgstr "스크립트 실행"
+
+msgid "Run script in background"
+msgstr "백그라운드에서 스크립트 실행"
+
+msgid "Run script with optional parameter"
+msgstr "선택적 매개변수를 사용하여 스크립트 실행"
+
+msgid "Run script with optional parameter in background"
+msgstr "백그라운드에서 선택적 매개변수를 사용하여 스크립트 실행"
+
+msgid "s"
+msgstr "에스"
+
+msgid "Save cursor position"
+msgstr "커서 위치 저장"
+
+msgid "Save cursor position in active panel."
+msgstr "활성 패널에 커서 위치를 저장합니다."
+
+msgid "Save left folder on exit"
+msgstr "종료 시 왼쪽 폴더 저장"
+
+msgid "Save right folder on exit"
+msgstr "종료시 오른쪽 폴더 저장"
+
+msgid "Save the left directory list location on exit."
+msgstr "종료 시 왼쪽 디렉터리 목록 위치를 저장합니다."
+
+msgid "Save the right folder list location on exit."
+msgstr "종료 시 올바른 폴더 목록 위치를 저장합니다."
+
+msgid "Search in group selection by"
+msgstr "그룹 선택에서 검색:"
+
+msgid "Search text"
+msgstr "텍스트 검색"
+
+msgid "Search text (%s):"
+msgstr "검색 텍스트(%s):"
+
+msgid "Search text in file (%s)."
+msgstr "파일(%s)에서 텍스트를 검색합니다."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "(소스 목록) 선택 또는 디렉터리 입력(대상 목록)"
+
+msgid "Select a path"
+msgstr "경로 선택"
+
+msgid "Select action:"
+msgstr "작업 선택:"
+
+msgid "Select All"
+msgstr "모두 선택"
+
+msgid "Select group"
+msgstr "그룹 선택"
+
+msgid "Select group..."
+msgstr "그룹 선택..."
+
+msgid "Select operation:"
+msgstr "작업 선택:"
+
+msgid "Select your personal settings:"
+msgstr "개인 설정을 선택하세요:"
+
+msgid "Set archive mode (644)"
+msgstr "보관 모드 설정(644)"
+
+msgid "Set executable mode (755)"
+msgstr "실행 모드 설정(755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "검색 시 대문자와 소문자를 구분할지 여부를 설정합니다."
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Settings..."
+msgstr "설정..."
+
+msgid "shell"
+msgstr "껍데기"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "그림으로 표시(닫으려면 아무 키나 누르세요)"
+
+msgid "Show contents of ipk file"
+msgstr "ipk 파일의 내용 표시"
+
+msgid "Show contents of rar file"
+msgstr "rar 파일의 내용 표시"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "tar 또는 압축된 tar 파일의 내용 표시"
+
+msgid "Show contents of zip file"
+msgstr "zip 파일의 내용 표시"
+
+msgid "Show directories first"
+msgstr "디렉토리를 먼저 표시"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "패널의 첫 번째 또는 마지막 위치에 디렉터리를 표시합니다(변경 사항을 적용하려면 FileCommander를 다시 시작해야 함)."
+
+msgid "Show image information"
+msgstr "이미지 정보 표시"
+
+msgid "Show next picture"
+msgstr "다음 사진 보기"
+
+msgid "Show previous picture"
+msgstr "이전 사진 표시"
+
+msgid "Show Script completed message"
+msgstr "스크립트 완료 메시지 표시"
+
+msgid "Show task list"
+msgstr "작업 목록 표시"
+
+msgid "Show unknown extension as text"
+msgstr "알 수 없는 확장자를 텍스트로 표시"
+
+msgid "Size"
+msgstr "크기"
+
+msgid "Size reverse"
+msgstr "사이즈 반전"
+
+msgid "Size:"
+msgstr "크기:"
+
+msgid "Socket"
+msgstr "소켓"
+
+msgid "Sorting left files by name, date or size"
+msgstr "이름, 날짜 또는 크기별로 왼쪽 파일 정렬"
+
+msgid "Sorting right files by name, date or size"
+msgstr "이름, 날짜 또는 크기별로 올바른 파일 정렬"
+
+msgid "start title"
+msgstr "제목 시작"
+
+msgid "Start/stop slide show"
+msgstr "슬라이드 쇼 시작/중지"
+
+msgid "starts with..."
+msgstr "다음으로 시작합니다..."
+
+msgid "Storage devices"
+msgstr "저장 장치"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "역방향 파일 정렬을 위한 교체 버튼"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "버튼을 오른쪽/왼쪽으로 채널 +/-로 바꾸거나 채널 버튼이 항상 측면으로 변경됩니다."
+
+msgid "Symbolic link"
+msgstr "심볼릭 링크"
+
+msgid "Symlink to"
+msgstr "심볼릭 링크"
+
+msgid "Task list"
+msgstr "작업 목록"
+
+msgid "TB"
+msgstr "결핵"
+
+msgid "Text not found."
+msgstr "텍스트를 찾을 수 없습니다."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "대소문자를 구분하거나 구분하지 않고 텍스트를 검색합니다."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "저자는 책임이 없습니다"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "File Commander의 이미지 뷰어 구성 요소에는 PicturePlayer 확장이 필요합니다. 이 작업을 활성화하려면 PicturePlayer를 설치하세요."
+
+msgid "This line is not editable!"
+msgstr "이 줄은 편집할 수 없습니다!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "이미지 뷰어 슬라이드쇼의 슬라이드 사이의 시간입니다."
+
+msgid "Time for Slideshow"
+msgstr "슬라이드쇼 시간"
+
+msgid "to dir"
+msgstr "dir에"
+
+msgid "To next found text"
+msgstr "다음에 찾은 텍스트로"
+
+msgid "To previous found text"
+msgstr "이전에 찾은 텍스트로"
+
+msgid "Type the name for the new file"
+msgstr "새 파일의 이름을 입력하세요."
+
+msgid "Type:"
+msgstr "유형:"
+
+msgid "Unknown"
+msgstr "알려지지 않은"
+
+msgid "Unknown file type. Open as text?"
+msgstr "알 수 없는 파일 형식입니다. 텍스트로 열까요?"
+
+msgid "Unknown group: %d"
+msgstr "알 수 없는 그룹: %d"
+
+msgid "Unknown user: %d"
+msgstr "알 수 없는 사용자: %d"
+
+msgid "unpack archives"
+msgstr "아카이브 압축 풀기"
+
+msgid "unpack gzip Files"
+msgstr "gzip 파일 압축 풀기"
+
+msgid "unpack Rar Files"
+msgstr "RAR 파일 압축 풀기"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "tar/압축된 tar 파일 압축 풀기"
+
+msgid "Unpack to %s"
+msgstr "%s에 압축 풀기"
+
+msgid "Unpack to current folder"
+msgstr "현재 폴더에 압축 풀기"
+
+msgid "unpack zip Files"
+msgstr "zip 파일 압축 풀기"
+
+msgid "Unsupported archive type."
+msgstr "지원되지 않는 아카이브 유형입니다."
+
+msgid "v"
+msgstr "다섯"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "파일 보기 또는 편집(크기가 1MB 미만인 경우)"
+
+msgid "View or edit this %s script"
+msgstr "이 %s 스크립트 보기 또는 편집"
+
+msgid "WARNING!"
+msgstr "경고!"
+
+msgid "What do you want to play?\n"
+msgstr "무엇을 플레이하고 싶으신가요?\n"
+
+msgid "without"
+msgstr "없이"
+
+msgid "Yes"
+msgstr "예"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "그룹 선택을 통해 보다 쉽게 ​​입력할 수 있도록 가상 키보드에 텍스트가 미리 채워지도록 현재 파일 이름의 시작 부분부터 문자 수를 설정할 수 있습니다."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "그룹 선택을 통해 보다 쉽게 ​​입력할 수 있도록 가상 키보드에 텍스트가 미리 채워지도록 현재 파일 이름 끝부터 문자 수를 설정할 수 있습니다."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "그룹 선택에서 사용할 항목(제목 시작, 제목 끝 또는 제목에 포함)을 설정할 수 있습니다."
+

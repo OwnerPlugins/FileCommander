@@ -634,9 +634,6 @@ msgstr ""
 msgid "No hash calculations configured"
 msgstr ""
 
-msgid "No image viewer available."
-msgstr ""
-
 msgid "None of the hash programs for the hashes %s are available"
 msgstr ""
 

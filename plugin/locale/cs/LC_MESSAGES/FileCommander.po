@@ -1,0 +1,1050 @@
+# cs translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: cs <ekekaz@gmail.com>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- soubor existuje! Přepsat"
+
+msgid "- folder exist! Overwrite"
+msgstr "- složka existuje! Přepsat"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Výběr režimu)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\nvolitelný parametr:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - chyby extrakce."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s je chráněn heslem."
+
+msgid "%s successfully extracted."
+msgstr "%s úspěšně extrahováno."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Přijímač>"
+
+msgid "Accessed:"
+msgstr "Přístup:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Aktivujte levý seznam souborů jako zdroj s vícenásobným výběrem"
+
+msgid "Activate left-hand file list as source"
+msgstr "Aktivujte levý seznam souborů jako zdroj"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Aktivujte seznam souborů na pravé straně jako zdroj s vícenásobným výběrem"
+
+msgid "Activate right-hand file list as source"
+msgstr "Aktivujte pravý seznam souborů jako zdroj"
+
+msgid "Add current folder to bookmarks"
+msgstr "Přidat aktuální složku do záložek"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Přidejte plugin do nabídky Rozšíření"
+
+msgid "Add plugin to main menu"
+msgstr "Přidejte plugin do hlavní nabídky"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Přidat vybranou složku do záložek"
+
+msgid "Add to selection (%s)"
+msgstr "Přidat do výběru (%s)"
+
+msgid "All"
+msgstr "Vše"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Všechny soubory v adresáři se stejným názvem jako vybraný film budou také zkopírovány nebo přesunuty."
+
+msgid "All movie extensions"
+msgstr "Všechna filmová rozšíření"
+
+msgid "B"
+msgstr "B"
+
+msgid "Block device"
+msgstr "Blokovat zařízení"
+
+msgid "Calculate file checksums"
+msgstr "Vypočítat kontrolní součty souborů"
+
+msgid "Calculates file checksums."
+msgstr "Vypočítá kontrolní součty souborů."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "Nelze spustit %s: %s.\n%s může být v pluginu, který není nainstalován."
+
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgid "Cancel execution?"
+msgstr "Zrušit provedení?"
+
+msgid "Cannot create target directory."
+msgstr "Nelze vytvořit cílový adresář."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Obrázek nelze otevřít. Otevřít jako text?"
+
+msgid "Cannot play file."
+msgstr "Nelze přehrát soubor."
+
+msgid "Cannot read file: %s"
+msgstr "Nelze číst soubor: %s"
+
+msgid "case insensitive"
+msgstr "nerozlišuje malá a velká písmena"
+
+msgid "case sensitive"
+msgstr "rozlišují velká a malá písmena"
+
+msgid "Case sensitive search"
+msgstr "Vyhledávání rozlišující malá a velká písmena"
+
+msgid "Change buttons for list navigation"
+msgstr "Změnit tlačítka pro navigaci v seznamu"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Změnit oprávnění ke spuštění (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Tlačítko kanálu vždy mění strany"
+
+msgid "Character device"
+msgstr "Charakter zařízení"
+
+msgid "Close"
+msgstr "Blízko"
+
+msgid "Compare case sensitive"
+msgstr "Porovnejte malá a velká písmena"
+
+msgid "contains in title"
+msgstr "obsahuje v názvu"
+
+msgid "contains..."
+msgstr "obsahuje..."
+
+msgid "Content size:"
+msgstr "Velikost obsahu:"
+
+msgid "Copy"
+msgstr "Kopie"
+
+msgid "copy file"
+msgstr "kopírovat soubor"
+
+msgid "Copy file"
+msgstr "Zkopírujte soubor"
+
+msgid "Copy file/directory to target directory"
+msgstr "Zkopírujte soubor/adresář do cílového adresáře"
+
+msgid "Copy files/directories to target directory"
+msgstr "Zkopírujte soubory/adresáře do cílového adresáře"
+
+msgid "copy folder"
+msgstr "kopírovat složku"
+
+msgid "Copy folder"
+msgstr "Kopírovat složku"
+
+msgid "Count directory content size"
+msgstr "Spočítat velikost obsahu adresáře"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Počítání velikosti obsahu adresáře při chůzi (zapnuto/vypnuto)"
+
+msgid "CPU priority for script execution"
+msgstr "Priorita CPU pro provádění skriptu"
+
+msgid "Create directory"
+msgstr "Vytvořit adresář"
+
+msgid "create symlink ..."
+msgstr "vytvořit symbolický odkaz..."
+
+msgid "Create symlink to file"
+msgstr "Vytvořte symbolický odkaz na soubor"
+
+msgid "Create user-named symbolic link"
+msgstr "Vytvořte symbolický odkaz pojmenovaný uživatelem"
+
+msgid "d"
+msgstr "d"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Date reverse"
+msgstr "Datum obráceně"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Výchozí priorita CPU (pěkné) pro prováděné skripty. To může snížit zatížení, aby skripty nezasahovaly do zbytku systému. (vyšší hodnoty = nižší priorita)"
+
+msgid "Default directory sorting"
+msgstr "Výchozí řazení adresářů"
+
+msgid "Default file sorting left"
+msgstr "Výchozí řazení souborů vlevo"
+
+msgid "Default file sorting right"
+msgstr "Výchozí právo na třídění souborů"
+
+msgid "Default folder"
+msgstr "Výchozí složka"
+
+msgid "Default Folder"
+msgstr "Výchozí složka"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Výchozí priorita I/O (ionice) pro prováděné skripty. To může snížit zatížení, aby skripty nezasahovaly do zbytku systému. (vyšší hodnoty = nižší priorita)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Výchozí způsob řazení pro adresáře v obou panelech (pro použití změn je nutné restartovat FileCommander)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Výchozí způsob řazení souborů v levém panelu."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Výchozí způsob řazení souborů v pravém panelu."
+
+msgid "Delete"
+msgstr "Vymazat"
+
+msgid "Delete current line"
+msgstr "Smazat aktuální řádek"
+
+msgid "Delete file"
+msgstr "Smazat soubor"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Smazat soubor nebo adresář (a veškerý jeho obsah)"
+
+msgid "Delete folder"
+msgstr "Smazat složku"
+
+msgid "Delete the selected files or directories"
+msgstr "Odstraňte vybrané soubory nebo adresáře"
+
+msgid "Deselect All"
+msgstr "Zrušte výběr všech"
+
+msgid "Deselect group"
+msgstr "Zrušte výběr skupiny"
+
+msgid "Deselect group..."
+msgstr "Zrušit výběr skupiny..."
+
+msgid "Directories to group selections"
+msgstr "Adresáře do skupinových výběrů"
+
+msgid "Directory"
+msgstr "Adresář"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Adresář zde nelze vytvořit na\n<Seznam úložných zařízení> nebo <Přijímač>.\nPřesuňte volič o řádek níže nebo změňte adresář."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Zobrazit názvy souborů v záhlaví. To je užitečné pro názvy souborů, které jsou příliš dlouhé."
+
+msgid "Do you want change rights?\n"
+msgstr "Chcete změnit práva?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Chcete skript zobrazit nebo spustit?\n"
+
+msgid "Edit"
+msgstr "Upravit"
+
+msgid "Edit current line"
+msgstr "Upravit aktuální řádek"
+
+msgid "Edit line"
+msgstr "Upravit řádek"
+
+msgid "Edit new file"
+msgstr "Upravit nový soubor"
+
+msgid "Edit position is the line end"
+msgstr "Pozice úpravy je konec řádku"
+
+msgid "end title"
+msgstr "koncový titulek"
+
+msgid "ends with..."
+msgstr "končí s..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Vstupte do režimu výběru více souborů"
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Chyba při vytváření adresáře %s:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Chyba při vytváření souboru %s:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Chyba při propojování %s s %s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Chyba při přejmenování %s na %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Chyba při ukládání: %s"
+
+msgid "Error..."
+msgstr "Chyba..."
+
+msgid "Execution finished!!"
+msgstr "Provedení dokončeno!!"
+
+msgid "Execution progress\n\n"
+msgstr "Průběh provádění\n\n"
+
+msgid "Exit"
+msgstr "Výstup"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Ukončete editor a zapište změny (pokud existují)"
+
+msgid "Exit movie player?"
+msgstr "Ukončit přehrávač filmů?"
+
+msgid "Exit picture viewer"
+msgstr "Ukončete prohlížeč obrázků"
+
+msgid "Extract archive to %s?"
+msgstr "Extrahovat archiv do %s?"
+
+msgid "Extracting..."
+msgstr "Extrakce..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Soubor nelze vytvořit na\n<Seznam úložných zařízení> nebo <Přijímač>.\nZměňte prosím adresář."
+
+msgid "File checksums/hashes"
+msgstr "Soubor kontrolních součtů/hash"
+
+msgid "File Commander"
+msgstr "File Commander"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "File Commander - Addon File-Viewer"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "File Commander - Addon File-Viewer Settings"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "File Commander - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "File Commander - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander - zobecněná obsluha archivu"
+
+msgid "File Commander - gzip Addon"
+msgstr "File Commander - gzip Addon"
+
+msgid "File Commander - ipk Addon"
+msgstr "File Commander - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "File Commander - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "File Commander - unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "File Commander – rozbalte doplněk"
+
+msgid "File not found: %s"
+msgstr "Soubor nenalezen: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Soubor je příliš velký pro otevření jako text (max. 1 MB)."
+
+msgid "File too large to open as text."
+msgstr "Soubor je příliš velký a nelze jej otevřít jako text."
+
+msgid "File transfer was cancelled by user"
+msgstr "Přenos souboru byl zrušen uživatelem"
+
+msgid "File/Directory Status Information"
+msgstr "Informace o stavu souboru/adresáře"
+
+msgid "Filenames in header"
+msgstr "Názvy souborů v záhlaví"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Rozšíření filtru, (*) se objeví v názvu"
+
+msgid "Filter visible file classes by extension."
+msgstr "Filtrujte viditelné třídy souborů podle přípony."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "za ZTRÁTU NEBO POŠKOZENÍ DAT !!!"
+
+msgid "from dir"
+msgstr "od r"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "Přejděte do složky se záložkami"
+
+msgid "Go to default directory"
+msgstr "Přejděte do výchozího adresáře"
+
+msgid "Go to end of file"
+msgstr "Přejít na konec souboru"
+
+msgid "Go to parent directory"
+msgstr "Přejděte do nadřazeného adresáře"
+
+msgid "Go to start of file"
+msgstr "Přejděte na začátek souboru"
+
+msgid "Group:"
+msgstr "Skupina:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "bylo ZMĚNĚNO! Chcete to uložit?"
+
+msgid "Hide/Show"
+msgstr "Skrýt/Zobrazit"
+
+msgid "I/O priority for script execution"
+msgstr "Priorita I/O pro provádění skriptu"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Pokud upravujete soubor, můžete nastavit počáteční pozici kurzoru na konec nebo začátek řádku."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "V režimu vícenásobného výběru přesune kurzor na další položku po označení."
+
+msgid "Inode:"
+msgstr "Inode:"
+
+msgid "Insert"
+msgstr "Vložit"
+
+msgid "Insert line before current line"
+msgstr "Vložit řádek před aktuální řádek"
+
+msgid "Install"
+msgstr "Instalovat"
+
+msgid "install/unpack ipk Files"
+msgstr "nainstalovat/rozbalit soubory ipk"
+
+msgid "Installing Plugin ..."
+msgstr "Instalace pluginu..."
+
+msgid "Invert selection"
+msgstr "Invertovat výběr"
+
+msgid "Invert Selection"
+msgstr "Invertovat výběr"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "Na <Seznam úložných zařízení> není možné vypočítat hashe"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Není možné změnit režim souboru <Seznam úložných zařízení>"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Není možné získat stav souboru <Seznam úložných zařízení>"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Opusťte File Commander"
+
+msgid "Leave multi-select mode"
+msgstr "Opusťte režim vícenásobného výběru"
+
+msgid "Link target:"
+msgstr "Cíl odkazu:"
+
+msgid "Links:"
+msgstr "odkazy:"
+
+msgid "List of Storage Devices"
+msgstr "Seznam úložných zařízení"
+
+msgid "Load"
+msgstr "Zatížení"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Zpřístupněte FileCommander z nabídky Rozšíření."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Zpřístupněte FileCommander z hlavní nabídky."
+
+msgid "manage local Files"
+msgstr "spravovat místní soubory"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "MENU"
+
+msgid "Menu..."
+msgstr "Menu..."
+
+msgid "Metadata changed:"
+msgstr "Metadata změněna:"
+
+msgid "Mode %s (%04o)"
+msgstr "Režim %s (%04o)"
+
+msgid "Modified:"
+msgstr "Upraveno:"
+
+msgid "Move"
+msgstr "Pohyb"
+
+msgid "Move down list"
+msgstr "Přesunout seznam dolů"
+
+msgid "move file"
+msgstr "přesunout soubor"
+
+msgid "Move file"
+msgstr "Přesunout soubor"
+
+msgid "Move file/directory to target directory"
+msgstr "Přesuňte soubor/adresář do cílového adresáře"
+
+msgid "Move files/directories to target directory"
+msgstr "Přesunout soubory/adresáře do cílového adresáře"
+
+msgid "move folder"
+msgstr "přesunout složku"
+
+msgid "Move folder"
+msgstr "Přesunout složku"
+
+msgid "Move selector to next item"
+msgstr "Přesuňte volič na další položku"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Přesunout volič na další položku (zapnuto/vypnuto)"
+
+msgid "Move up list"
+msgstr "Posunout seznam nahoru"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "MultiSelection Settings"
+msgstr "Nastavení vícenásobného výběru"
+
+msgid "Music"
+msgstr "Hudba"
+
+msgid "My extension"
+msgstr "Moje rozšíření"
+
+msgid "My Extension"
+msgstr "Moje rozšíření"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "Jméno"
+
+msgid "Name reverse"
+msgstr "Jméno obráceně"
+
+msgid "New folder"
+msgstr "Nová složka"
+
+msgid "New symlink"
+msgstr "Nový symbolický odkaz"
+
+msgid "new.txt"
+msgstr "nový.txt"
+
+msgid "No"
+msgstr "Žádný"
+
+msgid "No files found."
+msgstr "Nebyly nalezeny žádné soubory."
+
+msgid "No hash calculations configured"
+msgstr "Nejsou nakonfigurovány žádné výpočty hash"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "Žádný z hašovacích programů pro haše %s není dostupný"
+
+msgid "Not allowed with folders"
+msgstr "Není povoleno se složkami"
+
+msgid "nothing connected"
+msgstr "nic připojeno"
+
+msgid "Number of lines in script messages"
+msgstr "Počet řádků ve zprávách skriptu"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On device:"
+msgstr "Na zařízení:"
+
+msgid "Open"
+msgstr "OTEVŘENO"
+
+msgid "Open actions menu"
+msgstr "Otevřete nabídku akcí"
+
+msgid "Open settings/actions menu"
+msgstr "Otevřete nabídku nastavení/akcí"
+
+msgid "Open with File Commander"
+msgstr "Otevřete pomocí File Commander"
+
+msgid "or save the picture additionally to a file"
+msgstr "nebo uložit obrázek dodatečně do souboru"
+
+msgid "Original subtitles codepage"
+msgstr "Původní kódová stránka titulků"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Původní kódová stránka titulků pro převod do UTF-8."
+
+msgid "Original:"
+msgstr "Originál:"
+
+msgid "Owner:"
+msgstr "Majitel:"
+
+msgid "Page down list"
+msgstr "Seznam o stránku dolů"
+
+msgid "Page up list"
+msgstr "Seznam o stránku nahoru"
+
+msgid "Parent Directory"
+msgstr "Nadřazený adresář"
+
+msgid "Permissions:"
+msgstr "Oprávnění:"
+
+msgid "Pictures"
+msgstr "obrázky"
+
+msgid "play Files"
+msgstr "přehrávat soubory"
+
+msgid "Play folder"
+msgstr "Přehrát složku"
+
+msgid "Play title"
+msgstr "Přehrát titul"
+
+msgid "play/show Files"
+msgstr "přehrát/zobrazit soubory"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Přehrát/zobrazit/upravit/instalovat/rozbalit/spustit soubor nebo zadat adresář"
+
+msgid "Please enter file/folder name"
+msgstr "Zadejte název souboru/složky"
+
+msgid "Please enter name of the new directory"
+msgstr "Zadejte název nového adresáře"
+
+msgid "Please enter name of the new symlink"
+msgstr "Zadejte název nového symbolického odkazu"
+
+msgid "Please enter password"
+msgstr "Zadejte heslo"
+
+msgid "Please enter the new directory name"
+msgstr "Zadejte nový název adresáře"
+
+msgid "Please enter the new file name"
+msgstr "Zadejte nový název souboru"
+
+msgid "Please wait, Loading image."
+msgstr "Čekejte prosím, načítání obrázku."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Stiskněte OK nebo Exit pro zrušení!"
+
+msgid "python"
+msgstr "krajta"
+
+msgid "Records"
+msgstr "Evidence"
+
+msgid "Refresh screen"
+msgstr "Obnovit obrazovku"
+
+msgid "Regular file"
+msgstr "Běžný soubor"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Odebrat aktuální složku ze záložek"
+
+msgid "Remove from selection (%s)"
+msgstr "Odebrat z výběru (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Odebrat vybranou složku ze záložek"
+
+msgid "Rename"
+msgstr "Přejmenovat"
+
+msgid "Rename file"
+msgstr "Přejmenovat soubor"
+
+msgid "Rename file/directory"
+msgstr "Přejmenujte soubor/adresář"
+
+msgid "Restart"
+msgstr "Restartujte"
+
+msgid "Reverse left file sorting"
+msgstr "Obrácené řazení souborů vlevo"
+
+msgid "Reverse right file sorting"
+msgstr "Zpětné řazení souborů vpravo"
+
+msgid "Run script"
+msgstr "Spusťte skript"
+
+msgid "Run script in background"
+msgstr "Spusťte skript na pozadí"
+
+msgid "Run script with optional parameter"
+msgstr "Spusťte skript s volitelným parametrem"
+
+msgid "Run script with optional parameter in background"
+msgstr "Spusťte skript s volitelným parametrem na pozadí"
+
+msgid "s"
+msgstr "s"
+
+msgid "Save cursor position"
+msgstr "Uložit pozici kurzoru"
+
+msgid "Save cursor position in active panel."
+msgstr "Uložte pozici kurzoru v aktivním panelu."
+
+msgid "Save left folder on exit"
+msgstr "Při ukončení uložte levou složku"
+
+msgid "Save right folder on exit"
+msgstr "Při ukončení uložte pravou složku"
+
+msgid "Save the left directory list location on exit."
+msgstr "Při ukončení uložte levé umístění seznamu adresářů."
+
+msgid "Save the right folder list location on exit."
+msgstr "Při ukončení uložte správné umístění seznamu složek."
+
+msgid "Search in group selection by"
+msgstr "Hledat ve skupinovém výběru podle"
+
+msgid "Search text"
+msgstr "Hledat text"
+
+msgid "Search text (%s):"
+msgstr "Vyhledat text (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Hledat text v souboru (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Vyberte (zdrojový seznam) nebo zadejte adresář (cílový seznam)"
+
+msgid "Select a path"
+msgstr "Vyberte cestu"
+
+msgid "Select action:"
+msgstr "Vyberte akci:"
+
+msgid "Select All"
+msgstr "Vyberte Vše"
+
+msgid "Select group"
+msgstr "Vyberte skupinu"
+
+msgid "Select group..."
+msgstr "Vybrat skupinu..."
+
+msgid "Select operation:"
+msgstr "Vyberte operaci:"
+
+msgid "Select your personal settings:"
+msgstr "Vyberte své osobní nastavení:"
+
+msgid "Set archive mode (644)"
+msgstr "Nastavit režim archivace (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Nastavit spustitelný režim (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Nastavuje, zda se při vyhledávání rozlišují velká a malá písmena."
+
+msgid "Settings"
+msgstr "Nastavení"
+
+msgid "Settings..."
+msgstr "Nastavení..."
+
+msgid "shell"
+msgstr "skořápka"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Zobrazit jako obrázek (zavřete stisknutím libovolné klávesy)"
+
+msgid "Show contents of ipk file"
+msgstr "Zobrazit obsah souboru ipk"
+
+msgid "Show contents of rar file"
+msgstr "Zobrazit obsah souboru rar"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Zobrazit obsah tar nebo komprimovaného tar souboru"
+
+msgid "Show contents of zip file"
+msgstr "Zobrazit obsah souboru zip"
+
+msgid "Show directories first"
+msgstr "Nejprve zobrazte adresáře"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Zobrazit adresáře na první nebo poslední pozici v panelu (pro použití změn je nutné restartovat FileCommander)."
+
+msgid "Show image information"
+msgstr "Zobrazit informace o obrázku"
+
+msgid "Show next picture"
+msgstr "Zobrazit další obrázek"
+
+msgid "Show previous picture"
+msgstr "Zobrazit předchozí obrázek"
+
+msgid "Show Script completed message"
+msgstr "Zobrazit zprávu o dokončení skriptu"
+
+msgid "Show task list"
+msgstr "Zobrazit seznam úkolů"
+
+msgid "Show unknown extension as text"
+msgstr "Zobrazit neznámé rozšíření jako text"
+
+msgid "Size"
+msgstr "Velikost"
+
+msgid "Size reverse"
+msgstr "Velikost obrácená"
+
+msgid "Size:"
+msgstr "Velikost:"
+
+msgid "Socket"
+msgstr "Zásuvka"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Třídění ponechaných souborů podle názvu, data nebo velikosti"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Řazení správných souborů podle názvu, data nebo velikosti"
+
+msgid "start title"
+msgstr "startovní titul"
+
+msgid "Start/stop slide show"
+msgstr "Spuštění/zastavení prezentace"
+
+msgid "starts with..."
+msgstr "začíná s..."
+
+msgid "Storage devices"
+msgstr "Úložná zařízení"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Swap tlačítka pro obrácené řazení souborů"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Zaměňte tlačítka vpravo/vlevo za kanál +/- nebo tlačítko kanálu vždy změnilo stranu."
+
+msgid "Symbolic link"
+msgstr "Symbolický odkaz"
+
+msgid "Symlink to"
+msgstr "Symbolický odkaz na"
+
+msgid "Task list"
+msgstr "Seznam úkolů"
+
+msgid "TB"
+msgstr "TBC"
+
+msgid "Text not found."
+msgstr "Text nenalezen."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Hledání textu podle velikosti písmen nebo bez ohledu na velikost písmen."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Autoři NEODPOVÍDAJÍ"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "Komponenta Image Viewer v File Commanderu vyžaduje rozšíření PicturePlayer. Pro aktivaci této operace nainstalujte PicturePlayer."
+
+msgid "This line is not editable!"
+msgstr "Tento řádek nelze upravovat!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Čas mezi snímky v prezentaci v prohlížeči obrázků."
+
+msgid "Time for Slideshow"
+msgstr "Čas na prezentaci"
+
+msgid "to dir"
+msgstr "k dir"
+
+msgid "To next found text"
+msgstr "K dalšímu nalezenému textu"
+
+msgid "To previous found text"
+msgstr "K předchozímu nalezenému textu"
+
+msgid "Type the name for the new file"
+msgstr "Zadejte název nového souboru"
+
+msgid "Type:"
+msgstr "Typ:"
+
+msgid "Unknown"
+msgstr "Neznámý"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Neznámý typ souboru. Otevřít jako text?"
+
+msgid "Unknown group: %d"
+msgstr "Neznámá skupina: %d"
+
+msgid "Unknown user: %d"
+msgstr "Neznámý uživatel: %d"
+
+msgid "unpack archives"
+msgstr "rozbalit archivy"
+
+msgid "unpack gzip Files"
+msgstr "rozbalte soubory gzip"
+
+msgid "unpack Rar Files"
+msgstr "rozbalte soubory Rar"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "rozbalte soubory tar/komprimované soubory tar"
+
+msgid "Unpack to %s"
+msgstr "Rozbalit do %s"
+
+msgid "Unpack to current folder"
+msgstr "Rozbalte do aktuální složky"
+
+msgid "unpack zip Files"
+msgstr "rozbalte soubory zip"
+
+msgid "Unsupported archive type."
+msgstr "Nepodporovaný typ archivu."
+
+msgid "v"
+msgstr "proti"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Zobrazit nebo upravit soubor (pokud velikost < 1 MB)"
+
+msgid "View or edit this %s script"
+msgstr "Zobrazit nebo upravit tento %s skript"
+
+msgid "WARNING!"
+msgstr "VAROVÁNÍ!"
+
+msgid "What do you want to play?\n"
+msgstr "Co chcete hrát?\n"
+
+msgid "without"
+msgstr "bez"
+
+msgid "Yes"
+msgstr "Ano"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Můžete nastavit počet písmen od začátku aktuálního názvu souboru jako text předvyplněný do virtuální klávesnice pro snadnější zadávání pomocí skupinového výběru."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Můžete nastavit počet písmen od konce aktuálního názvu souboru jako text předvyplněný do virtuální klávesnice pro snadnější zadávání pomocí skupinového výběru."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Můžete nastavit, co bude výběr skupiny používat - začátek názvu, konec názvu nebo obsah v názvu."
+

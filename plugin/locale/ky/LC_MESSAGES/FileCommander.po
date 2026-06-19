@@ -1,0 +1,1050 @@
+# ky translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ky <ekekaz@gmail.com>\n"
+"Language: ky\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- файл бар! Overwrite"
+
+msgid "- folder exist! Overwrite"
+msgstr "- папка бар! Overwrite"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Тандоо режими)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\кошумча параметр:\n%s"
+
+msgid "%d GB"
+msgstr "%d ГБ"
+
+msgid "%d kB"
+msgstr "%d кБ"
+
+msgid "%d MB"
+msgstr "%d Мб"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - чыгаруу каталары."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s сырсөз менен корголгон."
+
+msgid "%s successfully extracted."
+msgstr "%s ийгиликтүү чыгарылды."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Алуучу>"
+
+msgid "Accessed:"
+msgstr "Колдонулган:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Көп тандоо булагы катары сол жактагы файлдардын тизмесин активдештирүү"
+
+msgid "Activate left-hand file list as source"
+msgstr "Сол жактагы файлдардын тизмесин булак катары иштетиңиз"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Оң жактагы файлдардын тизмесин көп тандоо булагы катары иштетиңиз"
+
+msgid "Activate right-hand file list as source"
+msgstr "Оң жактагы файлдардын тизмесин булак катары иштетиңиз"
+
+msgid "Add current folder to bookmarks"
+msgstr "Учурдагы папканы кыстармаларга кошуу"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Кеңейтүүлөр менюсуна плагинди кошуңуз"
+
+msgid "Add plugin to main menu"
+msgstr "Негизги менюга плагин кошуу"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Тандалган папканы кыстармаларга кошуу"
+
+msgid "Add to selection (%s)"
+msgstr "Тандалганга кошуу (%s)"
+
+msgid "All"
+msgstr "Баары"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Тандалган тасма менен бирдей аталыштагы каталогдогу бардык файлдар да көчүрүлөт же жылдырылат."
+
+msgid "All movie extensions"
+msgstr "Бардык кино кеңейтүүлөрү"
+
+msgid "B"
+msgstr "Б"
+
+msgid "Block device"
+msgstr "Түзмөктү бөгөттөө"
+
+msgid "Calculate file checksums"
+msgstr "Файлдын текшерүү суммасын эсептеңиз"
+
+msgid "Calculates file checksums."
+msgstr "Файлдын текшерүү суммасын эсептейт."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "%s иштетилбей жатат: %s.\n%s орнотулбаган плагинде болушу мүмкүн."
+
+msgid "Cancel"
+msgstr "Жокко чыгаруу"
+
+msgid "Cancel execution?"
+msgstr "Аткаруу жокко чыгарылсынбы?"
+
+msgid "Cannot create target directory."
+msgstr "Максаттуу каталог түзүлбөй жатат."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Сүрөт ачылбай жатат. Текст катары ачылсынбы?"
+
+msgid "Cannot play file."
+msgstr "Файлды ойнотуу мүмкүн эмес."
+
+msgid "Cannot read file: %s"
+msgstr "Файл окулбай жатат: %s"
+
+msgid "case insensitive"
+msgstr "тамга сезимсиз"
+
+msgid "case sensitive"
+msgstr "тамга сезгич"
+
+msgid "Case sensitive search"
+msgstr "Регистрге сезимтал издөө"
+
+msgid "Change buttons for list navigation"
+msgstr "Тизме багыттоо үчүн баскычтарды өзгөртүү"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Аткаруу уруксаттарын өзгөртүү (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Канал баскычы ар дайым тарапты өзгөртөт"
+
+msgid "Character device"
+msgstr "Каармандык түзүлүш"
+
+msgid "Close"
+msgstr "Жабуу"
+
+msgid "Compare case sensitive"
+msgstr "Регистрге сезгичтик менен салыштырыңыз"
+
+msgid "contains in title"
+msgstr "аталышында камтылган"
+
+msgid "contains..."
+msgstr "камтыйт..."
+
+msgid "Content size:"
+msgstr "Мазмун өлчөмү:"
+
+msgid "Copy"
+msgstr "Көчүрүү"
+
+msgid "copy file"
+msgstr "файлды көчүрүү"
+
+msgid "Copy file"
+msgstr "Файлды көчүрүү"
+
+msgid "Copy file/directory to target directory"
+msgstr "Файлды/каталогду максаттуу каталогго көчүрүү"
+
+msgid "Copy files/directories to target directory"
+msgstr "Файлдарды/каталогдорду максаттуу каталогго көчүрүү"
+
+msgid "copy folder"
+msgstr "папканы көчүрүү"
+
+msgid "Copy folder"
+msgstr "Папканы көчүрүү"
+
+msgid "Count directory content size"
+msgstr "Каталог мазмунунун өлчөмүн эсептөө"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Басып баратканда каталогдун көлөмүн эсептөө (күйгүзүү/өчүрүү)"
+
+msgid "CPU priority for script execution"
+msgstr "Скрипттин аткарылышы үчүн CPU приоритети"
+
+msgid "Create directory"
+msgstr "Каталог түзүү"
+
+msgid "create symlink ..."
+msgstr "символдук шилтеме түзүү ..."
+
+msgid "Create symlink to file"
+msgstr "Файлга символдук шилтеме түзүңүз"
+
+msgid "Create user-named symbolic link"
+msgstr "Колдонуучунун атынан символдук шилтеме түзүңүз"
+
+msgid "d"
+msgstr "г"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Date reverse"
+msgstr "Дата тескери"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Аткарылган скрипттер үчүн демейки CPU приоритети (жакшы). Бул скрипттер системанын калган бөлүгүнө тоскоол болбошу үчүн жүктү азайтышы мүмкүн. (жогорку маанилер = төмөнкү артыкчылык)"
+
+msgid "Default directory sorting"
+msgstr "Демейки каталогду иреттөө"
+
+msgid "Default file sorting left"
+msgstr "Демейки файлды сорттоо солго"
+
+msgid "Default file sorting right"
+msgstr "Демейки файлды туура иреттөө"
+
+msgid "Default folder"
+msgstr "Демейки папка"
+
+msgid "Default Folder"
+msgstr "Демейки папка"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Аткарылган сценарийлер үчүн демейки киргизүү/чыгаруу приоритети (ionice). Бул скрипттер системанын калган бөлүгүнө тоскоол болбошу үчүн жүктү азайтышы мүмкүн. (жогорку маанилер = төмөнкү артыкчылык)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Эки панелдеги каталогдор үчүн демейки сорттоо ыкмасы (өзгөртүүлөрдү колдонуу үчүн FileCommander кайра иштетилиши керек)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Сол панелдеги файлдар үчүн демейки сорттоо ыкмасы."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Оң панелдеги файлдар үчүн демейки сорттоо ыкмасы."
+
+msgid "Delete"
+msgstr "Жок кылуу"
+
+msgid "Delete current line"
+msgstr "Учурдагы сапты жок кылуу"
+
+msgid "Delete file"
+msgstr "Файлды жок кылуу"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Файлды же каталогду (жана анын бардык мазмунун) жок кылуу"
+
+msgid "Delete folder"
+msgstr "Папканы жок кылуу"
+
+msgid "Delete the selected files or directories"
+msgstr "Тандалган файлдарды же каталогдорду жок кылыңыз"
+
+msgid "Deselect All"
+msgstr "Баарын тандоо"
+
+msgid "Deselect group"
+msgstr "Топту тандоодон чыгаруу"
+
+msgid "Deselect group..."
+msgstr "Топту тандоодон чыгаруу..."
+
+msgid "Directories to group selections"
+msgstr "Тандоолорду топтоо үчүн каталогдор"
+
+msgid "Directory"
+msgstr "Directory"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Каталогду бул жерде\n<Сактагыч түзмөктөрдүн тизмеси> же <Алуучу> боюнча түзүү мүмкүн эмес.\nСелекторду бир сап ылдый жылдырыңыз же каталогду өзгөртүңүз."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Файлдын аталыштарын темада көрсөтүү. Бул өтө узун файл аттары үчүн пайдалуу."
+
+msgid "Do you want change rights?\n"
+msgstr "Укуктарды өзгөртүүнү каалайсызбы?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Скриптти көрүп же иштеткиңиз келеби?\n"
+
+msgid "Edit"
+msgstr "Түзөтүү"
+
+msgid "Edit current line"
+msgstr "Учурдагы сапты түзөтүү"
+
+msgid "Edit line"
+msgstr "Сапты түзөтүү"
+
+msgid "Edit new file"
+msgstr "Жаңы файлды түзөтүңүз"
+
+msgid "Edit position is the line end"
+msgstr "Позицияны түзөтүү - саптын аягы"
+
+msgid "end title"
+msgstr "аяктоо аталышы"
+
+msgid "ends with..."
+msgstr "менен аяктайт..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Көп файлды тандоо режимине кириңиз"
+
+msgid "Error"
+msgstr "Ката"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "%s каталогун түзүү катасы:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "%s файлын түзүү катасы:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "%s менен %s байланыштырууда ката кетти:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "%s атын %s деп өзгөртүү катасы:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Сактоо катасы: %s"
+
+msgid "Error..."
+msgstr "Ката..."
+
+msgid "Execution finished!!"
+msgstr "Аткаруу аяктады!!"
+
+msgid "Execution progress\n\n"
+msgstr "Аткаруу прогресси\n\n"
+
+msgid "Exit"
+msgstr "Чыгыңыз"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Редактордон чыгып, өзгөртүүлөрдү жазыңыз (эгер бар болсо)"
+
+msgid "Exit movie player?"
+msgstr "Тасма ойноткучтан чыгасызбы?"
+
+msgid "Exit picture viewer"
+msgstr "Сүрөт көрүүчүдөн чыгуу"
+
+msgid "Extract archive to %s?"
+msgstr "Архив %sга чыгарылсынбы?"
+
+msgid "Extracting..."
+msgstr "Чыгарылып жатат..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Файлды\n<Сактоо түзмөктөрүнүн тизмеси> же <Алуучу>да түзүү мүмкүн эмес.\nКаталогду өзгөртүңүз."
+
+msgid "File checksums/hashes"
+msgstr "Файлдын текшерүү суммасы/хэштери"
+
+msgid "File Commander"
+msgstr "File Commander"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "File Commander - Addon File-Viewer"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "File Commander - Addon File-Viewer Орнотуулары"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "File Commander - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "File Commander - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander - жалпыланган архив иштетүүчү"
+
+msgid "File Commander - gzip Addon"
+msgstr "File Commander - gzip Addon"
+
+msgid "File Commander - ipk Addon"
+msgstr "File Commander - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "File Commander - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "File Commander - unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "File Commander - Addon файлын ачыңыз"
+
+msgid "File not found: %s"
+msgstr "Файл табылган жок: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Текст катары ачуу үчүн файл өтө чоң (максималдуу 1 МБ)."
+
+msgid "File too large to open as text."
+msgstr "Файл текст катары ачуу үчүн өтө чоң."
+
+msgid "File transfer was cancelled by user"
+msgstr "Файл өткөрүү колдонуучу тарабынан жокко чыгарылды"
+
+msgid "File/Directory Status Information"
+msgstr "Файл/Каталог абалы жөнүндө маалымат"
+
+msgid "Filenames in header"
+msgstr "Файлдын аталыштары"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Фильтр кеңейтүүсү, (*) аталышында пайда болот"
+
+msgid "Filter visible file classes by extension."
+msgstr "Көрүнгөн файл класстарын кеңейтүү боюнча чыпкалаңыз."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "МААЛЫМАТ ЖОГОЛУШУ ЖЕ БУЗУЛУГУ ҮЧҮН !!!"
+
+msgid "from dir"
+msgstr "дир"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "Белгиленген папкага өтүңүз"
+
+msgid "Go to default directory"
+msgstr "Демейки каталогго өтүңүз"
+
+msgid "Go to end of file"
+msgstr "Файлдын аягына өтүңүз"
+
+msgid "Go to parent directory"
+msgstr "Аталык каталогго өтүңүз"
+
+msgid "Go to start of file"
+msgstr "Файлдын башына өтүңүз"
+
+msgid "Group:"
+msgstr "Топ:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "ОЗГОРТУЛДУ! Аны сактап калгыңыз келеби?"
+
+msgid "Hide/Show"
+msgstr "Жашыруу/Көрсөтүү"
+
+msgid "I/O priority for script execution"
+msgstr "Сценарийди аткаруу үчүн киргизүү/чыгаруу приоритети"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Эгер файлды түзөтүп жатсаңыз, курсорду саптын аягына же башына орното аласыз."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "Көп тандоо режиминде курсор белгиленгенден кийин кийинки пунктка жылдырат."
+
+msgid "Inode:"
+msgstr "Inode:"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "Insert line before current line"
+msgstr "Учурдагы саптан мурун сапты кыстарыңыз"
+
+msgid "Install"
+msgstr "Орнотуу"
+
+msgid "install/unpack ipk Files"
+msgstr "ipk файлдарын орнотуу/ачуу"
+
+msgid "Installing Plugin ..."
+msgstr "Плагин орнотулууда..."
+
+msgid "Invert selection"
+msgstr "Тандоону инверт"
+
+msgid "Invert Selection"
+msgstr "Invert Selection"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "<Сактагыч түзүлүштөрдүн тизмеси> боюнча хэштерди эсептөө мүмкүн эмес"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "<Сактагыч түзүлүштөрдүн тизмеси> файл режимин өзгөртүү мүмкүн эмес"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "<Сактагыч түзүлүштөрдүн тизмеси> файл статусун алуу мүмкүн эмес"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "File Commander калтырыңыз"
+
+msgid "Leave multi-select mode"
+msgstr "Көп тандоо режимин калтырыңыз"
+
+msgid "Link target:"
+msgstr "Шилтеме максаты:"
+
+msgid "Links:"
+msgstr "Шилтемелер:"
+
+msgid "List of Storage Devices"
+msgstr "Сактагыч түзмөктөрдүн тизмеси"
+
+msgid "Load"
+msgstr "Жүктөө"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "FileCommanderди Кеңейтүүлөр менюсунан жеткиликтүү кылыңыз."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "FileCommanderди негизги менюдан жеткиликтүү кылыңыз."
+
+msgid "manage local Files"
+msgstr "жергиликтүү файлдарды башкаруу"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "МЕНЮ"
+
+msgid "Menu..."
+msgstr "Меню..."
+
+msgid "Metadata changed:"
+msgstr "Метадайындар өзгөрдү:"
+
+msgid "Mode %s (%04o)"
+msgstr "%s режими (%04o)"
+
+msgid "Modified:"
+msgstr "Өзгөртүлгөн:"
+
+msgid "Move"
+msgstr "Жылдыруу"
+
+msgid "Move down list"
+msgstr "Тизмени ылдый жылдыруу"
+
+msgid "move file"
+msgstr "файлды жылдыруу"
+
+msgid "Move file"
+msgstr "Файлды жылдыруу"
+
+msgid "Move file/directory to target directory"
+msgstr "Файлды/каталогду максаттуу каталогго жылдыруу"
+
+msgid "Move files/directories to target directory"
+msgstr "Файлдарды/каталогдорду максаттуу каталогго жылдырыңыз"
+
+msgid "move folder"
+msgstr "папканы жылдыруу"
+
+msgid "Move folder"
+msgstr "Папканы жылдыруу"
+
+msgid "Move selector to next item"
+msgstr "Селекторду кийинки нерсеге жылдыруу"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Селекторду кийинки нерсеге жылдыруу (күйгүзүү/өчүрүү)"
+
+msgid "Move up list"
+msgstr "Тизмени өйдө жылдыруу"
+
+msgid "Movie"
+msgstr "Кино"
+
+msgid "MultiSelection Settings"
+msgstr "MultiSelection Орнотуулар"
+
+msgid "Music"
+msgstr "Музыка"
+
+msgid "My extension"
+msgstr "Менин кеңейтүүм"
+
+msgid "My Extension"
+msgstr "My Extension"
+
+msgid "n"
+msgstr "п"
+
+msgid "Name"
+msgstr "аты"
+
+msgid "Name reverse"
+msgstr "Аты тескери"
+
+msgid "New folder"
+msgstr "Жаңы папка"
+
+msgid "New symlink"
+msgstr "Жаңы символдук шилтеме"
+
+msgid "new.txt"
+msgstr "new.txt"
+
+msgid "No"
+msgstr "Жок"
+
+msgid "No files found."
+msgstr "Файлдар табылган жок."
+
+msgid "No hash calculations configured"
+msgstr "Хеш эсептөөлөрү конфигурацияланган эмес"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "%s хэштери үчүн хэш программалардын бири да жеткиликтүү эмес"
+
+msgid "Not allowed with folders"
+msgstr "Папкалар менен уруксат берилбейт"
+
+msgid "nothing connected"
+msgstr "эч нерсе байланышпайт"
+
+msgid "Number of lines in script messages"
+msgstr "Скрипт билдирүүлөрүндөгү саптардын саны"
+
+msgid "OK"
+msgstr "макул"
+
+msgid "On device:"
+msgstr "Түзмөктө:"
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Open actions menu"
+msgstr "Аракеттер менюсун ачыңыз"
+
+msgid "Open settings/actions menu"
+msgstr "Жөндөөлөр/аракет менюсун ачыңыз"
+
+msgid "Open with File Commander"
+msgstr "File Commander менен ачыңыз"
+
+msgid "or save the picture additionally to a file"
+msgstr "же сүрөттү файлга кошумча сактаңыз"
+
+msgid "Original subtitles codepage"
+msgstr "Оригиналдуу субтитрлер код баракчасы"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "UTF-8ге айландыруу үчүн түпнуска субтитрлер код бети."
+
+msgid "Original:"
+msgstr "Түпнуска:"
+
+msgid "Owner:"
+msgstr "Ээси:"
+
+msgid "Page down list"
+msgstr "Төмөнкү баракча тизмеси"
+
+msgid "Page up list"
+msgstr "Барак тизмеси"
+
+msgid "Parent Directory"
+msgstr "Аталык каталог"
+
+msgid "Permissions:"
+msgstr "Уруксаттар:"
+
+msgid "Pictures"
+msgstr "Сүрөттөр"
+
+msgid "play Files"
+msgstr "Файлдарды ойнотуу"
+
+msgid "Play folder"
+msgstr "Папканы ойнотуу"
+
+msgid "Play title"
+msgstr "Ойнотуу аталышы"
+
+msgid "play/show Files"
+msgstr "Файлдарды ойнотуу/көрсөтүү"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Файлды ойнотуу/көрүү/түзөтүү/орнотуу/чыгаруу/ишке киргизүү же каталогду киргизиңиз"
+
+msgid "Please enter file/folder name"
+msgstr "Сураныч, файл/папка атын киргизиңиз"
+
+msgid "Please enter name of the new directory"
+msgstr "Сураныч, жаңы каталогдун атын киргизиңиз"
+
+msgid "Please enter name of the new symlink"
+msgstr "Сураныч, жаңы символдук шилтеменин атын киргизиңиз"
+
+msgid "Please enter password"
+msgstr "Сырсөздү киргизиңиз"
+
+msgid "Please enter the new directory name"
+msgstr "Сураныч, жаңы каталогдун атын киргизиңиз"
+
+msgid "Please enter the new file name"
+msgstr "Сураныч, жаңы файл атын киргизиңиз"
+
+msgid "Please wait, Loading image."
+msgstr "Күтө туруңуз, сүрөт жүктөлүүдө."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Токтотуу үчүн OK же Чыгууну басыңыз!"
+
+msgid "python"
+msgstr "питон"
+
+msgid "Records"
+msgstr "Жазуулар"
+
+msgid "Refresh screen"
+msgstr "Экранды жаңыртуу"
+
+msgid "Regular file"
+msgstr "Кадимки файл"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Учурдагы папканы кыстармалардан алып салуу"
+
+msgid "Remove from selection (%s)"
+msgstr "Тандоодон алып салуу (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Тандалган папканы кыстармалардан алып салуу"
+
+msgid "Rename"
+msgstr "Атын өзгөртүү"
+
+msgid "Rename file"
+msgstr "Файлдын атын өзгөртүү"
+
+msgid "Rename file/directory"
+msgstr "Файлдын/каталогдун атын өзгөртүү"
+
+msgid "Restart"
+msgstr "Кайра баштоо"
+
+msgid "Reverse left file sorting"
+msgstr "Тескери сол файлды сорттоо"
+
+msgid "Reverse right file sorting"
+msgstr "Тескери оң файлды сорттоо"
+
+msgid "Run script"
+msgstr "Скриптти иштетүү"
+
+msgid "Run script in background"
+msgstr "Скриптти фондо иштетиңиз"
+
+msgid "Run script with optional parameter"
+msgstr "Скриптти кошумча параметр менен иштетиңиз"
+
+msgid "Run script with optional parameter in background"
+msgstr "Фондо кошумча параметр менен скриптти иштетиңиз"
+
+msgid "s"
+msgstr "с"
+
+msgid "Save cursor position"
+msgstr "Курсордун ордун сактаңыз"
+
+msgid "Save cursor position in active panel."
+msgstr "Курсордун ордун активдүү панелде сактаңыз."
+
+msgid "Save left folder on exit"
+msgstr "Чыгууда сол папканы сактаңыз"
+
+msgid "Save right folder on exit"
+msgstr "Чыгууда оң папканы сактаңыз"
+
+msgid "Save the left directory list location on exit."
+msgstr "Чыгууда сол каталог тизмеси жайгашкан жерин сактаңыз."
+
+msgid "Save the right folder list location on exit."
+msgstr "Чыгууда туура папка тизмесинин жайгашкан жерин сактаңыз."
+
+msgid "Search in group selection by"
+msgstr "Топ тандоосу боюнча издөө"
+
+msgid "Search text"
+msgstr "Текстти издөө"
+
+msgid "Search text (%s):"
+msgstr "Издөө тексти (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Файлдан текст издөө (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Тандоо (булак тизмеси) же каталогду киргизиңиз (максат тизмеси)"
+
+msgid "Select a path"
+msgstr "Жол тандаңыз"
+
+msgid "Select action:"
+msgstr "Аракет тандоо:"
+
+msgid "Select All"
+msgstr "Баарын тандаңыз"
+
+msgid "Select group"
+msgstr "Топту тандаңыз"
+
+msgid "Select group..."
+msgstr "Топ тандоо..."
+
+msgid "Select operation:"
+msgstr "Операцияны тандоо:"
+
+msgid "Select your personal settings:"
+msgstr "Жеке жөндөөлөрүңүздү тандаңыз:"
+
+msgid "Set archive mode (644)"
+msgstr "Архив режимин коюу (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Аткарылуучу режимди коюу (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Издөө үчүн чоң жана кичине тамганы айырмалоо керекпи же жокпу белгилейт."
+
+msgid "Settings"
+msgstr "Орнотуулар"
+
+msgid "Settings..."
+msgstr "Жөндөөлөр..."
+
+msgid "shell"
+msgstr "кабык"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Сүрөт катары көрсөтүү (жабуу үчүн каалаган баскычты басыңыз)"
+
+msgid "Show contents of ipk file"
+msgstr "ipk файлынын мазмунун көрсөтүү"
+
+msgid "Show contents of rar file"
+msgstr "rar файлынын мазмунун көрсөтүү"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Тар же кысылган tar файлынын мазмунун көрсөтүү"
+
+msgid "Show contents of zip file"
+msgstr "Zip файлынын мазмунун көрсөтүү"
+
+msgid "Show directories first"
+msgstr "Алгач каталогдорду көрсөтүңүз"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Панелдеги биринчи же акыркы орундарда каталогдорду көрсөтүү (өзгөртүүлөрдү колдонуу үчүн FileCommander кайра иштетилиши керек)."
+
+msgid "Show image information"
+msgstr "Сүрөт маалыматын көрсөтүү"
+
+msgid "Show next picture"
+msgstr "Кийинки сүрөттү көрсөтүү"
+
+msgid "Show previous picture"
+msgstr "Мурунку сүрөттү көрсөтүү"
+
+msgid "Show Script completed message"
+msgstr "Скрипт аяктаган билдирүүнү көрсөтүү"
+
+msgid "Show task list"
+msgstr "Тапшырмалардын тизмесин көрсөтүү"
+
+msgid "Show unknown extension as text"
+msgstr "Белгисиз кеңейтүүнү текст катары көрсөтүү"
+
+msgid "Size"
+msgstr "Өлчөмү"
+
+msgid "Size reverse"
+msgstr "Өлчөмү тескери"
+
+msgid "Size:"
+msgstr "Өлчөмү:"
+
+msgid "Socket"
+msgstr "Розетка"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Сол файлдарды аты, датасы же өлчөмү боюнча сорттоо"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Туура файлдарды аты, датасы же өлчөмү боюнча сорттоо"
+
+msgid "start title"
+msgstr "баштоо аталышы"
+
+msgid "Start/stop slide show"
+msgstr "Слайд көрсөтүүнү баштоо/токтот"
+
+msgid "starts with..."
+msgstr "менен башталат..."
+
+msgid "Storage devices"
+msgstr "Сактагыч түзмөктөр"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Файлды тескери сорттоо үчүн баскычтарды алмаштыруу"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Канал +/- менен баскычтарды оңго/солго алмаштырыңыз же канал баскычы ар дайым тарапты өзгөрттү."
+
+msgid "Symbolic link"
+msgstr "Символикалык шилтеме"
+
+msgid "Symlink to"
+msgstr "Symlink to"
+
+msgid "Task list"
+msgstr "Тапшырма тизмеси"
+
+msgid "TB"
+msgstr "ТБ"
+
+msgid "Text not found."
+msgstr "Текст табылган жок."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Текст регистрди сезбестен же регистрди сезбестен издөө."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Авторлор ЖООПКЕРЧИЛИК ЭМЕС"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "File Commanderдин Image Viewer компоненти PicturePlayer кеңейтүүсүн талап кылат. Бул операцияны иштетүү үчүн PicturePlayerди орнотуңуз."
+
+msgid "This line is not editable!"
+msgstr "Бул сапты түзөтүүгө болбойт!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Сүрөт көрүүчүнүн слайдшоусунда слайддардын ортосундагы убакыт."
+
+msgid "Time for Slideshow"
+msgstr "Слайдшоого убакыт"
+
+msgid "to dir"
+msgstr "режиссёрго"
+
+msgid "To next found text"
+msgstr "Кийинки табылган текстке"
+
+msgid "To previous found text"
+msgstr "Мурунку табылган текстке"
+
+msgid "Type the name for the new file"
+msgstr "Жаңы файлдын атын териңиз"
+
+msgid "Type:"
+msgstr "Түрү:"
+
+msgid "Unknown"
+msgstr "Белгисиз"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Белгисиз файл түрү. Текст катары ачылсынбы?"
+
+msgid "Unknown group: %d"
+msgstr "Белгисиз топ: %d"
+
+msgid "Unknown user: %d"
+msgstr "Белгисиз колдонуучу: %d"
+
+msgid "unpack archives"
+msgstr "архивдерди ачуу"
+
+msgid "unpack gzip Files"
+msgstr "gzip файлдарын таңгактан чыгарыңыз"
+
+msgid "unpack Rar Files"
+msgstr "Rar файлдарын ачуу"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "чайыр/кысылган чайыр файлдарын таңгактан чыгаруу"
+
+msgid "Unpack to %s"
+msgstr "%s үчүн таңгактан чыгарыңыз"
+
+msgid "Unpack to current folder"
+msgstr "Учурдагы папкага таңгактан чыгарыңыз"
+
+msgid "unpack zip Files"
+msgstr "zip файлдарын таңгактан чыгарыңыз"
+
+msgid "Unsupported archive type."
+msgstr "Колдоого алынбаган архив түрү."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Файлды көрүү же түзөтүү (эгер өлчөмү < 1МБ болсо)"
+
+msgid "View or edit this %s script"
+msgstr "Бул %s скриптин көрүү же түзөтүү"
+
+msgid "WARNING!"
+msgstr "ЭСКЕРТҮҮ!"
+
+msgid "What do you want to play?\n"
+msgstr "Эмне ойногуңуз келет?\n"
+
+msgid "without"
+msgstr "жок"
+
+msgid "Yes"
+msgstr "Ооба"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Топтук тандоо аркылуу киргизүүнү жеңилдетүү үчүн виртуалдык клавиатурага алдын ала толтурулган текст катары учурдагы файл аталышынын башындагы тамгалардын санын орното аласыз."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Топтук тандоо аркылуу оңой киргизүү үчүн виртуалдык клавиатурага алдын ала толтурулган текст катары учурдагы файл аталышынын аягындагы тамгалардын санын орното аласыз."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Топтун тандоосу эмнени колдоноорун белгилей аласыз - аталыштын башталышы, аталыштын аягы же аталышта камтылган."
+

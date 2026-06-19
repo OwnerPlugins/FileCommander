@@ -10,7 +10,7 @@ from . import _
 from Plugins.Plugin import PluginDescriptor
 from Components.config import config, ConfigSubsection, ConfigYesNo
 
-pname = _("File Commander")
+pname = "File Commander"
 pdesc = _("manage local Files")
 
 config.plugins.filecommander = ConfigSubsection()

@@ -1,0 +1,1050 @@
+# hu translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: hu <ekekaz@gmail.com>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- fájl létezik! Átír"
+
+msgid "- folder exist! Overwrite"
+msgstr "- mappa létezik! Átír"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Mód kiválasztása)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\nem kötelező paraméter:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - kinyerési hibák."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s jelszóval védett."
+
+msgid "%s successfully extracted."
+msgstr "%s sikeresen kicsomagolva."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Vevő>"
+
+msgid "Accessed:"
+msgstr "Elérve:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "A bal oldali fájllista aktiválása többszörösen kiválasztható forrásként"
+
+msgid "Activate left-hand file list as source"
+msgstr "Aktiválja a bal oldali fájllistát forrásként"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "A jobb oldali fájllista aktiválása többszörös kijelölésű forrásként"
+
+msgid "Activate right-hand file list as source"
+msgstr "A jobb oldali fájllista aktiválása forrásként"
+
+msgid "Add current folder to bookmarks"
+msgstr "Az aktuális mappa hozzáadása a könyvjelzőkhöz"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Adja hozzá a bővítményt a Bővítmények menühöz"
+
+msgid "Add plugin to main menu"
+msgstr "Adja hozzá a bővítményt a főmenühöz"
+
+msgid "Add selected folder to bookmarks"
+msgstr "A kiválasztott mappa hozzáadása a könyvjelzőkhöz"
+
+msgid "Add to selection (%s)"
+msgstr "Hozzáadás a kijelöléshez (%s)"
+
+msgid "All"
+msgstr "Minden"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "A könyvtárban lévő összes fájl, amelynek neve megegyezik a kiválasztott filmmel, szintén másolásra vagy áthelyezésre kerül."
+
+msgid "All movie extensions"
+msgstr "Minden filmkiterjesztés"
+
+msgid "B"
+msgstr "B"
+
+msgid "Block device"
+msgstr "Eszköz blokkolása"
+
+msgid "Calculate file checksums"
+msgstr "Számítsa ki a fájl ellenőrző összegeit"
+
+msgid "Calculates file checksums."
+msgstr "Kiszámítja a fájl ellenőrző összegeit."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "A %s nem futtatható: %s.\nLehet, hogy a %s olyan beépülő modulban található, amely nincs telepítve."
+
+msgid "Cancel"
+msgstr "Mégsem"
+
+msgid "Cancel execution?"
+msgstr "Megszakítja a végrehajtást?"
+
+msgid "Cannot create target directory."
+msgstr "Nem lehet célkönyvtárat létrehozni."
+
+msgid "Cannot open image. Open as text?"
+msgstr "A kép nem nyitható meg. Megnyitja szövegként?"
+
+msgid "Cannot play file."
+msgstr "A fájl nem játszható le."
+
+msgid "Cannot read file: %s"
+msgstr "A fájl nem olvasható: %s"
+
+msgid "case insensitive"
+msgstr "kis- és nagybetű nem érzékeny"
+
+msgid "case sensitive"
+msgstr "kis- és nagybetűk érzékenyek"
+
+msgid "Case sensitive search"
+msgstr "Keresés a kis- és nagybetűk között"
+
+msgid "Change buttons for list navigation"
+msgstr "A listanavigáció gombjainak módosítása"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Végrehajtási engedélyek módosítása (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "A csatorna gomb mindig oldalt vált"
+
+msgid "Character device"
+msgstr "Karakter eszköz"
+
+msgid "Close"
+msgstr "Közeli"
+
+msgid "Compare case sensitive"
+msgstr "Hasonlítsa össze a kis- és nagybetűket"
+
+msgid "contains in title"
+msgstr "címében tartalmazza"
+
+msgid "contains..."
+msgstr "tartalmaz..."
+
+msgid "Content size:"
+msgstr "Tartalom mérete:"
+
+msgid "Copy"
+msgstr "Másolat"
+
+msgid "copy file"
+msgstr "fájl másolása"
+
+msgid "Copy file"
+msgstr "Fájl másolása"
+
+msgid "Copy file/directory to target directory"
+msgstr "Fájl/könyvtár másolása a célkönyvtárba"
+
+msgid "Copy files/directories to target directory"
+msgstr "Fájlok/könyvtárak másolása a célkönyvtárba"
+
+msgid "copy folder"
+msgstr "mappa másolása"
+
+msgid "Copy folder"
+msgstr "Mappa másolása"
+
+msgid "Count directory content size"
+msgstr "Számolja meg a könyvtártartalom méretét"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Könyvtártartalom méretének számolása járás közben (be/ki)"
+
+msgid "CPU priority for script execution"
+msgstr "CPU prioritás a szkript végrehajtásához"
+
+msgid "Create directory"
+msgstr "Könyvtár létrehozása"
+
+msgid "create symlink ..."
+msgstr "szimbolikus link létrehozása..."
+
+msgid "Create symlink to file"
+msgstr "Szimbólum létrehozása a fájlhoz"
+
+msgid "Create user-named symbolic link"
+msgstr "Hozzon létre felhasználónevű szimbolikus linket"
+
+msgid "d"
+msgstr "d"
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "Date reverse"
+msgstr "Dátum fordított"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Alapértelmezett CPU prioritás (szép) a végrehajtott szkriptekhez. Ez csökkentheti a terhelést, így a szkriptek nem zavarják a rendszer többi részét. (magasabb érték = alacsonyabb prioritás)"
+
+msgid "Default directory sorting"
+msgstr "Alapértelmezett könyvtárrendezés"
+
+msgid "Default file sorting left"
+msgstr "Az alapértelmezett fájlrendezés maradt"
+
+msgid "Default file sorting right"
+msgstr "Alapértelmezett fájlrendezés helyes"
+
+msgid "Default folder"
+msgstr "Alapértelmezett mappa"
+
+msgid "Default Folder"
+msgstr "Alapértelmezett mappa"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Alapértelmezett I/O prioritás (ionice) a végrehajtott szkriptekhez. Ez csökkentheti a terhelést, így a szkriptek nem zavarják a rendszer többi részét. (magasabb érték = alacsonyabb prioritás)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "A könyvtárak alapértelmezett rendezési módja mindkét panelen (a változtatások alkalmazásához a FileCommander programot újra kell indítani)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "A bal oldali panelen lévő fájlok alapértelmezett rendezési módja."
+
+msgid "Default sorting method for files in right panel."
+msgstr "A fájlok alapértelmezett rendezési módja a jobb oldali panelen."
+
+msgid "Delete"
+msgstr "Töröl"
+
+msgid "Delete current line"
+msgstr "Az aktuális sor törlése"
+
+msgid "Delete file"
+msgstr "Fájl törlése"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Fájl vagy könyvtár (és annak teljes tartalmának) törlése"
+
+msgid "Delete folder"
+msgstr "Mappa törlése"
+
+msgid "Delete the selected files or directories"
+msgstr "Törölje a kiválasztott fájlokat vagy könyvtárakat"
+
+msgid "Deselect All"
+msgstr "Törölje az Összes kijelölését"
+
+msgid "Deselect group"
+msgstr "Törölje a csoport kijelölését"
+
+msgid "Deselect group..."
+msgstr "Csoport kijelölésének megszüntetése..."
+
+msgid "Directories to group selections"
+msgstr "Könyvtárak a csoportválasztásokhoz"
+
+msgid "Directory"
+msgstr "Címtár"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Itt nem lehet könyvtárat létrehozni a\n<Tárolóeszközök listája> vagy a <Receiver> helyen.\nVigye a választót egy sorral lejjebb, vagy módosítsa a könyvtárat."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Fájlnevek megjelenítése a fejlécben. Túl hosszú fájlneveknél hasznos."
+
+msgid "Do you want change rights?\n"
+msgstr "Szeretné megváltoztatni a jogokat?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Meg akarja tekinteni vagy futtatni szeretné a szkriptet?\n"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "Edit current line"
+msgstr "Az aktuális sor szerkesztése"
+
+msgid "Edit line"
+msgstr "Sor szerkesztése"
+
+msgid "Edit new file"
+msgstr "Új fájl szerkesztése"
+
+msgid "Edit position is the line end"
+msgstr "A szerkesztési pozíció a sor vége"
+
+msgid "end title"
+msgstr "vége cím"
+
+msgid "ends with..."
+msgstr "azzal végződik..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Lépjen be több fájl kiválasztása módba"
+
+msgid "Error"
+msgstr "Hiba"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Hiba a %s könyvtár létrehozásakor:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Hiba a %s fájl létrehozásakor:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Hiba a %s és %s összekapcsolásakor:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Hiba történt a %s átnevezésekor a következőre: %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Hiba a mentéskor: %s"
+
+msgid "Error..."
+msgstr "Hiba..."
+
+msgid "Execution finished!!"
+msgstr "A végrehajtás befejeződött!!"
+
+msgid "Execution progress\n\n"
+msgstr "A végrehajtás folyamata\n\n"
+
+msgid "Exit"
+msgstr "Kijárat"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Lépjen ki a szerkesztőből, és írja be a módosításokat (ha vannak)"
+
+msgid "Exit movie player?"
+msgstr "Kilép a filmlejátszóból?"
+
+msgid "Exit picture viewer"
+msgstr "Lépjen ki a képnézegetőből"
+
+msgid "Extract archive to %s?"
+msgstr "Kicsomagolja az archívumot ide: %s?"
+
+msgid "Extracting..."
+msgstr "Kibontás..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "A fájl nem hozható létre a\n<Tárolóeszközök listája> vagy a <Receiver> helyen.\nKérem, változtassa meg a könyvtárat."
+
+msgid "File checksums/hashes"
+msgstr "Fájl az ellenőrző összegeket/kivonatokat"
+
+msgid "File Commander"
+msgstr "Fájlparancsnok"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "File Commander - Addon File-Viewer"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "File Commander - Addon File-Viewer beállítások"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "File Commander - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "File Commander - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander – általános archívumkezelő"
+
+msgid "File Commander - gzip Addon"
+msgstr "File Commander - gzip Addon"
+
+msgid "File Commander - ipk Addon"
+msgstr "File Commander - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "File Commander - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "File Commander - unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "File Commander – csomagolja ki az Addont"
+
+msgid "File not found: %s"
+msgstr "A fájl nem található: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "A fájl túl nagy ahhoz, hogy szövegként nyissa meg (maximum 1 MB)."
+
+msgid "File too large to open as text."
+msgstr "A fájl túl nagy ahhoz, hogy szövegként nyissa meg."
+
+msgid "File transfer was cancelled by user"
+msgstr "A fájlátvitelt a felhasználó megszakította"
+
+msgid "File/Directory Status Information"
+msgstr "Fájl/könyvtár állapotinformáció"
+
+msgid "Filenames in header"
+msgstr "Fájlnevek a fejlécben"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Szűrőkiterjesztés, (*) jelenik meg a címben"
+
+msgid "Filter visible file classes by extension."
+msgstr "A látható fájlosztályok szűrése kiterjesztés szerint."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "ADATVESZTÉS VAGY KÁROSODÁS miatt!!!"
+
+msgid "from dir"
+msgstr "a dir"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "Ugrás a könyvjelzővel ellátott mappához"
+
+msgid "Go to default directory"
+msgstr "Ugrás az alapértelmezett könyvtárba"
+
+msgid "Go to end of file"
+msgstr "Ugrás a fájl végére"
+
+msgid "Go to parent directory"
+msgstr "Lépjen a szülőkönyvtárba"
+
+msgid "Go to start of file"
+msgstr "Ugrás a fájl elejére"
+
+msgid "Group:"
+msgstr "Csoport:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "MEGVÁLTOZTATVA! El akarod menteni?"
+
+msgid "Hide/Show"
+msgstr "Elrejtés/Megjelenítés"
+
+msgid "I/O priority for script execution"
+msgstr "I/O prioritás a szkript végrehajtásához"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Ha szerkeszt egy fájlt, beállíthatja a kurzor kezdőpozícióját a sor végén vagy elején."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "Többszörös kijelölés módban a kurzort a következő elemre viszi a kijelölés után."
+
+msgid "Inode:"
+msgstr "Inode:"
+
+msgid "Insert"
+msgstr "Beszúrás"
+
+msgid "Insert line before current line"
+msgstr "Sor beszúrása az aktuális sor elé"
+
+msgid "Install"
+msgstr "Telepítés"
+
+msgid "install/unpack ipk Files"
+msgstr "telepítse/csomagolja ki az ipk fájlokat"
+
+msgid "Installing Plugin ..."
+msgstr "Plugin telepítése..."
+
+msgid "Invert selection"
+msgstr "Kiválasztás megfordítása"
+
+msgid "Invert Selection"
+msgstr "Kijelölés megfordítása"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "A <Tárolóeszközök listája> hash-ek kiszámítása nem lehetséges"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "A <Tárolóeszközök listája> fájlmódja nem módosítható"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Nem lehet lekérni a <Tárolóeszközök listája> fájlállapotát"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Hagyja ki a File Commander alkalmazást"
+
+msgid "Leave multi-select mode"
+msgstr "Lépjen ki a többszörös kijelölés módból"
+
+msgid "Link target:"
+msgstr "Link cél:"
+
+msgid "Links:"
+msgstr "Linkek:"
+
+msgid "List of Storage Devices"
+msgstr "Tárolóeszközök listája"
+
+msgid "Load"
+msgstr "Terhelés"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Tegye elérhetővé a FileCommandert a Bővítmények menüből."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Tegye elérhetővé a FileCommander alkalmazást a főmenüből."
+
+msgid "manage local Files"
+msgstr "helyi fájlok kezelése"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "MENÜ"
+
+msgid "Menu..."
+msgstr "Menü..."
+
+msgid "Metadata changed:"
+msgstr "A metaadatok megváltoztak:"
+
+msgid "Mode %s (%04o)"
+msgstr "%s mód (%04o)"
+
+msgid "Modified:"
+msgstr "Módosított:"
+
+msgid "Move"
+msgstr "Mozog"
+
+msgid "Move down list"
+msgstr "Mozgás lefelé a listán"
+
+msgid "move file"
+msgstr "fájl áthelyezése"
+
+msgid "Move file"
+msgstr "Fájl áthelyezése"
+
+msgid "Move file/directory to target directory"
+msgstr "Fájl/könyvtár áthelyezése a célkönyvtárba"
+
+msgid "Move files/directories to target directory"
+msgstr "Fájlok/könyvtárak áthelyezése a célkönyvtárba"
+
+msgid "move folder"
+msgstr "mappa áthelyezése"
+
+msgid "Move folder"
+msgstr "Mappa áthelyezése"
+
+msgid "Move selector to next item"
+msgstr "A választó mozgatása a következő elemre"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Kiválasztó mozgatása a következő elemre (be/ki)"
+
+msgid "Move up list"
+msgstr "Lépés felfelé a listán"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "MultiSelection Settings"
+msgstr "MultiSelection beállítások"
+
+msgid "Music"
+msgstr "Zene"
+
+msgid "My extension"
+msgstr "A hosszabbításom"
+
+msgid "My Extension"
+msgstr "Saját bővítmény"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Name reverse"
+msgstr "Név fordítva"
+
+msgid "New folder"
+msgstr "Új mappa"
+
+msgid "New symlink"
+msgstr "Új szimbolikus link"
+
+msgid "new.txt"
+msgstr "new.txt"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "No files found."
+msgstr "Nem található fájl."
+
+msgid "No hash calculations configured"
+msgstr "Nincsenek konfigurálva hash-számítások"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "A %s kivonatokhoz egyik hash program sem érhető el"
+
+msgid "Not allowed with folders"
+msgstr "Mappákkal nem engedélyezett"
+
+msgid "nothing connected"
+msgstr "semmi sem kapcsolódik"
+
+msgid "Number of lines in script messages"
+msgstr "A script üzenetek sorainak száma"
+
+msgid "OK"
+msgstr "RENDBEN"
+
+msgid "On device:"
+msgstr "Az eszközön:"
+
+msgid "Open"
+msgstr "Nyitott"
+
+msgid "Open actions menu"
+msgstr "A műveletek menü megnyitása"
+
+msgid "Open settings/actions menu"
+msgstr "Nyissa meg a beállítások/műveletek menüt"
+
+msgid "Open with File Commander"
+msgstr "Nyissa meg a File Commanderrel"
+
+msgid "or save the picture additionally to a file"
+msgstr "vagy mentse a képet egy fájlba"
+
+msgid "Original subtitles codepage"
+msgstr "Eredeti felirat kódlap"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Eredeti feliratkódlap az UTF-8-ra való konvertáláshoz."
+
+msgid "Original:"
+msgstr "Eredeti:"
+
+msgid "Owner:"
+msgstr "Tulajdonos:"
+
+msgid "Page down list"
+msgstr "Oldal lefelé lista"
+
+msgid "Page up list"
+msgstr "Oldal felfelé lista"
+
+msgid "Parent Directory"
+msgstr "Szülőkönyvtár"
+
+msgid "Permissions:"
+msgstr "Engedélyek:"
+
+msgid "Pictures"
+msgstr "Képek"
+
+msgid "play Files"
+msgstr "játssza le a Fájlokat"
+
+msgid "Play folder"
+msgstr "Lejátszási mappa"
+
+msgid "Play title"
+msgstr "Cím lejátszása"
+
+msgid "play/show Files"
+msgstr "Fájlok lejátszása/megjelenítése"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Fájl lejátszása/megtekintése/szerkesztése/telepítése/kibontása/futtatása vagy belépés a könyvtárba"
+
+msgid "Please enter file/folder name"
+msgstr "Kérjük, adja meg a fájl/mappa nevét"
+
+msgid "Please enter name of the new directory"
+msgstr "Kérjük, adja meg az új könyvtár nevét"
+
+msgid "Please enter name of the new symlink"
+msgstr "Kérjük, adja meg az új szimbolikus hivatkozás nevét"
+
+msgid "Please enter password"
+msgstr "Kérjük, adja meg a jelszót"
+
+msgid "Please enter the new directory name"
+msgstr "Kérjük, adja meg az új könyvtárnevet"
+
+msgid "Please enter the new file name"
+msgstr "Kérjük, adja meg az új fájlnevet"
+
+msgid "Please wait, Loading image."
+msgstr "Kérjük, várjon, kép betöltése."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Nyomja meg az OK vagy az Exit gombot a megszakításhoz!"
+
+msgid "python"
+msgstr "piton"
+
+msgid "Records"
+msgstr "Records"
+
+msgid "Refresh screen"
+msgstr "Képernyő frissítése"
+
+msgid "Regular file"
+msgstr "Normál fájl"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Az aktuális mappa eltávolítása a könyvjelzők közül"
+
+msgid "Remove from selection (%s)"
+msgstr "Eltávolítás a kijelölésből (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "A kiválasztott mappa eltávolítása a könyvjelzők közül"
+
+msgid "Rename"
+msgstr "Átnevezés"
+
+msgid "Rename file"
+msgstr "Fájl átnevezése"
+
+msgid "Rename file/directory"
+msgstr "Fájl/könyvtár átnevezése"
+
+msgid "Restart"
+msgstr "Indítsa újra"
+
+msgid "Reverse left file sorting"
+msgstr "Fordított bal oldali rendezés"
+
+msgid "Reverse right file sorting"
+msgstr "Fordított jobb oldali rendezés"
+
+msgid "Run script"
+msgstr "Futtassa a szkriptet"
+
+msgid "Run script in background"
+msgstr "Futtassa a szkriptet a háttérben"
+
+msgid "Run script with optional parameter"
+msgstr "Futtassa a parancsfájlt opcionális paraméterekkel"
+
+msgid "Run script with optional parameter in background"
+msgstr "Futtassa a szkriptet opcionális paraméterekkel a háttérben"
+
+msgid "s"
+msgstr "s"
+
+msgid "Save cursor position"
+msgstr "Mentse el a kurzor pozícióját"
+
+msgid "Save cursor position in active panel."
+msgstr "Mentse el a kurzor pozícióját az aktív panelen."
+
+msgid "Save left folder on exit"
+msgstr "Mentse a bal oldali mappát kilépéskor"
+
+msgid "Save right folder on exit"
+msgstr "Mentse a jobb oldali mappát kilépéskor"
+
+msgid "Save the left directory list location on exit."
+msgstr "Mentse el a bal oldali könyvtárlista helyét a kilépéskor."
+
+msgid "Save the right folder list location on exit."
+msgstr "Mentse el a megfelelő mappalista helyét a kilépéskor."
+
+msgid "Search in group selection by"
+msgstr "Keresés a csoportkiválasztásban:"
+
+msgid "Search text"
+msgstr "Szöveg keresése"
+
+msgid "Search text (%s):"
+msgstr "Keresési szöveg (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Szöveg keresése a fájlban (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Válassza ki (forráslista) vagy adja meg a könyvtárat (céllista)"
+
+msgid "Select a path"
+msgstr "Válasszon egy útvonalat"
+
+msgid "Select action:"
+msgstr "Válasszon műveletet:"
+
+msgid "Select All"
+msgstr "Válassza az Összes lehetőséget"
+
+msgid "Select group"
+msgstr "Válasszon csoportot"
+
+msgid "Select group..."
+msgstr "Csoport kiválasztása..."
+
+msgid "Select operation:"
+msgstr "Válassza ki a műveletet:"
+
+msgid "Select your personal settings:"
+msgstr "Válassza ki személyes beállításait:"
+
+msgid "Set archive mode (644)"
+msgstr "Archiválási mód beállítása (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Végrehajtási mód beállítása (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Beállítja, hogy legyen-e különbség a nagy- és kisbetűk között a keresés során."
+
+msgid "Settings"
+msgstr "Beállítások elemre"
+
+msgid "Settings..."
+msgstr "Beállítások..."
+
+msgid "shell"
+msgstr "héj"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Megjelenítés képként (nyomjon meg egy gombot a bezáráshoz)"
+
+msgid "Show contents of ipk file"
+msgstr "Az ipk fájl tartalmának megjelenítése"
+
+msgid "Show contents of rar file"
+msgstr "A rar fájl tartalmának megjelenítése"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Tar vagy tömörített tar fájl tartalmának megjelenítése"
+
+msgid "Show contents of zip file"
+msgstr "A zip fájl tartalmának megjelenítése"
+
+msgid "Show directories first"
+msgstr "Először mutasd meg a könyvtárakat"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Könyvtárak megjelenítése a panel első vagy utolsó pozíciójában (a változtatások alkalmazásához újra kell indítani a FileCommander programot)."
+
+msgid "Show image information"
+msgstr "Képinformációk megjelenítése"
+
+msgid "Show next picture"
+msgstr "Következő kép megjelenítése"
+
+msgid "Show previous picture"
+msgstr "Előző kép megjelenítése"
+
+msgid "Show Script completed message"
+msgstr "A szkript kész üzenet megjelenítése"
+
+msgid "Show task list"
+msgstr "Feladatlista megjelenítése"
+
+msgid "Show unknown extension as text"
+msgstr "Ismeretlen kiterjesztés megjelenítése szövegként"
+
+msgid "Size"
+msgstr "Méret"
+
+msgid "Size reverse"
+msgstr "Méret fordított"
+
+msgid "Size:"
+msgstr "Méret:"
+
+msgid "Socket"
+msgstr "Foglalat"
+
+msgid "Sorting left files by name, date or size"
+msgstr "A bal oldali fájlok rendezése név, dátum vagy méret szerint"
+
+msgid "Sorting right files by name, date or size"
+msgstr "A megfelelő fájlok rendezése név, dátum vagy méret szerint"
+
+msgid "start title"
+msgstr "kezdőcím"
+
+msgid "Start/stop slide show"
+msgstr "Diavetítés indítása/leállítása"
+
+msgid "starts with..."
+msgstr "azzal kezdődik..."
+
+msgid "Storage devices"
+msgstr "Tárolóeszközök"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Csere gombok a fordított fájlrendezéshez"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Cserélje a gombokat jobbra/balra a +/- csatornával, vagy a csatorna gomb mindig oldalt váltott."
+
+msgid "Symbolic link"
+msgstr "Szimbolikus link"
+
+msgid "Symlink to"
+msgstr "Symlink to"
+
+msgid "Task list"
+msgstr "Feladatlista"
+
+msgid "TB"
+msgstr "tuberkulózis"
+
+msgid "Text not found."
+msgstr "A szöveg nem található."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Szövegkeresés kis- és nagybetűk megkülönböztetésével."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "A szerzők NEM VÁLLALKOZNAK"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "A File Commander Image Viewer összetevője a PicturePlayer kiterjesztést igényli. Telepítse a PicturePlayert a művelet engedélyezéséhez."
+
+msgid "This line is not editable!"
+msgstr "Ez a sor nem szerkeszthető!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Diák közötti idő a képnézegető diavetítésében."
+
+msgid "Time for Slideshow"
+msgstr "Ideje a diavetítésnek"
+
+msgid "to dir"
+msgstr "a dir"
+
+msgid "To next found text"
+msgstr "A következő talált szövegre"
+
+msgid "To previous found text"
+msgstr "Az előző talált szövegre"
+
+msgid "Type the name for the new file"
+msgstr "Írja be az új fájl nevét"
+
+msgid "Type:"
+msgstr "Típus:"
+
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Ismeretlen fájltípus. Megnyitja szövegként?"
+
+msgid "Unknown group: %d"
+msgstr "Ismeretlen csoport: %d"
+
+msgid "Unknown user: %d"
+msgstr "Ismeretlen felhasználó: %d"
+
+msgid "unpack archives"
+msgstr "csomagolja ki az archívumokat"
+
+msgid "unpack gzip Files"
+msgstr "csomagolja ki a gzip fájlokat"
+
+msgid "unpack Rar Files"
+msgstr "csomagolja ki a Rar fájlokat"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "csomagolja ki a tar/tömörített tar fájlokat"
+
+msgid "Unpack to %s"
+msgstr "Csomagolja ki ide: %s"
+
+msgid "Unpack to current folder"
+msgstr "Csomagolja ki az aktuális mappába"
+
+msgid "unpack zip Files"
+msgstr "csomagolja ki a zip fájlokat"
+
+msgid "Unsupported archive type."
+msgstr "Nem támogatott archívumtípus."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Fájl megtekintése vagy szerkesztése (ha mérete < 1 MB)"
+
+msgid "View or edit this %s script"
+msgstr "Tekintse meg vagy szerkessze ezt a %s szkriptet"
+
+msgid "WARNING!"
+msgstr "FIGYELMEZTETÉS!"
+
+msgid "What do you want to play?\n"
+msgstr "Mit akarsz játszani?\n"
+
+msgid "without"
+msgstr "nélkül"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Beállíthatja az aktuális fájlnév elejétől kezdődő betűk számát a virtuális billentyűzeten előre kitöltött szövegként a csoportkiválasztáson keresztül történő könnyebb bevitel érdekében."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Beállíthatja az aktuális fájlnév végén lévő betűk számát a virtuális billentyűzeten előre kitöltött szövegként a csoportkiválasztáson keresztül történő könnyebb bevitel érdekében."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Beállíthatja, hogy mit használjon a csoportkiválasztás – a cím eleje, a cím vége vagy a címben szerepel."
+

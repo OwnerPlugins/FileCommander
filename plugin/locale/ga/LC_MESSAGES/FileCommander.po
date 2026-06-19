@@ -1,0 +1,1050 @@
+# ga translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ga <ekekaz@gmail.com>\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- comhad ann! Forscríobh"
+
+msgid "- folder exist! Overwrite"
+msgstr "- fillteán ann! Forscríobh"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Mód Roghnaithe)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\paraiméadar roghnach:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - earráidí asbhainte."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "Tá %s cosanta ag pasfhocal."
+
+msgid "%s successfully extracted."
+msgstr "D'éirigh le %s a bhaint."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Glacadóir>"
+
+msgid "Accessed:"
+msgstr "Rochtainte:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Gníomhachtaigh liosta comhad na láimhe clé mar fhoinse ilroghnaithe"
+
+msgid "Activate left-hand file list as source"
+msgstr "Gníomhachtaigh liosta na gcomhad ar thaobh na láimhe clé mar fhoinse"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Gníomhachtaigh liosta na gcomhad ar thaobh na láimhe deise mar fhoinse ilroghnaithe"
+
+msgid "Activate right-hand file list as source"
+msgstr "Gníomhachtaigh liosta na gcomhad ar thaobh na láimhe deise mar fhoinse"
+
+msgid "Add current folder to bookmarks"
+msgstr "Cuir fillteán reatha le leabharmharcanna"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Cuir breiseán leis an roghchlár Eisínteachtaí"
+
+msgid "Add plugin to main menu"
+msgstr "Cuir an breiseán leis an bpríomh-roghchlár"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Cuir fillteán roghnaithe le leabharmharcanna"
+
+msgid "Add to selection (%s)"
+msgstr "Cuir leis an rogha (%s)"
+
+msgid "All"
+msgstr "Gach"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Déanfar gach comhad san eolaire leis an ainm céanna leis an scannán roghnaithe a chóipeáil nó a bhogadh freisin."
+
+msgid "All movie extensions"
+msgstr "Gach síneadh scannáin"
+
+msgid "B"
+msgstr "b"
+
+msgid "Block device"
+msgstr "Gléas blocála"
+
+msgid "Calculate file checksums"
+msgstr "Ríomh seiceálacha comhaid"
+
+msgid "Calculates file checksums."
+msgstr "Ríomhann seiceálacha comhaid."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "Ní féidir %s a rith: %s.\n Seans go bhfuil %s i mbreiseán nach bhfuil suiteáilte."
+
+msgid "Cancel"
+msgstr "Cealaigh"
+
+msgid "Cancel execution?"
+msgstr "Cealaigh an fhorghníomhú?"
+
+msgid "Cannot create target directory."
+msgstr "Ní féidir sprioc-eolaire a chruthú."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Ní féidir an íomhá a oscailt. Oscail mar théacs?"
+
+msgid "Cannot play file."
+msgstr "Ní féidir an comhad a imirt."
+
+msgid "Cannot read file: %s"
+msgstr "Ní féidir an comhad a léamh: %s"
+
+msgid "case insensitive"
+msgstr "cás neamhíogair"
+
+msgid "case sensitive"
+msgstr "cás-íogair"
+
+msgid "Case sensitive search"
+msgstr "Cuardach cás-íogair"
+
+msgid "Change buttons for list navigation"
+msgstr "Athraigh cnaipí le haghaidh nascleanúint liosta"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Athraigh ceadanna forghníomhaithe (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Athraíonn cnaipe an chainéil taobhanna i gcónaí"
+
+msgid "Character device"
+msgstr "Gléas carachtair"
+
+msgid "Close"
+msgstr "Dún"
+
+msgid "Compare case sensitive"
+msgstr "Déan comparáid idir cás-íogair"
+
+msgid "contains in title"
+msgstr "sa teideal"
+
+msgid "contains..."
+msgstr "ina bhfuil..."
+
+msgid "Content size:"
+msgstr "Méid an ábhair:"
+
+msgid "Copy"
+msgstr "Cóip"
+
+msgid "copy file"
+msgstr "comhad a chóipeáil"
+
+msgid "Copy file"
+msgstr "Cóipeáil comhad"
+
+msgid "Copy file/directory to target directory"
+msgstr "Cóipeáil comhad/eolaire chuig an eolaire sprice"
+
+msgid "Copy files/directories to target directory"
+msgstr "Cóipeáil comhaid/eolaire chuig an eolaire sprice"
+
+msgid "copy folder"
+msgstr "fillteán a chóipeáil"
+
+msgid "Copy folder"
+msgstr "Cóipeáil fillteán"
+
+msgid "Count directory content size"
+msgstr "Comhair méid ábhair eolaire"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Ag comhaireamh méid ábhair eolaire agus tú ag siúl (ar siúl / as)"
+
+msgid "CPU priority for script execution"
+msgstr "Tosaíocht LAP maidir le feidhmiú scripte"
+
+msgid "Create directory"
+msgstr "Cruthaigh eolaire"
+
+msgid "create symlink ..."
+msgstr "cruthaigh nascasc..."
+
+msgid "Create symlink to file"
+msgstr "Cruthaigh nasc nasc chuig an gcomhad"
+
+msgid "Create user-named symbolic link"
+msgstr "Cruthaigh nasc siombalach ainmnithe ag an úsáideoir"
+
+msgid "d"
+msgstr "d"
+
+msgid "Date"
+msgstr "Dáta"
+
+msgid "Date reverse"
+msgstr "Dáta droim ar ais"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Tosaíocht réamhshocraithe LAP (deas) le haghaidh scripteanna forghníomhaithe. Féadfaidh sé seo an t-ualach a laghdú ionas nach gcuirfidh scripteanna isteach ar an gcuid eile den chóras. (luachanna níos airde = tosaíocht níos ísle)"
+
+msgid "Default directory sorting"
+msgstr "Sórtáil eolaire réamhshocraithe"
+
+msgid "Default file sorting left"
+msgstr "Sórtáil réamhshocraithe comhaid fágtha"
+
+msgid "Default file sorting right"
+msgstr "Sórtáil réamhshocraithe comhaid i gceart"
+
+msgid "Default folder"
+msgstr "Fillteán réamhshocraithe"
+
+msgid "Default Folder"
+msgstr "Fillteán Réamhshocraithe"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Tosaíocht réamhshocraithe I/O (ionice) le haghaidh scripteanna forghníomhaithe. Féadfaidh sé seo an t-ualach a laghdú ionas nach gcuirfidh scripteanna isteach ar an gcuid eile den chóras. (luachanna níos airde = tosaíocht níos ísle)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Modh sórtála réamhshocraithe le haghaidh eolairí sa dá phainéal (chun na hathruithe a chur i bhfeidhm ní mór FileCommander a atosú)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Modh sórtála réamhshocraithe do chomhaid sa phainéal ar chlé."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Modh sórtála réamhshocraithe do chomhaid sa phainéal ar dheis."
+
+msgid "Delete"
+msgstr "Scrios"
+
+msgid "Delete current line"
+msgstr "Scrios an líne reatha"
+
+msgid "Delete file"
+msgstr "Scrios an comhad"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Scrios comhad nó eolaire (agus a bhfuil ann go léir)"
+
+msgid "Delete folder"
+msgstr "Scrios fillteán"
+
+msgid "Delete the selected files or directories"
+msgstr "Scrios na comhaid nó na heolairí roghnaithe"
+
+msgid "Deselect All"
+msgstr "Díroghnaigh Uile"
+
+msgid "Deselect group"
+msgstr "Díroghnaigh grúpa"
+
+msgid "Deselect group..."
+msgstr "Díroghnaigh grúpa..."
+
+msgid "Directories to group selections"
+msgstr "Comhadlanna do roghnúcháin ghrúpa"
+
+msgid "Directory"
+msgstr "Eolaire"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Ní féidir eolaire a chruthú anseo ar\n<Liosta Gléasanna Stórála> nó <Glacadóir>.\nBog an roghnóir líne amháin thíos nó athraigh an eolaire."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Taispeáin ainmneacha comhaid sa cheanntásc. Tá sé úsáideach le haghaidh comhadainmneacha atá ró-fhada."
+
+msgid "Do you want change rights?\n"
+msgstr "Ar mhaith leat cearta a athrú?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Ar mhaith leat an script a fheiceáil nó a rith?\n"
+
+msgid "Edit"
+msgstr "Cuir in eagar"
+
+msgid "Edit current line"
+msgstr "Cuir an líne reatha in eagar"
+
+msgid "Edit line"
+msgstr "Cuir líne in eagar"
+
+msgid "Edit new file"
+msgstr "Cuir comhad nua in eagar"
+
+msgid "Edit position is the line end"
+msgstr "Is é seasamh in eagar an deireadh líne"
+
+msgid "end title"
+msgstr "teideal deiridh"
+
+msgid "ends with..."
+msgstr "chríochnaíonn le ..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Cuir isteach modh roghnúcháin ilchomhad"
+
+msgid "Error"
+msgstr "Earráid"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Earráid agus comhadlann %s á cruthú:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Earráid agus comhad %s á chruthú:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Earráid agus %s á nascadh le %s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Earráid agus %s á n-athainmniú go %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Earráid le sábháil: %s"
+
+msgid "Error..."
+msgstr "Earráid..."
+
+msgid "Execution finished!!"
+msgstr "Cur i gcrích críochnaithe!!"
+
+msgid "Execution progress\n\n"
+msgstr "Dul chun cinn le cur i gcrích\n\n"
+
+msgid "Exit"
+msgstr "Scoir"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Scoir an t-eagarthóir agus scríobh athruithe (más ann dóibh)"
+
+msgid "Exit movie player?"
+msgstr "An bhfuil fonn ort an t-imreoir scannán a scor?"
+
+msgid "Exit picture viewer"
+msgstr "Scoir an breathnóir pictiúr"
+
+msgid "Extract archive to %s?"
+msgstr "Bain cartlann go %s?"
+
+msgid "Extracting..."
+msgstr "Ag baint..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Ní féidir an comhad a chruthú ar\n<Liosta Gléasanna Stórála> nó <Glacadóir>.\nAthraigh eolaire, le do thoil."
+
+msgid "File checksums/hashes"
+msgstr "Seiceálacha comhad / hashes"
+
+msgid "File Commander"
+msgstr "Ceannasaí Comhad"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "Comhad Commander - Addon File-Viewer"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "Ceannasaí Comhad - Socruithe Breathnóra Comhad Addon"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "Ceannasaí Comhad - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "Ceannasaí Comhad - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "Ceannasaí Comhad - láimhseálaí cartlainne ginearálaithe"
+
+msgid "File Commander - gzip Addon"
+msgstr "Ceannasaí Comhad - gzip Addon"
+
+msgid "File Commander - ipk Addon"
+msgstr "Ceannasaí Comhad - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "Comhad Ceannasaí - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "Comhad Commander - unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "Comhad Ceannasaí - unzip Addon"
+
+msgid "File not found: %s"
+msgstr "Comhad gan aimsiú: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Comhad rómhór le hoscailt mar théacs (uasmhéid 1MB)."
+
+msgid "File too large to open as text."
+msgstr "Comhad rómhór le hoscailt mar théacs."
+
+msgid "File transfer was cancelled by user"
+msgstr "Chealaigh an t-úsáideoir aistriú comhad"
+
+msgid "File/Directory Status Information"
+msgstr "Eolas Stádas Comhad/Eolaire"
+
+msgid "Filenames in header"
+msgstr "Ainmneacha comhaid sa cheanntásc"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Tá an síneadh scagaire, (*) le feiceáil sa teideal"
+
+msgid "Filter visible file classes by extension."
+msgstr "Scag ranganna comhaid infheicthe de réir síneadh."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "le haghaidh CAILLTEANAS NÓ DAMÁISTE SONRAÍ!!!"
+
+msgid "from dir"
+msgstr "ó dir"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "Téigh go dtí an fillteán leabharmharcáilte"
+
+msgid "Go to default directory"
+msgstr "Téigh go dtí an eolaire réamhshocraithe"
+
+msgid "Go to end of file"
+msgstr "Téigh go dtí deireadh an chomhaid"
+
+msgid "Go to parent directory"
+msgstr "Téigh chuig eolaire na dtuismitheoirí"
+
+msgid "Go to start of file"
+msgstr "Téigh go dtí tús an chomhaid"
+
+msgid "Group:"
+msgstr "Grúpa:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "Athraíodh! Ar mhaith leat é a shábháil?"
+
+msgid "Hide/Show"
+msgstr "Folaigh/Taispeáin"
+
+msgid "I/O priority for script execution"
+msgstr "Tosaíocht I/O maidir le forghníomhú scripte"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Má tá comhad á chur in eagar agat, is féidir leat suíomh tosaigh an chúrsóra a shocrú ag deireadh nó ag tús na líne."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "Sa mhód ilroghnúcháin bogtar an cúrsóir go dtí an chéad mhír eile tar éis é a mharcáil."
+
+msgid "Inode:"
+msgstr "Inóid:"
+
+msgid "Insert"
+msgstr "cuir isteach"
+
+msgid "Insert line before current line"
+msgstr "Cuir isteach an líne roimh an líne reatha"
+
+msgid "Install"
+msgstr "Suiteáil"
+
+msgid "install/unpack ipk Files"
+msgstr "shuiteáil / díphacáil Comhaid ipk"
+
+msgid "Installing Plugin ..."
+msgstr "Breiseán á Suiteáil ..."
+
+msgid "Invert selection"
+msgstr "Roghnú inbhéartaithe"
+
+msgid "Invert Selection"
+msgstr "Roghnú Inbhéartaithe"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "Ní féidir hashes a ríomh ar <Liosta na nGléasanna Stórála>"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Ní féidir modh comhaid <Liosta na nGléasanna Stórála> a athrú"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Ní féidir stádas comhaid <Liosta na nGléasanna Stórála> a fháil"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Fág an Ceannasaí Comhad"
+
+msgid "Leave multi-select mode"
+msgstr "Fág mód ilroghnaithe"
+
+msgid "Link target:"
+msgstr "Sprioc naisc:"
+
+msgid "Links:"
+msgstr "Naisc:"
+
+msgid "List of Storage Devices"
+msgstr "Liosta Gléasanna Stórála"
+
+msgid "Load"
+msgstr "Luchtaigh"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Déan FileCommander inrochtana ón roghchlár Eisínteachtaí."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Déan FileCommander inrochtana ón bpríomh-roghchlár."
+
+msgid "manage local Files"
+msgstr "Bainistigh Comhaid áitiúla"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "MENU"
+
+msgid "Menu..."
+msgstr "Roghchlár..."
+
+msgid "Metadata changed:"
+msgstr "Athraíodh meiteashonraí:"
+
+msgid "Mode %s (%04o)"
+msgstr "Mód %s (%04o)"
+
+msgid "Modified:"
+msgstr "Athraithe:"
+
+msgid "Move"
+msgstr "Bog"
+
+msgid "Move down list"
+msgstr "Bog síos liosta"
+
+msgid "move file"
+msgstr "bogadh comhad"
+
+msgid "Move file"
+msgstr "Bog comhad"
+
+msgid "Move file/directory to target directory"
+msgstr "Bog comhad/eolaire chuig an eolaire sprice"
+
+msgid "Move files/directories to target directory"
+msgstr "Bog comhaid/eolaire chuig an eolaire sprice"
+
+msgid "move folder"
+msgstr "bogadh fillteán"
+
+msgid "Move folder"
+msgstr "Bog fillteán"
+
+msgid "Move selector to next item"
+msgstr "Bog an roghnóir go dtí an chéad mhír eile"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Bog an roghnóir go dtí an chéad mhír eile (ar siúl / as)"
+
+msgid "Move up list"
+msgstr "Bog suas liosta"
+
+msgid "Movie"
+msgstr "Scannán"
+
+msgid "MultiSelection Settings"
+msgstr "Socruithe Ilroghnaithe"
+
+msgid "Music"
+msgstr "Ceol"
+
+msgid "My extension"
+msgstr "Mo síneadh"
+
+msgid "My Extension"
+msgstr "Mo Síneadh"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "Ainm"
+
+msgid "Name reverse"
+msgstr "Droim ar ais ainm"
+
+msgid "New folder"
+msgstr "Fillteán nua"
+
+msgid "New symlink"
+msgstr "Nasc nasc nua"
+
+msgid "new.txt"
+msgstr "nua.txt"
+
+msgid "No"
+msgstr "Níl"
+
+msgid "No files found."
+msgstr "Níor aimsíodh aon chomhaid."
+
+msgid "No hash calculations configured"
+msgstr "Níl aon ríomhaireachtaí hash cumraithe"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "Níl aon cheann de na ríomhchláir hais don hashes %s ar fáil"
+
+msgid "Not allowed with folders"
+msgstr "Ní cheadaítear le fillteáin"
+
+msgid "nothing connected"
+msgstr "faic ceangailte"
+
+msgid "Number of lines in script messages"
+msgstr "Líon línte i dteachtaireachtaí scripte"
+
+msgid "OK"
+msgstr "ceart go leor"
+
+msgid "On device:"
+msgstr "Ar ghléas:"
+
+msgid "Open"
+msgstr "Oscail"
+
+msgid "Open actions menu"
+msgstr "Oscail roghchlár gníomhartha"
+
+msgid "Open settings/actions menu"
+msgstr "Oscail roghchlár socruithe/gníomhartha"
+
+msgid "Open with File Commander"
+msgstr "Oscail le Comhad Commander"
+
+msgid "or save the picture additionally to a file"
+msgstr "nó sábháil an pictiúr i gcomhad freisin"
+
+msgid "Original subtitles codepage"
+msgstr "Leathanaigh cód na bhfotheideal bunaidh"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Leathanach cód na bhfotheideal bunaidh le comhshó go UTF-8."
+
+msgid "Original:"
+msgstr "Bunaidh:"
+
+msgid "Owner:"
+msgstr "Úinéir:"
+
+msgid "Page down list"
+msgstr "Leathanach síos liosta"
+
+msgid "Page up list"
+msgstr "Liosta leathanach suas"
+
+msgid "Parent Directory"
+msgstr "Eolaire Tuismitheoirí"
+
+msgid "Permissions:"
+msgstr "Ceadanna:"
+
+msgid "Pictures"
+msgstr "Pictiúir"
+
+msgid "play Files"
+msgstr "Seinn Comhaid"
+
+msgid "Play folder"
+msgstr "Seinn fillteán"
+
+msgid "Play title"
+msgstr "Teideal imeartha"
+
+msgid "play/show Files"
+msgstr "Seinn / Taispeáin Comhaid"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Seinn / amharc / in eagar / suiteáil / asbhaint / rith comhad nó cuir isteach eolaire"
+
+msgid "Please enter file/folder name"
+msgstr "Cuir isteach ainm an chomhaid/an fhillteáin"
+
+msgid "Please enter name of the new directory"
+msgstr "Cuir isteach ainm an eolaire nua le do thoil"
+
+msgid "Please enter name of the new symlink"
+msgstr "Cuir isteach ainm an nasc simplí nua"
+
+msgid "Please enter password"
+msgstr "Cuir isteach pasfhocal le do thoil"
+
+msgid "Please enter the new directory name"
+msgstr "Cuir isteach an t-ainm eolaire nua"
+
+msgid "Please enter the new file name"
+msgstr "Cuir isteach ainm an chomhaid nua"
+
+msgid "Please wait, Loading image."
+msgstr "Fan go fóill, Íomhá á lódáil."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Brúigh OK nó Scoir chun deireadh a chur leis!"
+
+msgid "python"
+msgstr "python"
+
+msgid "Records"
+msgstr "Taifid"
+
+msgid "Refresh screen"
+msgstr "Athnuaigh an scáileán"
+
+msgid "Regular file"
+msgstr "Comhad rialta"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Bain an fillteán reatha de na leabharmharcanna"
+
+msgid "Remove from selection (%s)"
+msgstr "Bain den rogha (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Bain an fillteán roghnaithe de na leabharmharcanna"
+
+msgid "Rename"
+msgstr "Athainmnigh"
+
+msgid "Rename file"
+msgstr "Athainmnigh an comhad"
+
+msgid "Rename file/directory"
+msgstr "Athainmnigh comhad/eolaire"
+
+msgid "Restart"
+msgstr "Atosaigh"
+
+msgid "Reverse left file sorting"
+msgstr "Sórtáil comhaid ar chlé droim ar ais"
+
+msgid "Reverse right file sorting"
+msgstr "Sórtáil ceart comhaid droim ar ais"
+
+msgid "Run script"
+msgstr "Rith script"
+
+msgid "Run script in background"
+msgstr "Rith an script sa chúlra"
+
+msgid "Run script with optional parameter"
+msgstr "Rith an script le paraiméadar roghnach"
+
+msgid "Run script with optional parameter in background"
+msgstr "Rith an script le paraiméadar roghnach sa chúlra"
+
+msgid "s"
+msgstr "s"
+
+msgid "Save cursor position"
+msgstr "Sábháil suíomh cúrsóra"
+
+msgid "Save cursor position in active panel."
+msgstr "Sábháil suíomh an chúrsóra sa phainéal gníomhach."
+
+msgid "Save left folder on exit"
+msgstr "Sábháil an fillteán ar chlé nuair a théann tú amach"
+
+msgid "Save right folder on exit"
+msgstr "Sábháil an fillteán ar dheis ar an mbealach amach"
+
+msgid "Save the left directory list location on exit."
+msgstr "Sábháil suíomh an liosta eolaire ar chlé nuair a théann tú amach."
+
+msgid "Save the right folder list location on exit."
+msgstr "Sábháil an suíomh ceart liosta fillteán ar scoir."
+
+msgid "Search in group selection by"
+msgstr "Cuardaigh i roghnú grúpa de réir"
+
+msgid "Search text"
+msgstr "Cuardaigh téacs"
+
+msgid "Search text (%s):"
+msgstr "Téacs cuardaigh (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Cuardaigh téacs i gcomhad (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Roghnaigh (liosta foinse) nó cuir isteach eolaire (spriocliosta)"
+
+msgid "Select a path"
+msgstr "Roghnaigh cosán"
+
+msgid "Select action:"
+msgstr "Roghnaigh gníomh:"
+
+msgid "Select All"
+msgstr "Roghnaigh Uile"
+
+msgid "Select group"
+msgstr "Roghnaigh grúpa"
+
+msgid "Select group..."
+msgstr "Roghnaigh grúpa..."
+
+msgid "Select operation:"
+msgstr "Roghnaigh oibríocht:"
+
+msgid "Select your personal settings:"
+msgstr "Roghnaigh do shocruithe pearsanta:"
+
+msgid "Set archive mode (644)"
+msgstr "Socraigh mód cartlainne (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Socraigh mód inrite (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Socraíonn sé cibé an idirdhealú a dhéanamh idir cás uachtair agus cás íochtair le haghaidh cuardaigh."
+
+msgid "Settings"
+msgstr "Socruithe"
+
+msgid "Settings..."
+msgstr "Socruithe..."
+
+msgid "shell"
+msgstr "sliogán"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Taispeáin mar Pictiúr (brúigh eochair ar bith le dúnadh)"
+
+msgid "Show contents of ipk file"
+msgstr "Taispeáin inneachar an chomhaid ipk"
+
+msgid "Show contents of rar file"
+msgstr "Taispeáin inneachar an chomhaid rar"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Taispeáin inneachar an chomhaid tarra nó tarra comhbhrúite"
+
+msgid "Show contents of zip file"
+msgstr "Taispeáin inneachar an chomhaid zip"
+
+msgid "Show directories first"
+msgstr "Taispeáin na heolairí ar dtús"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Taispeáin na heolairí ar an gcéad phoist nó ar na poist dheireanacha sa phainéal (chun na hathruithe a chur i bhfeidhm ní mór FileCommander a atosú)."
+
+msgid "Show image information"
+msgstr "Taispeáin faisnéis íomhá"
+
+msgid "Show next picture"
+msgstr "Taispeáin an chéad phictiúr eile"
+
+msgid "Show previous picture"
+msgstr "Taispeáin an pictiúr roimhe seo"
+
+msgid "Show Script completed message"
+msgstr "Taispeáin Script teachtaireacht críochnaithe"
+
+msgid "Show task list"
+msgstr "Taispeáin liosta tascanna"
+
+msgid "Show unknown extension as text"
+msgstr "Taispeáin iarmhír anaithnid mar théacs"
+
+msgid "Size"
+msgstr "Méid"
+
+msgid "Size reverse"
+msgstr "Méid droim ar ais"
+
+msgid "Size:"
+msgstr "Méid:"
+
+msgid "Socket"
+msgstr "Soicéad"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Comhaid ar chlé a shórtáil de réir ainm, dáta nó méid"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Comhaid chearta a shórtáil de réir ainm, dáta nó méid"
+
+msgid "start title"
+msgstr "teideal tosaigh"
+
+msgid "Start/stop slide show"
+msgstr "Tosaigh/stop taispeántas sleamhnán"
+
+msgid "starts with..."
+msgstr "thosaíonn le..."
+
+msgid "Storage devices"
+msgstr "Gléasanna stórála"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Babhtáil cnaipí le haghaidh sórtáil comhaid droim ar ais"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Malartaigh na cnaipí ar dheis/ar chlé le cainéal +/- nó athraigh an cnaipe cainéal an taobh i gcónaí."
+
+msgid "Symbolic link"
+msgstr "Nasc siombalach"
+
+msgid "Symlink to"
+msgstr "Comhcheangail le"
+
+msgid "Task list"
+msgstr "Liosta tascanna"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Text not found."
+msgstr "Téacs gan aimsiú."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Cuardach téacs mar chás íogair nó cás-íogair."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Níl na húdair FREAGRACH"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "Teastaíonn an síneadh PicturePlayer ón gcomhpháirt Amharcán Íomhá den Cheannasaí Comhad. Suiteáil PicturePlayer chun an oibríocht seo a chumasú."
+
+msgid "This line is not editable!"
+msgstr "Ní féidir an líne seo a chur in eagar!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "An t-am idir na sleamhnáin sa taispeántas sleamhnán breathnóir íomhá."
+
+msgid "Time for Slideshow"
+msgstr "Am le haghaidh Taispeántas Sleamhnán"
+
+msgid "to dir"
+msgstr "a diriú"
+
+msgid "To next found text"
+msgstr "Go dtí an chéad téacs aimsithe eile"
+
+msgid "To previous found text"
+msgstr "Go dtí an téacs a fuarthas roimhe seo"
+
+msgid "Type the name for the new file"
+msgstr "Clóscríobh ainm an chomhaid nua"
+
+msgid "Type:"
+msgstr "Cineál:"
+
+msgid "Unknown"
+msgstr "Anaithnid"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Cineál comhaid anaithnid. Oscail mar théacs?"
+
+msgid "Unknown group: %d"
+msgstr "Grúpa anaithnid: %d"
+
+msgid "Unknown user: %d"
+msgstr "Úsáideoir anaithnid: %d"
+
+msgid "unpack archives"
+msgstr "cartlanna a dhíphacáil"
+
+msgid "unpack gzip Files"
+msgstr "díphacáil Comhaid gzip"
+
+msgid "unpack Rar Files"
+msgstr "Díphacáil Comhaid Rar"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "díphacáil tarra / Comhaid tarra comhbhrúite"
+
+msgid "Unpack to %s"
+msgstr "Díphacáil go %s"
+
+msgid "Unpack to current folder"
+msgstr "Díphacáil chuig an bhfillteán reatha"
+
+msgid "unpack zip Files"
+msgstr "Díphacáil Comhaid zip"
+
+msgid "Unsupported archive type."
+msgstr "Cineál cartlainne nach dtacaítear leis."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Féach ar nó cuir comhad in eagar (más méid < 1MB)"
+
+msgid "View or edit this %s script"
+msgstr "Féach ar nó cuir in eagar an script %s seo"
+
+msgid "WARNING!"
+msgstr "RABHADH!"
+
+msgid "What do you want to play?\n"
+msgstr "Cad ba mhaith leat a imirt?\n"
+
+msgid "without"
+msgstr "sin"
+
+msgid "Yes"
+msgstr "Tá"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Is féidir leat líon na litreacha a shocrú ó thús ainm an chomhaid reatha mar an téacs réamhlíonta isteach sa mhéarchlár fíorúil le haghaidh ionchur níos éasca trí roghnú grúpa."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Is féidir leat líon na litreacha a shocrú ó dheireadh an ainm comhaid reatha mar an téacs réamhlíonta isteach sa mhéarchlár fíorúil chun ionchur níos éasca trí roghnú grúpa."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Is féidir leat an rud a ghrúpálfaidh úsáid roghnúcháin a shocrú - tús an teidil, deireadh an teidil nó a bhfuil sa teideal."
+

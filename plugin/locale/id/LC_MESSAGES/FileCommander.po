@@ -1,0 +1,1050 @@
+# id translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: id <ekekaz@gmail.com>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- berkas ada! Timpa"
+
+msgid "- folder exist! Overwrite"
+msgstr "- folder ada! Timpa"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Mode pilih)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\parameter opsional:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%S"
+
+msgid "%s - extraction errors."
+msgstr "%s - kesalahan ekstraksi."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s dilindungi kata sandi."
+
+msgid "%s successfully extracted."
+msgstr "%s berhasil diekstraksi."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Penerima>"
+
+msgid "Accessed:"
+msgstr "Diakses:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Aktifkan daftar file sebelah kiri sebagai sumber multi-pilih"
+
+msgid "Activate left-hand file list as source"
+msgstr "Aktifkan daftar file sebelah kiri sebagai sumber"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Aktifkan daftar file sebelah kanan sebagai sumber multi-pilih"
+
+msgid "Activate right-hand file list as source"
+msgstr "Aktifkan daftar file sebelah kanan sebagai sumber"
+
+msgid "Add current folder to bookmarks"
+msgstr "Tambahkan folder saat ini ke bookmark"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Tambahkan plugin ke menu Ekstensi"
+
+msgid "Add plugin to main menu"
+msgstr "Tambahkan plugin ke menu utama"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Tambahkan folder yang dipilih ke bookmark"
+
+msgid "Add to selection (%s)"
+msgstr "Tambahkan ke pilihan (%s)"
+
+msgid "All"
+msgstr "Semua"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Semua file dalam direktori dengan nama yang sama dengan film yang dipilih juga akan disalin atau dipindahkan."
+
+msgid "All movie extensions"
+msgstr "Semua ekstensi film"
+
+msgid "B"
+msgstr "B"
+
+msgid "Block device"
+msgstr "Blokir perangkat"
+
+msgid "Calculate file checksums"
+msgstr "Hitung checksum file"
+
+msgid "Calculates file checksums."
+msgstr "Menghitung checksum file."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "Tidak dapat menjalankan %s: %s.\n%s mungkin ada dalam plugin yang tidak diinstal."
+
+msgid "Cancel"
+msgstr "Membatalkan"
+
+msgid "Cancel execution?"
+msgstr "Batalkan eksekusi?"
+
+msgid "Cannot create target directory."
+msgstr "Tidak dapat membuat direktori target."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Tidak dapat membuka gambar. Buka sebagai teks?"
+
+msgid "Cannot play file."
+msgstr "Tidak dapat memutar file."
+
+msgid "Cannot read file: %s"
+msgstr "Tidak dapat membaca berkas: %s"
+
+msgid "case insensitive"
+msgstr "tidak peka huruf besar-kecil"
+
+msgid "case sensitive"
+msgstr "peka huruf besar-kecil"
+
+msgid "Case sensitive search"
+msgstr "Pencarian peka huruf besar-kecil"
+
+msgid "Change buttons for list navigation"
+msgstr "Ubah tombol untuk navigasi daftar"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Ubah izin eksekusi (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Tombol saluran selalu berpindah sisi"
+
+msgid "Character device"
+msgstr "Perangkat karakter"
+
+msgid "Close"
+msgstr "Menutup"
+
+msgid "Compare case sensitive"
+msgstr "Bandingkan peka huruf besar-kecil"
+
+msgid "contains in title"
+msgstr "terkandung dalam judul"
+
+msgid "contains..."
+msgstr "berisi..."
+
+msgid "Content size:"
+msgstr "Ukuran konten:"
+
+msgid "Copy"
+msgstr "Menyalin"
+
+msgid "copy file"
+msgstr "menyalin berkas"
+
+msgid "Copy file"
+msgstr "Salin berkas"
+
+msgid "Copy file/directory to target directory"
+msgstr "Salin file/direktori ke direktori target"
+
+msgid "Copy files/directories to target directory"
+msgstr "Salin file/direktori ke direktori target"
+
+msgid "copy folder"
+msgstr "salin folder"
+
+msgid "Copy folder"
+msgstr "Salin map"
+
+msgid "Count directory content size"
+msgstr "Hitung ukuran konten direktori"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Menghitung ukuran konten direktori sambil berjalan (on/off)"
+
+msgid "CPU priority for script execution"
+msgstr "Prioritas CPU untuk eksekusi skrip"
+
+msgid "Create directory"
+msgstr "Buat direktori"
+
+msgid "create symlink ..."
+msgstr "buat symlink..."
+
+msgid "Create symlink to file"
+msgstr "Buat symlink ke file"
+
+msgid "Create user-named symbolic link"
+msgstr "Buat tautan simbolis bernama pengguna"
+
+msgid "d"
+msgstr "D"
+
+msgid "Date"
+msgstr "Tanggal"
+
+msgid "Date reverse"
+msgstr "Tanggal terbalik"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Prioritas CPU default (bagus) untuk skrip yang dieksekusi. Hal ini dapat mengurangi beban sehingga skrip tidak mengganggu sistem lainnya. (nilai lebih tinggi = prioritas lebih rendah)"
+
+msgid "Default directory sorting"
+msgstr "Penyortiran direktori default"
+
+msgid "Default file sorting left"
+msgstr "Penyortiran file default ke kiri"
+
+msgid "Default file sorting right"
+msgstr "Penyortiran file default benar"
+
+msgid "Default folder"
+msgstr "Folder bawaan"
+
+msgid "Default Folder"
+msgstr "Folder Bawaan"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Prioritas I/O default (ionice) untuk skrip yang dieksekusi. Hal ini dapat mengurangi beban sehingga skrip tidak mengganggu sistem lainnya. (nilai lebih tinggi = prioritas lebih rendah)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Metode pengurutan default untuk direktori di kedua panel (untuk menerapkan perubahan, FileCommander harus dimulai ulang)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Metode penyortiran default untuk file di panel kiri."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Metode penyortiran default untuk file di panel kanan."
+
+msgid "Delete"
+msgstr "Menghapus"
+
+msgid "Delete current line"
+msgstr "Hapus baris saat ini"
+
+msgid "Delete file"
+msgstr "Hapus berkas"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Hapus file atau direktori (dan semua isinya)"
+
+msgid "Delete folder"
+msgstr "Hapus map"
+
+msgid "Delete the selected files or directories"
+msgstr "Hapus file atau direktori yang dipilih"
+
+msgid "Deselect All"
+msgstr "Batalkan pilihan Semua"
+
+msgid "Deselect group"
+msgstr "Batalkan pilihan grup"
+
+msgid "Deselect group..."
+msgstr "Batalkan pilihan grup..."
+
+msgid "Directories to group selections"
+msgstr "Direktori untuk pilihan grup"
+
+msgid "Directory"
+msgstr "Direktori"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Direktori tidak dapat dibuat di sini pada\n<Daftar Perangkat Penyimpanan> atau <Penerima>.\nPindahkan pemilih satu baris ke bawah atau ubah direktori."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Tampilkan nama file di header. Ini berguna untuk nama file yang terlalu panjang."
+
+msgid "Do you want change rights?\n"
+msgstr "Apakah Anda ingin mengubah hak?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Apakah Anda ingin melihat atau menjalankan skrip?\n"
+
+msgid "Edit"
+msgstr "Sunting"
+
+msgid "Edit current line"
+msgstr "Edit baris saat ini"
+
+msgid "Edit line"
+msgstr "Sunting baris"
+
+msgid "Edit new file"
+msgstr "Sunting file baru"
+
+msgid "Edit position is the line end"
+msgstr "Posisi edit adalah akhir baris"
+
+msgid "end title"
+msgstr "judul akhir"
+
+msgid "ends with..."
+msgstr "berakhir dengan..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Masuk ke mode pemilihan multi-file"
+
+msgid "Error"
+msgstr "Kesalahan"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Kesalahan saat membuat direktori %s:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Kesalahan saat membuat berkas %s:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Terjadi kesalahan saat menautkan %s ke %s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Terjadi kesalahan saat mengganti nama %s menjadi %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Kesalahan saat menyimpan: %s"
+
+msgid "Error..."
+msgstr "Kesalahan..."
+
+msgid "Execution finished!!"
+msgstr "Eksekusi selesai!!"
+
+msgid "Execution progress\n\n"
+msgstr "Kemajuan eksekusi\n\n"
+
+msgid "Exit"
+msgstr "KELUAR"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Keluar dari editor dan tulis perubahan (jika ada)"
+
+msgid "Exit movie player?"
+msgstr "Keluar dari pemutar film?"
+
+msgid "Exit picture viewer"
+msgstr "Keluar dari penampil gambar"
+
+msgid "Extract archive to %s?"
+msgstr "Ekstrak arsip ke %s?"
+
+msgid "Extracting..."
+msgstr "Mengekstraksi..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "File tidak dapat dibuat di\n<Daftar Perangkat Penyimpanan> atau <Penerima>.\nHarap ubah direktori."
+
+msgid "File checksums/hashes"
+msgstr "File checksum/hash"
+
+msgid "File Commander"
+msgstr "Komandan File"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "File Commander - Addon Penampil File"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "File Commander - Pengaturan Penampil File Addon"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "Komandan File - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "Komandan File - Addon Pemutar Film"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander - pengendali arsip umum"
+
+msgid "File Commander - gzip Addon"
+msgstr "Komandan File - gzip Addon"
+
+msgid "File Commander - ipk Addon"
+msgstr "Komandan File - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "Komandan File - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "Komandan File - hapus Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "Komandan File - unzip Addon"
+
+msgid "File not found: %s"
+msgstr "Berkas tidak ditemukan: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "File terlalu besar untuk dibuka sebagai teks (maks 1MB)."
+
+msgid "File too large to open as text."
+msgstr "File terlalu besar untuk dibuka sebagai teks."
+
+msgid "File transfer was cancelled by user"
+msgstr "Transfer file dibatalkan oleh pengguna"
+
+msgid "File/Directory Status Information"
+msgstr "Informasi Status File/Direktori"
+
+msgid "Filenames in header"
+msgstr "Nama file di header"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Ekstensi filter, (*) muncul di judul"
+
+msgid "Filter visible file classes by extension."
+msgstr "Filter kelas file yang terlihat berdasarkan ekstensi."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "atas KEHILANGAN ATAU KERUSAKAN DATA!!!"
+
+msgid "from dir"
+msgstr "dari dir"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "Buka folder yang ditandai"
+
+msgid "Go to default directory"
+msgstr "Pergi ke direktori default"
+
+msgid "Go to end of file"
+msgstr "Pergi ke akhir file"
+
+msgid "Go to parent directory"
+msgstr "Buka direktori induk"
+
+msgid "Go to start of file"
+msgstr "Pergi ke awal file"
+
+msgid "Group:"
+msgstr "Kelompok:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "telah BERUBAH! Apakah Anda ingin menyimpannya?"
+
+msgid "Hide/Show"
+msgstr "Sembunyikan/Tampilkan"
+
+msgid "I/O priority for script execution"
+msgstr "Prioritas I/O untuk eksekusi skrip"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Jika mengedit file, Anda dapat mengatur posisi awal kursor di akhir atau awal baris."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "Dalam mode multi-pilihan, pindahkan kursor ke item berikutnya setelah menandai."
+
+msgid "Inode:"
+msgstr "Inode:"
+
+msgid "Insert"
+msgstr "Menyisipkan"
+
+msgid "Insert line before current line"
+msgstr "Sisipkan baris sebelum baris saat ini"
+
+msgid "Install"
+msgstr "Memasang"
+
+msgid "install/unpack ipk Files"
+msgstr "menginstal/membongkar File ipk"
+
+msgid "Installing Plugin ..."
+msgstr "Memasang Plugin..."
+
+msgid "Invert selection"
+msgstr "Balikkan seleksi"
+
+msgid "Invert Selection"
+msgstr "Balikkan Seleksi"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "Tidak mungkin menghitung hash di <Daftar Perangkat Penyimpanan>"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Tidak mungkin mengubah mode file <Daftar Perangkat Penyimpanan>"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Tidak mungkin mendapatkan status file <Daftar Perangkat Penyimpanan>"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Tinggalkan Komandan File"
+
+msgid "Leave multi-select mode"
+msgstr "Keluar dari mode multi-pilih"
+
+msgid "Link target:"
+msgstr "Sasaran tautan:"
+
+msgid "Links:"
+msgstr "Tautan:"
+
+msgid "List of Storage Devices"
+msgstr "Daftar Perangkat Penyimpanan"
+
+msgid "Load"
+msgstr "Memuat"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Jadikan FileCommander dapat diakses dari menu Extensions."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Jadikan FileCommander dapat diakses dari menu utama."
+
+msgid "manage local Files"
+msgstr "mengelola File lokal"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "MENU"
+
+msgid "Menu..."
+msgstr "Menu..."
+
+msgid "Metadata changed:"
+msgstr "Metadata berubah:"
+
+msgid "Mode %s (%04o)"
+msgstr "Modus %s (%04o)"
+
+msgid "Modified:"
+msgstr "Dimodifikasi:"
+
+msgid "Move"
+msgstr "Bergerak"
+
+msgid "Move down list"
+msgstr "Pindahkan daftar ke bawah"
+
+msgid "move file"
+msgstr "memindahkan berkas"
+
+msgid "Move file"
+msgstr "Pindahkan berkas"
+
+msgid "Move file/directory to target directory"
+msgstr "Pindahkan file/direktori ke direktori target"
+
+msgid "Move files/directories to target directory"
+msgstr "Pindahkan file/direktori ke direktori target"
+
+msgid "move folder"
+msgstr "memindahkan folder"
+
+msgid "Move folder"
+msgstr "Pindahkan map"
+
+msgid "Move selector to next item"
+msgstr "Pindahkan pemilih ke item berikutnya"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Pindahkan pemilih ke item berikutnya (hidup/mati)"
+
+msgid "Move up list"
+msgstr "Pindahkan daftar ke atas"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "MultiSelection Settings"
+msgstr "Pengaturan MultiPilihan"
+
+msgid "Music"
+msgstr "Musik"
+
+msgid "My extension"
+msgstr "Ekstensi saya"
+
+msgid "My Extension"
+msgstr "Ekstensi Saya"
+
+msgid "n"
+msgstr "N"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "Name reverse"
+msgstr "Nama terbalik"
+
+msgid "New folder"
+msgstr "Folder baru"
+
+msgid "New symlink"
+msgstr "Tautan simbolik baru"
+
+msgid "new.txt"
+msgstr "baru.txt"
+
+msgid "No"
+msgstr "TIDAK"
+
+msgid "No files found."
+msgstr "Tidak ada file yang ditemukan."
+
+msgid "No hash calculations configured"
+msgstr "Tidak ada penghitungan hash yang dikonfigurasi"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "Tak satu pun dari program hash untuk hash %s tersedia"
+
+msgid "Not allowed with folders"
+msgstr "Tidak diperbolehkan dengan folder"
+
+msgid "nothing connected"
+msgstr "tidak ada yang terhubung"
+
+msgid "Number of lines in script messages"
+msgstr "Jumlah baris dalam pesan skrip"
+
+msgid "OK"
+msgstr "OKE"
+
+msgid "On device:"
+msgstr "Di perangkat:"
+
+msgid "Open"
+msgstr "Membuka"
+
+msgid "Open actions menu"
+msgstr "Buka menu tindakan"
+
+msgid "Open settings/actions menu"
+msgstr "Buka menu pengaturan/tindakan"
+
+msgid "Open with File Commander"
+msgstr "Buka dengan File Commander"
+
+msgid "or save the picture additionally to a file"
+msgstr "atau simpan gambar tambahan ke file"
+
+msgid "Original subtitles codepage"
+msgstr "Halaman kode subtitle asli"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Halaman kode subtitle asli untuk konversi ke UTF-8."
+
+msgid "Original:"
+msgstr "Asli:"
+
+msgid "Owner:"
+msgstr "Pemilik:"
+
+msgid "Page down list"
+msgstr "Daftar halaman bawah"
+
+msgid "Page up list"
+msgstr "Daftar halaman atas"
+
+msgid "Parent Directory"
+msgstr "Direktori Induk"
+
+msgid "Permissions:"
+msgstr "Izin:"
+
+msgid "Pictures"
+msgstr "Gambar"
+
+msgid "play Files"
+msgstr "memutar File"
+
+msgid "Play folder"
+msgstr "Mainkan folder"
+
+msgid "Play title"
+msgstr "Judul pemutaran"
+
+msgid "play/show Files"
+msgstr "memutar/menampilkan File"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Putar/lihat/edit/instal/ekstrak/jalankan file atau masuk ke direktori"
+
+msgid "Please enter file/folder name"
+msgstr "Silakan masukkan nama file/folder"
+
+msgid "Please enter name of the new directory"
+msgstr "Silakan masukkan nama direktori baru"
+
+msgid "Please enter name of the new symlink"
+msgstr "Silakan masukkan nama symlink baru"
+
+msgid "Please enter password"
+msgstr "Silakan masukkan kata sandi"
+
+msgid "Please enter the new directory name"
+msgstr "Silakan masukkan nama direktori baru"
+
+msgid "Please enter the new file name"
+msgstr "Silakan masukkan nama file baru"
+
+msgid "Please wait, Loading image."
+msgstr "Harap tunggu, Memuat gambar."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Tekan OK atau Keluar untuk membatalkan!"
+
+msgid "python"
+msgstr "ular piton"
+
+msgid "Records"
+msgstr "Catatan"
+
+msgid "Refresh screen"
+msgstr "Segarkan layar"
+
+msgid "Regular file"
+msgstr "Berkas biasa"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Hapus folder saat ini dari bookmark"
+
+msgid "Remove from selection (%s)"
+msgstr "Hapus dari pilihan (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Hapus folder yang dipilih dari bookmark"
+
+msgid "Rename"
+msgstr "Ganti nama"
+
+msgid "Rename file"
+msgstr "Ganti nama berkas"
+
+msgid "Rename file/directory"
+msgstr "Ganti nama file/direktori"
+
+msgid "Restart"
+msgstr "Mulai ulang"
+
+msgid "Reverse left file sorting"
+msgstr "Membalikkan penyortiran file kiri"
+
+msgid "Reverse right file sorting"
+msgstr "Membalikkan penyortiran file kanan"
+
+msgid "Run script"
+msgstr "Jalankan skrip"
+
+msgid "Run script in background"
+msgstr "Jalankan skrip di latar belakang"
+
+msgid "Run script with optional parameter"
+msgstr "Jalankan skrip dengan parameter opsional"
+
+msgid "Run script with optional parameter in background"
+msgstr "Jalankan skrip dengan parameter opsional di latar belakang"
+
+msgid "s"
+msgstr "S"
+
+msgid "Save cursor position"
+msgstr "Simpan posisi kursor"
+
+msgid "Save cursor position in active panel."
+msgstr "Simpan posisi kursor di panel aktif."
+
+msgid "Save left folder on exit"
+msgstr "Simpan folder kiri saat keluar"
+
+msgid "Save right folder on exit"
+msgstr "Simpan folder kanan saat keluar"
+
+msgid "Save the left directory list location on exit."
+msgstr "Simpan lokasi daftar direktori kiri saat keluar."
+
+msgid "Save the right folder list location on exit."
+msgstr "Simpan lokasi daftar folder yang tepat saat keluar."
+
+msgid "Search in group selection by"
+msgstr "Cari dalam pilihan grup berdasarkan"
+
+msgid "Search text"
+msgstr "Cari teks"
+
+msgid "Search text (%s):"
+msgstr "Teks pencarian (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Cari teks dalam file (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Pilih (daftar sumber) atau masukkan direktori (daftar target)"
+
+msgid "Select a path"
+msgstr "Pilih jalur"
+
+msgid "Select action:"
+msgstr "Pilih tindakan:"
+
+msgid "Select All"
+msgstr "Pilih Semua"
+
+msgid "Select group"
+msgstr "Pilih grup"
+
+msgid "Select group..."
+msgstr "Pilih grup..."
+
+msgid "Select operation:"
+msgstr "Pilih operasi:"
+
+msgid "Select your personal settings:"
+msgstr "Pilih pengaturan pribadi Anda:"
+
+msgid "Set archive mode (644)"
+msgstr "Setel mode arsip (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Setel mode yang dapat dieksekusi (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Menyetel apakah akan membedakan antara huruf besar dan huruf kecil untuk pencarian."
+
+msgid "Settings"
+msgstr "Pengaturan"
+
+msgid "Settings..."
+msgstr "Pengaturan..."
+
+msgid "shell"
+msgstr "kerang"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Tampilkan sebagai Gambar (tekan tombol apa saja untuk menutup)"
+
+msgid "Show contents of ipk file"
+msgstr "Tampilkan isi file ipk"
+
+msgid "Show contents of rar file"
+msgstr "Tampilkan isi file rar"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Tampilkan konten tar atau file tar terkompresi"
+
+msgid "Show contents of zip file"
+msgstr "Tampilkan isi file zip"
+
+msgid "Show directories first"
+msgstr "Tampilkan direktori terlebih dahulu"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Tampilkan direktori pada posisi pertama atau terakhir di panel (untuk menerapkan perubahan, FileCommander harus dimulai ulang)."
+
+msgid "Show image information"
+msgstr "Tampilkan informasi gambar"
+
+msgid "Show next picture"
+msgstr "Tampilkan gambar selanjutnya"
+
+msgid "Show previous picture"
+msgstr "Tampilkan gambar sebelumnya"
+
+msgid "Show Script completed message"
+msgstr "Tampilkan pesan Script selesai"
+
+msgid "Show task list"
+msgstr "Tampilkan daftar tugas"
+
+msgid "Show unknown extension as text"
+msgstr "Tampilkan ekstensi yang tidak dikenal sebagai teks"
+
+msgid "Size"
+msgstr "Ukuran"
+
+msgid "Size reverse"
+msgstr "Ukuran terbalik"
+
+msgid "Size:"
+msgstr "Ukuran:"
+
+msgid "Socket"
+msgstr "Stopkontak"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Menyortir file kiri berdasarkan nama, tanggal atau ukuran"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Menyortir file yang tepat berdasarkan nama, tanggal atau ukuran"
+
+msgid "start title"
+msgstr "mulai judul"
+
+msgid "Start/stop slide show"
+msgstr "Memulai/menghentikan tayangan slide"
+
+msgid "starts with..."
+msgstr "dimulai dengan..."
+
+msgid "Storage devices"
+msgstr "Perangkat penyimpanan"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Tukar tombol untuk penyortiran file terbalik"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Tukar tombol kanan/kiri dengan saluran +/- atau tombol saluran diubah selalu di samping."
+
+msgid "Symbolic link"
+msgstr "Tautan simbolis"
+
+msgid "Symlink to"
+msgstr "Tautan sim ke"
+
+msgid "Task list"
+msgstr "Daftar tugas"
+
+msgid "TB"
+msgstr "TBC"
+
+msgid "Text not found."
+msgstr "Teks tidak ditemukan."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Penelusuran teks peka huruf besar-kecil atau tidak peka huruf besar-kecil."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Penulis TIDAK BERTANGGUNG JAWAB"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "Komponen Penampil Gambar dari File Commander memerlukan ekstensi PicturePlayer. Instal PicturePlayer untuk mengaktifkan operasi ini."
+
+msgid "This line is not editable!"
+msgstr "Baris ini tidak dapat diedit!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Waktu antar slide dalam tayangan slide penampil gambar."
+
+msgid "Time for Slideshow"
+msgstr "Saatnya Tayangan Slide"
+
+msgid "to dir"
+msgstr "ke dir"
+
+msgid "To next found text"
+msgstr "Ke teks yang ditemukan berikutnya"
+
+msgid "To previous found text"
+msgstr "Ke teks yang ditemukan sebelumnya"
+
+msgid "Type the name for the new file"
+msgstr "Ketikkan nama untuk file baru"
+
+msgid "Type:"
+msgstr "Jenis:"
+
+msgid "Unknown"
+msgstr "Tidak dikenal"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Jenis file tidak diketahui. Buka sebagai teks?"
+
+msgid "Unknown group: %d"
+msgstr "Grup tidak diketahui: %d"
+
+msgid "Unknown user: %d"
+msgstr "Pengguna tidak dikenal: %d"
+
+msgid "unpack archives"
+msgstr "membongkar arsip"
+
+msgid "unpack gzip Files"
+msgstr "buka paket File gzip"
+
+msgid "unpack Rar Files"
+msgstr "membongkar File Rar"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "buka paket File tar/tar terkompresi"
+
+msgid "Unpack to %s"
+msgstr "Buka kemasan ke %s"
+
+msgid "Unpack to current folder"
+msgstr "Buka paket ke folder saat ini"
+
+msgid "unpack zip Files"
+msgstr "membongkar File zip"
+
+msgid "Unsupported archive type."
+msgstr "Jenis arsip tidak didukung."
+
+msgid "v"
+msgstr "ay"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Melihat atau mengedit file (jika ukurannya < 1MB)"
+
+msgid "View or edit this %s script"
+msgstr "Lihat atau edit skrip %s ini"
+
+msgid "WARNING!"
+msgstr "PERINGATAN!"
+
+msgid "What do you want to play?\n"
+msgstr "Apa yang ingin kamu mainkan?\n"
+
+msgid "without"
+msgstr "tanpa"
+
+msgid "Yes"
+msgstr "Ya"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Anda dapat mengatur jumlah huruf dari awal nama file saat ini sebagai teks yang telah diisi sebelumnya ke keyboard virtual untuk memudahkan input melalui pemilihan grup."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Anda dapat mengatur jumlah huruf dari akhir nama file saat ini sebagai teks yang telah diisi sebelumnya ke keyboard virtual untuk memudahkan input melalui pemilihan grup."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Anda dapat mengatur apa yang akan digunakan dalam pemilihan grup - awal judul, akhir judul, atau isi judul."
+

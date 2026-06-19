@@ -1,0 +1,1050 @@
+# et translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: et <ekekaz@gmail.com>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- fail on olemas! Üle kirjutada"
+
+msgid "- folder exist! Overwrite"
+msgstr "- kaust on olemas! Üle kirjutada"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Valirežiim)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\mittekohustuslik parameeter:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s – ekstraktimise vead."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s on parooliga kaitstud."
+
+msgid "%s successfully extracted."
+msgstr "%s on edukalt ekstraktitud."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Vastuvõtja>"
+
+msgid "Accessed:"
+msgstr "Juurdepääs:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Aktiveerige vasakpoolne faililoend mitme valiku allikana"
+
+msgid "Activate left-hand file list as source"
+msgstr "Aktiveerige allikana vasakpoolne faililoend"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Aktiveerige parempoolne faililoend mitme valiku allikana"
+
+msgid "Activate right-hand file list as source"
+msgstr "Aktiveerige allikana parempoolne faililoend"
+
+msgid "Add current folder to bookmarks"
+msgstr "Lisage praegune kaust järjehoidjatesse"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Lisage pistikprogramm laienduste menüüsse"
+
+msgid "Add plugin to main menu"
+msgstr "Lisage peamenüüsse pistikprogramm"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Lisage valitud kaust järjehoidjatesse"
+
+msgid "Add to selection (%s)"
+msgstr "Lisa valikusse (%s)"
+
+msgid "All"
+msgstr "Kõik"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Kõik valitud filmiga sama nimega failid kataloogis kopeeritakse või teisaldatakse."
+
+msgid "All movie extensions"
+msgstr "Kõik filmilaiendid"
+
+msgid "B"
+msgstr "B"
+
+msgid "Block device"
+msgstr "Blokeeri seade"
+
+msgid "Calculate file checksums"
+msgstr "Failide kontrollsummade arvutamine"
+
+msgid "Calculates file checksums."
+msgstr "Arvutab failide kontrollsummad."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "%s ei saa käivitada: %s.\n%s võib olla installimata pistikprogrammis."
+
+msgid "Cancel"
+msgstr "Tühista"
+
+msgid "Cancel execution?"
+msgstr "Kas tühistada täitmine?"
+
+msgid "Cannot create target directory."
+msgstr "Sihtkataloogi ei saa luua."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Pilti ei saa avada. Kas avada tekstina?"
+
+msgid "Cannot play file."
+msgstr "Faili ei saa esitada."
+
+msgid "Cannot read file: %s"
+msgstr "Faili ei saa lugeda: %s"
+
+msgid "case insensitive"
+msgstr "tõstutundlik"
+
+msgid "case sensitive"
+msgstr "tõstutundlik"
+
+msgid "Case sensitive search"
+msgstr "Tõstutundlik otsing"
+
+msgid "Change buttons for list navigation"
+msgstr "Loendis navigeerimise nuppude muutmine"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Muutke täitmisõigusi (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Kanali nupp vahetab alati külgi"
+
+msgid "Character device"
+msgstr "Tähemärgi seade"
+
+msgid "Close"
+msgstr "Sule"
+
+msgid "Compare case sensitive"
+msgstr "Võrdle tõstutundlik"
+
+msgid "contains in title"
+msgstr "sisaldab pealkirjas"
+
+msgid "contains..."
+msgstr "sisaldab..."
+
+msgid "Content size:"
+msgstr "Sisu suurus:"
+
+msgid "Copy"
+msgstr "Kopeeri"
+
+msgid "copy file"
+msgstr "kopeeri fail"
+
+msgid "Copy file"
+msgstr "Kopeeri fail"
+
+msgid "Copy file/directory to target directory"
+msgstr "Kopeerige fail/kataloog sihtkataloogi"
+
+msgid "Copy files/directories to target directory"
+msgstr "Kopeerige failid/kataloogid sihtkataloogi"
+
+msgid "copy folder"
+msgstr "kopeeri kaust"
+
+msgid "Copy folder"
+msgstr "Kopeeri kaust"
+
+msgid "Count directory content size"
+msgstr "Loendage kataloogi sisu suurus"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Kataloogi sisu suuruse loendamine kõndimise ajal (sisse/välja)"
+
+msgid "CPU priority for script execution"
+msgstr "CPU prioriteet skripti täitmisel"
+
+msgid "Create directory"
+msgstr "Loo kataloog"
+
+msgid "create symlink ..."
+msgstr "loo sümbollink ..."
+
+msgid "Create symlink to file"
+msgstr "Looge failile sümboolne link"
+
+msgid "Create user-named symbolic link"
+msgstr "Looge kasutajanimeline sümboolne link"
+
+msgid "d"
+msgstr "d"
+
+msgid "Date"
+msgstr "Kuupäev"
+
+msgid "Date reverse"
+msgstr "Kuupäev vastupidine"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "CPU vaikeprioriteet (kena) käivitatud skriptide jaoks. See võib koormust vähendada, nii et skriptid ei sega ülejäänud süsteemi tööd. (kõrgemad väärtused = madalam prioriteet)"
+
+msgid "Default directory sorting"
+msgstr "Vaikimisi kataloogide sortimine"
+
+msgid "Default file sorting left"
+msgstr "Vaikimisi failide sortimine on jäänud"
+
+msgid "Default file sorting right"
+msgstr "Vaikimisi failide sortimise õigus"
+
+msgid "Default folder"
+msgstr "Vaikekaust"
+
+msgid "Default Folder"
+msgstr "Vaikekaust"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "I/O vaikeprioriteet (ionice) käivitatud skriptidele. See võib koormust vähendada, nii et skriptid ei sega ülejäänud süsteemi tööd. (kõrgemad väärtused = madalam prioriteet)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Mõlema paneeli kataloogide vaikesorteerimismeetod (muudatuste rakendamiseks tuleb FileCommander taaskäivitada)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Vasakul paneelil olevate failide vaikesorteerimismeetod."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Parempoolsel paneelil olevate failide vaikesorteerimismeetod."
+
+msgid "Delete"
+msgstr "Kustuta"
+
+msgid "Delete current line"
+msgstr "Kustuta praegune rida"
+
+msgid "Delete file"
+msgstr "Kustuta fail"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Kustutage fail või kataloog (ja kogu selle sisu)"
+
+msgid "Delete folder"
+msgstr "Kustuta kaust"
+
+msgid "Delete the selected files or directories"
+msgstr "Kustutage valitud failid või kataloogid"
+
+msgid "Deselect All"
+msgstr "Tühistage valik Kõik"
+
+msgid "Deselect group"
+msgstr "Tühistage grupi valik"
+
+msgid "Deselect group..."
+msgstr "Tühista grupi valik..."
+
+msgid "Directories to group selections"
+msgstr "Kataloogid rühmavalikute jaoks"
+
+msgid "Directory"
+msgstr "Kataloog"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Kataloogi ei saa siin luua\n<Salvestusseadmete loendis> või <Receiver>.\nLiiguta valija ühe rea võrra allapoole või muuda kataloogi."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Kuva failinimed päises. See on kasulik liiga pikkade failinimede puhul."
+
+msgid "Do you want change rights?\n"
+msgstr "Kas soovite õigusi muuta?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Kas soovite skripti vaadata või käivitada?\n"
+
+msgid "Edit"
+msgstr "Muuda"
+
+msgid "Edit current line"
+msgstr "Muuda praegust rida"
+
+msgid "Edit line"
+msgstr "Redigeeri rida"
+
+msgid "Edit new file"
+msgstr "Redigeeri uut faili"
+
+msgid "Edit position is the line end"
+msgstr "Redigeerimisasend on rea lõpp"
+
+msgid "end title"
+msgstr "lõpu pealkiri"
+
+msgid "ends with..."
+msgstr "lõpeb..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Sisenege mitme faili valimise režiimi"
+
+msgid "Error"
+msgstr "Viga"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Viga kataloogi %s loomisel:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Viga faili %s loomisel:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Viga %s linkimisel %s-ga:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Viga %s ümbernimetamisel uueks nimeks %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Viga salvestamisel: %s"
+
+msgid "Error..."
+msgstr "Viga..."
+
+msgid "Execution finished!!"
+msgstr "Täitmine lõppenud!!"
+
+msgid "Execution progress\n\n"
+msgstr "Täitmise edenemine\n\n"
+
+msgid "Exit"
+msgstr "Välju"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Välju redaktorist ja kirjuta muudatused (kui neid on)"
+
+msgid "Exit movie player?"
+msgstr "Kas väljuda filmipleierist?"
+
+msgid "Exit picture viewer"
+msgstr "Välju pildivaaturist"
+
+msgid "Extract archive to %s?"
+msgstr "Kas ekstraktida arhiiv asukohta %s?"
+
+msgid "Extracting..."
+msgstr "Ekstraheerimine..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Faili ei saa luua\n<salvestusseadmete loendis> või <vastuvõtjas>.\nMuuda palun kataloogi."
+
+msgid "File checksums/hashes"
+msgstr "Faili kontrollsummad/räsid"
+
+msgid "File Commander"
+msgstr "Failiülem"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "File Commander – failivaaturi lisamine"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "File Commander – lisa failivaaturi sätted"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "File Commander – Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "File Commander – Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander – üldine arhiivitöötleja"
+
+msgid "File Commander - gzip Addon"
+msgstr "File Commander - gzip Addon"
+
+msgid "File Commander - ipk Addon"
+msgstr "File Commander - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "File Commander - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "File Commander - eemaldage lisand"
+
+msgid "File Commander - unzip Addon"
+msgstr "File Commander – pakkige Addon lahti"
+
+msgid "File not found: %s"
+msgstr "Faili ei leitud: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Fail on tekstina avamiseks liiga suur (max 1 MB)."
+
+msgid "File too large to open as text."
+msgstr "Fail on tekstina avamiseks liiga suur."
+
+msgid "File transfer was cancelled by user"
+msgstr "Kasutaja tühistas failiedastuse"
+
+msgid "File/Directory Status Information"
+msgstr "Faili/kataloogi olekuteave"
+
+msgid "Filenames in header"
+msgstr "Päises olevad failinimed"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Filtrilaiend (*) kuvatakse pealkirjas"
+
+msgid "Filter visible file classes by extension."
+msgstr "Filtreerige nähtavad failiklassid laienduse järgi."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "ANDMETE KAOTUSE VÕI KAHJUSTUSE eest !!!"
+
+msgid "from dir"
+msgstr "alates rež"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "Minge järjehoidjatega kausta"
+
+msgid "Go to default directory"
+msgstr "Minge vaikekataloogi"
+
+msgid "Go to end of file"
+msgstr "Mine faili lõppu"
+
+msgid "Go to parent directory"
+msgstr "Minge emakataloogi"
+
+msgid "Go to start of file"
+msgstr "Mine faili algusesse"
+
+msgid "Group:"
+msgstr "Grupp:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "on MUUDETUD! Kas soovite seda salvestada?"
+
+msgid "Hide/Show"
+msgstr "Peida/Kuva"
+
+msgid "I/O priority for script execution"
+msgstr "I/O prioriteet skripti täitmisel"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Faili redigeerimisel saate määrata kursori alguspositsiooni rea lõpus või alguses."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "Mitme valiku režiimis liigub kursor pärast märgistamist järgmise üksuse juurde."
+
+msgid "Inode:"
+msgstr "Inode:"
+
+msgid "Insert"
+msgstr "Sisestage"
+
+msgid "Insert line before current line"
+msgstr "Sisesta rida enne praegust rida"
+
+msgid "Install"
+msgstr "Installige"
+
+msgid "install/unpack ipk Files"
+msgstr "installige/lahti pakkige ipk-failid"
+
+msgid "Installing Plugin ..."
+msgstr "Plugina installimine..."
+
+msgid "Invert selection"
+msgstr "Inverteeri valik"
+
+msgid "Invert Selection"
+msgstr "Valiku ümberpööramine"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "<Salvestusseadmete loendi> räsi pole võimalik arvutada"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "<Salvestusseadmete loendi> failirežiimi ei ole võimalik muuta"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "<Saldusseadmete loendi> faili olekut pole võimalik hankida"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Lahku File Commanderist"
+
+msgid "Leave multi-select mode"
+msgstr "Välju mitmikvaliku režiimist"
+
+msgid "Link target:"
+msgstr "Lingi sihtmärk:"
+
+msgid "Links:"
+msgstr "Lingid:"
+
+msgid "List of Storage Devices"
+msgstr "Salvestusseadmete loend"
+
+msgid "Load"
+msgstr "Laadige"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Tee FileCommander juurdepääsetavaks menüüst Laiendused."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Tee FileCommander peamenüüst ligipääsetavaks."
+
+msgid "manage local Files"
+msgstr "hallata kohalikke faile"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "MENÜÜ"
+
+msgid "Menu..."
+msgstr "Menüü..."
+
+msgid "Metadata changed:"
+msgstr "Metaandmed muudetud:"
+
+msgid "Mode %s (%04o)"
+msgstr "Režiim %s (%04o)"
+
+msgid "Modified:"
+msgstr "Muudetud:"
+
+msgid "Move"
+msgstr "Liiguta"
+
+msgid "Move down list"
+msgstr "Liigu nimekirja alla"
+
+msgid "move file"
+msgstr "faili teisaldada"
+
+msgid "Move file"
+msgstr "Teisalda fail"
+
+msgid "Move file/directory to target directory"
+msgstr "Teisalda fail/kataloog sihtkataloogi"
+
+msgid "Move files/directories to target directory"
+msgstr "Teisaldage failid/kataloogid sihtkataloogi"
+
+msgid "move folder"
+msgstr "teisalda kaust"
+
+msgid "Move folder"
+msgstr "Teisalda kaust"
+
+msgid "Move selector to next item"
+msgstr "Liigutage valija järgmisele üksusele"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Liiguta valija järgmisele üksusele (sisse/välja)"
+
+msgid "Move up list"
+msgstr "Liigu loendist üles"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "MultiSelection Settings"
+msgstr "Mitme valiku sätted"
+
+msgid "Music"
+msgstr "Muusika"
+
+msgid "My extension"
+msgstr "Minu pikendus"
+
+msgid "My Extension"
+msgstr "Minu laiendus"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Name reverse"
+msgstr "Nimi vastupidine"
+
+msgid "New folder"
+msgstr "Uus kaust"
+
+msgid "New symlink"
+msgstr "Uus sümbollink"
+
+msgid "new.txt"
+msgstr "uus.txt"
+
+msgid "No"
+msgstr "Ei"
+
+msgid "No files found."
+msgstr "Faile ei leitud."
+
+msgid "No hash calculations configured"
+msgstr "Räsiarvutusi pole konfigureeritud"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "Ühtegi räsiprogrammi %s räsi jaoks pole saadaval"
+
+msgid "Not allowed with folders"
+msgstr "Pole lubatud kaustadega"
+
+msgid "nothing connected"
+msgstr "pole midagi seotud"
+
+msgid "Number of lines in script messages"
+msgstr "Ridade arv skriptisõnumites"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On device:"
+msgstr "Seadmes:"
+
+msgid "Open"
+msgstr "Avatud"
+
+msgid "Open actions menu"
+msgstr "Avage toimingute menüü"
+
+msgid "Open settings/actions menu"
+msgstr "Avage seadete/toimingute menüü"
+
+msgid "Open with File Commander"
+msgstr "Avage File Commanderiga"
+
+msgid "or save the picture additionally to a file"
+msgstr "või salvestage pilt täiendavalt faili"
+
+msgid "Original subtitles codepage"
+msgstr "Originaalsubtiitrite koodileht"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Algsete subtiitrite koodileht UTF-8 teisendamiseks."
+
+msgid "Original:"
+msgstr "Originaal:"
+
+msgid "Owner:"
+msgstr "Omanik:"
+
+msgid "Page down list"
+msgstr "Lehekülje alla nimekiri"
+
+msgid "Page up list"
+msgstr "Lehekülg üles loend"
+
+msgid "Parent Directory"
+msgstr "Vanemkataloog"
+
+msgid "Permissions:"
+msgstr "Load:"
+
+msgid "Pictures"
+msgstr "Pildid"
+
+msgid "play Files"
+msgstr "mängida faile"
+
+msgid "Play folder"
+msgstr "Esita kaust"
+
+msgid "Play title"
+msgstr "Esita pealkiri"
+
+msgid "play/show Files"
+msgstr "esita/näita faile"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Esita/vaata/redigeeri/installi/ekstrakti/käivita fail või sisene kataloogi"
+
+msgid "Please enter file/folder name"
+msgstr "Palun sisesta faili/kausta nimi"
+
+msgid "Please enter name of the new directory"
+msgstr "Palun sisestage uue kataloogi nimi"
+
+msgid "Please enter name of the new symlink"
+msgstr "Sisestage uue sümbollingi nimi"
+
+msgid "Please enter password"
+msgstr "Palun sisesta parool"
+
+msgid "Please enter the new directory name"
+msgstr "Palun sisestage uus kataloogi nimi"
+
+msgid "Please enter the new file name"
+msgstr "Palun sisestage uus failinimi"
+
+msgid "Please wait, Loading image."
+msgstr "Palun oodake, pildi laadimine."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Katkestamiseks vajutage nuppu OK või Välju!"
+
+msgid "python"
+msgstr "püüton"
+
+msgid "Records"
+msgstr "Rekordid"
+
+msgid "Refresh screen"
+msgstr "Värskenda ekraani"
+
+msgid "Regular file"
+msgstr "Tavaline fail"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Eemaldage praegune kaust järjehoidjatest"
+
+msgid "Remove from selection (%s)"
+msgstr "Eemalda valikust (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Eemaldage valitud kaust järjehoidjatest"
+
+msgid "Rename"
+msgstr "Nimeta ümber"
+
+msgid "Rename file"
+msgstr "Nimeta fail ümber"
+
+msgid "Rename file/directory"
+msgstr "Nimeta fail/kataloog ümber"
+
+msgid "Restart"
+msgstr "Taaskäivitage"
+
+msgid "Reverse left file sorting"
+msgstr "Failide sorteerimine vastupidises suunas"
+
+msgid "Reverse right file sorting"
+msgstr "Pöörake failide sortimist paremale"
+
+msgid "Run script"
+msgstr "Käivitage skript"
+
+msgid "Run script in background"
+msgstr "Käivitage skript taustal"
+
+msgid "Run script with optional parameter"
+msgstr "Käivitage skript koos valikulise parameetriga"
+
+msgid "Run script with optional parameter in background"
+msgstr "Käivitage taustal valikulise parameetriga skript"
+
+msgid "s"
+msgstr "s"
+
+msgid "Save cursor position"
+msgstr "Salvestage kursori asukoht"
+
+msgid "Save cursor position in active panel."
+msgstr "Salvestage kursori asukoht aktiivsel paneelil."
+
+msgid "Save left folder on exit"
+msgstr "Väljumisel salvestage vasak kaust"
+
+msgid "Save right folder on exit"
+msgstr "Väljumisel salvestage parem kaust"
+
+msgid "Save the left directory list location on exit."
+msgstr "Väljumisel salvestage vasakpoolse kataloogi loendi asukoht."
+
+msgid "Save the right folder list location on exit."
+msgstr "Väljumisel salvestage õige kaustade loendi asukoht."
+
+msgid "Search in group selection by"
+msgstr "Otsi rühmavalikust"
+
+msgid "Search text"
+msgstr "Otsi teksti"
+
+msgid "Search text (%s):"
+msgstr "Otsingutekst (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Otsi teksti failist (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Valige (allikaloend) või sisestage kataloog (sihtloend)"
+
+msgid "Select a path"
+msgstr "Valige tee"
+
+msgid "Select action:"
+msgstr "Valige toiming:"
+
+msgid "Select All"
+msgstr "Valige Kõik"
+
+msgid "Select group"
+msgstr "Valige rühm"
+
+msgid "Select group..."
+msgstr "Vali grupp..."
+
+msgid "Select operation:"
+msgstr "Valige toiming:"
+
+msgid "Select your personal settings:"
+msgstr "Valige oma isiklikud seaded:"
+
+msgid "Set archive mode (644)"
+msgstr "Arhiivirežiimi määramine (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Käivitusrežiimi määramine (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Määrab, kas otsimisel eristada suur- ja väiketähti."
+
+msgid "Settings"
+msgstr "Seaded"
+
+msgid "Settings..."
+msgstr "Seaded..."
+
+msgid "shell"
+msgstr "kest"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Kuva pildina (sulgemiseks vajutage suvalist klahvi)"
+
+msgid "Show contents of ipk file"
+msgstr "Kuva ipk-faili sisu"
+
+msgid "Show contents of rar file"
+msgstr "Kuva rar-faili sisu"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Näitab tar- või tihendatud tar-faili sisu"
+
+msgid "Show contents of zip file"
+msgstr "Kuva zip-faili sisu"
+
+msgid "Show directories first"
+msgstr "Näita kõigepealt katalooge"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Näita katalooge paneeli esimestel või viimastel positsioonidel (muudatuste rakendamiseks tuleb FileCommander taaskäivitada)."
+
+msgid "Show image information"
+msgstr "Näita pildi teavet"
+
+msgid "Show next picture"
+msgstr "Näita järgmist pilti"
+
+msgid "Show previous picture"
+msgstr "Näita eelmist pilti"
+
+msgid "Show Script completed message"
+msgstr "Kuva skripti lõpetatud teade"
+
+msgid "Show task list"
+msgstr "Kuva ülesannete loend"
+
+msgid "Show unknown extension as text"
+msgstr "Kuva tundmatu laiend tekstina"
+
+msgid "Size"
+msgstr "Suurus"
+
+msgid "Size reverse"
+msgstr "Suurus vastupidine"
+
+msgid "Size:"
+msgstr "Suurus:"
+
+msgid "Socket"
+msgstr "Pistikupesa"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Vasakpoolsete failide sorteerimine nime, kuupäeva või suuruse järgi"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Õigete failide sortimine nime, kuupäeva või suuruse järgi"
+
+msgid "start title"
+msgstr "alguse pealkiri"
+
+msgid "Start/stop slide show"
+msgstr "Alusta/peata slaidiseanss"
+
+msgid "starts with..."
+msgstr "algab..."
+
+msgid "Storage devices"
+msgstr "Salvestusseadmed"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Vahetusnupud failide vastupidiseks sortimiseks"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Vahetage nuppe paremale/vasakule kanaliga +/- või kanali nupp muutis alati külje."
+
+msgid "Symbolic link"
+msgstr "Sümboolne link"
+
+msgid "Symlink to"
+msgstr "Sümbollink aadressile"
+
+msgid "Task list"
+msgstr "Ülesannete loend"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Text not found."
+msgstr "Teksti ei leitud."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Tekstiotsing tõstutundlikuna või tõstutundlikuna."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Autorid EI VASTUTA"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "File Commanderi Image Vieweri komponent nõuab PicturePlayeri laiendust. Selle toimingu lubamiseks installige PicturePlayer."
+
+msgid "This line is not editable!"
+msgstr "Seda rida ei saa muuta!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Pildivaaturi slaidiseansi slaidide vaheline aeg."
+
+msgid "Time for Slideshow"
+msgstr "Aeg slaidiesituseks"
+
+msgid "to dir"
+msgstr "et rež"
+
+msgid "To next found text"
+msgstr "Järgmise leitud teksti juurde"
+
+msgid "To previous found text"
+msgstr "Eelmisele leitud tekstile"
+
+msgid "Type the name for the new file"
+msgstr "Tippige uue faili nimi"
+
+msgid "Type:"
+msgstr "Tüüp:"
+
+msgid "Unknown"
+msgstr "Tundmatu"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Tundmatu failitüüp. Kas avada tekstina?"
+
+msgid "Unknown group: %d"
+msgstr "Tundmatu rühm: %d"
+
+msgid "Unknown user: %d"
+msgstr "Tundmatu kasutaja: %d"
+
+msgid "unpack archives"
+msgstr "arhiivid lahti pakkima"
+
+msgid "unpack gzip Files"
+msgstr "pakkige gzip-failid lahti"
+
+msgid "unpack Rar Files"
+msgstr "pakkige Rar-failid lahti"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "pakki lahti tar/tihendatud tar failid"
+
+msgid "Unpack to %s"
+msgstr "Paki lahti %s"
+
+msgid "Unpack to current folder"
+msgstr "Pakkige lahti praegusesse kausta"
+
+msgid "unpack zip Files"
+msgstr "zip-failide lahti pakkimine"
+
+msgid "Unsupported archive type."
+msgstr "Toetamata arhiivitüüp."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Faili vaatamine või muutmine (kui suurus < 1 MB)"
+
+msgid "View or edit this %s script"
+msgstr "Vaadake või muutke seda %s skripti"
+
+msgid "WARNING!"
+msgstr "HOIATUS!"
+
+msgid "What do you want to play?\n"
+msgstr "Mida sa tahad mängida?\n"
+
+msgid "without"
+msgstr "ilma"
+
+msgid "Yes"
+msgstr "Jah"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Saate määrata praeguse failinime alguses olevate tähtede arvu virtuaalsele klaviatuurile eeltäidetud tekstiks, et grupivaliku kaudu hõlpsamini sisestada."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Saate määrata praeguse failinime lõpus olevate tähtede arvu virtuaalsele klaviatuurile eeltäidetud tekstiks, et hõlbustada grupivaliku kaudu sisestamist."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Saate määrata, mida rühmavalik kasutab – pealkirja algus, pealkirja lõpp või pealkirjas sisalduv."
+

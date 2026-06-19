@@ -1,0 +1,1050 @@
+# be translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: be <ekekaz@gmail.com>\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- файл існуе! Перазапісаць"
+
+msgid "- folder exist! Overwrite"
+msgstr "- папка існуе! Перазапісаць"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Выбраць рэжым)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\неабавязковы параметр:\n%s"
+
+msgid "%d GB"
+msgstr "%d ГБ"
+
+msgid "%d kB"
+msgstr "%d кБ"
+
+msgid "%d MB"
+msgstr "%d МБ"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - памылкі вымання."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s абаронена паролем."
+
+msgid "%s successfully extracted."
+msgstr "%s паспяхова вынята."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Прыёмнік>"
+
+msgid "Accessed:"
+msgstr "Доступ:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Актываваць левы спіс файлаў як крыніцу з некалькімі выбарамі"
+
+msgid "Activate left-hand file list as source"
+msgstr "Актываваць левы спіс файлаў у якасці крыніцы"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Актываваць правы спіс файлаў у якасці крыніцы з некалькімі выбарамі"
+
+msgid "Activate right-hand file list as source"
+msgstr "Актываваць правы спіс файлаў у якасці крыніцы"
+
+msgid "Add current folder to bookmarks"
+msgstr "Дадаць бягучую тэчку ў закладкі"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Дадаць плагін у меню пашырэнняў"
+
+msgid "Add plugin to main menu"
+msgstr "Дадаць убудову ў галоўнае меню"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Дадаць выбраную тэчку ў закладкі"
+
+msgid "Add to selection (%s)"
+msgstr "Дадаць у выбар (%s)"
+
+msgid "All"
+msgstr "Усе"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Усе файлы ў каталогу з такой жа назвай, як і абраны фільм, таксама будуць скапіраваны або перамешчаны."
+
+msgid "All movie extensions"
+msgstr "Усе пашырэння для фільмаў"
+
+msgid "B"
+msgstr "Б"
+
+msgid "Block device"
+msgstr "Блакаванне прылады"
+
+msgid "Calculate file checksums"
+msgstr "Вылічыць кантрольныя сумы файла"
+
+msgid "Calculates file checksums."
+msgstr "Вылічвае кантрольныя сумы файлаў."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "Немагчыма запусціць %s: %s.\n%s можа знаходзіцца ў плагіне, які не ўсталяваны."
+
+msgid "Cancel"
+msgstr "Адмяніць"
+
+msgid "Cancel execution?"
+msgstr "Адмяніць выкананне?"
+
+msgid "Cannot create target directory."
+msgstr "Немагчыма стварыць мэтавы каталог."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Немагчыма адкрыць выяву. Адкрыць як тэкст?"
+
+msgid "Cannot play file."
+msgstr "Немагчыма прайграць файл."
+
+msgid "Cannot read file: %s"
+msgstr "Немагчыма прачытаць файл: %s"
+
+msgid "case insensitive"
+msgstr "неадчувальны да рэгістра"
+
+msgid "case sensitive"
+msgstr "адчувальны да рэгістра"
+
+msgid "Case sensitive search"
+msgstr "Пошук з улікам рэгістра"
+
+msgid "Change buttons for list navigation"
+msgstr "Змяніць кнопкі для навігацыі па спісе"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Змяніць дазволы на выкананне (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Кнопка канала заўсёды мяняе бок"
+
+msgid "Character device"
+msgstr "Прылада персанажа"
+
+msgid "Close"
+msgstr "Блізка"
+
+msgid "Compare case sensitive"
+msgstr "Параўнанне з улікам рэгістра"
+
+msgid "contains in title"
+msgstr "змяшчаецца ў назве"
+
+msgid "contains..."
+msgstr "змяшчае..."
+
+msgid "Content size:"
+msgstr "Памер кантэнту:"
+
+msgid "Copy"
+msgstr "Копія"
+
+msgid "copy file"
+msgstr "скапіяваць файл"
+
+msgid "Copy file"
+msgstr "Скапіраваць файл"
+
+msgid "Copy file/directory to target directory"
+msgstr "Скапіруйце файл/каталог у мэтавы каталог"
+
+msgid "Copy files/directories to target directory"
+msgstr "Скапіруйце файлы/каталогі ў мэтавы каталог"
+
+msgid "copy folder"
+msgstr "скапіяваць тэчку"
+
+msgid "Copy folder"
+msgstr "Капіяваць тэчку"
+
+msgid "Count directory content size"
+msgstr "Падлічыце памер змесціва каталога"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Падлік памеру змесціва каталога падчас хады (укл./выкл.)"
+
+msgid "CPU priority for script execution"
+msgstr "Прыярытэт працэсара для выканання сцэнарыя"
+
+msgid "Create directory"
+msgstr "Стварыць каталог"
+
+msgid "create symlink ..."
+msgstr "стварыць сімвалічную спасылку ..."
+
+msgid "Create symlink to file"
+msgstr "Стварыць сімвалічную спасылку на файл"
+
+msgid "Create user-named symbolic link"
+msgstr "Стварыце сімвалічную спасылку з імем карыстальніка"
+
+msgid "d"
+msgstr "d"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Date reverse"
+msgstr "Рэверс даты"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Прыярытэт працэсара па змаўчанні (добра) для выкананых сцэнарыяў. Гэта можа паменшыць нагрузку, каб скрыпты не перашкаджалі астатняй сістэме. (больш высокія значэнні = меншы прыярытэт)"
+
+msgid "Default directory sorting"
+msgstr "Сартаванне па каталогу па змаўчанні"
+
+msgid "Default file sorting left"
+msgstr "Сартаванне файлаў па змаўчанні злева"
+
+msgid "Default file sorting right"
+msgstr "Сартаванне файлаў па змаўчанні правільна"
+
+msgid "Default folder"
+msgstr "Папка па змаўчанні"
+
+msgid "Default Folder"
+msgstr "Тэчка па змаўчанні"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Прыярытэт уводу/вываду па змаўчанні (inice) для выкананых сцэнарыяў. Гэта можа паменшыць нагрузку, каб скрыпты не перашкаджалі астатняй сістэме. (больш высокія значэнні = меншы прыярытэт)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Метад сартавання па змаўчанні для каталогаў на абедзвюх панэлях (каб прымяніць змены, неабходна перазапусціць FileCommander)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Стандартны метад сартавання для файлаў на левай панэлі."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Стандартны метад сартавання для файлаў на правай панэлі."
+
+msgid "Delete"
+msgstr "Выдаліць"
+
+msgid "Delete current line"
+msgstr "Выдаліць бягучы радок"
+
+msgid "Delete file"
+msgstr "Выдаліць файл"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Выдаліць файл або каталог (і ўсё яго змесціва)"
+
+msgid "Delete folder"
+msgstr "Выдаліць тэчку"
+
+msgid "Delete the selected files or directories"
+msgstr "Выдаліць выбраныя файлы або каталогі"
+
+msgid "Deselect All"
+msgstr "Зняць выбар з усіх"
+
+msgid "Deselect group"
+msgstr "Адмяніць выбар групы"
+
+msgid "Deselect group..."
+msgstr "Адмяніць выбар групы..."
+
+msgid "Directories to group selections"
+msgstr "Каталогі для групавых выбараў"
+
+msgid "Directory"
+msgstr "Даведнік"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Каталог не можа быць створаны тут на\n<Спіс прылад захоўвання дадзеных> або <Прыёмнік>.\nПерамясціце селектар на радок ніжэй або зменіце каталог."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Паказаць імёны файлаў у загалоўку. Гэта карысна для занадта доўгіх імёнаў файлаў."
+
+msgid "Do you want change rights?\n"
+msgstr "Хочаце змяніць правы?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Вы жадаеце праглядзець або запусціць скрыпт?\n"
+
+msgid "Edit"
+msgstr "Рэдагаваць"
+
+msgid "Edit current line"
+msgstr "Рэдагаваць бягучы радок"
+
+msgid "Edit line"
+msgstr "Рэдагаваць радок"
+
+msgid "Edit new file"
+msgstr "Рэдагаваць новы файл"
+
+msgid "Edit position is the line end"
+msgstr "Пазіцыя рэдагавання - гэта канец радка"
+
+msgid "end title"
+msgstr "загаловак канца"
+
+msgid "ends with..."
+msgstr "заканчваецца на..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Увайдзіце ў рэжым выбару некалькіх файлаў"
+
+msgid "Error"
+msgstr "Памылка"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Памылка стварэння каталога %s:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Памылка стварэння файла %s:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Памылка прывязкі %s да %s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Памылка перайменавання %s у %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Памылка захавання: %s"
+
+msgid "Error..."
+msgstr "Памылка..."
+
+msgid "Execution finished!!"
+msgstr "Выкананне скончана!!"
+
+msgid "Execution progress\n\n"
+msgstr "Ход выканання\n\n"
+
+msgid "Exit"
+msgstr "Выхад"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Выйсці з рэдактара і запісаць змены (калі ёсць)"
+
+msgid "Exit movie player?"
+msgstr "Выйсці з прайгравальніка фільмаў?"
+
+msgid "Exit picture viewer"
+msgstr "Выйсці з праграмы прагляду малюнкаў"
+
+msgid "Extract archive to %s?"
+msgstr "Распакаваць архіў у %s?"
+
+msgid "Extracting..."
+msgstr "Выманне..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Немагчыма стварыць файл на\n<Спіс назапашвальнікаў> або <Прыёмнік>.\nЗмяніце каталог, калі ласка."
+
+msgid "File checksums/hashes"
+msgstr "Файл кантрольных сум/хэшаў"
+
+msgid "File Commander"
+msgstr "Файлавы камандзір"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "File Commander - дадатак File-Viewer"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "File Commander - Дадатак File-Viewer Settings"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "File Commander - адон Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "File Commander - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander - абагульнены апрацоўшчык архіваў"
+
+msgid "File Commander - gzip Addon"
+msgstr "File Commander - дадатак gzip"
+
+msgid "File Commander - ipk Addon"
+msgstr "File Commander - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "File Commander - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "File Commander - адон unrar"
+
+msgid "File Commander - unzip Addon"
+msgstr "File Commander - распакаваць адон"
+
+msgid "File not found: %s"
+msgstr "Файл не знойдзены: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Файл занадта вялікі, каб адкрыць яго як тэкст (максімум 1 МБ)."
+
+msgid "File too large to open as text."
+msgstr "Файл занадта вялікі, каб адкрыць яго як тэкст."
+
+msgid "File transfer was cancelled by user"
+msgstr "Перадача файла была адменена карыстальнікам"
+
+msgid "File/Directory Status Information"
+msgstr "Інфармацыя аб стане файла/каталога"
+
+msgid "Filenames in header"
+msgstr "Імёны файлаў у загалоўку"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Пашырэнне фільтра, (*) з'яўляецца ў загалоўку"
+
+msgid "Filter visible file classes by extension."
+msgstr "Фільтраваць бачныя класы файлаў па пашырэнню."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "за СТРАТУ ДАДЗЕНЫХ АБО ПАШКОДЖАННЕ !!!"
+
+msgid "from dir"
+msgstr "ад рэж"
+
+msgid "GB"
+msgstr "ГБ"
+
+msgid "Go to bookmarked folder"
+msgstr "Перайдзіце ў папку з закладкамі"
+
+msgid "Go to default directory"
+msgstr "Перайсці ў каталог па змаўчанні"
+
+msgid "Go to end of file"
+msgstr "Перайсці ў канец файла"
+
+msgid "Go to parent directory"
+msgstr "Перайдзіце ў бацькоўскі каталог"
+
+msgid "Go to start of file"
+msgstr "Перайсці да пачатку файла"
+
+msgid "Group:"
+msgstr "Група:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "быў ЗМЕНЕНЫ! Хочаце захаваць?"
+
+msgid "Hide/Show"
+msgstr "Схаваць/паказаць"
+
+msgid "I/O priority for script execution"
+msgstr "Прыярытэт уводу/вываду для выканання сцэнарыя"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Пры рэдагаванні файла вы можаце ўсталяваць пачатковую пазіцыю курсора ў канцы або пачатку радка."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "У рэжыме множнага выбару перамяшчае курсор да наступнага элемента пасля пазнакі."
+
+msgid "Inode:"
+msgstr "Inode:"
+
+msgid "Insert"
+msgstr "Уставіць"
+
+msgid "Insert line before current line"
+msgstr "Уставіць радок перад бягучым радком"
+
+msgid "Install"
+msgstr "Усталяваць"
+
+msgid "install/unpack ipk Files"
+msgstr "усталяваць/распакаваць файлы ipk"
+
+msgid "Installing Plugin ..."
+msgstr "Усталяванне плагіна..."
+
+msgid "Invert selection"
+msgstr "Інвертаваць вылучэнне"
+
+msgid "Invert Selection"
+msgstr "Інвертаваць вылучэнне"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "Немагчыма вылічыць хэшы ў <Спісе назапашвальнікаў>"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Немагчыма змяніць рэжым файла <Спіс прылад захоўвання>"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Немагчыма атрымаць статус файла <Спіс прылад захоўвання>"
+
+msgid "KB"
+msgstr "КБ"
+
+msgid "Leave File Commander"
+msgstr "Пакіньце File Commander"
+
+msgid "Leave multi-select mode"
+msgstr "Выйсці з рэжыму множнага выбару"
+
+msgid "Link target:"
+msgstr "Мэтавая спасылка:"
+
+msgid "Links:"
+msgstr "Спасылкі:"
+
+msgid "List of Storage Devices"
+msgstr "Спіс назапашвальнікаў"
+
+msgid "Load"
+msgstr "Нагрузка"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Зрабіце FileCommander даступным з меню Extensions."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Зрабіце FileCommander даступным з галоўнага меню."
+
+msgid "manage local Files"
+msgstr "кіраваць лакальнымі файламі"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "МЕНЮ"
+
+msgid "Menu..."
+msgstr "Меню..."
+
+msgid "Metadata changed:"
+msgstr "Метададзеныя зменены:"
+
+msgid "Mode %s (%04o)"
+msgstr "Рэжым %s (%04o)"
+
+msgid "Modified:"
+msgstr "Зменена:"
+
+msgid "Move"
+msgstr "Рухайцеся"
+
+msgid "Move down list"
+msgstr "Перамясціць спіс уніз"
+
+msgid "move file"
+msgstr "перамясціць файл"
+
+msgid "Move file"
+msgstr "Перамясціць файл"
+
+msgid "Move file/directory to target directory"
+msgstr "Перамясціць файл/каталог у мэтавы каталог"
+
+msgid "Move files/directories to target directory"
+msgstr "Перамясціць файлы/каталогі ў мэтавы каталог"
+
+msgid "move folder"
+msgstr "перамясціць тэчку"
+
+msgid "Move folder"
+msgstr "Перамясціць тэчку"
+
+msgid "Move selector to next item"
+msgstr "Перамясціць селектар да наступнага элемента"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Перамясціць селектар да наступнага элемента (укл./выкл.)"
+
+msgid "Move up list"
+msgstr "Перамясціць спіс уверх"
+
+msgid "Movie"
+msgstr "Фільм"
+
+msgid "MultiSelection Settings"
+msgstr "Налады MultiSelection"
+
+msgid "Music"
+msgstr "Музыка"
+
+msgid "My extension"
+msgstr "Маё пашырэнне"
+
+msgid "My Extension"
+msgstr "Маё пашырэнне"
+
+msgid "n"
+msgstr "н"
+
+msgid "Name"
+msgstr "Імя"
+
+msgid "Name reverse"
+msgstr "Імя рэверс"
+
+msgid "New folder"
+msgstr "Новая тэчка"
+
+msgid "New symlink"
+msgstr "Новая сімвалічная спасылка"
+
+msgid "new.txt"
+msgstr "новы.txt"
+
+msgid "No"
+msgstr "няма"
+
+msgid "No files found."
+msgstr "Файлы не знойдзены."
+
+msgid "No hash calculations configured"
+msgstr "Хэш-вылічэнні не настроены"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "Ні адна з хэш-праграм для хэшаў %s недаступная"
+
+msgid "Not allowed with folders"
+msgstr "Не дазволена з папкамі"
+
+msgid "nothing connected"
+msgstr "нічога не звязана"
+
+msgid "Number of lines in script messages"
+msgstr "Колькасць радкоў у паведамленнях сцэнарыя"
+
+msgid "OK"
+msgstr "добра"
+
+msgid "On device:"
+msgstr "На прыладзе:"
+
+msgid "Open"
+msgstr "Адкрыты"
+
+msgid "Open actions menu"
+msgstr "Адкрыць меню дзеянняў"
+
+msgid "Open settings/actions menu"
+msgstr "Адкрыйце меню налад/дзеянняў"
+
+msgid "Open with File Commander"
+msgstr "Адкрыйце з дапамогай File Commander"
+
+msgid "or save the picture additionally to a file"
+msgstr "або захаваць малюнак дадаткова ў файл"
+
+msgid "Original subtitles codepage"
+msgstr "Арыгінальная кодавая старонка субтытраў"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Арыгінальная кодавая старонка субтытраў для пераўтварэння ў UTF-8."
+
+msgid "Original:"
+msgstr "Арыгінал:"
+
+msgid "Owner:"
+msgstr "Уладальнік:"
+
+msgid "Page down list"
+msgstr "Спіс уніз"
+
+msgid "Page up list"
+msgstr "Спіс старонак уверх"
+
+msgid "Parent Directory"
+msgstr "Бацькоўскі каталог"
+
+msgid "Permissions:"
+msgstr "Дазволы:"
+
+msgid "Pictures"
+msgstr "Малюнкі"
+
+msgid "play Files"
+msgstr "прайграваць файлы"
+
+msgid "Play folder"
+msgstr "Тэчка прайгравання"
+
+msgid "Play title"
+msgstr "Гуляць назва"
+
+msgid "play/show Files"
+msgstr "прайграваць/паказваць файлы"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Прайграць/праглядзець/рэдагаваць/усталяваць/распакаваць/запусціць файл або ўвайсці ў каталог"
+
+msgid "Please enter file/folder name"
+msgstr "Калі ласка, увядзіце імя файла/папкі"
+
+msgid "Please enter name of the new directory"
+msgstr "Калі ласка, увядзіце назву новага каталога"
+
+msgid "Please enter name of the new symlink"
+msgstr "Калі ласка, увядзіце назву новай сімвалічнай спасылкі"
+
+msgid "Please enter password"
+msgstr "Калі ласка, увядзіце пароль"
+
+msgid "Please enter the new directory name"
+msgstr "Калі ласка, увядзіце новую назву каталога"
+
+msgid "Please enter the new file name"
+msgstr "Калі ласка, увядзіце новае імя файла"
+
+msgid "Please wait, Loading image."
+msgstr "Калі ласка, пачакайце, загружаецца малюнак."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Каб спыніць, націсніце OK або Exit!"
+
+msgid "python"
+msgstr "пітон"
+
+msgid "Records"
+msgstr "Запісы"
+
+msgid "Refresh screen"
+msgstr "Абнавіць экран"
+
+msgid "Regular file"
+msgstr "Звычайны файл"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Выдаліць бягучую тэчку з закладак"
+
+msgid "Remove from selection (%s)"
+msgstr "Выдаліць з выбару (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Выдаліць выбраную папку з закладак"
+
+msgid "Rename"
+msgstr "Перайменаваць"
+
+msgid "Rename file"
+msgstr "Перайменаваць файл"
+
+msgid "Rename file/directory"
+msgstr "Перайменаваць файл/каталог"
+
+msgid "Restart"
+msgstr "Перазапуск"
+
+msgid "Reverse left file sorting"
+msgstr "Зваротная левая сартаванне файлаў"
+
+msgid "Reverse right file sorting"
+msgstr "Зваротная правая сартоўка файлаў"
+
+msgid "Run script"
+msgstr "Запусціць скрыпт"
+
+msgid "Run script in background"
+msgstr "Запуск сцэнарыя ў фонавым рэжыме"
+
+msgid "Run script with optional parameter"
+msgstr "Запусціць скрыпт з неабавязковым параметрам"
+
+msgid "Run script with optional parameter in background"
+msgstr "Запусціце скрыпт з неабавязковым параметрам у фонавым рэжыме"
+
+msgid "s"
+msgstr "с"
+
+msgid "Save cursor position"
+msgstr "Захаваць пазіцыю курсора"
+
+msgid "Save cursor position in active panel."
+msgstr "Захаваць пазіцыю курсора на актыўнай панэлі."
+
+msgid "Save left folder on exit"
+msgstr "Захаваць левую папку пры выхадзе"
+
+msgid "Save right folder on exit"
+msgstr "Захаваць правую тэчку пры выхадзе"
+
+msgid "Save the left directory list location on exit."
+msgstr "Захаваць месцазнаходжанне левага спісу каталогаў пры выхадзе."
+
+msgid "Save the right folder list location on exit."
+msgstr "Пры выхадзе захавайце патрэбнае месца ў спісе тэчак."
+
+msgid "Search in group selection by"
+msgstr "Пошук у выбары групы па"
+
+msgid "Search text"
+msgstr "Пошукавы тэкст"
+
+msgid "Search text (%s):"
+msgstr "Тэкст пошуку (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Шукаць тэкст у файле (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Выберыце (спіс крыніц) або ўвядзіце каталог (спіс мэтаў)"
+
+msgid "Select a path"
+msgstr "Выберыце шлях"
+
+msgid "Select action:"
+msgstr "Выберыце дзеянне:"
+
+msgid "Select All"
+msgstr "Выбраць усе"
+
+msgid "Select group"
+msgstr "Выберыце групу"
+
+msgid "Select group..."
+msgstr "Выберыце групу..."
+
+msgid "Select operation:"
+msgstr "Выберыце аперацыю:"
+
+msgid "Select your personal settings:"
+msgstr "Выберыце асабістыя налады:"
+
+msgid "Set archive mode (644)"
+msgstr "Усталяваць архіўны рэжым (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Усталяваць рэжым выканання (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Устанаўлівае, ці варта адрозніваць верхні і малы рэгістры для пошуку."
+
+msgid "Settings"
+msgstr "Налады"
+
+msgid "Settings..."
+msgstr "Налады..."
+
+msgid "shell"
+msgstr "абалонка"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Паказаць як малюнак (націсніце любую клавішу, каб закрыць)"
+
+msgid "Show contents of ipk file"
+msgstr "Паказаць змесціва файла ipk"
+
+msgid "Show contents of rar file"
+msgstr "Паказаць змесціва файла rar"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Паказаць змесціва tar або сціснутага файла tar"
+
+msgid "Show contents of zip file"
+msgstr "Паказаць змесціва zip-файла"
+
+msgid "Show directories first"
+msgstr "Спачатку паказаць каталогі"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Паказваць каталогі на першай або апошняй пазіцыях панэлі (для прымянення змяненняў неабходна перазапусціць FileCommander)."
+
+msgid "Show image information"
+msgstr "Паказаць інфармацыю пра выяву"
+
+msgid "Show next picture"
+msgstr "Паказаць наступны малюнак"
+
+msgid "Show previous picture"
+msgstr "Паказаць папярэдні малюнак"
+
+msgid "Show Script completed message"
+msgstr "Паказаць паведамленне пра выкананне сцэнарыя"
+
+msgid "Show task list"
+msgstr "Паказаць спіс задач"
+
+msgid "Show unknown extension as text"
+msgstr "Паказаць невядомае пашырэнне ў выглядзе тэксту"
+
+msgid "Size"
+msgstr "Памер"
+
+msgid "Size reverse"
+msgstr "Памер рэверс"
+
+msgid "Size:"
+msgstr "Памер:"
+
+msgid "Socket"
+msgstr "Разетка"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Сартаванне левых файлаў па імені, даце або памеру"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Сартаванне правільных файлаў па імені, даце або памеру"
+
+msgid "start title"
+msgstr "назва пачатку"
+
+msgid "Start/stop slide show"
+msgstr "Пачаць/спыніць слайд-шоў"
+
+msgid "starts with..."
+msgstr "пачынаецца з..."
+
+msgid "Storage devices"
+msgstr "Запамінальныя прылады"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Кнопкі для адваротнага сартавання файлаў"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Памяняйце кнопкі направа/налева з дапамогай канала +/- або кнопка канала заўсёды зменена бокам."
+
+msgid "Symbolic link"
+msgstr "Сімвалічная спасылка"
+
+msgid "Symlink to"
+msgstr "Сімвалная спасылка на"
+
+msgid "Task list"
+msgstr "Спіс заданняў"
+
+msgid "TB"
+msgstr "Сухоты"
+
+msgid "Text not found."
+msgstr "Тэкст не знойдзены."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Тэкставы пошук з улікам або без уліку рэгістра."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Аўтары АДКАЗНАСЦІ НЕ нясуць"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "Кампанент Image Viewer File Commander патрабуе пашырэння PicturePlayer. Усталюйце PicturePlayer, каб уключыць гэтую аперацыю."
+
+msgid "This line is not editable!"
+msgstr "Гэты радок нельга рэдагаваць!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Час паміж слайдамі ў праграме прагляду малюнкаў."
+
+msgid "Time for Slideshow"
+msgstr "Час для слайд-шоў"
+
+msgid "to dir"
+msgstr "да рэж"
+
+msgid "To next found text"
+msgstr "Да наступнага знойдзенага тэксту"
+
+msgid "To previous found text"
+msgstr "Да папярэдняга знойдзенага тэксту"
+
+msgid "Type the name for the new file"
+msgstr "Увядзіце назву для новага файла"
+
+msgid "Type:"
+msgstr "Тып:"
+
+msgid "Unknown"
+msgstr "Невядомы"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Невядомы тып файла. Адкрыць як тэкст?"
+
+msgid "Unknown group: %d"
+msgstr "Невядомая група: %d"
+
+msgid "Unknown user: %d"
+msgstr "Невядомы карыстальнік: %d"
+
+msgid "unpack archives"
+msgstr "распакаваць архівы"
+
+msgid "unpack gzip Files"
+msgstr "распакаваць файлы gzip"
+
+msgid "unpack Rar Files"
+msgstr "Распакаваць файлы rar"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "распакаваць tar/сціснутыя файлы tar"
+
+msgid "Unpack to %s"
+msgstr "Распакуйце ў %s"
+
+msgid "Unpack to current folder"
+msgstr "Распакуйце ў бягучую тэчку"
+
+msgid "unpack zip Files"
+msgstr "распакаваць файлы zip"
+
+msgid "Unsupported archive type."
+msgstr "Тып архіва не падтрымліваецца."
+
+msgid "v"
+msgstr "в"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Прагляд або рэдагаванне файла (калі памер < 1 МБ)"
+
+msgid "View or edit this %s script"
+msgstr "Праглядзіце або адрэдагуйце гэты скрыпт %s"
+
+msgid "WARNING!"
+msgstr "ПАПЯРЭДЖАННЕ!"
+
+msgid "What do you want to play?\n"
+msgstr "Што вы хочаце пагуляць?\n"
+
+msgid "without"
+msgstr "без"
+
+msgid "Yes"
+msgstr "так"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Вы можаце ўсталяваць колькасць літар ад пачатку назвы бягучага файла ў якасці тэксту, папярэдне запоўненага на віртуальнай клавіятуры для палягчэння ўводу праз групавы выбар."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Вы можаце задаць колькасць літар з канца назвы бягучага файла ў якасці тэксту, папярэдне запоўненага на віртуальнай клавіятуры для палягчэння ўводу праз групавы выбар."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Вы можаце ўсталяваць, што будзе выкарыстоўвацца пры выбары групы - пачатак загалоўка, канец загалоўка або змесціва ў загалоўку."
+

@@ -1,0 +1,1050 @@
+# eo translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: eo <ekekaz@gmail.com>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- dosiero ekzistas! Anstataŭigi"
+
+msgid "- folder exist! Overwrite"
+msgstr "- dosierujo ekzistas! Anstataŭigi"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Elekta reĝimo)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\nnevola parametro:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - eltiraj eraroj."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s estas pasvorta protektita."
+
+msgid "%s successfully extracted."
+msgstr "%s sukcese eltirita."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "< Ricevilo >"
+
+msgid "Accessed:"
+msgstr "Alirita:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Aktivigu maldekstran dosierliston kiel plur-elektan fonton"
+
+msgid "Activate left-hand file list as source"
+msgstr "Aktivigu la maldekstran dosierliston kiel fonton"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Aktivigu la dekstran dosierliston kiel plur-elektan fonton"
+
+msgid "Activate right-hand file list as source"
+msgstr "Aktivigu la dekstran dosierliston kiel fonton"
+
+msgid "Add current folder to bookmarks"
+msgstr "Aldonu nunan dosierujon al legosignoj"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Aldonu kromprogramon al la menuo de Etendoj"
+
+msgid "Add plugin to main menu"
+msgstr "Aldonu kromprogramon al ĉefa menuo"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Aldonu elektitan dosierujon al legosignoj"
+
+msgid "Add to selection (%s)"
+msgstr "Aldoni al elekto (%s)"
+
+msgid "All"
+msgstr "Ĉiuj"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Ĉiuj dosieroj en la dosierujo kun la sama nomo kiel la elektita filmo ankaŭ estos kopiitaj aŭ movitaj."
+
+msgid "All movie extensions"
+msgstr "Ĉiuj filmaj etendoj"
+
+msgid "B"
+msgstr "B"
+
+msgid "Block device"
+msgstr "Bloki aparaton"
+
+msgid "Calculate file checksums"
+msgstr "Kalkulu dosierajn kontrolsumojn"
+
+msgid "Calculates file checksums."
+msgstr "Kalkulas dosiero-kontrolsumojn."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "Ne povas ruli %s: %s.\n%s eble estas en kromaĵo kiu ne estas instalita."
+
+msgid "Cancel"
+msgstr "Nuligi"
+
+msgid "Cancel execution?"
+msgstr "Ĉu nuligi ekzekuton?"
+
+msgid "Cannot create target directory."
+msgstr "Ne povas krei celdosierujon."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Ne povas malfermi bildon. Ĉu malfermi kiel teksto?"
+
+msgid "Cannot play file."
+msgstr "Ne povas ludi dosieron."
+
+msgid "Cannot read file: %s"
+msgstr "Ne povas legi dosieron: %s"
+
+msgid "case insensitive"
+msgstr "uskle nesentema"
+
+msgid "case sensitive"
+msgstr "uskle-sentema"
+
+msgid "Case sensitive search"
+msgstr "Uskle-sentema serĉo"
+
+msgid "Change buttons for list navigation"
+msgstr "Ŝanĝi butonojn por listnavigado"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Ŝanĝi ekzekutpermesojn (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Kanala butono ĉiam ŝanĝas flankojn"
+
+msgid "Character device"
+msgstr "Karaktera aparato"
+
+msgid "Close"
+msgstr "Fermu"
+
+msgid "Compare case sensitive"
+msgstr "Komparu usklecon"
+
+msgid "contains in title"
+msgstr "enhavas en titolo"
+
+msgid "contains..."
+msgstr "enhavas..."
+
+msgid "Content size:"
+msgstr "Enhavo grandeco:"
+
+msgid "Copy"
+msgstr "Kopiu"
+
+msgid "copy file"
+msgstr "kopii dosieron"
+
+msgid "Copy file"
+msgstr "Kopiu dosiero"
+
+msgid "Copy file/directory to target directory"
+msgstr "Kopiu dosieron/dosierujon al cela dosierujo"
+
+msgid "Copy files/directories to target directory"
+msgstr "Kopiu dosierojn/dosierujojn al cela dosierujo"
+
+msgid "copy folder"
+msgstr "kopii dosierujon"
+
+msgid "Copy folder"
+msgstr "Kopiu dosierujon"
+
+msgid "Count directory content size"
+msgstr "Nombri dosierujon enhavograndecon"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Nombri la grandecon de enhavo de dosierujo dum marŝado (ŝaltita/malŝaltita)"
+
+msgid "CPU priority for script execution"
+msgstr "CPU-prioritato por skripto-ekzekuto"
+
+msgid "Create directory"
+msgstr "Krei dosierujon"
+
+msgid "create symlink ..."
+msgstr "krei simbolligon..."
+
+msgid "Create symlink to file"
+msgstr "Kreu simbolligon al dosiero"
+
+msgid "Create user-named symbolic link"
+msgstr "Krei uzant-nomitan simbolan ligon"
+
+msgid "d"
+msgstr "d"
+
+msgid "Date"
+msgstr "Dato"
+
+msgid "Date reverse"
+msgstr "Dato inversa"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Defaŭlta CPU-prioritato (bela) por ekzekutitaj skriptoj. Ĉi tio povas redukti la ŝarĝon tiel ke skriptoj ne malhelpas la reston de la sistemo. (pli altaj valoroj = pli malalta prioritato)"
+
+msgid "Default directory sorting"
+msgstr "Defaŭlta dosierujo ordigo"
+
+msgid "Default file sorting left"
+msgstr "Defaŭlta dosierordigo maldekstre"
+
+msgid "Default file sorting right"
+msgstr "Defaŭlta dosierordigo ĝuste"
+
+msgid "Default folder"
+msgstr "Defaŭlta dosierujo"
+
+msgid "Default Folder"
+msgstr "Defaŭlta Dosierujo"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Defaŭlta I/O-prioritato (ionice) por ekzekutitaj skriptoj. Ĉi tio povas redukti la ŝarĝon tiel ke skriptoj ne malhelpas la reston de la sistemo. (pli altaj valoroj = pli malalta prioritato)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Defaŭlta ordiga metodo por dosierujoj en ambaŭ paneloj (por apliki la ŝanĝojn, FileCommander devas esti rekomencita)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Defaŭlta ordiga metodo por dosieroj en maldekstra panelo."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Defaŭlta ordiga metodo por dosieroj en dekstra panelo."
+
+msgid "Delete"
+msgstr "Forigi"
+
+msgid "Delete current line"
+msgstr "Forigu nunan linion"
+
+msgid "Delete file"
+msgstr "Forigi dosieron"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Forigi dosieron aŭ dosierujon (kaj ĝian tutan enhavon)"
+
+msgid "Delete folder"
+msgstr "Forigi dosierujon"
+
+msgid "Delete the selected files or directories"
+msgstr "Forigu la elektitajn dosierojn aŭ dosierujojn"
+
+msgid "Deselect All"
+msgstr "Malelektu Ĉion"
+
+msgid "Deselect group"
+msgstr "Malelektu grupon"
+
+msgid "Deselect group..."
+msgstr "Malelektu grupon..."
+
+msgid "Directories to group selections"
+msgstr "Dosierujoj al grupaj elektoj"
+
+msgid "Directory"
+msgstr "Dosierujo"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Dosierujo ne povas esti kreita ĉi tie sur\n<Listo de Stokaparatoj> aŭ <Receiver>.\nMovu elektilon unu linion sub aŭ ŝanĝu dosierujon."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Montru dosiernomojn en kaplinio. Ĝi estas utila por dosiernomoj kiuj estas tro longaj."
+
+msgid "Do you want change rights?\n"
+msgstr "Ĉu vi volas ŝanĝi rajtojn?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Ĉu vi volas vidi aŭ ruli la skripton?\n"
+
+msgid "Edit"
+msgstr "Redakti"
+
+msgid "Edit current line"
+msgstr "Redaktu nunan linion"
+
+msgid "Edit line"
+msgstr "Redakti linion"
+
+msgid "Edit new file"
+msgstr "Redaktu novan dosieron"
+
+msgid "Edit position is the line end"
+msgstr "Redakti pozicion estas la liniofino"
+
+msgid "end title"
+msgstr "fina titolo"
+
+msgid "ends with..."
+msgstr "finiĝas per..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Enigu plurdosieran elektoreĝimon"
+
+msgid "Error"
+msgstr "Eraro"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Eraro dum kreado de dosierujo %s:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Eraro dum kreado de dosiero %s:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Eraro ligante %s al %s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Eraro renomante %s al %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Eraro dum konservado: %s"
+
+msgid "Error..."
+msgstr "Eraro..."
+
+msgid "Execution finished!!"
+msgstr "Ekzekuto finita!!"
+
+msgid "Execution progress\n\n"
+msgstr "Ekzekuta progreso\n\n"
+
+msgid "Exit"
+msgstr "Eliro"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Eliru redaktilon kaj skribu ŝanĝojn (se ekzistas)"
+
+msgid "Exit movie player?"
+msgstr "Ĉu eliri filmludilon?"
+
+msgid "Exit picture viewer"
+msgstr "Eliru bildospektilon"
+
+msgid "Extract archive to %s?"
+msgstr "Ĉu ĉerpi arkivon al %s?"
+
+msgid "Extracting..."
+msgstr "Ekstraktante..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Dosiero ne povas esti kreita sur\n<Listo de Stokaparatoj> aŭ <Receiver>.\nBonvolu ŝanĝi dosierujon."
+
+msgid "File checksums/hashes"
+msgstr "Dosiero ĉeksumoj/hashes"
+
+msgid "File Commander"
+msgstr "Dosierkomandanto"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "File Commander - Aldonaĵo Dosiero-Vidilo"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "Dosiera Komandanto - Agordoj de Dosiero-Vidilo de Aldonaĵo"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "Dosiera komandanto - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "Dosiera komandanto - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander - ĝeneraligita arkivmaniganto"
+
+msgid "File Commander - gzip Addon"
+msgstr "File Commander - gzip Aldono"
+
+msgid "File Commander - ipk Addon"
+msgstr "Dosiera Komandanto - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "File Commander - aldonaĵo tar"
+
+msgid "File Commander - unrar Addon"
+msgstr "File Commander - unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "File Commander - malzipu Aldonaĵon"
+
+msgid "File not found: %s"
+msgstr "Dosiero ne trovita: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Dosiero tro granda por malfermiĝi kiel teksto (maksimume 1MB)."
+
+msgid "File too large to open as text."
+msgstr "Dosiero tro granda por malfermiĝi kiel teksto."
+
+msgid "File transfer was cancelled by user"
+msgstr "Dosiera translokigo estis nuligita de uzanto"
+
+msgid "File/Directory Status Information"
+msgstr "Informoj pri Dosiero/Adosierujo"
+
+msgid "Filenames in header"
+msgstr "Dosiernomoj en kaplinio"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Filtrila etendo, (*) aperas en titolo"
+
+msgid "Filter visible file classes by extension."
+msgstr "Filtru videblajn dosierklasojn laŭ etendaĵo."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "por DATUMO PERDO AŬ DIMATADO !!!"
+
+msgid "from dir"
+msgstr "de dir"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "Iru al legomarkita dosierujo"
+
+msgid "Go to default directory"
+msgstr "Iru al defaŭlta dosierujo"
+
+msgid "Go to end of file"
+msgstr "Iru al fino de dosiero"
+
+msgid "Go to parent directory"
+msgstr "Iru al gepatra dosierujo"
+
+msgid "Go to start of file"
+msgstr "Iru al komenco de dosiero"
+
+msgid "Group:"
+msgstr "Grupo:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "estis ŜANJITA! Ĉu vi volas konservi ĝin?"
+
+msgid "Hide/Show"
+msgstr "Kaŝi/Montri"
+
+msgid "I/O priority for script execution"
+msgstr "I/O prioritato por skripto-ekzekuto"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Se redaktas dosieron, vi povas agordi la kursoran komencan pozicion ĉe fino aŭ komenco de la linio."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "En plur-elekta reĝimo movas kursoron al la sekva elemento post markado."
+
+msgid "Inode:"
+msgstr "Inodo:"
+
+msgid "Insert"
+msgstr "Enmetu"
+
+msgid "Insert line before current line"
+msgstr "Enigu linion antaŭ la nuna linio"
+
+msgid "Install"
+msgstr "Instali"
+
+msgid "install/unpack ipk Files"
+msgstr "instali/malpaki ipk-dosierojn"
+
+msgid "Installing Plugin ..."
+msgstr "Instalante kromprogramon..."
+
+msgid "Invert selection"
+msgstr "Inverti elekton"
+
+msgid "Invert Selection"
+msgstr "Inverti Elekton"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "Ne eblas kalkuli hashojn sur <Listo de Stokaparatoj>"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Ne eblas ŝanĝi la dosierreĝimon de <Listo de Stokaparatoj>"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Ne eblas ricevi la dosierstatuson de <Listo de Stokaparatoj>"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Forlasu Dosierkomandanto"
+
+msgid "Leave multi-select mode"
+msgstr "Forlasu plur-elektan reĝimon"
+
+msgid "Link target:"
+msgstr "Ligocelo:"
+
+msgid "Links:"
+msgstr "Ligiloj:"
+
+msgid "List of Storage Devices"
+msgstr "Listo de Stokado-Aparatoj"
+
+msgid "Load"
+msgstr "Ŝarĝo"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Faru FileCommander alirebla el la menuo Etendoj."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Faru FileCommander alirebla el la ĉefa menuo."
+
+msgid "manage local Files"
+msgstr "administri lokajn dosierojn"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "MENUO"
+
+msgid "Menu..."
+msgstr "Menuo..."
+
+msgid "Metadata changed:"
+msgstr "Metadatenoj ŝanĝitaj:"
+
+msgid "Mode %s (%04o)"
+msgstr "Reĝimo %s (% 04o)"
+
+msgid "Modified:"
+msgstr "Modifita:"
+
+msgid "Move"
+msgstr "Movu"
+
+msgid "Move down list"
+msgstr "Movu malsupren liston"
+
+msgid "move file"
+msgstr "movi dosieron"
+
+msgid "Move file"
+msgstr "Movu dosieron"
+
+msgid "Move file/directory to target directory"
+msgstr "Movu dosieron/dosierujon al cela dosierujo"
+
+msgid "Move files/directories to target directory"
+msgstr "Movu dosierojn/dosierujojn al cela dosierujo"
+
+msgid "move folder"
+msgstr "movi dosierujon"
+
+msgid "Move folder"
+msgstr "Movu dosierujon"
+
+msgid "Move selector to next item"
+msgstr "Movu elektilon al sekva elemento"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Movu elektilon al sekva elemento (ŝaltita/malŝaltita)"
+
+msgid "Move up list"
+msgstr "Movu supren liston"
+
+msgid "Movie"
+msgstr "Filmo"
+
+msgid "MultiSelection Settings"
+msgstr "Multiselektado Agordoj"
+
+msgid "Music"
+msgstr "Muziko"
+
+msgid "My extension"
+msgstr "Mia etendo"
+
+msgid "My Extension"
+msgstr "Mia Etendo"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "Nomo"
+
+msgid "Name reverse"
+msgstr "Nomo reverso"
+
+msgid "New folder"
+msgstr "Nova dosierujo"
+
+msgid "New symlink"
+msgstr "Nova simbolligo"
+
+msgid "new.txt"
+msgstr "nova.txt"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "No files found."
+msgstr "Neniuj dosieroj trovitaj."
+
+msgid "No hash calculations configured"
+msgstr "Neniuj hashkalkuloj agordis"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "Neniu el la hashprogramoj por la hash %s estas disponebla"
+
+msgid "Not allowed with folders"
+msgstr "Ne permesite kun dosierujoj"
+
+msgid "nothing connected"
+msgstr "nenio ligita"
+
+msgid "Number of lines in script messages"
+msgstr "Nombro da linioj en skriptomesaĝoj"
+
+msgid "OK"
+msgstr "Bone"
+
+msgid "On device:"
+msgstr "Sur aparato:"
+
+msgid "Open"
+msgstr "Malfermu"
+
+msgid "Open actions menu"
+msgstr "Malfermu menuon de agoj"
+
+msgid "Open settings/actions menu"
+msgstr "Malfermu menuon de agordoj/agoj"
+
+msgid "Open with File Commander"
+msgstr "Malfermu per File Commander"
+
+msgid "or save the picture additionally to a file"
+msgstr "aŭ konservu la bildon aldone al dosiero"
+
+msgid "Original subtitles codepage"
+msgstr "Originalaj subtekstoj kodpaĝo"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Originalaj subtekstoj kodpaĝo por konvertiĝo al UTF-8."
+
+msgid "Original:"
+msgstr "Originalo:"
+
+msgid "Owner:"
+msgstr "Posedanto:"
+
+msgid "Page down list"
+msgstr "Paĝo malsupren listo"
+
+msgid "Page up list"
+msgstr "Paĝo supren listo"
+
+msgid "Parent Directory"
+msgstr "Gepatra Dosierujo"
+
+msgid "Permissions:"
+msgstr "Permesoj:"
+
+msgid "Pictures"
+msgstr "Bildoj"
+
+msgid "play Files"
+msgstr "ludi Dosieroj"
+
+msgid "Play folder"
+msgstr "Ludu dosierujon"
+
+msgid "Play title"
+msgstr "Ludu titolon"
+
+msgid "play/show Files"
+msgstr "ludi/montri dosierojn"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Ludu/vidi/redakti/instali/ĉerpi/kuru dosieron aŭ enigu dosierujon"
+
+msgid "Please enter file/folder name"
+msgstr "Bonvolu enigi nomon de dosiero/dosierujo"
+
+msgid "Please enter name of the new directory"
+msgstr "Bonvolu enigi nomon de la nova dosierujo"
+
+msgid "Please enter name of the new symlink"
+msgstr "Bonvolu enigi nomon de la nova simbolligo"
+
+msgid "Please enter password"
+msgstr "Bonvolu enigi pasvorton"
+
+msgid "Please enter the new directory name"
+msgstr "Bonvolu enigi la novan dosierujon"
+
+msgid "Please enter the new file name"
+msgstr "Bonvolu enigi la novan dosiernomon"
+
+msgid "Please wait, Loading image."
+msgstr "Bonvolu atendi, Ŝarĝante bildon."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Premu OK aŭ Eliri por ĉesigi!"
+
+msgid "python"
+msgstr "pitono"
+
+msgid "Records"
+msgstr "Rekordoj"
+
+msgid "Refresh screen"
+msgstr "Refreŝigi ekranon"
+
+msgid "Regular file"
+msgstr "Regula dosiero"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Forigi nunan dosierujon de legosignoj"
+
+msgid "Remove from selection (%s)"
+msgstr "Forigi el elekto (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Forigi elektitan dosierujon el legosignoj"
+
+msgid "Rename"
+msgstr "Alinomi"
+
+msgid "Rename file"
+msgstr "Alinomi dosieron"
+
+msgid "Rename file/directory"
+msgstr "Alinomi dosieron/dosierujon"
+
+msgid "Restart"
+msgstr "Rekomencu"
+
+msgid "Reverse left file sorting"
+msgstr "Inversa maldekstra ordigo de dosieroj"
+
+msgid "Reverse right file sorting"
+msgstr "Inversa dekstra ordigo de dosieroj"
+
+msgid "Run script"
+msgstr "Ruli skripton"
+
+msgid "Run script in background"
+msgstr "Ruli skripton en fono"
+
+msgid "Run script with optional parameter"
+msgstr "Rulu skripton kun laŭvola parametro"
+
+msgid "Run script with optional parameter in background"
+msgstr "Rulu skripton kun laŭvola parametro en la fono"
+
+msgid "s"
+msgstr "s"
+
+msgid "Save cursor position"
+msgstr "Konservu la pozicion de la kursoro"
+
+msgid "Save cursor position in active panel."
+msgstr "Konservu la pozicion de la kursoro en aktiva panelo."
+
+msgid "Save left folder on exit"
+msgstr "Konservu maldekstran dosierujon ĉe eliro"
+
+msgid "Save right folder on exit"
+msgstr "Konservu dekstran dosierujon ĉe eliro"
+
+msgid "Save the left directory list location on exit."
+msgstr "Konservu la maldekstran dosierujan listlokon ĉe eliro."
+
+msgid "Save the right folder list location on exit."
+msgstr "Konservu la ĝustan dosierujon listlokon ĉe eliro."
+
+msgid "Search in group selection by"
+msgstr "Serĉu en grupelekto per"
+
+msgid "Search text"
+msgstr "Serĉu tekston"
+
+msgid "Search text (%s):"
+msgstr "Serĉu tekston (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Serĉu tekston en dosiero (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Elektu (fontolisto) aŭ enigu dosierujon (cellisto)"
+
+msgid "Select a path"
+msgstr "Elektu vojon"
+
+msgid "Select action:"
+msgstr "Elektu agon:"
+
+msgid "Select All"
+msgstr "Elektu Ĉiujn"
+
+msgid "Select group"
+msgstr "Elektu grupon"
+
+msgid "Select group..."
+msgstr "Elektu grupon..."
+
+msgid "Select operation:"
+msgstr "Elektu operacion:"
+
+msgid "Select your personal settings:"
+msgstr "Elektu viajn personajn agordojn:"
+
+msgid "Set archive mode (644)"
+msgstr "Agordi arkivreĝimon (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Agordi plenumeblan reĝimon (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Agordas ĉu distingi inter majuskla kaj minusklo por serĉado."
+
+msgid "Settings"
+msgstr "Agordoj"
+
+msgid "Settings..."
+msgstr "Agordoj..."
+
+msgid "shell"
+msgstr "ŝelo"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Montru kiel bildon (premu ajnan klavon por fermi)"
+
+msgid "Show contents of ipk file"
+msgstr "Montru enhavon de ipk-dosiero"
+
+msgid "Show contents of rar file"
+msgstr "Montru enhavon de rar-dosiero"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Montru enhavon de gudro aŭ kunpremita gudro-dosiero"
+
+msgid "Show contents of zip file"
+msgstr "Montru enhavon de zip-dosiero"
+
+msgid "Show directories first"
+msgstr "Montru unue dosierujojn"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Montru dosierujojn sur unuaj aŭ lastaj pozicioj en panelo (por apliki la ŝanĝojn, FileCommander devas esti rekomencita)."
+
+msgid "Show image information"
+msgstr "Montru bildajn informojn"
+
+msgid "Show next picture"
+msgstr "Montru sekvan bildon"
+
+msgid "Show previous picture"
+msgstr "Montru antaŭan bildon"
+
+msgid "Show Script completed message"
+msgstr "Montru Skripton kompletigitan mesaĝon"
+
+msgid "Show task list"
+msgstr "Montru taskoliston"
+
+msgid "Show unknown extension as text"
+msgstr "Montru nekonatan etendon kiel tekston"
+
+msgid "Size"
+msgstr "Grandeco"
+
+msgid "Size reverse"
+msgstr "Grandeco inversa"
+
+msgid "Size:"
+msgstr "Grandeco:"
+
+msgid "Socket"
+msgstr "Ingo"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Ordigo de maldekstraj dosieroj laŭ nomo, dato aŭ grandeco"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Ordigi ĝustajn dosierojn laŭ nomo, dato aŭ grandeco"
+
+msgid "start title"
+msgstr "komenci titolon"
+
+msgid "Start/stop slide show"
+msgstr "Komencu/haltigi bildoprezenton"
+
+msgid "starts with..."
+msgstr "komenciĝas per..."
+
+msgid "Storage devices"
+msgstr "Stokaj aparatoj"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Interŝanĝi butonojn por inversa ordigo de dosieroj"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Interŝanĝu butonojn dekstre/maldekstren kun kanalo +/- aŭ la kanalbutono ĉiam ŝanĝis la flankon."
+
+msgid "Symbolic link"
+msgstr "Simbola ligo"
+
+msgid "Symlink to"
+msgstr "Simligo al"
+
+msgid "Task list"
+msgstr "Listo de taskoj"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Text not found."
+msgstr "Teksto ne trovita."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Tekstoserĉado kiel majskleksentema aŭ majuskle-malsentema."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "La aŭtoroj NE RESPONDAS"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "La komponanto de Image Viewer de la Dosiero-Komandanto postulas la etendon PicturePlayer. Instalu PicturePlayer por ebligi ĉi tiun operacion."
+
+msgid "This line is not editable!"
+msgstr "Ĉi tiu linio ne estas redaktebla!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Tempo inter lumbildoj en bildspektilo-bildprezento."
+
+msgid "Time for Slideshow"
+msgstr "Tempo por Bildaprezento"
+
+msgid "to dir"
+msgstr "dir"
+
+msgid "To next found text"
+msgstr "Al la sekva trovita teksto"
+
+msgid "To previous found text"
+msgstr "Al antaŭa trovita teksto"
+
+msgid "Type the name for the new file"
+msgstr "Tajpu la nomon por la nova dosiero"
+
+msgid "Type:"
+msgstr "Tipo:"
+
+msgid "Unknown"
+msgstr "Nekonata"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Nekonata dosiertipo. Ĉu malfermi kiel teksto?"
+
+msgid "Unknown group: %d"
+msgstr "Nekonata grupo: %d"
+
+msgid "Unknown user: %d"
+msgstr "Nekonata uzanto: %d"
+
+msgid "unpack archives"
+msgstr "malpaki arkivojn"
+
+msgid "unpack gzip Files"
+msgstr "malpaki gzip-dosierojn"
+
+msgid "unpack Rar Files"
+msgstr "malpaki Rar-Dosieroj"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "malpaki tar/kunpremitajn gudrajn dosierojn"
+
+msgid "Unpack to %s"
+msgstr "Malpaku al %s"
+
+msgid "Unpack to current folder"
+msgstr "Malpaku al nuna dosierujo"
+
+msgid "unpack zip Files"
+msgstr "malpaki zip-dosierojn"
+
+msgid "Unsupported archive type."
+msgstr "Nesubtenata arkiva tipo."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Vidi aŭ redakti dosieron (se grandeco < 1MB)"
+
+msgid "View or edit this %s script"
+msgstr "Rigardu aŭ redaktu ĉi tiun %s-skripton"
+
+msgid "WARNING!"
+msgstr "AVERTO!"
+
+msgid "What do you want to play?\n"
+msgstr "Kion vi volas ludi?\n"
+
+msgid "without"
+msgstr "sen"
+
+msgid "Yes"
+msgstr "Jes"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Vi povas agordi la nombron da literoj ekde la komenco de la nuna dosiernomo kiel la tekston antaŭplenigitan en virtualan klavaron por pli facila enigo per grupelekto."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Vi povas agordi la nombron da literoj de la fino de la nuna dosiernomo kiel la tekston antaŭplenigitan en virtualan klavaron por pli facila enigo per grupelekto."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Vi povas agordi kion grupo elekto uzos - komenco de titolo, fino de titolo aŭ enhavo en titolo."
+

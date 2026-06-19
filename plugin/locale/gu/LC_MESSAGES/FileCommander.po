@@ -1,0 +1,1050 @@
+# gu translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: gu <ekekaz@gmail.com>\n"
+"Language: gu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- ફાઇલ અસ્તિત્વમાં છે! ઓવરરાઇટ કરો"
+
+msgid "- folder exist! Overwrite"
+msgstr "- ફોલ્ડર અસ્તિત્વમાં છે! ઓવરરાઇટ કરો"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(પસંદગીરી)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "વૈકલ્પિક પરિમાણ:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - નિષ્કર્ષણ ભૂલો."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s પાસવર્ડથી સુરક્ષિત છે."
+
+msgid "%s successfully extracted."
+msgstr "%s સફળતાપૂર્વક કાઢવામાં આવ્યું."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<રિસીવર>"
+
+msgid "Accessed:"
+msgstr "ઍક્સેસ કરેલ:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "ડાબી બાજુની ફાઇલ સૂચિને મલ્ટિ-સિલેક્ટ સોર્સ તરીકે સક્રિય કરો"
+
+msgid "Activate left-hand file list as source"
+msgstr "સ્રોત તરીકે ડાબી બાજુની ફાઇલ સૂચિને સક્રિય કરો"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "જમણી બાજુની ફાઇલ સૂચિને મલ્ટિ-સિલેક્ટ સોર્સ તરીકે સક્રિય કરો"
+
+msgid "Activate right-hand file list as source"
+msgstr "સ્ત્રોત તરીકે જમણી બાજુની ફાઇલ સૂચિને સક્રિય કરો"
+
+msgid "Add current folder to bookmarks"
+msgstr "બુકમાર્ક્સમાં વર્તમાન ફોલ્ડર ઉમેરો"
+
+msgid "Add plugin to Extensions menu"
+msgstr "એક્સ્ટેંશન મેનૂમાં પ્લગઇન ઉમેરો"
+
+msgid "Add plugin to main menu"
+msgstr "મુખ્ય મેનુમાં પ્લગઇન ઉમેરો"
+
+msgid "Add selected folder to bookmarks"
+msgstr "પસંદ કરેલ ફોલ્ડરને બુકમાર્ક્સમાં ઉમેરો"
+
+msgid "Add to selection (%s)"
+msgstr "પસંદગીમાં ઉમેરો (%s)"
+
+msgid "All"
+msgstr "બધા"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "પસંદ કરેલી મૂવી જેવા જ નામની ડિરેક્ટરીમાંની બધી ફાઇલો પણ કૉપિ અથવા ખસેડવામાં આવશે."
+
+msgid "All movie extensions"
+msgstr "બધા મૂવી એક્સટેન્શન"
+
+msgid "B"
+msgstr "બી"
+
+msgid "Block device"
+msgstr "ઉપકરણને અવરોધિત કરો"
+
+msgid "Calculate file checksums"
+msgstr "ફાઇલ ચેકસમ્સની ગણતરી કરો"
+
+msgid "Calculates file checksums."
+msgstr "ફાઇલ ચેકસમ્સની ગણતરી કરે છે."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "%s ચલાવી શકતા નથી: %s.\n%s એ પ્લગઇનમાં હોઈ શકે છે જે ઇન્સ્ટોલ કરેલ નથી."
+
+msgid "Cancel"
+msgstr "રદ કરો"
+
+msgid "Cancel execution?"
+msgstr "અમલ રદ કરીએ?"
+
+msgid "Cannot create target directory."
+msgstr "લક્ષ્ય નિર્દેશિકા બનાવી શકાતી નથી."
+
+msgid "Cannot open image. Open as text?"
+msgstr "છબી ખોલી શકાતી નથી. ટેક્સ્ટ તરીકે ખોલીએ?"
+
+msgid "Cannot play file."
+msgstr "ફાઇલ ચલાવી શકાતી નથી."
+
+msgid "Cannot read file: %s"
+msgstr "ફાઇલ વાંચી શકાતી નથી: %s"
+
+msgid "case insensitive"
+msgstr "કેસ અસંવેદનશીલ"
+
+msgid "case sensitive"
+msgstr "કેસ સંવેદનશીલ"
+
+msgid "Case sensitive search"
+msgstr "કેસ સંવેદનશીલ શોધ"
+
+msgid "Change buttons for list navigation"
+msgstr "સૂચિ નેવિગેશન માટે બટનો બદલો"
+
+msgid "Change execute permissions (755/644)"
+msgstr "એક્ઝિક્યુટ પરવાનગીઓ બદલો (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "ચેનલ બટન હંમેશા બાજુઓ બદલે છે"
+
+msgid "Character device"
+msgstr "અક્ષર ઉપકરણ"
+
+msgid "Close"
+msgstr "બંધ કરો"
+
+msgid "Compare case sensitive"
+msgstr "સંવેદનશીલ કેસની તુલના કરો"
+
+msgid "contains in title"
+msgstr "શીર્ષકમાં સમાવે છે"
+
+msgid "contains..."
+msgstr "સમાવે છે..."
+
+msgid "Content size:"
+msgstr "સામગ્રીનું કદ:"
+
+msgid "Copy"
+msgstr "નકલ કરો"
+
+msgid "copy file"
+msgstr "ફાઇલની નકલ કરો"
+
+msgid "Copy file"
+msgstr "ફાઇલની નકલ કરો"
+
+msgid "Copy file/directory to target directory"
+msgstr "લક્ષ્ય નિર્દેશિકામાં ફાઇલ/ડિરેક્ટરીની નકલ કરો"
+
+msgid "Copy files/directories to target directory"
+msgstr "લક્ષ્ય નિર્દેશિકામાં ફાઇલો/ડિરેક્ટરીઝની નકલ કરો"
+
+msgid "copy folder"
+msgstr "ફોલ્ડરની નકલ કરો"
+
+msgid "Copy folder"
+msgstr "ફોલ્ડર કૉપિ કરો"
+
+msgid "Count directory content size"
+msgstr "ડિરેક્ટરી સામગ્રી કદની ગણતરી કરો"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "ચાલતી વખતે ડાયરેક્ટરી સામગ્રીનું કદ ગણવું (ચાલુ/બંધ)"
+
+msgid "CPU priority for script execution"
+msgstr "સ્ક્રિપ્ટ એક્ઝેક્યુશન માટે CPU અગ્રતા"
+
+msgid "Create directory"
+msgstr "ડિરેક્ટરી બનાવો"
+
+msgid "create symlink ..."
+msgstr "સિમલિંક બનાવો..."
+
+msgid "Create symlink to file"
+msgstr "ફાઇલમાં સિમલિંક બનાવો"
+
+msgid "Create user-named symbolic link"
+msgstr "વપરાશકર્તા નામવાળી સાંકેતિક લિંક બનાવો"
+
+msgid "d"
+msgstr "ડી"
+
+msgid "Date"
+msgstr "તારીખ"
+
+msgid "Date reverse"
+msgstr "તારીખ રિવર્સ"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "એક્ઝિક્યુટેડ સ્ક્રિપ્ટ્સ માટે ડિફોલ્ટ CPU અગ્રતા (સરસ). આ લોડને ઘટાડી શકે છે જેથી સ્ક્રિપ્ટો બાકીની સિસ્ટમમાં દખલ ન કરે. (ઉચ્ચ મૂલ્યો = નીચી અગ્રતા)"
+
+msgid "Default directory sorting"
+msgstr "ડિફૉલ્ટ ડિરેક્ટરી સૉર્ટિંગ"
+
+msgid "Default file sorting left"
+msgstr "ડિફૉલ્ટ ફાઇલ સૉર્ટ કરવાનું બાકી છે"
+
+msgid "Default file sorting right"
+msgstr "ડિફૉલ્ટ ફાઇલ સૉર્ટિંગ અધિકાર"
+
+msgid "Default folder"
+msgstr "ડિફૉલ્ટ ફોલ્ડર"
+
+msgid "Default Folder"
+msgstr "ડિફૉલ્ટ ફોલ્ડર"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "એક્ઝિક્યુટેડ સ્ક્રિપ્ટો માટે ડિફોલ્ટ I/O અગ્રતા (ionice). આ લોડને ઘટાડી શકે છે જેથી સ્ક્રિપ્ટો બાકીની સિસ્ટમમાં દખલ ન કરે. (ઉચ્ચ મૂલ્યો = નીચી અગ્રતા)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "બંને પેનલમાં ડિરેક્ટરીઓ માટે ડિફૉલ્ટ સૉર્ટિંગ પદ્ધતિ (ફેરફારો લાગુ કરવા માટે FileCommander પુનઃપ્રારંભ કરવો આવશ્યક છે)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "ડાબી પેનલમાં ફાઇલો માટે ડિફૉલ્ટ સૉર્ટિંગ પદ્ધતિ."
+
+msgid "Default sorting method for files in right panel."
+msgstr "જમણી પેનલમાં ફાઇલો માટે ડિફૉલ્ટ સૉર્ટિંગ પદ્ધતિ."
+
+msgid "Delete"
+msgstr "કાઢી નાખો"
+
+msgid "Delete current line"
+msgstr "વર્તમાન લાઇન કાઢી નાખો"
+
+msgid "Delete file"
+msgstr "ફાઇલ કાઢી નાખો"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "ફાઇલ અથવા ડિરેક્ટરી કાઢી નાખો (અને તેની બધી સામગ્રીઓ)"
+
+msgid "Delete folder"
+msgstr "ફોલ્ડર કાઢી નાખો"
+
+msgid "Delete the selected files or directories"
+msgstr "પસંદ કરેલી ફાઇલો અથવા ડિરેક્ટરીઓ કાઢી નાખો"
+
+msgid "Deselect All"
+msgstr "બધાને નાપસંદ કરો"
+
+msgid "Deselect group"
+msgstr "જૂથને નાપસંદ કરો"
+
+msgid "Deselect group..."
+msgstr "જૂથને નાપસંદ કરો..."
+
+msgid "Directories to group selections"
+msgstr "જૂથ પસંદગી માટે ડિરેક્ટરીઓ"
+
+msgid "Directory"
+msgstr "ડિરેક્ટરી"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "ડિરેક્ટરી અહીં\n<સ્ટોરેજ ઉપકરણોની સૂચિ> અથવા <રિસીવર> પર બનાવી શકાતી નથી.\nપસંદકર્તાને એક લીટી નીચે ખસેડો અથવા ડિરેક્ટરી બદલો."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "હેડરમાં ફાઇલનામ દર્શાવો. તે ફાઇલનામો માટે ઉપયોગી છે જે ખૂબ લાંબા છે."
+
+msgid "Do you want change rights?\n"
+msgstr "શું તમે અધિકારો બદલવા માંગો છો?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "શું તમે સ્ક્રિપ્ટ જોવા કે ચલાવવા માંગો છો?\n"
+
+msgid "Edit"
+msgstr "સંપાદિત કરો"
+
+msgid "Edit current line"
+msgstr "વર્તમાન રેખા સંપાદિત કરો"
+
+msgid "Edit line"
+msgstr "રેખા સંપાદિત કરો"
+
+msgid "Edit new file"
+msgstr "નવી ફાઇલ સંપાદિત કરો"
+
+msgid "Edit position is the line end"
+msgstr "એડિટ પોઝિશન એ લાઇન એન્ડ છે"
+
+msgid "end title"
+msgstr "અંત શીર્ષક"
+
+msgid "ends with..."
+msgstr "સાથે સમાપ્ત થાય છે..."
+
+msgid "Enter multi-file selection mode"
+msgstr "બહુ-ફાઇલ પસંદગી મોડ દાખલ કરો"
+
+msgid "Error"
+msgstr "ભૂલ"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "ડિરેક્ટરી %s બનાવવામાં ભૂલ:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "ફાઇલ %s બનાવવામાં ભૂલ:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "%s ને %s થી લિંક કરવામાં ભૂલ:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "%s ને %s થી નામ બદલવામાં ભૂલ:\n%s"
+
+msgid "Error saving: %s"
+msgstr "સાચવવામાં ભૂલ: %s"
+
+msgid "Error..."
+msgstr "ભૂલ..."
+
+msgid "Execution finished!!"
+msgstr "અમલ સમાપ્ત!!"
+
+msgid "Execution progress\n\n"
+msgstr "અમલની પ્રગતિ\n\n"
+
+msgid "Exit"
+msgstr "બહાર નીકળો"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "સંપાદકમાંથી બહાર નીકળો અને ફેરફારો લખો (જો કોઈ હોય તો)"
+
+msgid "Exit movie player?"
+msgstr "મૂવી પ્લેયરમાંથી બહાર નીકળીએ?"
+
+msgid "Exit picture viewer"
+msgstr "ચિત્ર દર્શકમાંથી બહાર નીકળો"
+
+msgid "Extract archive to %s?"
+msgstr "આર્કાઇવને %s માં એક્સટ્રેક્ટ કરીએ?"
+
+msgid "Extracting..."
+msgstr "એક્સટ્રેક્ટ કરી રહ્યાં છીએ..."
+
+msgid "FIFO"
+msgstr "ફીફો"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "ફાઇલ\n<સ્ટોરેજ ઉપકરણોની સૂચિ> અથવા <રિસીવર> પર બનાવી શકાતી નથી.\nકૃપા કરીને ડિરેક્ટરી બદલો."
+
+msgid "File checksums/hashes"
+msgstr "ચેકસમ/હેશ ફાઇલ કરો"
+
+msgid "File Commander"
+msgstr "ફાઇલ કમાન્ડર"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "ફાઇલ કમાન્ડર - એડન ફાઇલ-વ્યૂઅર"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "ફાઇલ કમાન્ડર - એડન ફાઇલ-વ્યૂઅર સેટિંગ્સ"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "ફાઇલ કમાન્ડર - એડન મીડિયાપ્લેયર"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "ફાઇલ કમાન્ડર - એડન મૂવીપ્લેયર"
+
+msgid "File Commander - generalised archive handler"
+msgstr "ફાઇલ કમાન્ડર - સામાન્યકૃત આર્કાઇવ હેન્ડલર"
+
+msgid "File Commander - gzip Addon"
+msgstr "ફાઇલ કમાન્ડર - gzip એડન"
+
+msgid "File Commander - ipk Addon"
+msgstr "ફાઇલ કમાન્ડર - ipk એડન"
+
+msgid "File Commander - tar Addon"
+msgstr "ફાઇલ કમાન્ડર - ટાર એડન"
+
+msgid "File Commander - unrar Addon"
+msgstr "ફાઇલ કમાન્ડર - unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "ફાઇલ કમાન્ડર - અનઝિપ એડન"
+
+msgid "File not found: %s"
+msgstr "ફાઇલ મળી નથી: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "ટેક્સ્ટ તરીકે ખોલવા માટે ફાઇલ ખૂબ મોટી છે (મહત્તમ 1MB)."
+
+msgid "File too large to open as text."
+msgstr "ટેક્સ્ટ તરીકે ખોલવા માટે ફાઇલ ખૂબ મોટી છે."
+
+msgid "File transfer was cancelled by user"
+msgstr "વપરાશકર્તા દ્વારા ફાઇલ ટ્રાન્સફર રદ કરવામાં આવી હતી"
+
+msgid "File/Directory Status Information"
+msgstr "ફાઇલ/ડિરેક્ટરી સ્થિતિ માહિતી"
+
+msgid "Filenames in header"
+msgstr "હેડરમાં ફાઇલનામો"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "ફિલ્ટર એક્સ્ટેંશન, (*) શીર્ષકમાં દેખાય છે"
+
+msgid "Filter visible file classes by extension."
+msgstr "એક્સ્ટેંશન દ્વારા દૃશ્યમાન ફાઇલ વર્ગોને ફિલ્ટર કરો."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "ડેટા નુકશાન અથવા નુકસાન માટે !!!"
+
+msgid "from dir"
+msgstr "dir થી"
+
+msgid "GB"
+msgstr "જીબી"
+
+msgid "Go to bookmarked folder"
+msgstr "બુકમાર્ક કરેલ ફોલ્ડર પર જાઓ"
+
+msgid "Go to default directory"
+msgstr "ડિફૉલ્ટ ડિરેક્ટરી પર જાઓ"
+
+msgid "Go to end of file"
+msgstr "ફાઇલના અંતમાં જાઓ"
+
+msgid "Go to parent directory"
+msgstr "પિતૃ નિર્દેશિકા પર જાઓ"
+
+msgid "Go to start of file"
+msgstr "ફાઇલની શરૂઆત પર જાઓ"
+
+msgid "Group:"
+msgstr "જૂથ:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "બદલાઈ ગયો છે! શું તમે તેને સાચવવા માંગો છો?"
+
+msgid "Hide/Show"
+msgstr "છુપાવો/બતાવો"
+
+msgid "I/O priority for script execution"
+msgstr "સ્ક્રિપ્ટ એક્ઝેક્યુશન માટે I/O અગ્રતા"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "જો કોઈ ફાઇલને સંપાદિત કરી રહ્યાં હોય, તો તમે કર્સરની શરૂઆતની સ્થિતિને લીટીના અંતે અથવા શરૂઆતમાં સેટ કરી શકો છો."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "બહુ-પસંદગી મોડમાં માર્ક કર્યા પછી કર્સરને આગલી આઇટમ પર ખસેડે છે."
+
+msgid "Inode:"
+msgstr "ઇનોડ:"
+
+msgid "Insert"
+msgstr "દાખલ કરો"
+
+msgid "Insert line before current line"
+msgstr "વર્તમાન રેખા પહેલાં લાઇન દાખલ કરો"
+
+msgid "Install"
+msgstr "ઇન્સ્ટોલ કરો"
+
+msgid "install/unpack ipk Files"
+msgstr "ipk ફાઇલોને ઇન્સ્ટોલ/અનપેક કરો"
+
+msgid "Installing Plugin ..."
+msgstr "પ્લગઇન ઇન્સ્ટોલ કરી રહ્યું છે..."
+
+msgid "Invert selection"
+msgstr "પસંદગી ઉલટાવી"
+
+msgid "Invert Selection"
+msgstr "ઉલટાનું પસંદગી"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "<સ્ટોરેજ ઉપકરણોની યાદી> પર હેશની ગણતરી કરવી શક્ય નથી"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "<સ્ટોરેજ ઉપકરણોની યાદી> ના ફાઈલ મોડને બદલવું શક્ય નથી"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "<સ્ટોરેજ ઉપકરણોની સૂચિ>ની ફાઇલ સ્થિતિ મેળવવી શક્ય નથી"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "ફાઇલ કમાન્ડર છોડો"
+
+msgid "Leave multi-select mode"
+msgstr "મલ્ટિ-સિલેક્ટ મોડ છોડો"
+
+msgid "Link target:"
+msgstr "લિંક લક્ષ્ય:"
+
+msgid "Links:"
+msgstr "લિંક્સ:"
+
+msgid "List of Storage Devices"
+msgstr "સંગ્રહ ઉપકરણોની સૂચિ"
+
+msgid "Load"
+msgstr "લોડ"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "એક્સ્ટેંશન મેનૂમાંથી ફાઇલકમાન્ડરને ઍક્સેસિબલ બનાવો."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "ફાઇલકમાન્ડરને મુખ્ય મેનૂમાંથી ઍક્સેસિબલ બનાવો."
+
+msgid "manage local Files"
+msgstr "સ્થાનિક ફાઇલોનું સંચાલન કરો"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "મેનુ"
+
+msgid "Menu..."
+msgstr "મેનુ..."
+
+msgid "Metadata changed:"
+msgstr "મેટાડેટા બદલાયો:"
+
+msgid "Mode %s (%04o)"
+msgstr "મોડ %s (%04o)"
+
+msgid "Modified:"
+msgstr "સંશોધિત:"
+
+msgid "Move"
+msgstr "ચાલ"
+
+msgid "Move down list"
+msgstr "સૂચિ નીચે ખસેડો"
+
+msgid "move file"
+msgstr "ફાઇલ ખસેડો"
+
+msgid "Move file"
+msgstr "ફાઇલ ખસેડો"
+
+msgid "Move file/directory to target directory"
+msgstr "ફાઇલ/ડિરેક્ટરીને લક્ષ્ય નિર્દેશિકામાં ખસેડો"
+
+msgid "Move files/directories to target directory"
+msgstr "ફાઇલો/ડિરેક્ટરીઝને લક્ષ્ય નિર્દેશિકામાં ખસેડો"
+
+msgid "move folder"
+msgstr "ફોલ્ડર ખસેડો"
+
+msgid "Move folder"
+msgstr "ફોલ્ડર ખસેડો"
+
+msgid "Move selector to next item"
+msgstr "પસંદગીકારને આગલી આઇટમ પર ખસેડો"
+
+msgid "Move selector to next item (on/off)"
+msgstr "પસંદગીકારને આગલી આઇટમ પર ખસેડો (ચાલુ/બંધ)"
+
+msgid "Move up list"
+msgstr "સૂચિ ઉપર ખસેડો"
+
+msgid "Movie"
+msgstr "મૂવી"
+
+msgid "MultiSelection Settings"
+msgstr "મલ્ટિ-સિલેકશન સેટિંગ્સ"
+
+msgid "Music"
+msgstr "સંગીત"
+
+msgid "My extension"
+msgstr "મારું વિસ્તરણ"
+
+msgid "My Extension"
+msgstr "મારું એક્સ્ટેંશન"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "નામ"
+
+msgid "Name reverse"
+msgstr "નામ રિવર્સ"
+
+msgid "New folder"
+msgstr "નવું ફોલ્ડર"
+
+msgid "New symlink"
+msgstr "નવી સિમલિંક"
+
+msgid "new.txt"
+msgstr "new.txt"
+
+msgid "No"
+msgstr "ના"
+
+msgid "No files found."
+msgstr "કોઈ ફાઇલો મળી નથી."
+
+msgid "No hash calculations configured"
+msgstr "કોઈ હેશ ગણતરીઓ ગોઠવેલી નથી"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "હેશ %s માટે કોઈ પણ હેશ પ્રોગ્રામ ઉપલબ્ધ નથી"
+
+msgid "Not allowed with folders"
+msgstr "ફોલ્ડર્સ સાથે મંજૂરી નથી"
+
+msgid "nothing connected"
+msgstr "કંઈ જોડાયેલ નથી"
+
+msgid "Number of lines in script messages"
+msgstr "સ્ક્રિપ્ટ સંદેશાઓમાં લીટીઓની સંખ્યા"
+
+msgid "OK"
+msgstr "ઓકે"
+
+msgid "On device:"
+msgstr "ઉપકરણ પર:"
+
+msgid "Open"
+msgstr "ખોલો"
+
+msgid "Open actions menu"
+msgstr "ક્રિયાઓ મેનૂ ખોલો"
+
+msgid "Open settings/actions menu"
+msgstr "સેટિંગ્સ/એક્શન મેનૂ ખોલો"
+
+msgid "Open with File Commander"
+msgstr "ફાઇલ કમાન્ડર સાથે ખોલો"
+
+msgid "or save the picture additionally to a file"
+msgstr "અથવા ચિત્રને વધારામાં ફાઇલમાં સાચવો"
+
+msgid "Original subtitles codepage"
+msgstr "મૂળ સબટાઈટલ કોડપેજ"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "UTF-8 માં રૂપાંતર માટે મૂળ સબટાઈટલ કોડપેજ."
+
+msgid "Original:"
+msgstr "મૂળ:"
+
+msgid "Owner:"
+msgstr "માલિક:"
+
+msgid "Page down list"
+msgstr "પૃષ્ઠ નીચે સૂચિ"
+
+msgid "Page up list"
+msgstr "પૃષ્ઠ અપ સૂચિ"
+
+msgid "Parent Directory"
+msgstr "પિતૃ નિર્દેશિકા"
+
+msgid "Permissions:"
+msgstr "પરવાનગીઓ:"
+
+msgid "Pictures"
+msgstr "ચિત્રો"
+
+msgid "play Files"
+msgstr "ફાઇલો ચલાવો"
+
+msgid "Play folder"
+msgstr "ફોલ્ડર ચલાવો"
+
+msgid "Play title"
+msgstr "પ્લે શીર્ષક"
+
+msgid "play/show Files"
+msgstr "ફાઇલો ચલાવો/શો"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "ફાઇલ ચલાવો/જુઓ/સંપાદિત કરો/ઇન્સ્ટોલ કરો/એક્સ્ટ્રેક્ટ કરો/રન કરો અથવા ડિરેક્ટરી દાખલ કરો"
+
+msgid "Please enter file/folder name"
+msgstr "કૃપા કરીને ફાઇલ/ફોલ્ડરનું નામ દાખલ કરો"
+
+msgid "Please enter name of the new directory"
+msgstr "કૃપા કરીને નવી ડિરેક્ટરીનું નામ દાખલ કરો"
+
+msgid "Please enter name of the new symlink"
+msgstr "કૃપા કરીને નવી સિમલિંકનું નામ દાખલ કરો"
+
+msgid "Please enter password"
+msgstr "કૃપા કરીને પાસવર્ડ દાખલ કરો"
+
+msgid "Please enter the new directory name"
+msgstr "કૃપા કરીને નવી ડિરેક્ટરી નામ દાખલ કરો"
+
+msgid "Please enter the new file name"
+msgstr "કૃપા કરીને નવી ફાઇલનું નામ દાખલ કરો"
+
+msgid "Please wait, Loading image."
+msgstr "કૃપા કરીને રાહ જુઓ, છબી લોડ કરી રહ્યું છે."
+
+msgid "Press OK or Exit to abort!"
+msgstr "બંધ કરવા માટે બરાબર દબાવો અથવા બહાર નીકળો!"
+
+msgid "python"
+msgstr "અજગર"
+
+msgid "Records"
+msgstr "રેકોર્ડ્સ"
+
+msgid "Refresh screen"
+msgstr "સ્ક્રીન તાજું કરો"
+
+msgid "Regular file"
+msgstr "નિયમિત ફાઇલ"
+
+msgid "Remove current folder from bookmarks"
+msgstr "બુકમાર્ક્સમાંથી વર્તમાન ફોલ્ડર દૂર કરો"
+
+msgid "Remove from selection (%s)"
+msgstr "પસંદગીમાંથી દૂર કરો (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "બુકમાર્ક્સમાંથી પસંદ કરેલા ફોલ્ડરને દૂર કરો"
+
+msgid "Rename"
+msgstr "નામ બદલો"
+
+msgid "Rename file"
+msgstr "ફાઇલનું નામ બદલો"
+
+msgid "Rename file/directory"
+msgstr "ફાઇલ/ડિરેક્ટરીનું નામ બદલો"
+
+msgid "Restart"
+msgstr "પુનઃપ્રારંભ કરો"
+
+msgid "Reverse left file sorting"
+msgstr "રિવર્સ ડાબી ફાઇલ સૉર્ટિંગ"
+
+msgid "Reverse right file sorting"
+msgstr "રિવર્સ જમણી ફાઇલ સૉર્ટિંગ"
+
+msgid "Run script"
+msgstr "સ્ક્રિપ્ટ ચલાવો"
+
+msgid "Run script in background"
+msgstr "પૃષ્ઠભૂમિમાં સ્ક્રિપ્ટ ચલાવો"
+
+msgid "Run script with optional parameter"
+msgstr "વૈકલ્પિક પરિમાણ સાથે સ્ક્રિપ્ટ ચલાવો"
+
+msgid "Run script with optional parameter in background"
+msgstr "પૃષ્ઠભૂમિમાં વૈકલ્પિક પરિમાણ સાથે સ્ક્રિપ્ટ ચલાવો"
+
+msgid "s"
+msgstr "s"
+
+msgid "Save cursor position"
+msgstr "કર્સરની સ્થિતિ સાચવો"
+
+msgid "Save cursor position in active panel."
+msgstr "સક્રિય પેનલમાં કર્સરની સ્થિતિ સાચવો."
+
+msgid "Save left folder on exit"
+msgstr "બહાર નીકળવા પર ડાબું ફોલ્ડર સાચવો"
+
+msgid "Save right folder on exit"
+msgstr "બહાર નીકળવા પર જમણું ફોલ્ડર સાચવો"
+
+msgid "Save the left directory list location on exit."
+msgstr "બહાર નીકળવા પર ડાબી ડિરેક્ટરી યાદી સ્થાન સાચવો."
+
+msgid "Save the right folder list location on exit."
+msgstr "બહાર નીકળવા પર યોગ્ય ફોલ્ડર સૂચિ સ્થાન સાચવો."
+
+msgid "Search in group selection by"
+msgstr "દ્વારા જૂથ પસંદગીમાં શોધો"
+
+msgid "Search text"
+msgstr "ટેક્સ્ટ શોધો"
+
+msgid "Search text (%s):"
+msgstr "ટેક્સ્ટ શોધો (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "ફાઇલમાં ટેક્સ્ટ શોધો (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "પસંદ કરો (સ્રોત સૂચિ) અથવા ડિરેક્ટરી દાખલ કરો (લક્ષ્ય સૂચિ)"
+
+msgid "Select a path"
+msgstr "એક પાથ પસંદ કરો"
+
+msgid "Select action:"
+msgstr "ક્રિયા પસંદ કરો:"
+
+msgid "Select All"
+msgstr "બધા પસંદ કરો"
+
+msgid "Select group"
+msgstr "જૂથ પસંદ કરો"
+
+msgid "Select group..."
+msgstr "જૂથ પસંદ કરો..."
+
+msgid "Select operation:"
+msgstr "કામગીરી પસંદ કરો:"
+
+msgid "Select your personal settings:"
+msgstr "તમારી વ્યક્તિગત સેટિંગ્સ પસંદ કરો:"
+
+msgid "Set archive mode (644)"
+msgstr "આર્કાઇવ મોડ સેટ કરો (644)"
+
+msgid "Set executable mode (755)"
+msgstr "એક્ઝિક્યુટેબલ મોડ સેટ કરો (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "શોધ માટે અપરકેસ અને લોઅરકેસ વચ્ચે તફાવત કરવો કે કેમ તે સેટ કરે છે."
+
+msgid "Settings"
+msgstr "સેટિંગ્સ"
+
+msgid "Settings..."
+msgstr "સેટિંગ્સ..."
+
+msgid "shell"
+msgstr "શેલ"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "ચિત્ર તરીકે બતાવો (બંધ કરવા માટે કોઈપણ કી દબાવો)"
+
+msgid "Show contents of ipk file"
+msgstr "ipk ફાઇલની સામગ્રી બતાવો"
+
+msgid "Show contents of rar file"
+msgstr "rar ફાઇલની સામગ્રી બતાવો"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "ટાર અથવા કોમ્પ્રેસ્ડ ટાર ફાઇલની સામગ્રી બતાવો"
+
+msgid "Show contents of zip file"
+msgstr "ઝિપ ફાઇલની સામગ્રી બતાવો"
+
+msgid "Show directories first"
+msgstr "પ્રથમ ડિરેક્ટરીઓ બતાવો"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "પેનલમાં પ્રથમ અથવા છેલ્લા સ્થાનો પર ડિરેક્ટરીઓ બતાવો (ફેરફારો લાગુ કરવા માટે FileCommander પુનઃપ્રારંભ કરવું આવશ્યક છે)."
+
+msgid "Show image information"
+msgstr "છબી માહિતી બતાવો"
+
+msgid "Show next picture"
+msgstr "આગલું ચિત્ર બતાવો"
+
+msgid "Show previous picture"
+msgstr "અગાઉનું ચિત્ર બતાવો"
+
+msgid "Show Script completed message"
+msgstr "સ્ક્રિપ્ટ પૂર્ણ થયેલ સંદેશ બતાવો"
+
+msgid "Show task list"
+msgstr "કાર્ય સૂચિ બતાવો"
+
+msgid "Show unknown extension as text"
+msgstr "અજ્ઞાત એક્સટેન્શનને ટેક્સ્ટ તરીકે બતાવો"
+
+msgid "Size"
+msgstr "કદ"
+
+msgid "Size reverse"
+msgstr "કદ વિપરીત"
+
+msgid "Size:"
+msgstr "કદ:"
+
+msgid "Socket"
+msgstr "સોકેટ"
+
+msgid "Sorting left files by name, date or size"
+msgstr "નામ, તારીખ અથવા કદ દ્વારા ડાબી ફાઇલોને સૉર્ટ કરવી"
+
+msgid "Sorting right files by name, date or size"
+msgstr "નામ, તારીખ અથવા કદ દ્વારા યોગ્ય ફાઇલોને સૉર્ટ કરવી"
+
+msgid "start title"
+msgstr "પ્રારંભ શીર્ષક"
+
+msgid "Start/stop slide show"
+msgstr "સ્લાઇડ શો શરૂ/બંધ કરો"
+
+msgid "starts with..."
+msgstr "સાથે શરૂ થાય છે..."
+
+msgid "Storage devices"
+msgstr "સંગ્રહ ઉપકરણો"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "રિવર્સ ફાઇલ સોર્ટિંગ માટે સ્વેપ બટનો"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "ચેનલ +/- સાથે બટનોને જમણે/ડાબે સ્વેપ કરો અથવા ચેનલ બટન હંમેશા બાજુમાં બદલાય છે."
+
+msgid "Symbolic link"
+msgstr "સાંકેતિક કડી"
+
+msgid "Symlink to"
+msgstr "માટે સિમલિંક"
+
+msgid "Task list"
+msgstr "કાર્ય સૂચિ"
+
+msgid "TB"
+msgstr "ટીબી"
+
+msgid "Text not found."
+msgstr "ટેક્સ્ટ મળ્યો નથી."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "કેસ સંવેદનશીલ અથવા કેસ અસંવેદનશીલ તરીકે ટેક્સ્ટ શોધ."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "લેખકો જવાબદાર નથી"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "ફાઇલ કમાન્ડરના ઇમેજ વ્યૂઅર ઘટકને PicturePlayer એક્સ્ટેંશનની જરૂર છે. આ ઓપરેશનને સક્ષમ કરવા માટે PicturePlayer ઇન્સ્ટોલ કરો."
+
+msgid "This line is not editable!"
+msgstr "આ લાઇન સંપાદનયોગ્ય નથી!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "ઇમેજ વ્યૂઅર સ્લાઇડશોમાં સ્લાઇડ્સ વચ્ચેનો સમય."
+
+msgid "Time for Slideshow"
+msgstr "સ્લાઇડશો માટે સમય"
+
+msgid "to dir"
+msgstr "dir માટે"
+
+msgid "To next found text"
+msgstr "આગલા મળેલા ટેક્સ્ટ માટે"
+
+msgid "To previous found text"
+msgstr "અગાઉના મળેલા ટેક્સ્ટ માટે"
+
+msgid "Type the name for the new file"
+msgstr "નવી ફાઇલ માટે નામ લખો"
+
+msgid "Type:"
+msgstr "પ્રકાર:"
+
+msgid "Unknown"
+msgstr "અજ્ઞાત"
+
+msgid "Unknown file type. Open as text?"
+msgstr "અજ્ઞાત ફાઇલ પ્રકાર. ટેક્સ્ટ તરીકે ખોલીએ?"
+
+msgid "Unknown group: %d"
+msgstr "અજ્ઞાત જૂથ: %d"
+
+msgid "Unknown user: %d"
+msgstr "અજ્ઞાત વપરાશકર્તા: %d"
+
+msgid "unpack archives"
+msgstr "આર્કાઇવ્સ અનપેક કરો"
+
+msgid "unpack gzip Files"
+msgstr "gzip ફાઇલોને અનપેક કરો"
+
+msgid "unpack Rar Files"
+msgstr "Rar ફાઇલોને અનપેક કરો"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "ટાર/કોમ્પ્રેસ્ડ ટાર ફાઇલોને અનપેક કરો"
+
+msgid "Unpack to %s"
+msgstr "%s પર અનપૅક કરો"
+
+msgid "Unpack to current folder"
+msgstr "વર્તમાન ફોલ્ડરમાં અનપૅક કરો"
+
+msgid "unpack zip Files"
+msgstr "ઝિપ ફાઇલોને અનપેક કરો"
+
+msgid "Unsupported archive type."
+msgstr "અસમર્થિત આર્કાઇવ પ્રકાર."
+
+msgid "v"
+msgstr "વિ"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "ફાઇલ જુઓ અથવા સંપાદિત કરો (જો કદ < 1MB હોય તો)"
+
+msgid "View or edit this %s script"
+msgstr "આ %s સ્ક્રિપ્ટ જુઓ અથવા સંપાદિત કરો"
+
+msgid "WARNING!"
+msgstr "ચેતવણી!"
+
+msgid "What do you want to play?\n"
+msgstr "તમે શું રમવા માંગો છો?\n"
+
+msgid "without"
+msgstr "વગર"
+
+msgid "Yes"
+msgstr "હા"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "તમે જૂથ પસંદગી દ્વારા સરળ ઇનપુટ માટે વર્ચ્યુઅલ કીબોર્ડમાં પૂર્વ-ભરેલ ટેક્સ્ટ તરીકે વર્તમાન ફાઇલ નામની શરૂઆતથી અક્ષરોની સંખ્યા સેટ કરી શકો છો."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "તમે જૂથ પસંદગી દ્વારા સરળ ઇનપુટ માટે વર્ચ્યુઅલ કીબોર્ડમાં પૂર્વ-ભરેલ ટેક્સ્ટ તરીકે વર્તમાન ફાઇલ નામના અંતથી અક્ષરોની સંખ્યા સેટ કરી શકો છો."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "તમે સેટ કરી શકો છો કે જૂથ પસંદગીનો શું ઉપયોગ કરશે - શીર્ષકની શરૂઆત, શીર્ષકનો અંત અથવા શીર્ષકમાં સમાવિષ્ટ છે."
+

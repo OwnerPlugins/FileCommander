@@ -1,0 +1,1050 @@
+# nl translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: nl <ekekaz@gmail.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- bestand bestaat! Overschrijven"
+
+msgid "- folder exist! Overwrite"
+msgstr "- map bestaat! Overschrijven"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Selecteer modus)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\noptionele parameter:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%dMB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%S"
+
+msgid "%s - extraction errors."
+msgstr "%s - extractiefouten."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s is beveiligd met een wachtwoord."
+
+msgid "%s successfully extracted."
+msgstr "%s succesvol geëxtraheerd."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Ontvanger>"
+
+msgid "Accessed:"
+msgstr "Toegankelijk:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Activeer de linker bestandslijst als meervoudige selectiebron"
+
+msgid "Activate left-hand file list as source"
+msgstr "Activeer de linker bestandslijst als bron"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Activeer de rechter bestandslijst als meervoudige selectiebron"
+
+msgid "Activate right-hand file list as source"
+msgstr "Activeer de rechter bestandslijst als bron"
+
+msgid "Add current folder to bookmarks"
+msgstr "Voeg huidige map toe aan bladwijzers"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Voeg plug-in toe aan het menu Extensies"
+
+msgid "Add plugin to main menu"
+msgstr "Voeg plug-in toe aan het hoofdmenu"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Voeg de geselecteerde map toe aan bladwijzers"
+
+msgid "Add to selection (%s)"
+msgstr "Toevoegen aan selectie (%s)"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Alle bestanden in de map met dezelfde naam als de geselecteerde film worden ook gekopieerd of verplaatst."
+
+msgid "All movie extensions"
+msgstr "Alle filmextensies"
+
+msgid "B"
+msgstr "B"
+
+msgid "Block device"
+msgstr "Blokkeer apparaat"
+
+msgid "Calculate file checksums"
+msgstr "Bereken bestandscontrolesommen"
+
+msgid "Calculates file checksums."
+msgstr "Berekent bestandscontrolesommen."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "Kan %s niet uitvoeren: %s.\n%s bevindt zich mogelijk in een plug-in die niet is geïnstalleerd."
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Cancel execution?"
+msgstr "Uitvoering annuleren?"
+
+msgid "Cannot create target directory."
+msgstr "Kan doelmap niet maken."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Kan afbeelding niet openen. Openen als tekst?"
+
+msgid "Cannot play file."
+msgstr "Kan bestand niet afspelen."
+
+msgid "Cannot read file: %s"
+msgstr "Kan bestand niet lezen: %s"
+
+msgid "case insensitive"
+msgstr "hoofdletterongevoelig"
+
+msgid "case sensitive"
+msgstr "hoofdlettergevoelig"
+
+msgid "Case sensitive search"
+msgstr "Hoofdlettergevoelig zoeken"
+
+msgid "Change buttons for list navigation"
+msgstr "Wijzig knoppen voor lijstnavigatie"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Uitvoerrechten wijzigen (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Kanaalknop verandert altijd van kant"
+
+msgid "Character device"
+msgstr "Karakter apparaat"
+
+msgid "Close"
+msgstr "Dichtbij"
+
+msgid "Compare case sensitive"
+msgstr "Vergelijk hoofdlettergevoelig"
+
+msgid "contains in title"
+msgstr "bevat in de titel"
+
+msgid "contains..."
+msgstr "bevat..."
+
+msgid "Content size:"
+msgstr "Inhoud grootte:"
+
+msgid "Copy"
+msgstr "Kopiëren"
+
+msgid "copy file"
+msgstr "kopieer bestand"
+
+msgid "Copy file"
+msgstr "Kopieer bestand"
+
+msgid "Copy file/directory to target directory"
+msgstr "Kopieer bestand/map naar doelmap"
+
+msgid "Copy files/directories to target directory"
+msgstr "Kopieer bestanden/mappen naar de doelmap"
+
+msgid "copy folder"
+msgstr "map kopiëren"
+
+msgid "Copy folder"
+msgstr "Kopieer map"
+
+msgid "Count directory content size"
+msgstr "Tel de grootte van de mapinhoud"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Grootte van mapinhoud tellen tijdens het lopen (aan/uit)"
+
+msgid "CPU priority for script execution"
+msgstr "CPU-prioriteit voor scriptuitvoering"
+
+msgid "Create directory"
+msgstr "Directory maken"
+
+msgid "create symlink ..."
+msgstr "maak een symlink..."
+
+msgid "Create symlink to file"
+msgstr "Maak een symlink naar bestand"
+
+msgid "Create user-named symbolic link"
+msgstr "Maak een door de gebruiker genoemde symbolische link"
+
+msgid "d"
+msgstr "D"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Date reverse"
+msgstr "Datum omgekeerd"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Standaard CPU-prioriteit (leuk) voor uitgevoerde scripts. Dit kan de belasting verminderen, zodat scripts de rest van het systeem niet hinderen. (hogere waarden = lagere prioriteit)"
+
+msgid "Default directory sorting"
+msgstr "Standaard directorysortering"
+
+msgid "Default file sorting left"
+msgstr "Standaard bestandssortering links"
+
+msgid "Default file sorting right"
+msgstr "Standaard sorteerrecht voor bestanden"
+
+msgid "Default folder"
+msgstr "Standaardmap"
+
+msgid "Default Folder"
+msgstr "Standaardmap"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Standaard I/O-prioriteit (ionice) voor uitgevoerde scripts. Dit kan de belasting verminderen, zodat scripts de rest van het systeem niet hinderen. (hogere waarden = lagere prioriteit)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Standaard sorteermethode voor mappen in beide panelen (om de wijzigingen toe te passen moet FileCommander opnieuw worden opgestart)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Standaard sorteermethode voor bestanden in het linkerpaneel."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Standaard sorteermethode voor bestanden in het rechterpaneel."
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+msgid "Delete current line"
+msgstr "Verwijder de huidige regel"
+
+msgid "Delete file"
+msgstr "Bestand verwijderen"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Bestand of map verwijderen (en de volledige inhoud ervan)"
+
+msgid "Delete folder"
+msgstr "Map verwijderen"
+
+msgid "Delete the selected files or directories"
+msgstr "Verwijder de geselecteerde bestanden of mappen"
+
+msgid "Deselect All"
+msgstr "Deselecteer Alles"
+
+msgid "Deselect group"
+msgstr "Deselecteer groep"
+
+msgid "Deselect group..."
+msgstr "Groep deselecteren..."
+
+msgid "Directories to group selections"
+msgstr "Mappen om selecties te groeperen"
+
+msgid "Directory"
+msgstr "Directory"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Directory kan hier niet worden aangemaakt op\n<Lijst met opslagapparaten> of <Ontvanger>.\nVerplaats de selector één regel naar beneden of wijzig de directory."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Bestandsnamen in header weergeven. Dit is handig voor bestandsnamen die te lang zijn."
+
+msgid "Do you want change rights?\n"
+msgstr "Wilt u de rechten wijzigen?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Wilt u het script bekijken of uitvoeren?\n"
+
+msgid "Edit"
+msgstr "Bewerking"
+
+msgid "Edit current line"
+msgstr "Bewerk de huidige regel"
+
+msgid "Edit line"
+msgstr "Regel bewerken"
+
+msgid "Edit new file"
+msgstr "Nieuw bestand bewerken"
+
+msgid "Edit position is the line end"
+msgstr "De bewerkingspositie is het regeleinde"
+
+msgid "end title"
+msgstr "eind titel"
+
+msgid "ends with..."
+msgstr "eindigt met..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Ga naar de modus voor selectie van meerdere bestanden"
+
+msgid "Error"
+msgstr "Fout"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Fout bij aanmaken map %s:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Fout bij aanmaken van bestand %s:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Fout bij het koppelen van %s aan %s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Fout bij hernoemen van %s naar %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Fout bij opslaan: %s"
+
+msgid "Error..."
+msgstr "Fout..."
+
+msgid "Execution finished!!"
+msgstr "Uitvoering voltooid!!"
+
+msgid "Execution progress\n\n"
+msgstr "Voortgang van uitvoering\n\n"
+
+msgid "Exit"
+msgstr "Uitgang"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Sluit de editor af en schrijf eventuele wijzigingen"
+
+msgid "Exit movie player?"
+msgstr "Filmspeler afsluiten?"
+
+msgid "Exit picture viewer"
+msgstr "Sluit de fotoviewer af"
+
+msgid "Extract archive to %s?"
+msgstr "Archief uitpakken naar %s?"
+
+msgid "Extracting..."
+msgstr "Extraheren..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Bestand kan niet worden aangemaakt op\n<Lijst met opslagapparaten> of <Ontvanger>.\nWijzig de map, alstublieft."
+
+msgid "File checksums/hashes"
+msgstr "Bestandscontrolesommen/hashes"
+
+msgid "File Commander"
+msgstr "Bestandscommandant"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "Bestandscommandant - Add-on Bestandsviewer"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "File Commander - Add-on File-Viewer-instellingen"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "Bestandscommandant - Add-on Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "Bestandscommandant - Add-on Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander - gegeneraliseerde archiefhandler"
+
+msgid "File Commander - gzip Addon"
+msgstr "Bestandscommandant - gzip-add-on"
+
+msgid "File Commander - ipk Addon"
+msgstr "Bestandscommandant - ipk-add-on"
+
+msgid "File Commander - tar Addon"
+msgstr "Bestandscommandant - tar-add-on"
+
+msgid "File Commander - unrar Addon"
+msgstr "Bestandscommandant - Add-on unrar"
+
+msgid "File Commander - unzip Addon"
+msgstr "Bestandscommandant - Add-on uitpakken"
+
+msgid "File not found: %s"
+msgstr "Bestand niet gevonden: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Bestand te groot om als tekst te openen (max. 1 MB)."
+
+msgid "File too large to open as text."
+msgstr "Bestand te groot om als tekst te openen."
+
+msgid "File transfer was cancelled by user"
+msgstr "Bestandsoverdracht is geannuleerd door de gebruiker"
+
+msgid "File/Directory Status Information"
+msgstr "Bestands-/mapstatusinformatie"
+
+msgid "Filenames in header"
+msgstr "Bestandsnamen in koptekst"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Filterextensie, (*) verschijnt in de titel"
+
+msgid "Filter visible file classes by extension."
+msgstr "Filter zichtbare bestandsklassen op extensie."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "voor GEGEVENSVERLIES OF SCHADE!!!"
+
+msgid "from dir"
+msgstr "van richt"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "Ga naar de map met bladwijzer"
+
+msgid "Go to default directory"
+msgstr "Ga naar de standaardmap"
+
+msgid "Go to end of file"
+msgstr "Ga naar het einde van het bestand"
+
+msgid "Go to parent directory"
+msgstr "Ga naar de bovenliggende map"
+
+msgid "Go to start of file"
+msgstr "Ga naar het begin van het bestand"
+
+msgid "Group:"
+msgstr "Groep:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "is VERANDERD! Wil je het opslaan?"
+
+msgid "Hide/Show"
+msgstr "Verbergen/Tonen"
+
+msgid "I/O priority for script execution"
+msgstr "I/O-prioriteit voor scriptuitvoering"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Als u een bestand bewerkt, kunt u de startpositie van de cursor aan het einde of aan het begin van de regel instellen."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "In de multi-selectiemodus verplaatst de cursor na het markeren naar het volgende item."
+
+msgid "Inode:"
+msgstr "Inode:"
+
+msgid "Insert"
+msgstr "Invoegen"
+
+msgid "Insert line before current line"
+msgstr "Regel vóór de huidige regel invoegen"
+
+msgid "Install"
+msgstr "Installeren"
+
+msgid "install/unpack ipk Files"
+msgstr "ipk-bestanden installeren/uitpakken"
+
+msgid "Installing Plugin ..."
+msgstr "Plug-in installeren..."
+
+msgid "Invert selection"
+msgstr "Selectie omkeren"
+
+msgid "Invert Selection"
+msgstr "Selectie omkeren"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "Het is niet mogelijk om hashes te berekenen op <Lijst met opslagapparaten>"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Het is niet mogelijk om de bestandsmodus van <Lijst met opslagapparaten> te wijzigen"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Het is niet mogelijk om de bestandsstatus van <Lijst met opslagapparaten> op te halen"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Verlaat Bestandscommandant"
+
+msgid "Leave multi-select mode"
+msgstr "Verlaat de multiselectiemodus"
+
+msgid "Link target:"
+msgstr "Linkdoel:"
+
+msgid "Links:"
+msgstr "Links:"
+
+msgid "List of Storage Devices"
+msgstr "Lijst met opslagapparaten"
+
+msgid "Load"
+msgstr "Laden"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Maak FileCommander toegankelijk via het menu Extensies."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Maak FileCommander toegankelijk vanuit het hoofdmenu."
+
+msgid "manage local Files"
+msgstr "beheer lokale bestanden"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "MENU"
+
+msgid "Menu..."
+msgstr "Menu..."
+
+msgid "Metadata changed:"
+msgstr "Metagegevens gewijzigd:"
+
+msgid "Mode %s (%04o)"
+msgstr "Modus %s (%04o)"
+
+msgid "Modified:"
+msgstr "Gewijzigd:"
+
+msgid "Move"
+msgstr "Beweging"
+
+msgid "Move down list"
+msgstr "Lijst naar beneden verplaatsen"
+
+msgid "move file"
+msgstr "bestand verplaatsen"
+
+msgid "Move file"
+msgstr "Bestand verplaatsen"
+
+msgid "Move file/directory to target directory"
+msgstr "Verplaats bestand/map naar doelmap"
+
+msgid "Move files/directories to target directory"
+msgstr "Verplaats bestanden/mappen naar de doelmap"
+
+msgid "move folder"
+msgstr "map verplaatsen"
+
+msgid "Move folder"
+msgstr "Verplaats map"
+
+msgid "Move selector to next item"
+msgstr "Verplaats de selector naar het volgende item"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Verplaats selector naar volgend item (aan/uit)"
+
+msgid "Move up list"
+msgstr "Lijst omhoog verplaatsen"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "MultiSelection Settings"
+msgstr "MultiSelectie-instellingen"
+
+msgid "Music"
+msgstr "Muziek"
+
+msgid "My extension"
+msgstr "Mijn extensie"
+
+msgid "My Extension"
+msgstr "Mijn extensie"
+
+msgid "n"
+msgstr "N"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Name reverse"
+msgstr "Naam omgekeerd"
+
+msgid "New folder"
+msgstr "Nieuwe map"
+
+msgid "New symlink"
+msgstr "Nieuwe symlink"
+
+msgid "new.txt"
+msgstr "nieuwe.txt"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "No files found."
+msgstr "Geen bestanden gevonden."
+
+msgid "No hash calculations configured"
+msgstr "Geen hashberekeningen geconfigureerd"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "Geen van de hashprogramma's voor de hashes %s is beschikbaar"
+
+msgid "Not allowed with folders"
+msgstr "Niet toegestaan ​​met mappen"
+
+msgid "nothing connected"
+msgstr "niets verbonden"
+
+msgid "Number of lines in script messages"
+msgstr "Aantal regels in scriptberichten"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On device:"
+msgstr "Op apparaat:"
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Open actions menu"
+msgstr "Actiemenu openen"
+
+msgid "Open settings/actions menu"
+msgstr "Open het menu Instellingen/acties"
+
+msgid "Open with File Commander"
+msgstr "Openen met Bestandscommandant"
+
+msgid "or save the picture additionally to a file"
+msgstr "of sla de afbeelding bovendien op in een bestand"
+
+msgid "Original subtitles codepage"
+msgstr "Originele ondertitelcodepagina"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Originele ondertitelcodepagina voor conversie naar UTF-8."
+
+msgid "Original:"
+msgstr "Origineel:"
+
+msgid "Owner:"
+msgstr "Eigenaar:"
+
+msgid "Page down list"
+msgstr "Pagina omlaag lijst"
+
+msgid "Page up list"
+msgstr "Pagina omhoog lijst"
+
+msgid "Parent Directory"
+msgstr "Oudermap"
+
+msgid "Permissions:"
+msgstr "Machtigingen:"
+
+msgid "Pictures"
+msgstr "Afbeeldingen"
+
+msgid "play Files"
+msgstr "bestanden afspelen"
+
+msgid "Play folder"
+msgstr "Map afspelen"
+
+msgid "Play title"
+msgstr "Titel afspelen"
+
+msgid "play/show Files"
+msgstr "bestanden afspelen/tonen"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Bestand afspelen/bekijken/bewerken/installeren/uitpakken/uitvoeren of map openen"
+
+msgid "Please enter file/folder name"
+msgstr "Voer de bestands-/mapnaam in"
+
+msgid "Please enter name of the new directory"
+msgstr "Voer de naam van de nieuwe directory in"
+
+msgid "Please enter name of the new symlink"
+msgstr "Voer de naam van de nieuwe symlink in"
+
+msgid "Please enter password"
+msgstr "Voer het wachtwoord in"
+
+msgid "Please enter the new directory name"
+msgstr "Voer de nieuwe mapnaam in"
+
+msgid "Please enter the new file name"
+msgstr "Voer de nieuwe bestandsnaam in"
+
+msgid "Please wait, Loading image."
+msgstr "Een ogenblik geduld, afbeelding wordt geladen."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Druk op OK of Afsluiten om af te breken!"
+
+msgid "python"
+msgstr "Python"
+
+msgid "Records"
+msgstr "Opnames"
+
+msgid "Refresh screen"
+msgstr "Scherm vernieuwen"
+
+msgid "Regular file"
+msgstr "Regulier bestand"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Verwijder de huidige map uit bladwijzers"
+
+msgid "Remove from selection (%s)"
+msgstr "Verwijderen uit selectie (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Verwijder de geselecteerde map uit bladwijzers"
+
+msgid "Rename"
+msgstr "Hernoemen"
+
+msgid "Rename file"
+msgstr "Bestand hernoemen"
+
+msgid "Rename file/directory"
+msgstr "Hernoem bestand/map"
+
+msgid "Restart"
+msgstr "Opnieuw opstarten"
+
+msgid "Reverse left file sorting"
+msgstr "Omgekeerde bestandssortering links"
+
+msgid "Reverse right file sorting"
+msgstr "Omgekeerde bestandssortering rechts"
+
+msgid "Run script"
+msgstr "Script uitvoeren"
+
+msgid "Run script in background"
+msgstr "Voer het script uit op de achtergrond"
+
+msgid "Run script with optional parameter"
+msgstr "Voer een script uit met een optionele parameter"
+
+msgid "Run script with optional parameter in background"
+msgstr "Voer een script uit met optionele parameter op de achtergrond"
+
+msgid "s"
+msgstr "S"
+
+msgid "Save cursor position"
+msgstr "Cursorpositie opslaan"
+
+msgid "Save cursor position in active panel."
+msgstr "Bewaar de cursorpositie in het actieve paneel."
+
+msgid "Save left folder on exit"
+msgstr "Bewaar de linkermap bij het afsluiten"
+
+msgid "Save right folder on exit"
+msgstr "Bewaar de juiste map bij het afsluiten"
+
+msgid "Save the left directory list location on exit."
+msgstr "Sla bij het afsluiten de linker directorylijstlocatie op."
+
+msgid "Save the right folder list location on exit."
+msgstr "Sla bij het afsluiten de juiste maplijstlocatie op."
+
+msgid "Search in group selection by"
+msgstr "Zoek in groepsselectie op"
+
+msgid "Search text"
+msgstr "Zoek tekst"
+
+msgid "Search text (%s):"
+msgstr "Zoektekst (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Zoek tekst in bestand (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Selecteer (bronnenlijst) of voer map in (doellijst)"
+
+msgid "Select a path"
+msgstr "Selecteer een pad"
+
+msgid "Select action:"
+msgstr "Selecteer actie:"
+
+msgid "Select All"
+msgstr "Selecteer Alles"
+
+msgid "Select group"
+msgstr "Groep selecteren"
+
+msgid "Select group..."
+msgstr "Groep selecteren..."
+
+msgid "Select operation:"
+msgstr "Selecteer bewerking:"
+
+msgid "Select your personal settings:"
+msgstr "Selecteer uw persoonlijke instellingen:"
+
+msgid "Set archive mode (644)"
+msgstr "Archiefmodus instellen (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Uitvoerbare modus instellen (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Stelt in of er bij het zoeken onderscheid moet worden gemaakt tussen hoofdletters en kleine letters."
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Settings..."
+msgstr "Instellingen..."
+
+msgid "shell"
+msgstr "schelp"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Toon als afbeelding (druk op een willekeurige toets om te sluiten)"
+
+msgid "Show contents of ipk file"
+msgstr "Toon de inhoud van het ipk-bestand"
+
+msgid "Show contents of rar file"
+msgstr "Toon de inhoud van het rar-bestand"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Toon de inhoud van het tar- of gecomprimeerde tar-bestand"
+
+msgid "Show contents of zip file"
+msgstr "Toon de inhoud van het zipbestand"
+
+msgid "Show directories first"
+msgstr "Toon eerst mappen"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Toon mappen op de eerste of laatste positie in het paneel (om de wijzigingen toe te passen moet FileCommander opnieuw worden opgestart)."
+
+msgid "Show image information"
+msgstr "Toon afbeeldingsinformatie"
+
+msgid "Show next picture"
+msgstr "Laat volgende foto zien"
+
+msgid "Show previous picture"
+msgstr "Laat vorige foto zien"
+
+msgid "Show Script completed message"
+msgstr "Toon het bericht Script voltooid"
+
+msgid "Show task list"
+msgstr "Takenlijst weergeven"
+
+msgid "Show unknown extension as text"
+msgstr "Toon onbekende extensie als tekst"
+
+msgid "Size"
+msgstr "Maat"
+
+msgid "Size reverse"
+msgstr "Maat omgekeerd"
+
+msgid "Size:"
+msgstr "Maat:"
+
+msgid "Socket"
+msgstr "Stopcontact"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Sorteer de linkerbestanden op naam, datum of grootte"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Sorteer de juiste bestanden op naam, datum of grootte"
+
+msgid "start title"
+msgstr "titel starten"
+
+msgid "Start/stop slide show"
+msgstr "Diavoorstelling starten/stoppen"
+
+msgid "starts with..."
+msgstr "begint met..."
+
+msgid "Storage devices"
+msgstr "Opslagapparaten"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Wisselknoppen voor omgekeerd sorteren van bestanden"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Verwissel de knoppen rechts/links met kanaal +/- of de kanaalknop verandert altijd van kant."
+
+msgid "Symbolic link"
+msgstr "Symbolische link"
+
+msgid "Symlink to"
+msgstr "Symlink naar"
+
+msgid "Task list"
+msgstr "Takenlijst"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Text not found."
+msgstr "Tekst niet gevonden."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Tekst zoeken als hoofdlettergevoelig of hoofdletterongevoelig."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "De auteurs zijn NIET VERANTWOORDELIJK"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "Voor het onderdeel Image Viewer van File Commander is de PicturePlayer-extensie vereist. Installeer PicturePlayer om deze bewerking in te schakelen."
+
+msgid "This line is not editable!"
+msgstr "Deze regel kan niet worden bewerkt!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Tijd tussen dia's in de diavoorstelling van de Image Viewer."
+
+msgid "Time for Slideshow"
+msgstr "Tijd voor diavoorstelling"
+
+msgid "to dir"
+msgstr "naar richt"
+
+msgid "To next found text"
+msgstr "Naar de volgende gevonden tekst"
+
+msgid "To previous found text"
+msgstr "Naar eerder gevonden tekst"
+
+msgid "Type the name for the new file"
+msgstr "Typ de naam voor het nieuwe bestand"
+
+msgid "Type:"
+msgstr "Type:"
+
+msgid "Unknown"
+msgstr "Onbekend"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Onbekend bestandstype. Openen als tekst?"
+
+msgid "Unknown group: %d"
+msgstr "Onbekende groep: %d"
+
+msgid "Unknown user: %d"
+msgstr "Onbekende gebruiker: %d"
+
+msgid "unpack archives"
+msgstr "archieven uitpakken"
+
+msgid "unpack gzip Files"
+msgstr "gzip-bestanden uitpakken"
+
+msgid "unpack Rar Files"
+msgstr "Rar-bestanden uitpakken"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "pak tar/gecomprimeerde tar-bestanden uit"
+
+msgid "Unpack to %s"
+msgstr "Uitpakken naar %s"
+
+msgid "Unpack to current folder"
+msgstr "Uitpakken naar de huidige map"
+
+msgid "unpack zip Files"
+msgstr "zip-bestanden uitpakken"
+
+msgid "Unsupported archive type."
+msgstr "Niet-ondersteund archieftype."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Bestand bekijken of bewerken (indien grootte < 1MB)"
+
+msgid "View or edit this %s script"
+msgstr "Bekijk of bewerk dit %s-script"
+
+msgid "WARNING!"
+msgstr "WAARSCHUWING!"
+
+msgid "What do you want to play?\n"
+msgstr "Wat wil je spelen?\n"
+
+msgid "without"
+msgstr "zonder"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "U kunt het aantal letters vanaf het begin van de huidige bestandsnaam instellen als tekst die vooraf is ingevuld op het virtuele toetsenbord, voor eenvoudiger invoer via groepsselectie."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "U kunt het aantal letters vanaf het einde van de huidige bestandsnaam instellen als tekst die vooraf is ingevuld op het virtuele toetsenbord, voor eenvoudiger invoer via groepsselectie."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "U kunt instellen wat de groepsselectie gebruikt: begin van de titel, einde van de titel of inhoud in de titel."
+

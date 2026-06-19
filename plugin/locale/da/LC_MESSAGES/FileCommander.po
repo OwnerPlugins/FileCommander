@@ -1,0 +1,1050 @@
+# da translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: da <ekekaz@gmail.com>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- fil eksisterer! Overskriv"
+
+msgid "- folder exist! Overwrite"
+msgstr "- mappe findes! Overskriv"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Vælg tilstand)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\nvalgfri parameter:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - udtræksfejl."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s er beskyttet med adgangskode."
+
+msgid "%s successfully extracted."
+msgstr "%s er udtrukket."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Modtager>"
+
+msgid "Accessed:"
+msgstr "Tilgået:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Aktiver venstre filliste som multi-select kilde"
+
+msgid "Activate left-hand file list as source"
+msgstr "Aktiver venstre filliste som kilde"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Aktiver højre filliste som multi-select kilde"
+
+msgid "Activate right-hand file list as source"
+msgstr "Aktiver højre filliste som kilde"
+
+msgid "Add current folder to bookmarks"
+msgstr "Tilføj den aktuelle mappe til bogmærker"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Tilføj plugin til udvidelsesmenuen"
+
+msgid "Add plugin to main menu"
+msgstr "Tilføj plugin til hovedmenuen"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Føj den valgte mappe til bogmærker"
+
+msgid "Add to selection (%s)"
+msgstr "Føj til valg (%s)"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Alle filer i mappen med samme navn som den valgte film vil også blive kopieret eller flyttet."
+
+msgid "All movie extensions"
+msgstr "Alle filmudvidelser"
+
+msgid "B"
+msgstr "B"
+
+msgid "Block device"
+msgstr "Bloker enhed"
+
+msgid "Calculate file checksums"
+msgstr "Beregn filkontrolsummer"
+
+msgid "Calculates file checksums."
+msgstr "Beregner filkontrolsummer."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "Kan ikke køre %s: %s.\n%s kan være i et plugin, der ikke er installeret."
+
+msgid "Cancel"
+msgstr "Ophæve"
+
+msgid "Cancel execution?"
+msgstr "Vil du annullere udførelsen?"
+
+msgid "Cannot create target directory."
+msgstr "Kan ikke oprette målmappe."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Kan ikke åbne billedet. Åbn som tekst?"
+
+msgid "Cannot play file."
+msgstr "Kan ikke afspille fil."
+
+msgid "Cannot read file: %s"
+msgstr "Kan ikke læse fil: %s"
+
+msgid "case insensitive"
+msgstr "sag ufølsom"
+
+msgid "case sensitive"
+msgstr "case-sensitive"
+
+msgid "Case sensitive search"
+msgstr "Versalfølsom søgning"
+
+msgid "Change buttons for list navigation"
+msgstr "Skift knapper til listenavigation"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Skift udførelsestilladelser (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Kanalknappen skifter altid side"
+
+msgid "Character device"
+msgstr "Karakter enhed"
+
+msgid "Close"
+msgstr "Tæt"
+
+msgid "Compare case sensitive"
+msgstr "Sammenlign forskel på store og små bogstaver"
+
+msgid "contains in title"
+msgstr "indeholder i titlen"
+
+msgid "contains..."
+msgstr "indeholder..."
+
+msgid "Content size:"
+msgstr "Indholdsstørrelse:"
+
+msgid "Copy"
+msgstr "Kopi"
+
+msgid "copy file"
+msgstr "kopi fil"
+
+msgid "Copy file"
+msgstr "Kopiér fil"
+
+msgid "Copy file/directory to target directory"
+msgstr "Kopier fil/bibliotek til målbibliotek"
+
+msgid "Copy files/directories to target directory"
+msgstr "Kopier filer/mapper til målmappe"
+
+msgid "copy folder"
+msgstr "kopi mappe"
+
+msgid "Copy folder"
+msgstr "Kopiér mappe"
+
+msgid "Count directory content size"
+msgstr "Tæl mappeindholdsstørrelse"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Tæller størrelse på mappeindhold, mens du går (til/fra)"
+
+msgid "CPU priority for script execution"
+msgstr "CPU-prioritet for scriptudførelse"
+
+msgid "Create directory"
+msgstr "Opret mappe"
+
+msgid "create symlink ..."
+msgstr "opret symbollink..."
+
+msgid "Create symlink to file"
+msgstr "Opret symbollink til fil"
+
+msgid "Create user-named symbolic link"
+msgstr "Opret brugernavnet symbolsk link"
+
+msgid "d"
+msgstr "d"
+
+msgid "Date"
+msgstr "Dato"
+
+msgid "Date reverse"
+msgstr "Omvendt dato"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Standard CPU-prioritet (god) for udførte scripts. Dette kan reducere belastningen, så scripts ikke forstyrrer resten af ​​systemet. (højere værdier = lavere prioritet)"
+
+msgid "Default directory sorting"
+msgstr "Standard bibliotekssortering"
+
+msgid "Default file sorting left"
+msgstr "Standard filsortering venstre"
+
+msgid "Default file sorting right"
+msgstr "Standard filsortering rigtigt"
+
+msgid "Default folder"
+msgstr "Standardmappe"
+
+msgid "Default Folder"
+msgstr "Standardmappe"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Standard I/O-prioritet (ionice) for udførte scripts. Dette kan reducere belastningen, så scripts ikke forstyrrer resten af ​​systemet. (højere værdier = lavere prioritet)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Standard sorteringsmetode for mapper i begge paneler (for at anvende ændringerne skal FileCommander genstartes)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Standard sorteringsmetode for filer i venstre panel."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Standard sorteringsmetode for filer i højre panel."
+
+msgid "Delete"
+msgstr "Slet"
+
+msgid "Delete current line"
+msgstr "Slet nuværende linje"
+
+msgid "Delete file"
+msgstr "Slet fil"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Slet fil eller mappe (og alt dens indhold)"
+
+msgid "Delete folder"
+msgstr "Slet mappe"
+
+msgid "Delete the selected files or directories"
+msgstr "Slet de valgte filer eller mapper"
+
+msgid "Deselect All"
+msgstr "Fravælg alle"
+
+msgid "Deselect group"
+msgstr "Fravælg gruppe"
+
+msgid "Deselect group..."
+msgstr "Fravælg gruppe..."
+
+msgid "Directories to group selections"
+msgstr "Mapper til gruppevalg"
+
+msgid "Directory"
+msgstr "Vejviser"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Directory kan ikke oprettes her på\n<Liste over lagerenheder> eller <Modtager>.\nFlyt vælgeren en linje nedenunder, eller skift mappe."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Vis filnavne i overskriften. Det er nyttigt til filnavne, der er for lange."
+
+msgid "Do you want change rights?\n"
+msgstr "Vil du have ændringsrettigheder?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Vil du se eller køre scriptet?\n"
+
+msgid "Edit"
+msgstr "Redigere"
+
+msgid "Edit current line"
+msgstr "Rediger den aktuelle linje"
+
+msgid "Edit line"
+msgstr "Rediger linje"
+
+msgid "Edit new file"
+msgstr "Rediger ny fil"
+
+msgid "Edit position is the line end"
+msgstr "Rediger position er linjeslutningen"
+
+msgid "end title"
+msgstr "afsluttende titel"
+
+msgid "ends with..."
+msgstr "slutter med..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Gå ind i multi-filvalgstilstand"
+
+msgid "Error"
+msgstr "Fejl"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Fejl ved oprettelse af mappe %s:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Fejl ved oprettelse af filen %s:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Fejl ved at linke %s til %s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Fejl ved omdøbning af %s til %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Fejl ved lagring: %s"
+
+msgid "Error..."
+msgstr "Fejl..."
+
+msgid "Execution finished!!"
+msgstr "Udførelse færdig!!"
+
+msgid "Execution progress\n\n"
+msgstr "Udførelsesforløb\n\n"
+
+msgid "Exit"
+msgstr "Udgang"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Afslut editor og skriv ændringer (hvis nogen)"
+
+msgid "Exit movie player?"
+msgstr "Vil du afslutte filmafspilleren?"
+
+msgid "Exit picture viewer"
+msgstr "Afslut billedfremviser"
+
+msgid "Extract archive to %s?"
+msgstr "Udpakke arkiv til %s?"
+
+msgid "Extracting..."
+msgstr "Uddrager..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Filen kan ikke oprettes på\n<Liste over lagerenheder> eller <Modtager>.\nSkift bibliotek, tak."
+
+msgid "File checksums/hashes"
+msgstr "Fil kontrolsummer/hashes"
+
+msgid "File Commander"
+msgstr "File Commander"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "File Commander - Addon File-Viewer"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "File Commander - Tilføjelsesindstillinger for filfremviser"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "File Commander - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "File Commander - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander - generaliseret arkivhåndtering"
+
+msgid "File Commander - gzip Addon"
+msgstr "File Commander - gzip Addon"
+
+msgid "File Commander - ipk Addon"
+msgstr "File Commander - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "File Commander - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "File Commander - unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "File Commander - unzip Addon"
+
+msgid "File not found: %s"
+msgstr "Filen blev ikke fundet: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Filen er for stor til at åbne som tekst (maks. 1 MB)."
+
+msgid "File too large to open as text."
+msgstr "Filen er for stor til at åbne som tekst."
+
+msgid "File transfer was cancelled by user"
+msgstr "Filoverførslen blev annulleret af brugeren"
+
+msgid "File/Directory Status Information"
+msgstr "Fil-/katalogstatusoplysninger"
+
+msgid "Filenames in header"
+msgstr "Filnavne i header"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Filterudvidelse, (*) vises i titlen"
+
+msgid "Filter visible file classes by extension."
+msgstr "Filtrer synlige filklasser efter udvidelse."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "for DATATAB ELLER SKADE!!!"
+
+msgid "from dir"
+msgstr "fra dir"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "Gå til bogmærket mappe"
+
+msgid "Go to default directory"
+msgstr "Gå til standardbiblioteket"
+
+msgid "Go to end of file"
+msgstr "Gå til slutningen af ​​filen"
+
+msgid "Go to parent directory"
+msgstr "Gå til overordnet bibliotek"
+
+msgid "Go to start of file"
+msgstr "Gå til starten af ​​filen"
+
+msgid "Group:"
+msgstr "Gruppe:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "er blevet ÆNDRING! Vil du gemme det?"
+
+msgid "Hide/Show"
+msgstr "Skjul/Vis"
+
+msgid "I/O priority for script execution"
+msgstr "I/O-prioritet for scriptudførelse"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Hvis du redigerer en fil, kan du indstille markørens startposition ved slutningen eller begyndelsen af ​​linjen."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "I multivalgstilstand flytter markøren til næste punkt efter markering."
+
+msgid "Inode:"
+msgstr "Inode:"
+
+msgid "Insert"
+msgstr "Indsæt"
+
+msgid "Insert line before current line"
+msgstr "Indsæt linje før nuværende linje"
+
+msgid "Install"
+msgstr "Installere"
+
+msgid "install/unpack ipk Files"
+msgstr "installer/udpak ipk-filer"
+
+msgid "Installing Plugin ..."
+msgstr "Installerer plugin..."
+
+msgid "Invert selection"
+msgstr "Inverter markering"
+
+msgid "Invert Selection"
+msgstr "Inverter markering"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "Det er ikke muligt at beregne hashes på <List of Storage Devices>"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Det er ikke muligt at ændre filtilstanden for <List of Storage Devices>"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Det er ikke muligt at få filstatus for <List of Storage Devices>"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Forlad File Commander"
+
+msgid "Leave multi-select mode"
+msgstr "Forlad multivalgstilstand"
+
+msgid "Link target:"
+msgstr "Linkmål:"
+
+msgid "Links:"
+msgstr "Links:"
+
+msgid "List of Storage Devices"
+msgstr "Liste over lagerenheder"
+
+msgid "Load"
+msgstr "Indlæs"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Gør FileCommander tilgængelig fra menuen Udvidelser."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Gør FileCommander tilgængelig fra hovedmenuen."
+
+msgid "manage local Files"
+msgstr "administrere lokale filer"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "MENU"
+
+msgid "Menu..."
+msgstr "Menu..."
+
+msgid "Metadata changed:"
+msgstr "Metadata ændret:"
+
+msgid "Mode %s (%04o)"
+msgstr "Tilstand %s (%04o)"
+
+msgid "Modified:"
+msgstr "Ændret:"
+
+msgid "Move"
+msgstr "Flytte"
+
+msgid "Move down list"
+msgstr "Flyt listen ned"
+
+msgid "move file"
+msgstr "flytte fil"
+
+msgid "Move file"
+msgstr "Flyt fil"
+
+msgid "Move file/directory to target directory"
+msgstr "Flyt fil/bibliotek til målbibliotek"
+
+msgid "Move files/directories to target directory"
+msgstr "Flyt filer/mapper til målmappe"
+
+msgid "move folder"
+msgstr "flytte mappe"
+
+msgid "Move folder"
+msgstr "Flyt mappe"
+
+msgid "Move selector to next item"
+msgstr "Flyt vælgeren til næste punkt"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Flyt vælgeren til næste element (til/fra)"
+
+msgid "Move up list"
+msgstr "Flyt listen op"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "MultiSelection Settings"
+msgstr "MultiSelection-indstillinger"
+
+msgid "Music"
+msgstr "Musik"
+
+msgid "My extension"
+msgstr "Min udvidelse"
+
+msgid "My Extension"
+msgstr "Min udvidelse"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "Name reverse"
+msgstr "Navn omvendt"
+
+msgid "New folder"
+msgstr "Ny mappe"
+
+msgid "New symlink"
+msgstr "Nyt symbollink"
+
+msgid "new.txt"
+msgstr "ny.txt"
+
+msgid "No"
+msgstr "Ingen"
+
+msgid "No files found."
+msgstr "Ingen filer fundet."
+
+msgid "No hash calculations configured"
+msgstr "Ingen hash-beregninger konfigureret"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "Ingen af ​​hash-programmerne for hasherne %s er tilgængelige"
+
+msgid "Not allowed with folders"
+msgstr "Ikke tilladt med mapper"
+
+msgid "nothing connected"
+msgstr "intet forbundet"
+
+msgid "Number of lines in script messages"
+msgstr "Antal linjer i script-meddelelser"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On device:"
+msgstr "På enheden:"
+
+msgid "Open"
+msgstr "Åben"
+
+msgid "Open actions menu"
+msgstr "Åbn handlingsmenuen"
+
+msgid "Open settings/actions menu"
+msgstr "Åbn menuen Indstillinger/handlinger"
+
+msgid "Open with File Commander"
+msgstr "Åbn med File Commander"
+
+msgid "or save the picture additionally to a file"
+msgstr "eller gem billedet yderligere i en fil"
+
+msgid "Original subtitles codepage"
+msgstr "Originale undertekster kodetabel"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Original undertekst tegntabel til konvertering til UTF-8."
+
+msgid "Original:"
+msgstr "Original:"
+
+msgid "Owner:"
+msgstr "Ejer:"
+
+msgid "Page down list"
+msgstr "Side ned liste"
+
+msgid "Page up list"
+msgstr "Side op liste"
+
+msgid "Parent Directory"
+msgstr "Forældrekartotek"
+
+msgid "Permissions:"
+msgstr "Tilladelser:"
+
+msgid "Pictures"
+msgstr "Billeder"
+
+msgid "play Files"
+msgstr "afspil filer"
+
+msgid "Play folder"
+msgstr "Afspil mappe"
+
+msgid "Play title"
+msgstr "Afspil titel"
+
+msgid "play/show Files"
+msgstr "afspil/vis filer"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Afspil/se/rediger/installer/udpak/kør fil eller indtast mappen"
+
+msgid "Please enter file/folder name"
+msgstr "Indtast venligst fil-/mappenavn"
+
+msgid "Please enter name of the new directory"
+msgstr "Indtast venligst navnet på den nye mappe"
+
+msgid "Please enter name of the new symlink"
+msgstr "Indtast venligst navnet på det nye symbollink"
+
+msgid "Please enter password"
+msgstr "Indtast venligst adgangskode"
+
+msgid "Please enter the new directory name"
+msgstr "Indtast venligst det nye biblioteksnavn"
+
+msgid "Please enter the new file name"
+msgstr "Indtast venligst det nye filnavn"
+
+msgid "Please wait, Loading image."
+msgstr "Vent venligst. Indlæser billede."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Tryk på OK eller Afslut for at afbryde!"
+
+msgid "python"
+msgstr "python"
+
+msgid "Records"
+msgstr "Optegnelser"
+
+msgid "Refresh screen"
+msgstr "Opdater skærmen"
+
+msgid "Regular file"
+msgstr "Almindelig fil"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Fjern den aktuelle mappe fra bogmærker"
+
+msgid "Remove from selection (%s)"
+msgstr "Fjern fra markering (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Fjern den valgte mappe fra bogmærker"
+
+msgid "Rename"
+msgstr "Omdøb"
+
+msgid "Rename file"
+msgstr "Omdøb fil"
+
+msgid "Rename file/directory"
+msgstr "Omdøb fil/mappe"
+
+msgid "Restart"
+msgstr "Genstart"
+
+msgid "Reverse left file sorting"
+msgstr "Omvendt venstre filsortering"
+
+msgid "Reverse right file sorting"
+msgstr "Omvendt højre filsortering"
+
+msgid "Run script"
+msgstr "Kør script"
+
+msgid "Run script in background"
+msgstr "Kør script i baggrunden"
+
+msgid "Run script with optional parameter"
+msgstr "Kør script med valgfri parameter"
+
+msgid "Run script with optional parameter in background"
+msgstr "Kør script med valgfri parameter i baggrunden"
+
+msgid "s"
+msgstr "s"
+
+msgid "Save cursor position"
+msgstr "Gem markørens position"
+
+msgid "Save cursor position in active panel."
+msgstr "Gem markørens position i det aktive panel."
+
+msgid "Save left folder on exit"
+msgstr "Gem venstre mappe ved afslutning"
+
+msgid "Save right folder on exit"
+msgstr "Gem højre mappe ved afslutning"
+
+msgid "Save the left directory list location on exit."
+msgstr "Gem den venstre mappelisteplacering ved afslutning."
+
+msgid "Save the right folder list location on exit."
+msgstr "Gem den rigtige mappelisteplacering ved afslutning."
+
+msgid "Search in group selection by"
+msgstr "Søg i gruppevalg efter"
+
+msgid "Search text"
+msgstr "Søg tekst"
+
+msgid "Search text (%s):"
+msgstr "Søg tekst (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Søg efter tekst i filen (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Vælg (kildeliste) eller indtast bibliotek (målliste)"
+
+msgid "Select a path"
+msgstr "Vælg en sti"
+
+msgid "Select action:"
+msgstr "Vælg handling:"
+
+msgid "Select All"
+msgstr "Vælg alle"
+
+msgid "Select group"
+msgstr "Vælg gruppe"
+
+msgid "Select group..."
+msgstr "Vælg gruppe..."
+
+msgid "Select operation:"
+msgstr "Vælg operation:"
+
+msgid "Select your personal settings:"
+msgstr "Vælg dine personlige indstillinger:"
+
+msgid "Set archive mode (644)"
+msgstr "Indstil arkivtilstand (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Indstil eksekverbar tilstand (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Indstiller, om der skal skelnes mellem store og små bogstaver ved søgning."
+
+msgid "Settings"
+msgstr "Indstillinger"
+
+msgid "Settings..."
+msgstr "Indstillinger..."
+
+msgid "shell"
+msgstr "skal"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Vis som billede (tryk på en vilkårlig tast for at lukke)"
+
+msgid "Show contents of ipk file"
+msgstr "Vis indholdet af ipk-filen"
+
+msgid "Show contents of rar file"
+msgstr "Vis indholdet af rar-filen"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Vis indholdet af tar eller komprimeret tar-fil"
+
+msgid "Show contents of zip file"
+msgstr "Vis indholdet af zip-filen"
+
+msgid "Show directories first"
+msgstr "Vis mapper først"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Vis mapper på første eller sidste positioner i panelet (for at anvende ændringerne skal FileCommander genstartes)."
+
+msgid "Show image information"
+msgstr "Vis billedoplysninger"
+
+msgid "Show next picture"
+msgstr "Vis næste billede"
+
+msgid "Show previous picture"
+msgstr "Vis forrige billede"
+
+msgid "Show Script completed message"
+msgstr "Vis script fuldført besked"
+
+msgid "Show task list"
+msgstr "Vis opgaveliste"
+
+msgid "Show unknown extension as text"
+msgstr "Vis ukendt udvidelse som tekst"
+
+msgid "Size"
+msgstr "Størrelse"
+
+msgid "Size reverse"
+msgstr "Størrelse omvendt"
+
+msgid "Size:"
+msgstr "Størrelse:"
+
+msgid "Socket"
+msgstr "Stikkontakt"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Sortering af venstre filer efter navn, dato eller størrelse"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Sortering af rigtige filer efter navn, dato eller størrelse"
+
+msgid "start title"
+msgstr "start titel"
+
+msgid "Start/stop slide show"
+msgstr "Start/stop diasshow"
+
+msgid "starts with..."
+msgstr "starter med..."
+
+msgid "Storage devices"
+msgstr "Opbevaringsenheder"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Skift knapper til omvendt filsortering"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Skift knapper til højre/venstre med kanal +/- eller kanalknappen skiftede altid til siden."
+
+msgid "Symbolic link"
+msgstr "Symbolsk link"
+
+msgid "Symlink to"
+msgstr "Symlink til"
+
+msgid "Task list"
+msgstr "Opgaveliste"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Text not found."
+msgstr "Tekst ikke fundet."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Tekstsøgning, der skelner mellem store og små bogstaver eller ufølsom."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Forfatterne er IKKE ANSVARLIGE"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "Image Viewer-komponenten i File Commander kræver PicturePlayer-udvidelsen. Installer PicturePlayer for at aktivere denne handling."
+
+msgid "This line is not editable!"
+msgstr "Denne linje kan ikke redigeres!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Tid mellem dias i billedfremviser-diasshow."
+
+msgid "Time for Slideshow"
+msgstr "Tid til diasshow"
+
+msgid "to dir"
+msgstr "til dir"
+
+msgid "To next found text"
+msgstr "Til næste fundne tekst"
+
+msgid "To previous found text"
+msgstr "Til tidligere fundet tekst"
+
+msgid "Type the name for the new file"
+msgstr "Indtast navnet på den nye fil"
+
+msgid "Type:"
+msgstr "Type:"
+
+msgid "Unknown"
+msgstr "Ukendt"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Ukendt filtype. Åbn som tekst?"
+
+msgid "Unknown group: %d"
+msgstr "Ukendt gruppe: %d"
+
+msgid "Unknown user: %d"
+msgstr "Ukendt bruger: %d"
+
+msgid "unpack archives"
+msgstr "udpakke arkiver"
+
+msgid "unpack gzip Files"
+msgstr "udpak gzip-filer"
+
+msgid "unpack Rar Files"
+msgstr "udpak Rar-filer"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "udpak tar/komprimerede tar-filer"
+
+msgid "Unpack to %s"
+msgstr "Pak ud til %s"
+
+msgid "Unpack to current folder"
+msgstr "Pak ud til den aktuelle mappe"
+
+msgid "unpack zip Files"
+msgstr "udpak zip-filer"
+
+msgid "Unsupported archive type."
+msgstr "Ikke-understøttet arkivtype."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Se eller rediger fil (hvis størrelse < 1 MB)"
+
+msgid "View or edit this %s script"
+msgstr "Se eller rediger dette %s script"
+
+msgid "WARNING!"
+msgstr "ADVARSEL!"
+
+msgid "What do you want to play?\n"
+msgstr "Hvad vil du spille?\n"
+
+msgid "without"
+msgstr "uden"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Du kan indstille antallet af bogstaver fra begyndelsen af ​​det aktuelle filnavn som teksten, der er udfyldt på det virtuelle tastatur, for lettere input via gruppevalg."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Du kan indstille antallet af bogstaver fra slutningen af ​​det aktuelle filnavn som teksten, der er forududfyldt på det virtuelle tastatur for lettere input via gruppevalg."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Du kan indstille, hvad gruppevalg skal bruge - start på titel, slutning af titel eller indeholder i titel."
+
