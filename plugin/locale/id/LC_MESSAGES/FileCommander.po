@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\parameter opsional:\n%s"
+msgstr "\nparameter opsional:\n%s"
 
 msgid "%d GB"
 msgstr "%d GB"
@@ -119,7 +119,7 @@ msgid "Calculates file checksums."
 msgstr "Menghitung checksum file."
 
 msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
-msgstr "Tidak dapat menjalankan %s: %s.\n%s mungkin ada dalam plugin yang tidak diinstal."
+msgstr "Tidak dapat menjalankan %s: %s.\n%s mungkin ada di plugin yang tidak diinstal."
 
 msgid "Cancel"
 msgstr "Membatalkan"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "File tidak dapat dibuat di\n<Daftar Perangkat Penyimpanan> atau <Penerima>.\nHarap ubah direktori."
+msgstr "File tidak dapat dibuat di\n<Daftar Perangkat Penyimpanan> atau <Penerima>.\nTolong ubah direktori."
 
 msgid "File checksums/hashes"
 msgstr "File checksum/hash"

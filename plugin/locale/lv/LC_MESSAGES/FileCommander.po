@@ -1,0 +1,1050 @@
+# lv translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: lv <ekekaz@gmail.com>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- fails pastāv! Pārrakstīt"
+
+msgid "- folder exist! Overwrite"
+msgstr "- mape pastāv! Pārrakstīt"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Izvēles režīms)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\nizvēles parametrs: \n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s — ekstrakcijas kļūdas."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s ir aizsargāts ar paroli."
+
+msgid "%s successfully extracted."
+msgstr "%s veiksmīgi izvilkts."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Uztvērējs>"
+
+msgid "Accessed:"
+msgstr "Piekļuve:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Aktivizējiet kreisās puses failu sarakstu kā vairāku atlases avotu"
+
+msgid "Activate left-hand file list as source"
+msgstr "Aktivizējiet kreisās puses failu sarakstu kā avotu"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Aktivizējiet labās puses failu sarakstu kā vairāku atlases avotu"
+
+msgid "Activate right-hand file list as source"
+msgstr "Aktivizējiet labās puses failu sarakstu kā avotu"
+
+msgid "Add current folder to bookmarks"
+msgstr "Pievienojiet pašreizējo mapi grāmatzīmēm"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Pievienojiet spraudni izvēlnei Paplašinājumi"
+
+msgid "Add plugin to main menu"
+msgstr "Pievienojiet spraudni galvenajai izvēlnei"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Pievienojiet atlasīto mapi grāmatzīmēm"
+
+msgid "Add to selection (%s)"
+msgstr "Pievienot atlasei (%s)"
+
+msgid "All"
+msgstr "Visi"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Tiks kopēti vai pārvietoti arī visi direktorijā esošie faili ar tādu pašu nosaukumu kā atlasītajai filmai."
+
+msgid "All movie extensions"
+msgstr "Visi filmu paplašinājumi"
+
+msgid "B"
+msgstr "B"
+
+msgid "Block device"
+msgstr "Bloķēt ierīci"
+
+msgid "Calculate file checksums"
+msgstr "Aprēķināt failu kontrolsummas"
+
+msgid "Calculates file checksums."
+msgstr "Aprēķina failu kontrolsummas."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "Nevar palaist %s: %s.\n%s var būt spraudnī, kas nav instalēts."
+
+msgid "Cancel"
+msgstr "Atcelt"
+
+msgid "Cancel execution?"
+msgstr "Vai atcelt izpildi?"
+
+msgid "Cannot create target directory."
+msgstr "Nevar izveidot mērķa direktoriju."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Nevar atvērt attēlu. Vai atvērt kā tekstu?"
+
+msgid "Cannot play file."
+msgstr "Nevar atskaņot failu."
+
+msgid "Cannot read file: %s"
+msgstr "Nevar nolasīt failu: %s"
+
+msgid "case insensitive"
+msgstr "reģistrjutīgs"
+
+msgid "case sensitive"
+msgstr "reģistrjutīgs"
+
+msgid "Case sensitive search"
+msgstr "Reģistrjutīga meklēšana"
+
+msgid "Change buttons for list navigation"
+msgstr "Mainīt pogas saraksta navigācijai"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Mainīt izpildes atļaujas (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Kanāla poga vienmēr maina malas"
+
+msgid "Character device"
+msgstr "Rakstzīmju ierīce"
+
+msgid "Close"
+msgstr "Aizvērt"
+
+msgid "Compare case sensitive"
+msgstr "Salīdziniet reģistrjutīgo"
+
+msgid "contains in title"
+msgstr "satur nosaukumā"
+
+msgid "contains..."
+msgstr "satur..."
+
+msgid "Content size:"
+msgstr "Satura lielums:"
+
+msgid "Copy"
+msgstr "Kopēt"
+
+msgid "copy file"
+msgstr "kopēt failu"
+
+msgid "Copy file"
+msgstr "Kopēt failu"
+
+msgid "Copy file/directory to target directory"
+msgstr "Kopējiet failu/direktoriju mērķa direktorijā"
+
+msgid "Copy files/directories to target directory"
+msgstr "Kopējiet failus/direktorijus mērķa direktorijā"
+
+msgid "copy folder"
+msgstr "kopēt mapi"
+
+msgid "Copy folder"
+msgstr "Kopēt mapi"
+
+msgid "Count directory content size"
+msgstr "Skaitīt direktorija satura lielumu"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Kataloga satura lieluma skaitīšana ejot (ieslēgts/izslēgts)"
+
+msgid "CPU priority for script execution"
+msgstr "CPU prioritāte skripta izpildei"
+
+msgid "Create directory"
+msgstr "Izveidot direktoriju"
+
+msgid "create symlink ..."
+msgstr "izveidot simbolisku saiti..."
+
+msgid "Create symlink to file"
+msgstr "Izveidojiet simbolisku saiti uz failu"
+
+msgid "Create user-named symbolic link"
+msgstr "Izveidojiet lietotāja vārda simbolisku saiti"
+
+msgid "d"
+msgstr "d"
+
+msgid "Date"
+msgstr "Datums"
+
+msgid "Date reverse"
+msgstr "Datuma reverss"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Noklusējuma CPU prioritāte (jauka) izpildītajiem skriptiem. Tas var samazināt slodzi, lai skripti netraucētu pārējai sistēmai. (augstākas vērtības = zemāka prioritāte)"
+
+msgid "Default directory sorting"
+msgstr "Noklusējuma direktoriju kārtošana"
+
+msgid "Default file sorting left"
+msgstr "Atlikusi noklusējuma failu kārtošana"
+
+msgid "Default file sorting right"
+msgstr "Noklusējuma failu kārtošanas tiesības"
+
+msgid "Default folder"
+msgstr "Noklusējuma mape"
+
+msgid "Default Folder"
+msgstr "Noklusējuma mape"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Noklusējuma I/O prioritāte (ionice) izpildītajiem skriptiem. Tas var samazināt slodzi, lai skripti netraucētu pārējai sistēmai. (augstākas vērtības = zemāka prioritāte)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Noklusējuma šķirošanas metode direktorijiem abos paneļos (lai piemērotu izmaiņas, ir jārestartē FileCommander)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Noklusējuma kārtošanas metode failiem kreisajā panelī."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Noklusējuma kārtošanas metode failiem labajā panelī."
+
+msgid "Delete"
+msgstr "Dzēst"
+
+msgid "Delete current line"
+msgstr "Dzēst pašreizējo rindu"
+
+msgid "Delete file"
+msgstr "Dzēst failu"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Dzēst failu vai direktoriju (un visu tā saturu)"
+
+msgid "Delete folder"
+msgstr "Dzēst mapi"
+
+msgid "Delete the selected files or directories"
+msgstr "Izdzēsiet atlasītos failus vai direktorijus"
+
+msgid "Deselect All"
+msgstr "Noņemiet visu atlasi"
+
+msgid "Deselect group"
+msgstr "Noņemiet grupas atlasi"
+
+msgid "Deselect group..."
+msgstr "Atcelt grupas atlasi..."
+
+msgid "Directories to group selections"
+msgstr "Katalogi grupu atlasēm"
+
+msgid "Directory"
+msgstr "Direktorija"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Šeit nevar izveidot direktoriju \n<Atmiņas ierīču saraksts> vai <Uztvērējs>.\nPārvietojiet atlasītāju vienu rindiņu zemāk vai mainiet direktoriju."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Parādīt failu nosaukumus galvenē. Tas ir noderīgi failu nosaukumiem, kas ir pārāk gari."
+
+msgid "Do you want change rights?\n"
+msgstr "Vai vēlaties mainīt tiesības? \n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Vai vēlaties skatīt vai palaist skriptu?\n"
+
+msgid "Edit"
+msgstr "Rediģēt"
+
+msgid "Edit current line"
+msgstr "Rediģēt pašreizējo rindu"
+
+msgid "Edit line"
+msgstr "Rediģēt rindu"
+
+msgid "Edit new file"
+msgstr "Rediģēt jaunu failu"
+
+msgid "Edit position is the line end"
+msgstr "Rediģēšanas pozīcija ir līnijas beigas"
+
+msgid "end title"
+msgstr "beigu virsraksts"
+
+msgid "ends with..."
+msgstr "beidzas ar..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Ieejiet vairāku failu atlases režīmā"
+
+msgid "Error"
+msgstr "Kļūda"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Veidojot direktoriju %s:\n%s, radās kļūda"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Veidojot failu %s:\n%s, radās kļūda"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Kļūda, saistot %s ar %s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Pārdēvējot %s par %s:\n%s, radās kļūda"
+
+msgid "Error saving: %s"
+msgstr "Saglabājot, radās kļūda: %s"
+
+msgid "Error..."
+msgstr "Kļūda..."
+
+msgid "Execution finished!!"
+msgstr "Izpilde pabeigta!!"
+
+msgid "Execution progress\n\n"
+msgstr "Izpildes norise\n\n"
+
+msgid "Exit"
+msgstr "Iziet"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Iziet no redaktora un ierakstiet izmaiņas (ja tādas ir)"
+
+msgid "Exit movie player?"
+msgstr "Vai iziet no filmu atskaņotāja?"
+
+msgid "Exit picture viewer"
+msgstr "Iziet no attēlu skatītāja"
+
+msgid "Extract archive to %s?"
+msgstr "Vai izvilkt arhīvu uz %s?"
+
+msgid "Extracting..."
+msgstr "Notiek izvilkšana..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Failu nevar izveidot \n<Atmiņas ierīču sarakstā> vai <Receiver>.\nLūdzu, mainiet direktoriju."
+
+msgid "File checksums/hashes"
+msgstr "Failu kontrolsummas/jaucējsummas"
+
+msgid "File Commander"
+msgstr "Failu komandieris"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "Failu komandieris — pievieno failu skatītāju"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "Failu komandieris — pievieno failu skatītāja iestatījumus"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "Failu komandieris — Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "Failu komandieris — Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "Failu komandieris - vispārināts arhīvu apstrādātājs"
+
+msgid "File Commander - gzip Addon"
+msgstr "Failu komandieris - gzip papildinājums"
+
+msgid "File Commander - ipk Addon"
+msgstr "Failu komandieris - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "Failu komandieris - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "Failu komandieris — unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "Failu komandieris - izpakojiet papildinājumu"
+
+msgid "File not found: %s"
+msgstr "Fails nav atrasts: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Fails ir pārāk liels, lai to atvērtu kā tekstu (maks. 1 MB)."
+
+msgid "File too large to open as text."
+msgstr "Fails ir pārāk liels, lai to atvērtu kā tekstu."
+
+msgid "File transfer was cancelled by user"
+msgstr "Lietotājs atcēla failu pārsūtīšanu"
+
+msgid "File/Directory Status Information"
+msgstr "Informācija par faila/kataloga statusu"
+
+msgid "Filenames in header"
+msgstr "Failu nosaukumi galvenē"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Filtra paplašinājums (*) parādās virsrakstā"
+
+msgid "Filter visible file classes by extension."
+msgstr "Filtrējiet redzamās failu klases pēc paplašinājuma."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "par DATU ZAUDĒJUMIEM VAI BOJĀJUMIEM !!!"
+
+msgid "from dir"
+msgstr "no rež"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "Dodieties uz grāmatzīmēm pievienoto mapi"
+
+msgid "Go to default directory"
+msgstr "Dodieties uz noklusējuma direktoriju"
+
+msgid "Go to end of file"
+msgstr "Dodieties uz faila beigām"
+
+msgid "Go to parent directory"
+msgstr "Dodieties uz vecāku direktoriju"
+
+msgid "Go to start of file"
+msgstr "Dodieties uz faila sākumu"
+
+msgid "Group:"
+msgstr "Grupa:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "ir MAINĪTS! Vai vēlaties to saglabāt?"
+
+msgid "Hide/Show"
+msgstr "Paslēpt/Rādīt"
+
+msgid "I/O priority for script execution"
+msgstr "I/O prioritāte skripta izpildei"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Ja rediģējat failu, varat iestatīt kursora sākuma pozīciju rindas beigās vai sākumā."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "Vairāku atlases režīmā pēc atzīmēšanas pārvieto kursoru uz nākamo vienumu."
+
+msgid "Inode:"
+msgstr "Inode:"
+
+msgid "Insert"
+msgstr "Ievietot"
+
+msgid "Insert line before current line"
+msgstr "Ievietojiet rindu pirms pašreizējās rindas"
+
+msgid "Install"
+msgstr "Instalējiet"
+
+msgid "install/unpack ipk Files"
+msgstr "instalējiet/izpakojiet ipk failus"
+
+msgid "Installing Plugin ..."
+msgstr "Notiek spraudņa instalēšana..."
+
+msgid "Invert selection"
+msgstr "Apgriezt atlasi"
+
+msgid "Invert Selection"
+msgstr "Apgriezt atlasi"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "<Uzglabāšanas ierīču sarakstā> nav iespējams aprēķināt jaucējus"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Nav iespējams mainīt faila režīmu <List of Storage Devices>"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Nav iespējams iegūt faila statusu <List of Storage Devices>"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Atstājiet failu komandieri"
+
+msgid "Leave multi-select mode"
+msgstr "Atstājiet vairāku atlases režīmu"
+
+msgid "Link target:"
+msgstr "Saites mērķis:"
+
+msgid "Links:"
+msgstr "Saites:"
+
+msgid "List of Storage Devices"
+msgstr "Uzglabāšanas ierīču saraksts"
+
+msgid "Load"
+msgstr "Ielādēt"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Padariet FileCommander pieejamu no paplašinājumu izvēlnes."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Padariet FileCommander pieejamu galvenajā izvēlnē."
+
+msgid "manage local Files"
+msgstr "pārvaldīt vietējos failus"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "IZVĒLNE"
+
+msgid "Menu..."
+msgstr "Izvēlne..."
+
+msgid "Metadata changed:"
+msgstr "Metadati mainīti:"
+
+msgid "Mode %s (%04o)"
+msgstr "Režīms %s (%04o)"
+
+msgid "Modified:"
+msgstr "Modificēts:"
+
+msgid "Move"
+msgstr "Pārvietot"
+
+msgid "Move down list"
+msgstr "Pārvietot sarakstu uz leju"
+
+msgid "move file"
+msgstr "pārvietot failu"
+
+msgid "Move file"
+msgstr "Pārvietot failu"
+
+msgid "Move file/directory to target directory"
+msgstr "Pārvietojiet failu/direktoriju uz mērķa direktoriju"
+
+msgid "Move files/directories to target directory"
+msgstr "Pārvietojiet failus/direktorijus uz mērķa direktoriju"
+
+msgid "move folder"
+msgstr "pārvietot mapi"
+
+msgid "Move folder"
+msgstr "Pārvietot mapi"
+
+msgid "Move selector to next item"
+msgstr "Pārvietot atlasītāju uz nākamo vienumu"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Pārvietot atlasītāju uz nākamo vienumu (ieslēgts/izslēgts)"
+
+msgid "Move up list"
+msgstr "Pārvietot sarakstu uz augšu"
+
+msgid "Movie"
+msgstr "Filma"
+
+msgid "MultiSelection Settings"
+msgstr "Vairāku atlases iestatījumi"
+
+msgid "Music"
+msgstr "Mūzika"
+
+msgid "My extension"
+msgstr "Mans pagarinājums"
+
+msgid "My Extension"
+msgstr "Mans paplašinājums"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "Vārds"
+
+msgid "Name reverse"
+msgstr "Nosaukums otrādi"
+
+msgid "New folder"
+msgstr "Jauna mape"
+
+msgid "New symlink"
+msgstr "Jauna simboliskā saite"
+
+msgid "new.txt"
+msgstr "jauns.txt"
+
+msgid "No"
+msgstr "Nē"
+
+msgid "No files found."
+msgstr "Nav atrasts neviens fails."
+
+msgid "No hash calculations configured"
+msgstr "Jaukšanas aprēķini nav konfigurēti"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "Nav pieejama neviena no jaucējprogrammām %s"
+
+msgid "Not allowed with folders"
+msgstr "Nav atļauts ar mapēm"
+
+msgid "nothing connected"
+msgstr "nekas nav saistīts"
+
+msgid "Number of lines in script messages"
+msgstr "Rindu skaits skripta ziņojumos"
+
+msgid "OK"
+msgstr "Labi"
+
+msgid "On device:"
+msgstr "Ierīcē:"
+
+msgid "Open"
+msgstr "Atvērt"
+
+msgid "Open actions menu"
+msgstr "Atveriet darbību izvēlni"
+
+msgid "Open settings/actions menu"
+msgstr "Atveriet iestatījumu/darbību izvēlni"
+
+msgid "Open with File Commander"
+msgstr "Atveriet ar File Commander"
+
+msgid "or save the picture additionally to a file"
+msgstr "vai saglabājiet attēlu papildus failā"
+
+msgid "Original subtitles codepage"
+msgstr "Oriģinālā subtitru koda lapa"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Oriģinālā subtitru koda lapa konvertēšanai uz UTF-8."
+
+msgid "Original:"
+msgstr "Oriģināls:"
+
+msgid "Owner:"
+msgstr "Īpašnieks:"
+
+msgid "Page down list"
+msgstr "Lapa uz leju saraksts"
+
+msgid "Page up list"
+msgstr "Saraksts uz augšu"
+
+msgid "Parent Directory"
+msgstr "Vecāku direktorijs"
+
+msgid "Permissions:"
+msgstr "Atļaujas:"
+
+msgid "Pictures"
+msgstr "Bildes"
+
+msgid "play Files"
+msgstr "atskaņot failus"
+
+msgid "Play folder"
+msgstr "Atskaņošanas mape"
+
+msgid "Play title"
+msgstr "Atskaņot nosaukumu"
+
+msgid "play/show Files"
+msgstr "atskaņot/rādīt failus"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Atskaņot/skatīt/rediģēt/instalēt/izvilkt/palaist failu vai ievadiet direktoriju"
+
+msgid "Please enter file/folder name"
+msgstr "Lūdzu, ievadiet faila/mapes nosaukumu"
+
+msgid "Please enter name of the new directory"
+msgstr "Lūdzu, ievadiet jaunā direktorija nosaukumu"
+
+msgid "Please enter name of the new symlink"
+msgstr "Lūdzu, ievadiet jaunās simboliskās saites nosaukumu"
+
+msgid "Please enter password"
+msgstr "Lūdzu, ievadiet paroli"
+
+msgid "Please enter the new directory name"
+msgstr "Lūdzu, ievadiet jauno direktorija nosaukumu"
+
+msgid "Please enter the new file name"
+msgstr "Lūdzu, ievadiet jauno faila nosaukumu"
+
+msgid "Please wait, Loading image."
+msgstr "Lūdzu, uzgaidiet, tiek ielādēts attēls."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Nospiediet OK vai Exit, lai pārtrauktu!"
+
+msgid "python"
+msgstr "pitons"
+
+msgid "Records"
+msgstr "Ieraksti"
+
+msgid "Refresh screen"
+msgstr "Atsvaidzināt ekrānu"
+
+msgid "Regular file"
+msgstr "Parasts fails"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Noņemiet pašreizējo mapi no grāmatzīmēm"
+
+msgid "Remove from selection (%s)"
+msgstr "Noņemt no atlases (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Noņemiet atlasīto mapi no grāmatzīmēm"
+
+msgid "Rename"
+msgstr "Pārdēvēt"
+
+msgid "Rename file"
+msgstr "Pārdēvēt failu"
+
+msgid "Rename file/directory"
+msgstr "Pārdēvējiet failu/direktoriju"
+
+msgid "Restart"
+msgstr "Restartēt"
+
+msgid "Reverse left file sorting"
+msgstr "Apgrieztā kreiso failu šķirošana"
+
+msgid "Reverse right file sorting"
+msgstr "Apgrieztā labā failu šķirošana"
+
+msgid "Run script"
+msgstr "Palaist skriptu"
+
+msgid "Run script in background"
+msgstr "Palaidiet skriptu fonā"
+
+msgid "Run script with optional parameter"
+msgstr "Palaist skriptu ar izvēles parametru"
+
+msgid "Run script with optional parameter in background"
+msgstr "Palaidiet skriptu ar izvēles parametru fonā"
+
+msgid "s"
+msgstr "s"
+
+msgid "Save cursor position"
+msgstr "Saglabājiet kursora pozīciju"
+
+msgid "Save cursor position in active panel."
+msgstr "Saglabājiet kursora pozīciju aktīvajā panelī."
+
+msgid "Save left folder on exit"
+msgstr "Izejot, saglabājiet kreiso mapi"
+
+msgid "Save right folder on exit"
+msgstr "Izejot, saglabājiet labo mapi"
+
+msgid "Save the left directory list location on exit."
+msgstr "Izejot, saglabājiet kreisās puses direktoriju saraksta atrašanās vietu."
+
+msgid "Save the right folder list location on exit."
+msgstr "Izejot, saglabājiet pareizo mapju saraksta atrašanās vietu."
+
+msgid "Search in group selection by"
+msgstr "Meklēt grupas atlasē pēc"
+
+msgid "Search text"
+msgstr "Meklēt tekstu"
+
+msgid "Search text (%s):"
+msgstr "Meklēšanas teksts (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Meklēt tekstu failā (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Atlasiet (avotu saraksts) vai ievadiet direktoriju (mērķa saraksts)"
+
+msgid "Select a path"
+msgstr "Izvēlieties ceļu"
+
+msgid "Select action:"
+msgstr "Izvēlieties darbību:"
+
+msgid "Select All"
+msgstr "Atlasiet visu"
+
+msgid "Select group"
+msgstr "Izvēlieties grupu"
+
+msgid "Select group..."
+msgstr "Atlasīt grupu..."
+
+msgid "Select operation:"
+msgstr "Izvēlieties darbību:"
+
+msgid "Select your personal settings:"
+msgstr "Izvēlieties savus personīgos iestatījumus:"
+
+msgid "Set archive mode (644)"
+msgstr "Iestatīt arhīva režīmu (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Iestatīt izpildāmo režīmu (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Iestata, vai meklēšanai atšķirt lielos un mazos burtus."
+
+msgid "Settings"
+msgstr "Iestatījumi"
+
+msgid "Settings..."
+msgstr "Iestatījumi..."
+
+msgid "shell"
+msgstr "apvalks"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Rādīt kā attēlu (lai aizvērtu, nospiediet jebkuru taustiņu)"
+
+msgid "Show contents of ipk file"
+msgstr "Rādīt ipk faila saturu"
+
+msgid "Show contents of rar file"
+msgstr "Rādīt rar faila saturu"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Rādīt darvas vai saspiesta darvas faila saturu"
+
+msgid "Show contents of zip file"
+msgstr "Rādīt zip faila saturu"
+
+msgid "Show directories first"
+msgstr "Vispirms parādiet direktorijus"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Rādīt direktorijus pirmajās vai pēdējās pozīcijās panelī (lai lietotu izmaiņas, ir jārestartē FileCommander)."
+
+msgid "Show image information"
+msgstr "Rādīt attēla informāciju"
+
+msgid "Show next picture"
+msgstr "Rādīt nākamo attēlu"
+
+msgid "Show previous picture"
+msgstr "Rādīt iepriekšējo attēlu"
+
+msgid "Show Script completed message"
+msgstr "Rādīt ziņojumu Skripts ir pabeigts"
+
+msgid "Show task list"
+msgstr "Rādīt uzdevumu sarakstu"
+
+msgid "Show unknown extension as text"
+msgstr "Rādīt nezināmu paplašinājumu kā tekstu"
+
+msgid "Size"
+msgstr "Izmērs"
+
+msgid "Size reverse"
+msgstr "Izmērs reverss"
+
+msgid "Size:"
+msgstr "Izmērs:"
+
+msgid "Socket"
+msgstr "Kontaktligzda"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Kreiso failu šķirošana pēc nosaukuma, datuma vai lieluma"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Pareizo failu kārtošana pēc nosaukuma, datuma vai lieluma"
+
+msgid "start title"
+msgstr "sākuma virsraksts"
+
+msgid "Start/stop slide show"
+msgstr "Sākt/pārtraukt slaidrādi"
+
+msgid "starts with..."
+msgstr "sākas ar..."
+
+msgid "Storage devices"
+msgstr "Uzglabāšanas ierīces"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Apmainīt pogas reversai failu šķirošanai"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Mainiet pogas pa labi/pa kreisi ar kanālu +/- vai kanāla poga vienmēr mainīja sānu malu."
+
+msgid "Symbolic link"
+msgstr "Simboliska saite"
+
+msgid "Symlink to"
+msgstr "Simbolsaite uz"
+
+msgid "Task list"
+msgstr "Uzdevumu saraksts"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Text not found."
+msgstr "Teksts nav atrasts."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Teksta meklēšana kā reģistrjutīga vai reģistrjutīga."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Autori NAV ATBILDĪGI"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "File Commander komponentam Image Viewer ir nepieciešams paplašinājums PicturePlayer. Lai iespējotu šo darbību, instalējiet programmu PicturePlayer."
+
+msgid "This line is not editable!"
+msgstr "Šī rinda nav rediģējama!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Laiks starp slaidiem attēlu skatītāja slaidrādē."
+
+msgid "Time for Slideshow"
+msgstr "Laiks slaidrādei"
+
+msgid "to dir"
+msgstr "uz rež"
+
+msgid "To next found text"
+msgstr "Uz nākamo atrasto tekstu"
+
+msgid "To previous found text"
+msgstr "Uz iepriekšējo atrasto tekstu"
+
+msgid "Type the name for the new file"
+msgstr "Ierakstiet jaunā faila nosaukumu"
+
+msgid "Type:"
+msgstr "Veids:"
+
+msgid "Unknown"
+msgstr "Nezināms"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Nezināms faila veids. Vai atvērt kā tekstu?"
+
+msgid "Unknown group: %d"
+msgstr "Nezināma grupa: %d"
+
+msgid "Unknown user: %d"
+msgstr "Nezināms lietotājs: %d"
+
+msgid "unpack archives"
+msgstr "izpakojiet arhīvus"
+
+msgid "unpack gzip Files"
+msgstr "izpakojiet gzip failus"
+
+msgid "unpack Rar Files"
+msgstr "izpakojiet Rar failus"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "izpakojiet darvas/saspiestās darvas failus"
+
+msgid "Unpack to %s"
+msgstr "Izpakojiet uz %s"
+
+msgid "Unpack to current folder"
+msgstr "Izpakojiet pašreizējā mapē"
+
+msgid "unpack zip Files"
+msgstr "izpakot zip failus"
+
+msgid "Unsupported archive type."
+msgstr "Neatbalstīts arhīva veids."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Skatīt vai rediģēt failu (ja izmērs < 1 MB)"
+
+msgid "View or edit this %s script"
+msgstr "Skatiet vai rediģējiet šo %s skriptu"
+
+msgid "WARNING!"
+msgstr "BRĪDINĀJUMS!"
+
+msgid "What do you want to play?\n"
+msgstr "Ko vēlaties spēlēt? \n"
+
+msgid "without"
+msgstr "bez"
+
+msgid "Yes"
+msgstr "Jā"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Varat iestatīt burtu skaitu no pašreizējā faila nosaukuma sākuma kā tekstu, kas ir iepriekš aizpildīts virtuālajā tastatūrā, lai vieglāk ievadītu, izmantojot grupas atlasi."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Varat iestatīt burtu skaitu pašreizējā faila nosaukuma beigās kā tekstu, kas ir iepriekš aizpildīts virtuālajā tastatūrā, lai vieglāk ievadītu, izmantojot grupas atlasi."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Varat iestatīt, kas tiks izmantots grupas atlasei – virsraksta sākums, virsraksta beigas vai saturs virsrakstā."
+

@@ -119,7 +119,7 @@ msgid "Calculates file checksums."
 msgstr "מחשב סכומי בדיקה של קבצים."
 
 msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
-msgstr "לא ניתן להפעיל את %s: %s.\n%s עשוי להיות בתוסף שאינו מותקן."
+msgstr "לא ניתן להפעיל את %s: ייתכן ש-%s.\n%s נמצא בתוסף שאינו מותקן."
 
 msgid "Cancel"
 msgstr "לְבַטֵל"
@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "מַדרִיך"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "לא ניתן ליצור כאן ספרייה ב<רשימת התקני אחסון> או ב<מקלט>.\nהזז את הבורר שורה אחת למטה או שנה ספרייה."
+msgstr "לא ניתן ליצור כאן ספרייה ב\n<רשימת התקני אחסון> או <מקלט>.\nהזז את הבורר שורה אחת למטה או שנה ספרייה."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "הצג שמות קבצים בכותרת. זה שימושי עבור שמות קבצים ארוכים מדי."
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "לא ניתן ליצור קובץ ב-\n<רשימת התקני אחסון> או <מקלט>.\nשנה ספרייה בבקשה."
+msgstr "לא ניתן ליצור קובץ ב\n<List of Storage Devices> או ב<Receiver>.\nשנה ספריה, בבקשה."
 
 msgid "File checksums/hashes"
 msgstr "סכומי בדיקות/hash של קבצים"

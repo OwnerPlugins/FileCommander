@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\nparàmetre opcional:\n%s"
+msgstr "\nparàmetre opcional: \n%s"
 
 msgid "%d GB"
 msgstr "%d GB"
@@ -290,13 +290,13 @@ msgid "Directory"
 msgstr "Directori"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "El directori no es pot crear aquí a\n<Llista de dispositius d'emmagatzematge> o <Receptor>.\nMou el selector una línia per sota o canvia de directori."
+msgstr "No es pot crear el directori aquí on\n<Llista de dispositius d'emmagatzematge> o <Receptor>.\nMou el selector una línia per sota o canvia de directori."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Mostra els noms dels fitxers a la capçalera. És útil per als noms de fitxer massa llargs."
 
 msgid "Do you want change rights?\n"
-msgstr "Vols canviar els drets?\n"
+msgstr "Vols canviar els drets? \n"
 
 msgid "Do you want to view or run the script?\n"
 msgstr "Voleu veure o executar l'script?\n"
@@ -350,7 +350,7 @@ msgid "Execution finished!!"
 msgstr "S'ha acabat l'execució!!"
 
 msgid "Execution progress\n\n"
-msgstr "Progrés de l'execució\n\n"
+msgstr "Progrés d'execució\n\n"
 
 msgid "Exit"
 msgstr "Sortida"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "El fitxer no es pot crear a\n<Llista de dispositius d'emmagatzematge> o <Receptor>.\nCanvieu el directori, si us plau."
+msgstr "El fitxer no es pot crear a \n<Llista de dispositius d'emmagatzematge> o <Receptor>.\nCanvieu el directori, si us plau."
 
 msgid "File checksums/hashes"
 msgstr "Arxiu sumes de comprovació/hash"

@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\nem kötelező paraméter:\n%s"
+msgstr "\nopcionális paraméter: \n%s"
 
 msgid "%d GB"
 msgstr "%d GB"
@@ -119,10 +119,10 @@ msgid "Calculates file checksums."
 msgstr "Kiszámítja a fájl ellenőrző összegeit."
 
 msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
-msgstr "A %s nem futtatható: %s.\nLehet, hogy a %s olyan beépülő modulban található, amely nincs telepítve."
+msgstr "A %s nem futtatható: előfordulhat, hogy a %s.\n%s olyan beépülő modulban található, amely nincs telepítve."
 
 msgid "Cancel"
-msgstr "Mégsem"
+msgstr "Mégse"
 
 msgid "Cancel execution?"
 msgstr "Megszakítja a végrehajtást?"
@@ -290,16 +290,16 @@ msgid "Directory"
 msgstr "Címtár"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "Itt nem lehet könyvtárat létrehozni a\n<Tárolóeszközök listája> vagy a <Receiver> helyen.\nVigye a választót egy sorral lejjebb, vagy módosítsa a könyvtárat."
+msgstr "Itt nem lehet könyvtárat létrehozni a következőn: \n<Tárolóeszközök listája> vagy <Vevő>.\nVigye a választót egy sorral lejjebb, vagy módosítsa a könyvtárat."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Fájlnevek megjelenítése a fejlécben. Túl hosszú fájlneveknél hasznos."
 
 msgid "Do you want change rights?\n"
-msgstr "Szeretné megváltoztatni a jogokat?\n"
+msgstr "Szeretné módosítani a jogokat?\n"
 
 msgid "Do you want to view or run the script?\n"
-msgstr "Meg akarja tekinteni vagy futtatni szeretné a szkriptet?\n"
+msgstr "Megnézi vagy futtatja a szkriptet?\n"
 
 msgid "Edit"
 msgstr "Szerkesztés"
@@ -329,13 +329,13 @@ msgid "Error"
 msgstr "Hiba"
 
 msgid "Error creating directory %s:\n%s"
-msgstr "Hiba a %s könyvtár létrehozásakor:\n%s"
+msgstr "Hiba a %s:\n%s könyvtár létrehozásakor"
 
 msgid "Error creating file %s:\n%s"
-msgstr "Hiba a %s fájl létrehozásakor:\n%s"
+msgstr "Hiba a %s:\n%s fájl létrehozásakor"
 
 msgid "Error linking %s to %s:\n%s"
-msgstr "Hiba a %s és %s összekapcsolásakor:\n%s"
+msgstr "Hiba történt a %s és a %s:\n%s összekapcsolásakor"
 
 msgid "Error renaming %s to %s:\n%s"
 msgstr "Hiba történt a %s átnevezésekor a következőre: %s:\n%s"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "A fájl nem hozható létre a\n<Tárolóeszközök listája> vagy a <Receiver> helyen.\nKérem, változtassa meg a könyvtárat."
+msgstr "A fájl nem hozható létre az \n<Tárolóeszközök listája> vagy a <Receiver> helyen.\nVáltoztassa meg a könyvtárat, kérem."
 
 msgid "File checksums/hashes"
 msgstr "Fájl az ellenőrző összegeket/kivonatokat"
@@ -1031,7 +1031,7 @@ msgid "WARNING!"
 msgstr "FIGYELMEZTETÉS!"
 
 msgid "What do you want to play?\n"
-msgstr "Mit akarsz játszani?\n"
+msgstr "Mit szeretnél játszani? \n"
 
 msgid "without"
 msgstr "nélkül"

@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\неабавязковы параметр:\n%s"
+msgstr "\nнеабавязковы параметр:\n%s"
 
 msgid "%d GB"
 msgstr "%d ГБ"
@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "Даведнік"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "Каталог не можа быць створаны тут на\n<Спіс прылад захоўвання дадзеных> або <Прыёмнік>.\nПерамясціце селектар на радок ніжэй або зменіце каталог."
+msgstr "Каталог не можа быць створаны тут на \n<Спіс прылад захоўвання> або <Прыёмнік>.\nПерамясціце селектар на адзін радок ніжэй або змяніце каталог."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Паказаць імёны файлаў у загалоўку. Гэта карысна для занадта доўгіх імёнаў файлаў."
@@ -299,7 +299,7 @@ msgid "Do you want change rights?\n"
 msgstr "Хочаце змяніць правы?\n"
 
 msgid "Do you want to view or run the script?\n"
-msgstr "Вы жадаеце праглядзець або запусціць скрыпт?\n"
+msgstr "Вы хочаце праглядзець або запусціць сцэнар?\n"
 
 msgid "Edit"
 msgstr "Рэдагаваць"
@@ -332,10 +332,10 @@ msgid "Error creating directory %s:\n%s"
 msgstr "Памылка стварэння каталога %s:\n%s"
 
 msgid "Error creating file %s:\n%s"
-msgstr "Памылка стварэння файла %s:\n%s"
+msgstr "Памылка пры стварэнні файла %s:\n%s"
 
 msgid "Error linking %s to %s:\n%s"
-msgstr "Памылка прывязкі %s да %s:\n%s"
+msgstr "Памылка спалучэння %s з %s:\n%s"
 
 msgid "Error renaming %s to %s:\n%s"
 msgstr "Памылка перайменавання %s у %s:\n%s"
@@ -350,7 +350,7 @@ msgid "Execution finished!!"
 msgstr "Выкананне скончана!!"
 
 msgid "Execution progress\n\n"
-msgstr "Ход выканання\n\n"
+msgstr "Прагрэс выканання\n\n"
 
 msgid "Exit"
 msgstr "Выхад"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "Немагчыма стварыць файл на\n<Спіс назапашвальнікаў> або <Прыёмнік>.\nЗмяніце каталог, калі ласка."
+msgstr "Файл не можа быць створаны на \n<Спіс прылад захоўвання> або <Прыёмнік>.\nЗмяніце каталог, калі ласка."
 
 msgid "File checksums/hashes"
 msgstr "Файл кантрольных сум/хэшаў"
@@ -1031,7 +1031,7 @@ msgid "WARNING!"
 msgstr "ПАПЯРЭДЖАННЕ!"
 
 msgid "What do you want to play?\n"
-msgstr "Што вы хочаце пагуляць?\n"
+msgstr "У што вы хочаце пагуляць?\n"
 
 msgid "without"
 msgstr "без"

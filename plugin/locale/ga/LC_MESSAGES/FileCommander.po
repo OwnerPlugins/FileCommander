@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\paraiméadar roghnach:\n%s"
+msgstr "\nparaiméadar roghnach: \n%s"
 
 msgid "%d GB"
 msgstr "%d GB"
@@ -119,7 +119,7 @@ msgid "Calculates file checksums."
 msgstr "Ríomhann seiceálacha comhaid."
 
 msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
-msgstr "Ní féidir %s a rith: %s.\n Seans go bhfuil %s i mbreiseán nach bhfuil suiteáilte."
+msgstr "Ní féidir %s a rith: seans go bhfuil %s.\n%s i mbreiseán nach bhfuil suiteáilte."
 
 msgid "Cancel"
 msgstr "Cealaigh"
@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "Eolaire"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "Ní féidir eolaire a chruthú anseo ar\n<Liosta Gléasanna Stórála> nó <Glacadóir>.\nBog an roghnóir líne amháin thíos nó athraigh an eolaire."
+msgstr "Ní féidir eolaire a chruthú anseo on\n<Liosta Gléasanna Stórála> nó <Glacadóir>.\nMove roghnóir líne amháin thíos nó athraigh eolaire."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Taispeáin ainmneacha comhaid sa cheanntásc. Tá sé úsáideach le haghaidh comhadainmneacha atá ró-fhada."
@@ -299,7 +299,7 @@ msgid "Do you want change rights?\n"
 msgstr "Ar mhaith leat cearta a athrú?\n"
 
 msgid "Do you want to view or run the script?\n"
-msgstr "Ar mhaith leat an script a fheiceáil nó a rith?\n"
+msgstr "Ar mhaith leat an script a fheiceáil nó a rith? \n"
 
 msgid "Edit"
 msgstr "Cuir in eagar"
@@ -329,16 +329,16 @@ msgid "Error"
 msgstr "Earráid"
 
 msgid "Error creating directory %s:\n%s"
-msgstr "Earráid agus comhadlann %s á cruthú:\n%s"
+msgstr "Earráid agus eolaire %s á chruthú: \n%s"
 
 msgid "Error creating file %s:\n%s"
-msgstr "Earráid agus comhad %s á chruthú:\n%s"
+msgstr "Earráid agus comhad %s á chruthú: \n%s"
 
 msgid "Error linking %s to %s:\n%s"
-msgstr "Earráid agus %s á nascadh le %s:\n%s"
+msgstr "Earráid agus %s á nascadh le %s: \n%s"
 
 msgid "Error renaming %s to %s:\n%s"
-msgstr "Earráid agus %s á n-athainmniú go %s:\n%s"
+msgstr "Earráid agus %s á n-athainmniú go %s: \n%s"
 
 msgid "Error saving: %s"
 msgstr "Earráid le sábháil: %s"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "Ní féidir an comhad a chruthú ar\n<Liosta Gléasanna Stórála> nó <Glacadóir>.\nAthraigh eolaire, le do thoil."
+msgstr "Ní féidir comhad a chruthú on\n <Liosta Gléasanna Stórála> nó <Glacadóir>.\nAthraigh eolaire, le do thoil."
 
 msgid "File checksums/hashes"
 msgstr "Seiceálacha comhad / hashes"

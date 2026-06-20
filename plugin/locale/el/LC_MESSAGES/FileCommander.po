@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\προαιρετική παράμετρος:\n%s"
+msgstr "\nπροαιρετική παράμετρος:\n%s"
 
 msgid "%d GB"
 msgstr "%d GB"
@@ -119,7 +119,7 @@ msgid "Calculates file checksums."
 msgstr "Υπολογίζει αθροίσματα ελέγχου αρχείων."
 
 msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
-msgstr "Δεν είναι δυνατή η εκτέλεση του %s: %s.\nΤο %s ενδέχεται να βρίσκεται σε μια προσθήκη που δεν είναι εγκατεστημένη."
+msgstr "Δεν είναι δυνατή η εκτέλεση του %s: %s.\n%s ενδέχεται να βρίσκεται σε μια προσθήκη που δεν είναι εγκατεστημένη."
 
 msgid "Cancel"
 msgstr "Ματαίωση"
@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "Τηλεφωνικός κατάλογος"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "Δεν είναι δυνατή η δημιουργία καταλόγου εδώ στο\n<List of Storage Devices> ή <Receiver>.\nΜετακινήστε τον επιλογέα μία γραμμή παρακάτω ή αλλάξτε τον κατάλογο."
+msgstr "Ο κατάλογος δεν μπορεί να δημιουργηθεί εδώ one\n<List of Storage Devices> ή <Receiver>.\nΜετακινήστε τον επιλογέα μία γραμμή παρακάτω ή αλλάξτε τον κατάλογο."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Εμφάνιση ονομάτων αρχείων στην κεφαλίδα. Είναι χρήσιμο για ονόματα αρχείων που είναι πολύ μεγάλα."

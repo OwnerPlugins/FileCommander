@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\istəyə bağlı parametr:\n%s"
+msgstr "\noptional parametr:\n%s"
 
 msgid "%d GB"
 msgstr "%d GB"
@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "kataloq"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "Kataloq burada\n<Yaddaş Cihazlarının Siyahısı> və ya <Qəbuledici>-də yaradıla bilməz.\nSeçici bir sətir aşağıya köçürün və ya kataloqu dəyişin."
+msgstr "Kataloq burada \n<Saxlama Cihazlarının Siyahısı> və ya <Qəbuledici>-də yaradıla bilməz.\nSeleci bir sətir aşağıya köçürün və ya kataloqu dəyişin."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Fayl adlarını başlıqda göstərin. Çox uzun fayl adları üçün faydalıdır."
@@ -329,13 +329,13 @@ msgid "Error"
 msgstr "Xəta"
 
 msgid "Error creating directory %s:\n%s"
-msgstr "%s qovluğunun yaradılması xətası:\n%s"
+msgstr "%s:\n%s qovluğunun yaradılması xətası"
 
 msgid "Error creating file %s:\n%s"
-msgstr "%s faylının yaradılması xətası:\n%s"
+msgstr "%s:\n%s faylının yaradılması xətası"
 
 msgid "Error linking %s to %s:\n%s"
-msgstr "%s-i %s ilə əlaqələndirərkən xəta baş verdi:\n%s"
+msgstr "%s ilə %s:\n%s əlaqəsi xətası"
 
 msgid "Error renaming %s to %s:\n%s"
 msgstr "%s adını %s olaraq dəyişmə xətası:\n%s"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FİFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "Fayl\n<Saxlama Cihazlarının Siyahısı> və ya <Qəbuledici>-də yaradıla bilməz.\nKataloqu dəyişdirin, zəhmət olmasa."
+msgstr "Fayl \n<Saxlama Cihazlarının Siyahısı> və ya <Qəbuledici>-də yaradıla bilməz.\nKataloqu dəyişdirin."
 
 msgid "File checksums/hashes"
 msgstr "Fayl yoxlama məbləğləri/heshlər"
@@ -1031,7 +1031,7 @@ msgid "WARNING!"
 msgstr "XƏBƏRDARLIQ!"
 
 msgid "What do you want to play?\n"
-msgstr "Nə oynamaq istəyirsən?\n"
+msgstr "Nə oynamaq istəyirsiniz?\n"
 
 msgid "without"
 msgstr "olmadan"

@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "વૈકલ્પિક પરિમાણ:\n%s"
+msgstr "\nવૈકલ્પિક પરિમાણ:\n%s"
 
 msgid "%d GB"
 msgstr "%d GB"
@@ -119,7 +119,7 @@ msgid "Calculates file checksums."
 msgstr "ફાઇલ ચેકસમ્સની ગણતરી કરે છે."
 
 msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
-msgstr "%s ચલાવી શકતા નથી: %s.\n%s એ પ્લગઇનમાં હોઈ શકે છે જે ઇન્સ્ટોલ કરેલ નથી."
+msgstr "%s ચલાવી શકાતું નથી: %s.\n%s એ પ્લગઇનમાં હોઈ શકે છે જે ઇન્સ્ટોલ કરેલ નથી."
 
 msgid "Cancel"
 msgstr "રદ કરો"
@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "ડિરેક્ટરી"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "ડિરેક્ટરી અહીં\n<સ્ટોરેજ ઉપકરણોની સૂચિ> અથવા <રિસીવર> પર બનાવી શકાતી નથી.\nપસંદકર્તાને એક લીટી નીચે ખસેડો અથવા ડિરેક્ટરી બદલો."
+msgstr "ડિરેક્ટરી અહીં \n<સ્ટોરેજ ઉપકરણોની સૂચિ> અથવા <રિસીવર> પર બનાવી શકાતી નથી.\nપસંદકર્તાને એક લીટી નીચે ખસેડો અથવા ડિરેક્ટરી બદલો."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "હેડરમાં ફાઇલનામ દર્શાવો. તે ફાઇલનામો માટે ઉપયોગી છે જે ખૂબ લાંબા છે."
@@ -329,16 +329,16 @@ msgid "Error"
 msgstr "ભૂલ"
 
 msgid "Error creating directory %s:\n%s"
-msgstr "ડિરેક્ટરી %s બનાવવામાં ભૂલ:\n%s"
+msgstr "ડિરેક્ટરી %s:\n%s બનાવવામાં ભૂલ"
 
 msgid "Error creating file %s:\n%s"
-msgstr "ફાઇલ %s બનાવવામાં ભૂલ:\n%s"
+msgstr "ફાઇલ %s:\n%s બનાવવામાં ભૂલ"
 
 msgid "Error linking %s to %s:\n%s"
-msgstr "%s ને %s થી લિંક કરવામાં ભૂલ:\n%s"
+msgstr "%s ને %s:\n%s થી લિંક કરવામાં ભૂલ"
 
 msgid "Error renaming %s to %s:\n%s"
-msgstr "%s ને %s થી નામ બદલવામાં ભૂલ:\n%s"
+msgstr "%s નું નામ બદલીને %s:\n%s કરવામાં ભૂલ"
 
 msgid "Error saving: %s"
 msgstr "સાચવવામાં ભૂલ: %s"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "ફીફો"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "ફાઇલ\n<સ્ટોરેજ ઉપકરણોની સૂચિ> અથવા <રિસીવર> પર બનાવી શકાતી નથી.\nકૃપા કરીને ડિરેક્ટરી બદલો."
+msgstr "\n<સ્ટોરેજ ઉપકરણોની સૂચિ> અથવા <રિસીવર> પર ફાઇલ બનાવી શકાતી નથી.\n ડિરેક્ટરી બદલો, કૃપા કરીને."
 
 msgid "File checksums/hashes"
 msgstr "ચેકસમ/હેશ ફાઇલ કરો"
@@ -647,7 +647,7 @@ msgid "Number of lines in script messages"
 msgstr "સ્ક્રિપ્ટ સંદેશાઓમાં લીટીઓની સંખ્યા"
 
 msgid "OK"
-msgstr "ઓકે"
+msgstr "ઠીક છે"
 
 msgid "On device:"
 msgstr "ઉપકરણ પર:"

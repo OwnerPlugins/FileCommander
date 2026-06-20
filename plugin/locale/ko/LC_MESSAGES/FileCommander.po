@@ -119,7 +119,7 @@ msgid "Calculates file checksums."
 msgstr "파일 체크섬을 계산합니다."
 
 msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
-msgstr "%s을(를) 실행할 수 없습니다: %s.\n%s이(가) 설치되지 않은 플러그인에 있을 수 있습니다."
+msgstr "%s을(를) 실행할 수 없습니다. %s.\n%s이(가) 설치되지 않은 플러그인에 있을 수 있습니다."
 
 msgid "Cancel"
 msgstr "취소"
@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "예배 규칙서"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "디렉터리는 여기서\n<저장 장치 목록> 또는 <수신기>에 생성될 수 없습니다.\n선택기를 한 줄 아래로 이동하거나 디렉터리를 변경하십시오."
+msgstr "\n<저장 장치 목록> 또는 <수신기>에서는 디렉터리를 생성할 수 없습니다.\n선택기를 한 줄 아래로 이동하거나 디렉터리를 변경하세요."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "헤더에 파일 이름을 표시합니다. 파일 이름이 너무 긴 경우에 유용합니다."
@@ -329,16 +329,16 @@ msgid "Error"
 msgstr "오류"
 
 msgid "Error creating directory %s:\n%s"
-msgstr "%s 디렉토리를 생성하는 동안 오류가 발생했습니다.\n%s"
+msgstr "%s 디렉터리 생성 중 오류 발생:\n%s"
 
 msgid "Error creating file %s:\n%s"
-msgstr "%s 파일을 생성하는 동안 오류가 발생했습니다.\n%s"
+msgstr "%s:\n%s 파일을 생성하는 동안 오류가 발생했습니다."
 
 msgid "Error linking %s to %s:\n%s"
-msgstr "%s을(를) %s에 연결하는 동안 오류가 발생했습니다.\n%s"
+msgstr "%s을(를) %s:\n%s에 연결하는 동안 오류가 발생했습니다."
 
 msgid "Error renaming %s to %s:\n%s"
-msgstr "%s 이름을 %s(으)로 바꾸는 동안 오류가 발생했습니다.\n%s"
+msgstr "%s 이름을 %s:\n%s(으)로 바꾸는 중 오류가 발생했습니다."
 
 msgid "Error saving: %s"
 msgstr "저장 오류: %s"
@@ -350,7 +350,7 @@ msgid "Execution finished!!"
 msgstr "실행완료!!"
 
 msgid "Execution progress\n\n"
-msgstr "실행 진행 중\n\n"
+msgstr "실행 진행상태\n\n"
 
 msgid "Exit"
 msgstr "출구"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "<저장 장치 목록> 또는 <수신기>에서\n파일을 생성할 수 없습니다.\n디렉터리를 변경하십시오."
+msgstr "\n<저장 장치 목록> 또는 <수신기>에서 파일을 생성할 수 없습니다.\n디렉토리를 변경하세요."
 
 msgid "File checksums/hashes"
 msgstr "파일 체크섬/해시"

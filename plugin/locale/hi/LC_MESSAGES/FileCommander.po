@@ -290,13 +290,13 @@ msgid "Directory"
 msgstr "निर्देशिका"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "यहां निर्देशिका नहीं बनाई जा सकती\n<भंडारण उपकरणों की सूची> या <रिसीवर>.\nचयनकर्ता को एक पंक्ति नीचे ले जाएं या निर्देशिका बदलें।"
+msgstr "निर्देशिका यहां \n<भंडारण उपकरणों की सूची> या <रिसीवर> पर नहीं बनाई जा सकती। \nचयनकर्ता को एक पंक्ति नीचे ले जाएं या निर्देशिका बदलें।"
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "हेडर में फ़ाइल नाम प्रदर्शित करें. यह उन फ़ाइलनामों के लिए उपयोगी है जो बहुत लंबे हैं।"
 
 msgid "Do you want change rights?\n"
-msgstr "Do you want change rights?\n"
+msgstr "क्या आप परिवर्तन अधिकार चाहते हैं?\n"
 
 msgid "Do you want to view or run the script?\n"
 msgstr "क्या आप स्क्रिप्ट देखना या चलाना चाहते हैं?\n"
@@ -332,13 +332,13 @@ msgid "Error creating directory %s:\n%s"
 msgstr "निर्देशिका %s:\n%s बनाने में त्रुटि"
 
 msgid "Error creating file %s:\n%s"
-msgstr "फ़ाइल %s बनाने में त्रुटि:\n%s"
+msgstr "फ़ाइल %s:\n%s बनाने में त्रुटि"
 
 msgid "Error linking %s to %s:\n%s"
 msgstr "%s को %s से जोड़ने में त्रुटि:\n%s"
 
 msgid "Error renaming %s to %s:\n%s"
-msgstr "%s का नाम %s करने में त्रुटि:\n%s"
+msgstr "%s का नाम %s:\n%s करने में त्रुटि"
 
 msgid "Error saving: %s"
 msgstr "सहेजने में त्रुटि: %s"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "फीफो"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "फ़ाइल को\n<भंडारण उपकरणों की सूची> या <रिसीवर> पर नहीं बनाया जा सकता है।\nकृपया निर्देशिका बदलें।"
+msgstr "फ़ाइल \n<स्टोरेज डिवाइस की सूची> या <रिसीवर> पर नहीं बनाई जा सकती। कृपया \nनिर्देशिका बदलें।"
 
 msgid "File checksums/hashes"
 msgstr "फ़ाइल चेकसम/हैश"

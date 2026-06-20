@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "Skrá"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "Ekki er hægt að búa til möppu hér á\n<List of Storage Devices> eða <Receiver>.\nFærðu veljarann ​​eina línu fyrir neðan eða skiptu um möppu."
+msgstr "Ekki er hægt að búa til möppu hér á \n<List of Storage Devices> eða <Receiver>.\nFærðu veljarann ​​eina línu fyrir neðan eða skiptu um skrá."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Birta skráarnöfn í haus. Það er gagnlegt fyrir skráarnöfn sem eru of löng."
@@ -350,7 +350,7 @@ msgid "Execution finished!!"
 msgstr "Framkvæmd lokið!!"
 
 msgid "Execution progress\n\n"
-msgstr "Framvinda framkvæmdar\n\n"
+msgstr "Framvinda framkvæmd\n\n"
 
 msgid "Exit"
 msgstr "Hætta"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "Ekki er hægt að búa til skrá á\n<Lista yfir geymslutæki> eða <móttakara>.\nBreyttu skrá, vinsamlegast."
+msgstr "Ekki er hægt að búa til skrá á\n<List of Storage Devices> eða <Receiver>.\nBreyttu skrá, vinsamlegast."
 
 msgid "File checksums/hashes"
 msgstr "Skrá eftirlitssummur/kássa"

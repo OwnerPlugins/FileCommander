@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "Adresář"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "Adresář zde nelze vytvořit na\n<Seznam úložných zařízení> nebo <Přijímač>.\nPřesuňte volič o řádek níže nebo změňte adresář."
+msgstr "Zde nelze vytvořit adresář \n<Seznam úložných zařízení> nebo <Přijímač>.\nPřesuňte volič o řádek níže nebo změňte adresář."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Zobrazit názvy souborů v záhlaví. To je užitečné pro názvy souborů, které jsou příliš dlouhé."
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "Soubor nelze vytvořit na\n<Seznam úložných zařízení> nebo <Přijímač>.\nZměňte prosím adresář."
+msgstr "Soubor nelze vytvořit v \n<Seznam úložných zařízení> nebo <Přijímač>.\nZměňte adresář, prosím."
 
 msgid "File checksums/hashes"
 msgstr "Soubor kontrolních součtů/hash"
@@ -1031,7 +1031,7 @@ msgid "WARNING!"
 msgstr "VAROVÁNÍ!"
 
 msgid "What do you want to play?\n"
-msgstr "Co chcete hrát?\n"
+msgstr "Co chcete hrát? \n"
 
 msgid "without"
 msgstr "bez"

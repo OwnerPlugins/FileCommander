@@ -1,0 +1,1050 @@
+# mk translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: mk <ekekaz@gmail.com>\n"
+"Language: mk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- датотеката постои! Презапишете"
+
+msgid "- folder exist! Overwrite"
+msgstr "- папката постои! Презапишете"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Избран режим)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\nопционален параметар:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d МБ"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - грешки при извлекување."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s е заштитена со лозинка."
+
+msgid "%s successfully extracted."
+msgstr "%s е успешно извлечена."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Приемник>"
+
+msgid "Accessed:"
+msgstr "Пристапено:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Активирајте го списокот со датотеки од левата страна како повеќеизбран извор"
+
+msgid "Activate left-hand file list as source"
+msgstr "Активирајте ја левата листа на датотеки како извор"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Активирајте го списокот со датотеки од десната страна како извор со повеќе одбирање"
+
+msgid "Activate right-hand file list as source"
+msgstr "Активирајте го списокот со датотеки од десната страна како извор"
+
+msgid "Add current folder to bookmarks"
+msgstr "Додајте тековна папка во обележувачите"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Додајте приклучок во менито „Екстензии“."
+
+msgid "Add plugin to main menu"
+msgstr "Додадете приклучок во главното мени"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Додајте ја избраната папка во обележувачите"
+
+msgid "Add to selection (%s)"
+msgstr "Додај во изборот (%s)"
+
+msgid "All"
+msgstr "Сите"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Сите датотеки во директориумот со исто име како и избраниот филм ќе бидат копирани или преместени."
+
+msgid "All movie extensions"
+msgstr "Сите екстензии за филмови"
+
+msgid "B"
+msgstr "Б"
+
+msgid "Block device"
+msgstr "Блокирај го уредот"
+
+msgid "Calculate file checksums"
+msgstr "Пресметајте ги контролните суми на датотеките"
+
+msgid "Calculates file checksums."
+msgstr "Пресметува контролни суми на датотеки."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "Не може да се изврши %s: %s.\n%s можеби е во приклучок што не е инсталиран."
+
+msgid "Cancel"
+msgstr "Откажи"
+
+msgid "Cancel execution?"
+msgstr "Да се ​​откаже извршувањето?"
+
+msgid "Cannot create target directory."
+msgstr "Не може да се создаде целен директориум."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Сликата не може да се отвори. Да се ​​отвори како текст?"
+
+msgid "Cannot play file."
+msgstr "Не може да се репродуцира датотека."
+
+msgid "Cannot read file: %s"
+msgstr "Не може да се прочита датотеката: %s"
+
+msgid "case insensitive"
+msgstr "неосетливи на букви"
+
+msgid "case sensitive"
+msgstr "осетливи на букви"
+
+msgid "Case sensitive search"
+msgstr "Пребарување чувствително на букви"
+
+msgid "Change buttons for list navigation"
+msgstr "Променете ги копчињата за навигација со листа"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Променете ги дозволите за извршување (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Копчето за канал секогаш ја менува страната"
+
+msgid "Character device"
+msgstr "Уред со знаци"
+
+msgid "Close"
+msgstr "Затвори"
+
+msgid "Compare case sensitive"
+msgstr "Споредете чувствителни на големи букви"
+
+msgid "contains in title"
+msgstr "содржи во насловот"
+
+msgid "contains..."
+msgstr "содржи..."
+
+msgid "Content size:"
+msgstr "Големина на содржината:"
+
+msgid "Copy"
+msgstr "Копирај"
+
+msgid "copy file"
+msgstr "копирајте датотека"
+
+msgid "Copy file"
+msgstr "Копирај датотека"
+
+msgid "Copy file/directory to target directory"
+msgstr "Копирајте датотека/директориум во целниот директориум"
+
+msgid "Copy files/directories to target directory"
+msgstr "Копирајте датотеки/директориуми во целниот директориум"
+
+msgid "copy folder"
+msgstr "папка за копирање"
+
+msgid "Copy folder"
+msgstr "Копирај папка"
+
+msgid "Count directory content size"
+msgstr "Пребројте ја големината на содржината на директориумот"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Броење на големината на содржината на директориумот при одење (вклучено/исклучено)"
+
+msgid "CPU priority for script execution"
+msgstr "Приоритет на процесорот за извршување на скрипта"
+
+msgid "Create directory"
+msgstr "Креирај директориум"
+
+msgid "create symlink ..."
+msgstr "креирај симболична врска..."
+
+msgid "Create symlink to file"
+msgstr "Креирајте символ-врска до датотека"
+
+msgid "Create user-named symbolic link"
+msgstr "Направете симболична врска со име на корисникот"
+
+msgid "d"
+msgstr "г"
+
+msgid "Date"
+msgstr "Датум"
+
+msgid "Date reverse"
+msgstr "Датумот обратен"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Стандарден приоритет на процесорот (убав) за извршени скрипти. Ова може да го намали оптоварувањето за скриптите да не се мешаат со остатокот од системот. (повисоки вредности = помал приоритет)"
+
+msgid "Default directory sorting"
+msgstr "Стандардно сортирање на директориуми"
+
+msgid "Default file sorting left"
+msgstr "Стандардно сортирање на датотеки лево"
+
+msgid "Default file sorting right"
+msgstr "Стандардно правилно сортирање на датотеки"
+
+msgid "Default folder"
+msgstr "Стандардна папка"
+
+msgid "Default Folder"
+msgstr "Стандардна папка"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Стандарден приоритет на влез/излез (јони) за извршените скрипти. Ова може да го намали оптоварувањето за скриптите да не се мешаат со остатокот од системот. (повисоки вредности = помал приоритет)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Стандарден метод за сортирање за директориуми во двата панели (за да се применат промените, FileCommander мора да се рестартира)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Стандарден метод за сортирање на датотеки во левиот панел."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Стандарден метод за сортирање на датотеки во десниот панел."
+
+msgid "Delete"
+msgstr "Избриши"
+
+msgid "Delete current line"
+msgstr "Избришете ја тековната линија"
+
+msgid "Delete file"
+msgstr "Избришете датотека"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Избришете датотека или директориум (и целата негова содржина)"
+
+msgid "Delete folder"
+msgstr "Избришете ја папката"
+
+msgid "Delete the selected files or directories"
+msgstr "Избришете ги избраните датотеки или директориуми"
+
+msgid "Deselect All"
+msgstr "Деселектирај ги сите"
+
+msgid "Deselect group"
+msgstr "Деселектирај група"
+
+msgid "Deselect group..."
+msgstr "Деселектирај група..."
+
+msgid "Directories to group selections"
+msgstr "Директориуми за групирани селекции"
+
+msgid "Directory"
+msgstr "Директориум"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Директориумот не може да се креира овде one\n<Список на уреди за складирање> или <Receiver>.\nПоместете го избирачот една линија подолу или променете го директориумот."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Прикажи ги имињата на датотеките во заглавието. Корисно е за имиња на датотеки кои се премногу долги."
+
+msgid "Do you want change rights?\n"
+msgstr "Дали сакате права за промена?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Дали сакате да ја видите или извршите скриптата?\n"
+
+msgid "Edit"
+msgstr "Уреди"
+
+msgid "Edit current line"
+msgstr "Уредете ја тековната линија"
+
+msgid "Edit line"
+msgstr "Уреди линија"
+
+msgid "Edit new file"
+msgstr "Уредете нова датотека"
+
+msgid "Edit position is the line end"
+msgstr "Позицијата за уредување е крајот на линијата"
+
+msgid "end title"
+msgstr "завршниот наслов"
+
+msgid "ends with..."
+msgstr "завршува со..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Влезете во режим на избор на повеќе датотеки"
+
+msgid "Error"
+msgstr "Грешка"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Грешка при креирањето на директориумот %s:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Грешка при креирањето на датотеката %s:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Грешка при поврзување на %s со %s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Грешка при преименување на %s во %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Грешка при зачувување: %s"
+
+msgid "Error..."
+msgstr "Грешка..."
+
+msgid "Execution finished!!"
+msgstr "Извршувањето заврши!!"
+
+msgid "Execution progress\n\n"
+msgstr "Напредокот на извршувањето\n\n"
+
+msgid "Exit"
+msgstr "Излезете"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Излезете од уредникот и напишете ги промените (ако има)"
+
+msgid "Exit movie player?"
+msgstr "Да се ​​излезе од плеерот за филмови?"
+
+msgid "Exit picture viewer"
+msgstr "Излезете од прегледувачот на слики"
+
+msgid "Extract archive to %s?"
+msgstr "Да се ​​извади архива во %s?"
+
+msgid "Extracting..."
+msgstr "Се извлекува..."
+
+msgid "FIFO"
+msgstr "ФИФО"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Датотеката не може да се креира на\n<Список на уреди за складирање> или <Receiver>.\nПроменете го директориумот, ве молиме."
+
+msgid "File checksums/hashes"
+msgstr "Контролни суми/хашови на датотеки"
+
+msgid "File Commander"
+msgstr "Командант на датотеки"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "Командант на датотеки - Addon File-Viewer"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "Командант на датотеки - Поставки за прегледувач на датотеки на додаток"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "Командант на датотеки - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "Командант на датотеки - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "Командант на датотеки - генерализиран управувач со архиви"
+
+msgid "File Commander - gzip Addon"
+msgstr "Командант на датотеки - gzip Addon"
+
+msgid "File Commander - ipk Addon"
+msgstr "Командант на датотеки - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "Командант на датотеки - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "Командант на датотеки - unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "Командант на датотеки - отпакувајте го Addon"
+
+msgid "File not found: %s"
+msgstr "Датотеката не е пронајдена: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Датотеката е преголема за да се отвори како текст (максимум 1MB)."
+
+msgid "File too large to open as text."
+msgstr "Датотеката е преголема за да се отвори како текст."
+
+msgid "File transfer was cancelled by user"
+msgstr "Преносот на датотеки беше откажан од корисникот"
+
+msgid "File/Directory Status Information"
+msgstr "Информации за статус на датотека/директориум"
+
+msgid "Filenames in header"
+msgstr "Имиња на датотеки во заглавието"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Наставката на филтерот, (*) се појавува во насловот"
+
+msgid "Filter visible file classes by extension."
+msgstr "Филтрирајте ги видливите класи на датотеки по наставка."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "за ГУБЕЊЕ ИЛИ ОШТЕТУВАЊЕ НА ПОДАТОЦИ !!!"
+
+msgid "from dir"
+msgstr "од реж"
+
+msgid "GB"
+msgstr "МК"
+
+msgid "Go to bookmarked folder"
+msgstr "Одете во обележаната папка"
+
+msgid "Go to default directory"
+msgstr "Одете во стандардниот директориум"
+
+msgid "Go to end of file"
+msgstr "Одете до крајот на датотеката"
+
+msgid "Go to parent directory"
+msgstr "Одете во родителскиот директориум"
+
+msgid "Go to start of file"
+msgstr "Одете на почетокот на датотеката"
+
+msgid "Group:"
+msgstr "Група:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "е ПРОМЕНЕТ! Дали сакате да го зачувате?"
+
+msgid "Hide/Show"
+msgstr "Скриј/Покажи"
+
+msgid "I/O priority for script execution"
+msgstr "I/O приоритет за извршување на скрипта"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Ако уредувате датотека, можете да ја поставите почетната позиција на курсорот на крајот или на почетокот на линијата."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "Во режимот на повеќекратно одбирање го поместува курсорот до следната ставка по означувањето."
+
+msgid "Inode:"
+msgstr "Инода:"
+
+msgid "Insert"
+msgstr "Вметнете"
+
+msgid "Insert line before current line"
+msgstr "Вметнете линија пред тековната линија"
+
+msgid "Install"
+msgstr "Инсталирајте"
+
+msgid "install/unpack ipk Files"
+msgstr "инсталирајте/отпакувајте ipk датотеки"
+
+msgid "Installing Plugin ..."
+msgstr "Се инсталира приклучокот..."
+
+msgid "Invert selection"
+msgstr "Превртете го изборот"
+
+msgid "Invert Selection"
+msgstr "Инвертирај избор"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "Не е можно да се пресметаат хашови на <Список на уреди за складирање>"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Не е можно да се промени режимот на датотека на <Список на уреди за складирање>"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Не е можно да се добие статусот на датотеката на <Список на уреди за складирање>"
+
+msgid "KB"
+msgstr "КБ"
+
+msgid "Leave File Commander"
+msgstr "Оставете го командантот на датотеката"
+
+msgid "Leave multi-select mode"
+msgstr "Излезете од режимот на повеќекратно избирање"
+
+msgid "Link target:"
+msgstr "Цел на врската:"
+
+msgid "Links:"
+msgstr "Врски:"
+
+msgid "List of Storage Devices"
+msgstr "Список на уреди за складирање"
+
+msgid "Load"
+msgstr "Вчитај"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Направете FileCommander достапен од менито Extensions."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Направете FileCommander достапен од главното мени."
+
+msgid "manage local Files"
+msgstr "управување со локални датотеки"
+
+msgid "MB"
+msgstr "МБ"
+
+msgid "MENU"
+msgstr "МЕНИ"
+
+msgid "Menu..."
+msgstr "Мени..."
+
+msgid "Metadata changed:"
+msgstr "Променети метаподатоци:"
+
+msgid "Mode %s (%04o)"
+msgstr "Режим %s (%04o)"
+
+msgid "Modified:"
+msgstr "Изменето:"
+
+msgid "Move"
+msgstr "Премести"
+
+msgid "Move down list"
+msgstr "Премести надолу списокот"
+
+msgid "move file"
+msgstr "премести датотека"
+
+msgid "Move file"
+msgstr "Премести датотека"
+
+msgid "Move file/directory to target directory"
+msgstr "Премести датотека/директориум во целниот директориум"
+
+msgid "Move files/directories to target directory"
+msgstr "Преместете ги датотеките/директориумите во целниот директориум"
+
+msgid "move folder"
+msgstr "преместете ја папката"
+
+msgid "Move folder"
+msgstr "Преместете ја папката"
+
+msgid "Move selector to next item"
+msgstr "Преместете го избирачот на следната ставка"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Премести го избирачот на следната ставка (вклучено/исклучено)"
+
+msgid "Move up list"
+msgstr "Движете се нагоре на листата"
+
+msgid "Movie"
+msgstr "Филм"
+
+msgid "MultiSelection Settings"
+msgstr "Поставки за повеќе избор"
+
+msgid "Music"
+msgstr "Музика"
+
+msgid "My extension"
+msgstr "Моето проширување"
+
+msgid "My Extension"
+msgstr "Моја екстензија"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "Име"
+
+msgid "Name reverse"
+msgstr "Името обратно"
+
+msgid "New folder"
+msgstr "Нова папка"
+
+msgid "New symlink"
+msgstr "Нова симболична врска"
+
+msgid "new.txt"
+msgstr "нов.txt"
+
+msgid "No"
+msgstr "бр"
+
+msgid "No files found."
+msgstr "Не се пронајдени датотеки."
+
+msgid "No hash calculations configured"
+msgstr "Не се конфигурирани хаш пресметки"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "Ниту една од хаш-програмите за хашовите %s не е достапна"
+
+msgid "Not allowed with folders"
+msgstr "Не е дозволено со папки"
+
+msgid "nothing connected"
+msgstr "ништо поврзано"
+
+msgid "Number of lines in script messages"
+msgstr "Број на линии во скрипт пораки"
+
+msgid "OK"
+msgstr "Во ред"
+
+msgid "On device:"
+msgstr "На уред:"
+
+msgid "Open"
+msgstr "Отвори"
+
+msgid "Open actions menu"
+msgstr "Отворете го менито за дејства"
+
+msgid "Open settings/actions menu"
+msgstr "Отворете го менито за поставки/дејства"
+
+msgid "Open with File Commander"
+msgstr "Отворете со File Commander"
+
+msgid "or save the picture additionally to a file"
+msgstr "или дополнително зачувајте ја сликата во датотека"
+
+msgid "Original subtitles codepage"
+msgstr "Оригинална кодна страница со преводи"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Оригинална кодна страница со преводи за конверзија во UTF-8."
+
+msgid "Original:"
+msgstr "Оригинал:"
+
+msgid "Owner:"
+msgstr "Сопственик:"
+
+msgid "Page down list"
+msgstr "Список на страницата надолу"
+
+msgid "Page up list"
+msgstr "Список на страницата"
+
+msgid "Parent Directory"
+msgstr "Родителски именик"
+
+msgid "Permissions:"
+msgstr "Дозволи:"
+
+msgid "Pictures"
+msgstr "Слики"
+
+msgid "play Files"
+msgstr "играјте датотеки"
+
+msgid "Play folder"
+msgstr "Пушти папка"
+
+msgid "Play title"
+msgstr "Играј наслов"
+
+msgid "play/show Files"
+msgstr "репродуцирај/прикажи Датотеки"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Репродуцирај/прегледај/уреди/инсталирај/извади/изврши датотека или внеси директориум"
+
+msgid "Please enter file/folder name"
+msgstr "Ве молиме внесете име на датотека/папка"
+
+msgid "Please enter name of the new directory"
+msgstr "Ве молиме внесете го името на новиот директориум"
+
+msgid "Please enter name of the new symlink"
+msgstr "Ве молиме внесете го името на новата симболична врска"
+
+msgid "Please enter password"
+msgstr "Ве молиме внесете лозинка"
+
+msgid "Please enter the new directory name"
+msgstr "Ве молиме внесете го името на новиот директориум"
+
+msgid "Please enter the new file name"
+msgstr "Ве молиме внесете го новото име на датотеката"
+
+msgid "Please wait, Loading image."
+msgstr "Ве молиме почекајте, се вчитува сликата."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Притиснете OK или Exit за да прекинете!"
+
+msgid "python"
+msgstr "питон"
+
+msgid "Records"
+msgstr "Записи"
+
+msgid "Refresh screen"
+msgstr "Освежете го екранот"
+
+msgid "Regular file"
+msgstr "Редовна датотека"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Отстранете ја тековната папка од обележувачите"
+
+msgid "Remove from selection (%s)"
+msgstr "Отстрани од изборот (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Отстранете ја избраната папка од обележувачите"
+
+msgid "Rename"
+msgstr "Преименувај"
+
+msgid "Rename file"
+msgstr "Преименувајте ја датотеката"
+
+msgid "Rename file/directory"
+msgstr "Преименувајте датотека/директориум"
+
+msgid "Restart"
+msgstr "Рестартирајте"
+
+msgid "Reverse left file sorting"
+msgstr "Обратно лево сортирање на датотеки"
+
+msgid "Reverse right file sorting"
+msgstr "Обратно десно сортирање на датотеки"
+
+msgid "Run script"
+msgstr "Стартувај скрипта"
+
+msgid "Run script in background"
+msgstr "Стартувај скрипта во позадина"
+
+msgid "Run script with optional parameter"
+msgstr "Стартувај скрипта со изборен параметар"
+
+msgid "Run script with optional parameter in background"
+msgstr "Стартувај скрипта со изборен параметар во позадина"
+
+msgid "s"
+msgstr "с"
+
+msgid "Save cursor position"
+msgstr "Зачувај ја позицијата на курсорот"
+
+msgid "Save cursor position in active panel."
+msgstr "Зачувајте ја позицијата на курсорот во активниот панел."
+
+msgid "Save left folder on exit"
+msgstr "Зачувајте ја левата папка при излезот"
+
+msgid "Save right folder on exit"
+msgstr "Зачувајте ја десната папка при излезот"
+
+msgid "Save the left directory list location on exit."
+msgstr "Зачувајте ја локацијата на листата на левиот директориум при излезот."
+
+msgid "Save the right folder list location on exit."
+msgstr "Зачувајте ја вистинската локација на списокот со папки при излезот."
+
+msgid "Search in group selection by"
+msgstr "Пребарајте во избор на група според"
+
+msgid "Search text"
+msgstr "Пребарај текст"
+
+msgid "Search text (%s):"
+msgstr "Пребарај текст (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Пребарајте текст во датотеката (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Изберете (список на извори) или внесете директориум (целна листа)"
+
+msgid "Select a path"
+msgstr "Изберете патека"
+
+msgid "Select action:"
+msgstr "Изберете дејство:"
+
+msgid "Select All"
+msgstr "Изберете Сите"
+
+msgid "Select group"
+msgstr "Изберете група"
+
+msgid "Select group..."
+msgstr "Изберете група..."
+
+msgid "Select operation:"
+msgstr "Изберете операција:"
+
+msgid "Select your personal settings:"
+msgstr "Изберете ги вашите лични поставки:"
+
+msgid "Set archive mode (644)"
+msgstr "Поставете режим на архивирање (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Поставете го извршниот режим (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Поставува дали да се прави разлика помеѓу големи и мали букви за пребарување."
+
+msgid "Settings"
+msgstr "Поставки"
+
+msgid "Settings..."
+msgstr "Поставки..."
+
+msgid "shell"
+msgstr "школка"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Прикажи како слика (притиснете кое било копче за затворање)"
+
+msgid "Show contents of ipk file"
+msgstr "Прикажи ја содржината на ipk-датотеката"
+
+msgid "Show contents of rar file"
+msgstr "Прикажи ја содржината на датотеката rar"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Прикажи содржина на tar или компресирана tar датотека"
+
+msgid "Show contents of zip file"
+msgstr "Прикажи ја содржината на zip-датотеката"
+
+msgid "Show directories first"
+msgstr "Прво прикажи директориуми"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Прикажи директориуми на првата или последната позиција во панелот (за да се применат промените, FileCommander мора да се рестартира)."
+
+msgid "Show image information"
+msgstr "Прикажи информации за сликата"
+
+msgid "Show next picture"
+msgstr "Прикажи ја следната слика"
+
+msgid "Show previous picture"
+msgstr "Прикажи претходната слика"
+
+msgid "Show Script completed message"
+msgstr "Прикажи Скрипта завршена порака"
+
+msgid "Show task list"
+msgstr "Прикажи список со задачи"
+
+msgid "Show unknown extension as text"
+msgstr "Прикажи непозната екстензија како текст"
+
+msgid "Size"
+msgstr "Големина"
+
+msgid "Size reverse"
+msgstr "Обратна големина"
+
+msgid "Size:"
+msgstr "Големина:"
+
+msgid "Socket"
+msgstr "Сокет"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Подредување на левите датотеки по име, датум или големина"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Сортирање на вистинските датотеки по име, датум или големина"
+
+msgid "start title"
+msgstr "почетниот наслов"
+
+msgid "Start/stop slide show"
+msgstr "Започнете/запрете слајд шоу"
+
+msgid "starts with..."
+msgstr "започнува со..."
+
+msgid "Storage devices"
+msgstr "Уреди за складирање"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Заменете ги копчињата за обратно сортирање на датотеки"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Заменете ги копчињата десно/лево со канал +/- или копчето за канал секогаш се менува од страната."
+
+msgid "Symbolic link"
+msgstr "Симболична врска"
+
+msgid "Symlink to"
+msgstr "Симболична врска до"
+
+msgid "Task list"
+msgstr "Список со задачи"
+
+msgid "TB"
+msgstr "ТБ"
+
+msgid "Text not found."
+msgstr "Текстот не е пронајден."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Пребарување текст како чувствителни на големи букви или букви."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Авторите НЕ СЕ ОДГОВОРНИ"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "Компонентата Image Viewer на File Commander бара екстензија PicturePlayer. Инсталирајте PicturePlayer за да ја овозможите оваа операција."
+
+msgid "This line is not editable!"
+msgstr "Оваа линија не може да се уредува!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Време помеѓу слајдовите во слајд шоуто за прегледувач на слики."
+
+msgid "Time for Slideshow"
+msgstr "Време е за слајдшоу"
+
+msgid "to dir"
+msgstr "да реж"
+
+msgid "To next found text"
+msgstr "До следниот пронајден текст"
+
+msgid "To previous found text"
+msgstr "На претходниот пронајден текст"
+
+msgid "Type the name for the new file"
+msgstr "Внесете го името за новата датотека"
+
+msgid "Type:"
+msgstr "Тип:"
+
+msgid "Unknown"
+msgstr "Непознат"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Непознат тип на датотека. Да се ​​отвори како текст?"
+
+msgid "Unknown group: %d"
+msgstr "Непозната група: %d"
+
+msgid "Unknown user: %d"
+msgstr "Непознат корисник: %d"
+
+msgid "unpack archives"
+msgstr "отпакувајте ги архивите"
+
+msgid "unpack gzip Files"
+msgstr "отпакувајте ги датотеките gzip"
+
+msgid "unpack Rar Files"
+msgstr "отпакувајте Rar-датотеки"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "отпакувајте tar/compressed tar датотеки"
+
+msgid "Unpack to %s"
+msgstr "Отпакувајте во %s"
+
+msgid "Unpack to current folder"
+msgstr "Отпакувајте во тековната папка"
+
+msgid "unpack zip Files"
+msgstr "отпакувајте zip-датотеки"
+
+msgid "Unsupported archive type."
+msgstr "Неподдржан тип на архива."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Приказ или уредување на датотека (ако големина < 1MB)"
+
+msgid "View or edit this %s script"
+msgstr "Приказ или уредување на оваа скрипта %s"
+
+msgid "WARNING!"
+msgstr "ПРЕДУПРЕДУВАЊЕ!"
+
+msgid "What do you want to play?\n"
+msgstr "Што сакате да играте?\n"
+
+msgid "without"
+msgstr "без"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Можете да го поставите бројот на букви од почетокот на тековното име на датотеката како текст претходно пополнет во виртуелната тастатура за полесно внесување преку групно избирање."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Можете да го поставите бројот на букви од крајот на тековното име на датотеката како текст претходно пополнет во виртуелната тастатура за полесно внесување преку групно избирање."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Можете да поставите што ќе користи групниот избор - почеток на наслов, крај на наслов или содржи во насловот."
+

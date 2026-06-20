@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "Directorio"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "No se puede crear el directorio aquí en\n<Lista de dispositivos de almacenamiento> o <Receptor>.\nMueva el selector una línea debajo o cambie el directorio."
+msgstr "El directorio no se puede crear aquí en\n<Lista de dispositivos de almacenamiento> o <Receptor>.\nMueva el selector una línea debajo o cambie el directorio."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Mostrar nombres de archivos en el encabezado. Es útil para nombres de archivos demasiado largos."
@@ -335,7 +335,7 @@ msgid "Error creating file %s:\n%s"
 msgstr "Error al crear el archivo %s:\n%s"
 
 msgid "Error linking %s to %s:\n%s"
-msgstr "Error al vincular %s con %s:\n%s"
+msgstr "Error al vincular %s a %s:\n%s"
 
 msgid "Error renaming %s to %s:\n%s"
 msgstr "Error al cambiar el nombre de %s a %s:\n%s"
@@ -350,7 +350,7 @@ msgid "Execution finished!!"
 msgstr "¡¡Ejecución terminada!!"
 
 msgid "Execution progress\n\n"
-msgstr "Progreso de la ejecución\n\n"
+msgstr "Progreso de ejecución\n\n"
 
 msgid "Exit"
 msgstr "Salida"
@@ -1031,7 +1031,7 @@ msgid "WARNING!"
 msgstr "¡ADVERTENCIA!"
 
 msgid "What do you want to play?\n"
-msgstr "¿Qué quieres jugar?\n"
+msgstr "¿A qué quieres jugar?\n"
 
 msgid "without"
 msgstr "sin"

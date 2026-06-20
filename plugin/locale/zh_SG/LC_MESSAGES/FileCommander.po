@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\n可选参数:\n%s"
+msgstr "\n可选参数：\n%s"
 
 msgid "%d GB"
 msgstr "%d GB"
@@ -119,7 +119,7 @@ msgid "Calculates file checksums."
 msgstr "计算文件校验和。"
 
 msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
-msgstr "无法运行 %s: %s。\n%s 可能位于未安装的插件中​​。"
+msgstr "无法运行 %s：%s。\n%s 可能位于未安装的插件中​​。"
 
 msgid "Cancel"
 msgstr "取消"
@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "目录"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "无法在\n<存储设备列表> 或<接收器> 上创建目录。\n将选择器移到下面一行或更改目录。"
+msgstr "无法在 \n<存储设备列表> 或 <接收器> 上创建目录。\n将选择器移至下一行或更改目录。"
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "在标题中显示文件名。它对于太长的文件名很有用。"
@@ -299,7 +299,7 @@ msgid "Do you want change rights?\n"
 msgstr "您想要更改权限吗？\n"
 
 msgid "Do you want to view or run the script?\n"
-msgstr "您想查看或运行该脚本吗？\n"
+msgstr "您想查看或运行脚本吗？\n"
 
 msgid "Edit"
 msgstr "编辑"
@@ -329,16 +329,16 @@ msgid "Error"
 msgstr "错误"
 
 msgid "Error creating directory %s:\n%s"
-msgstr "创建目录 %s 时出错:\n%s"
+msgstr "创建目录 %s 时出错：\n%s"
 
 msgid "Error creating file %s:\n%s"
-msgstr "创建文件 %s 时出错:\n%s"
+msgstr "创建文件 %s 时出错：\n%s"
 
 msgid "Error linking %s to %s:\n%s"
-msgstr "将 %s 链接到 %s 时出错:\n%s"
+msgstr "将 %s 链接到 %s 时出错：\n%s"
 
 msgid "Error renaming %s to %s:\n%s"
-msgstr "将 %s 重命名为 %s 时出错:\n%s"
+msgstr "将 %s 重命名为 %s 时出错：\n%s"
 
 msgid "Error saving: %s"
 msgstr "保存时出错：%s"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "先进先出"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "无法在<存储设备列表> 或<接收器> 上创建文件。\n请更改目录。"
+msgstr "无法在 \n<存储设备列表> 或 <接收器> 上创建文件。\n请更改目录。"
 
 msgid "File checksums/hashes"
 msgstr "文件校验和/哈希值"

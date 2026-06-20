@@ -335,10 +335,10 @@ msgid "Error creating file %s:\n%s"
 msgstr "Kon nie lêer %s:\n%s skep nie"
 
 msgid "Error linking %s to %s:\n%s"
-msgstr "Kon nie %s aan %s koppel nie:\n%s"
+msgstr "Kon nie %s koppel aan %s:\n%s nie"
 
 msgid "Error renaming %s to %s:\n%s"
-msgstr "Kon nie %s hernoem na %s nie:\n%s"
+msgstr "Kon nie %s hernoem na %s:\n%s nie"
 
 msgid "Error saving: %s"
 msgstr "Kon nie stoor nie: %s"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "EIEU"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "Lêer kan nie op\n<Lys van bergingstoestelle> of <Ontvanger> geskep word nie.\nVerander asseblief gids."
+msgstr "Lêer kan nie op \n<Lys van bergingstoestelle> of <Ontvanger> geskep word nie.\nVerander gids, asseblief."
 
 msgid "File checksums/hashes"
 msgstr "Lêer kontrolesomme/hashes"

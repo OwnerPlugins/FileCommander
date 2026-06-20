@@ -119,7 +119,7 @@ msgid "Calculates file checksums."
 msgstr "Berekkent triemkontrôlesummen."
 
 msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
-msgstr "Kin %s net útfiere: %s.\n%s is mooglik yn in plugin dat net ynstallearre is."
+msgstr "Kin %s net útfiere: %s.\n%s sit mooglik yn in plugin dat net ynstallearre is."
 
 msgid "Cancel"
 msgstr "Ofbrekke"
@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "Directory"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "Directory kin hjir net oanmakke wurde op\n<List fan opslachapparaten> of <ûntfanger>.\nFerpleats de kiezer ien rigel hjirûnder of wizigje map."
+msgstr "Directory kin hjir net oanmakke wurde on\n<List fan opslachapparaten> of <ûntfanger>.\nSelektear ien rigel ûnder ferpleatse of map feroarje."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Toan bestânsnammen yn koptekst. It is handich foar bestânsnammen dy't te lang binne."
@@ -350,7 +350,7 @@ msgid "Execution finished!!"
 msgstr "Utfiering klear!!"
 
 msgid "Execution progress\n\n"
-msgstr "Utfier foarútgong\n\n"
+msgstr "Utfiering foarútgong\n\n"
 
 msgid "Exit"
 msgstr "Útgong"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "Triem kin net oanmakke wurde op\n<List mei opslachapparaten> of <ûntfanger>.\nFeroarje asjebleaft map."
+msgstr "Triem kin net oanmakke wurde op \n<List fan opslachapparaten> of <ûntfanger>.\nFeroarje triemtafel, asjebleaft."
 
 msgid "File checksums/hashes"
 msgstr "Bestânskontrôlesummen/hashes"

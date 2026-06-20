@@ -1,0 +1,1050 @@
+# lt translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: lt <ekekaz@gmail.com>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- failas yra! Perrašyti"
+
+msgid "- folder exist! Overwrite"
+msgstr "- aplankas egzistuoja! Perrašyti"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Pasirinkimo režimas)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\npasirenkamas parametras: \n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s – ištraukimo klaidos."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s yra apsaugotas slaptažodžiu."
+
+msgid "%s successfully extracted."
+msgstr "%s sėkmingai išskleisti."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Imtuvas>"
+
+msgid "Accessed:"
+msgstr "Prieiga:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Suaktyvinkite kairįjį failų sąrašą kaip kelių pasirinkimų šaltinį"
+
+msgid "Activate left-hand file list as source"
+msgstr "Suaktyvinkite kairįjį failų sąrašą kaip šaltinį"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Suaktyvinkite dešinįjį failų sąrašą kaip kelių pasirinkimų šaltinį"
+
+msgid "Activate right-hand file list as source"
+msgstr "Suaktyvinkite dešinįjį failų sąrašą kaip šaltinį"
+
+msgid "Add current folder to bookmarks"
+msgstr "Pridėti dabartinį aplanką prie žymių"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Pridėkite papildinį prie plėtinių meniu"
+
+msgid "Add plugin to main menu"
+msgstr "Pridėkite papildinį į pagrindinį meniu"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Pridėti pasirinktą aplanką prie žymių"
+
+msgid "Add to selection (%s)"
+msgstr "Pridėti prie pasirinkimo (%s)"
+
+msgid "All"
+msgstr "Visi"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Visi kataloge esantys failai tokiu pat pavadinimu kaip ir pasirinktas filmas taip pat bus nukopijuoti arba perkelti."
+
+msgid "All movie extensions"
+msgstr "Visi filmų plėtiniai"
+
+msgid "B"
+msgstr "B"
+
+msgid "Block device"
+msgstr "Blokuoti įrenginį"
+
+msgid "Calculate file checksums"
+msgstr "Apskaičiuokite failų kontrolines sumas"
+
+msgid "Calculates file checksums."
+msgstr "Skaičiuoja failų kontrolines sumas."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "Neįmanoma paleisti %s: %s.\n%s gali būti neįdiegtame papildinyje."
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Cancel execution?"
+msgstr "Atšaukti vykdymą?"
+
+msgid "Cannot create target directory."
+msgstr "Negalima sukurti tikslinio katalogo."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Negalima atidaryti vaizdo. Atidaryti kaip tekstą?"
+
+msgid "Cannot play file."
+msgstr "Negalima paleisti failo."
+
+msgid "Cannot read file: %s"
+msgstr "Nepavyko nuskaityti failo: %s"
+
+msgid "case insensitive"
+msgstr "didžiosios ir mažosios raidės neskiriamos"
+
+msgid "case sensitive"
+msgstr "didžiosios ir mažosios raidės"
+
+msgid "Case sensitive search"
+msgstr "Didžiųjų ir mažųjų raidžių paieška"
+
+msgid "Change buttons for list navigation"
+msgstr "Keisti sąrašo naršymo mygtukus"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Keisti vykdymo leidimus (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Kanalo mygtukas visada keičia puses"
+
+msgid "Character device"
+msgstr "Charakterio įrenginys"
+
+msgid "Close"
+msgstr "Uždaryti"
+
+msgid "Compare case sensitive"
+msgstr "Palyginkite didžiąsias ir mažąsias raides"
+
+msgid "contains in title"
+msgstr "yra pavadinime"
+
+msgid "contains..."
+msgstr "yra..."
+
+msgid "Content size:"
+msgstr "Turinio dydis:"
+
+msgid "Copy"
+msgstr "Kopijuoti"
+
+msgid "copy file"
+msgstr "kopijuoti failą"
+
+msgid "Copy file"
+msgstr "Kopijuoti failą"
+
+msgid "Copy file/directory to target directory"
+msgstr "Nukopijuokite failą / katalogą į tikslinį katalogą"
+
+msgid "Copy files/directories to target directory"
+msgstr "Nukopijuokite failus / katalogus į tikslinį katalogą"
+
+msgid "copy folder"
+msgstr "kopijuoti aplanką"
+
+msgid "Copy folder"
+msgstr "Kopijuoti aplanką"
+
+msgid "Count directory content size"
+msgstr "Suskaičiuokite katalogo turinio dydį"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "Katalogo turinio dydžio skaičiavimas einant (įjungta / išjungta)"
+
+msgid "CPU priority for script execution"
+msgstr "CPU prioritetas scenarijaus vykdymui"
+
+msgid "Create directory"
+msgstr "Sukurti katalogą"
+
+msgid "create symlink ..."
+msgstr "sukurti simbolinę nuorodą..."
+
+msgid "Create symlink to file"
+msgstr "Sukurkite simbolinę nuorodą į failą"
+
+msgid "Create user-named symbolic link"
+msgstr "Sukurkite vartotojo vardu pavadintą simbolinę nuorodą"
+
+msgid "d"
+msgstr "d"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Date reverse"
+msgstr "Data atvirkščiai"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Numatytasis procesoriaus prioritetas (gražus) vykdomiems scenarijams. Tai gali sumažinti apkrovą, kad scenarijai netrukdytų likusiai sistemos daliai. (didesnės reikšmės = mažesnis prioritetas)"
+
+msgid "Default directory sorting"
+msgstr "Numatytasis katalogų rūšiavimas"
+
+msgid "Default file sorting left"
+msgstr "Liko numatytasis failų rūšiavimas"
+
+msgid "Default file sorting right"
+msgstr "Numatytasis failų rūšiavimas teisingas"
+
+msgid "Default folder"
+msgstr "Numatytasis aplankas"
+
+msgid "Default Folder"
+msgstr "Numatytasis aplankas"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Numatytasis vykdomų scenarijų įvesties / išvesties prioritetas (jonice). Tai gali sumažinti apkrovą, kad scenarijai netrukdytų likusiai sistemos daliai. (didesnės reikšmės = mažesnis prioritetas)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Numatytasis katalogų rūšiavimo metodas abiejose plokštėse (norint pritaikyti pakeitimus, FileCommander turi būti paleistas iš naujo)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Numatytasis failų rūšiavimo metodas kairiajame skydelyje."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Numatytasis failų rūšiavimo metodas dešiniajame skydelyje."
+
+msgid "Delete"
+msgstr "Ištrinti"
+
+msgid "Delete current line"
+msgstr "Ištrinti dabartinę eilutę"
+
+msgid "Delete file"
+msgstr "Ištrinti failą"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Ištrinkite failą arba katalogą (ir visą jo turinį)"
+
+msgid "Delete folder"
+msgstr "Ištrinti aplanką"
+
+msgid "Delete the selected files or directories"
+msgstr "Ištrinkite pasirinktus failus arba katalogus"
+
+msgid "Deselect All"
+msgstr "Panaikinkite visų pasirinkimą"
+
+msgid "Deselect group"
+msgstr "Panaikinkite grupės pasirinkimą"
+
+msgid "Deselect group..."
+msgstr "Panaikinti grupės pasirinkimą..."
+
+msgid "Directories to group selections"
+msgstr "Katalogai grupių pasirinkimams"
+
+msgid "Directory"
+msgstr "Katalogas"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Katalogo čia negalima sukurti \n<Saugyklos įrenginių sąrašas> arba <Imtuvas>.\nPerkelkite parinkiklį viena eilute žemiau arba pakeiskite katalogą."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Rodyti failų pavadinimus antraštėje. Tai naudinga, kai failų pavadinimai yra per ilgi."
+
+msgid "Do you want change rights?\n"
+msgstr "Ar norite pakeisti teises?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Ar norite peržiūrėti ar paleisti scenarijų?\n"
+
+msgid "Edit"
+msgstr "Redaguoti"
+
+msgid "Edit current line"
+msgstr "Redaguoti dabartinę eilutę"
+
+msgid "Edit line"
+msgstr "Redaguoti eilutę"
+
+msgid "Edit new file"
+msgstr "Redaguoti naują failą"
+
+msgid "Edit position is the line end"
+msgstr "Redagavimo padėtis yra eilutės pabaiga"
+
+msgid "end title"
+msgstr "pabaigos pavadinimas"
+
+msgid "ends with..."
+msgstr "baigiasi..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Įjunkite kelių failų pasirinkimo režimą"
+
+msgid "Error"
+msgstr "Klaida"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Klaida kuriant katalogą %s:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Klaida kuriant failą %s:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Klaida susiejant %s su %s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Klaida pervardijant %s į %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Išsaugant įvyko klaida: %s"
+
+msgid "Error..."
+msgstr "Klaida..."
+
+msgid "Execution finished!!"
+msgstr "Vykdymas baigtas!!"
+
+msgid "Execution progress\n\n"
+msgstr "Vykdymo eiga \n\n"
+
+msgid "Exit"
+msgstr "Išeiti"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Išeikite iš redaktoriaus ir parašykite pakeitimus (jei yra)"
+
+msgid "Exit movie player?"
+msgstr "Išeiti iš filmų grotuvo?"
+
+msgid "Exit picture viewer"
+msgstr "Išeikite iš nuotraukų peržiūros programos"
+
+msgid "Extract archive to %s?"
+msgstr "Išskleisti archyvą į %s?"
+
+msgid "Extracting..."
+msgstr "Ištraukiama..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Failo negalima sukurti \n<Saugyklos įrenginių sąraše> arba <Receiver>.\nPrašome pakeisti katalogą."
+
+msgid "File checksums/hashes"
+msgstr "Failų kontrolinės sumos / maišos"
+
+msgid "File Commander"
+msgstr "Failų vadas"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "Failų vadas – „Adon File-Viewer“."
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "„File Commander“ – „Adon File Viewer Settings“."
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "Failų vadas – Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "Failų vadas – Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander – apibendrintas archyvų tvarkytojas"
+
+msgid "File Commander - gzip Addon"
+msgstr "Failų vadas - gzip priedas"
+
+msgid "File Commander - ipk Addon"
+msgstr "Failų vadas – „ipk Addon“."
+
+msgid "File Commander - tar Addon"
+msgstr "Failų vadas - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "Failų vadas – atšaukiamas priedas"
+
+msgid "File Commander - unzip Addon"
+msgstr "Failų vadas - išpakuokite priedą"
+
+msgid "File not found: %s"
+msgstr "Failas nerastas: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Failas per didelis, kad būtų galima atidaryti kaip tekstą (maks. 1 MB)."
+
+msgid "File too large to open as text."
+msgstr "Failas per didelis, kad būtų galima atidaryti kaip tekstą."
+
+msgid "File transfer was cancelled by user"
+msgstr "Failų perkėlimą atšaukė vartotojas"
+
+msgid "File/Directory Status Information"
+msgstr "Failo/katalogo būsenos informacija"
+
+msgid "Filenames in header"
+msgstr "Failų pavadinimai antraštėje"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "Filtro plėtinys (*) rodomas pavadinime"
+
+msgid "Filter visible file classes by extension."
+msgstr "Filtruokite matomas failų klases pagal plėtinį."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "už DUOMENŲ PRARAŠYMĄ AR SU ŽALOJIMĄ !!!"
+
+msgid "from dir"
+msgstr "iš rež"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "Eikite į pažymėtą aplanką"
+
+msgid "Go to default directory"
+msgstr "Eikite į numatytąjį katalogą"
+
+msgid "Go to end of file"
+msgstr "Eikite į failo pabaigą"
+
+msgid "Go to parent directory"
+msgstr "Eikite į pirminį katalogą"
+
+msgid "Go to start of file"
+msgstr "Eikite į failo pradžią"
+
+msgid "Group:"
+msgstr "Grupė:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "buvo PAKEISTAS! Ar norite jį išsaugoti?"
+
+msgid "Hide/Show"
+msgstr "Slėpti / Rodyti"
+
+msgid "I/O priority for script execution"
+msgstr "Įvesties / išvesties prioritetas scenarijaus vykdymui"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Jei redaguojate failą, galite nustatyti žymeklio pradžios padėtį eilutės pabaigoje arba pradžioje."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "Kelių pasirinkimų režimu po žymėjimo perkelia žymeklį į kitą elementą."
+
+msgid "Inode:"
+msgstr "Inode:"
+
+msgid "Insert"
+msgstr "Įterpti"
+
+msgid "Insert line before current line"
+msgstr "Įterpti eilutę prieš dabartinę eilutę"
+
+msgid "Install"
+msgstr "Įdiegti"
+
+msgid "install/unpack ipk Files"
+msgstr "įdiegti / išpakuoti ipk failus"
+
+msgid "Installing Plugin ..."
+msgstr "Diegiamas papildinys..."
+
+msgid "Invert selection"
+msgstr "Apverskite pasirinkimą"
+
+msgid "Invert Selection"
+msgstr "Apverskite pasirinkimą"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "Neįmanoma apskaičiuoti maišos <List of Storage Devices>"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Neįmanoma pakeisti <List of Storage Devices> failo režimo"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Neįmanoma gauti <List of Storage Devices> failo būsenos"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Palikite failų komandą"
+
+msgid "Leave multi-select mode"
+msgstr "Išjunkite kelių pasirinkimų režimą"
+
+msgid "Link target:"
+msgstr "Nuorodos tikslas:"
+
+msgid "Links:"
+msgstr "Nuorodos:"
+
+msgid "List of Storage Devices"
+msgstr "Saugojimo įrenginių sąrašas"
+
+msgid "Load"
+msgstr "Įkelti"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Padarykite FileCommander pasiekiamą iš plėtinių meniu."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Padarykite „FileCommander“ pasiekiamą pagrindiniame meniu."
+
+msgid "manage local Files"
+msgstr "valdyti vietinius failus"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "MENIU"
+
+msgid "Menu..."
+msgstr "Meniu..."
+
+msgid "Metadata changed:"
+msgstr "Pakeisti metaduomenys:"
+
+msgid "Mode %s (%04o)"
+msgstr "Režimas %s (%04o)"
+
+msgid "Modified:"
+msgstr "Modifikuota:"
+
+msgid "Move"
+msgstr "Judėti"
+
+msgid "Move down list"
+msgstr "Perkelti sąrašą žemyn"
+
+msgid "move file"
+msgstr "perkelti failą"
+
+msgid "Move file"
+msgstr "Perkelti failą"
+
+msgid "Move file/directory to target directory"
+msgstr "Perkelkite failą / katalogą į tikslinį katalogą"
+
+msgid "Move files/directories to target directory"
+msgstr "Perkelkite failus / katalogus į tikslinį katalogą"
+
+msgid "move folder"
+msgstr "perkelti aplanką"
+
+msgid "Move folder"
+msgstr "Perkelti aplanką"
+
+msgid "Move selector to next item"
+msgstr "Perkelti parinkiklį prie kito elemento"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Perkelti parinkiklį prie kito elemento (įjungti / išjungti)"
+
+msgid "Move up list"
+msgstr "Perkelti sąrašą aukštyn"
+
+msgid "Movie"
+msgstr "Filmas"
+
+msgid "MultiSelection Settings"
+msgstr "Kelių pasirinkimų nustatymai"
+
+msgid "Music"
+msgstr "Muzika"
+
+msgid "My extension"
+msgstr "Mano pratęsimas"
+
+msgid "My Extension"
+msgstr "Mano pratęsimas"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "Vardas"
+
+msgid "Name reverse"
+msgstr "Pavadinimas atvirkščiai"
+
+msgid "New folder"
+msgstr "Naujas aplankas"
+
+msgid "New symlink"
+msgstr "Nauja simbolinė nuoroda"
+
+msgid "new.txt"
+msgstr "naujas.txt"
+
+msgid "No"
+msgstr "Nr"
+
+msgid "No files found."
+msgstr "Failų nerasta."
+
+msgid "No hash calculations configured"
+msgstr "Maišos skaičiavimai nesukonfigūruoti"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "Nė viena maišos programa, skirta maišai %s, nepasiekiama"
+
+msgid "Not allowed with folders"
+msgstr "Neleidžiama su aplankais"
+
+msgid "nothing connected"
+msgstr "nieko nesusijusi"
+
+msgid "Number of lines in script messages"
+msgstr "Eilučių skaičius scenarijaus pranešimuose"
+
+msgid "OK"
+msgstr "Gerai"
+
+msgid "On device:"
+msgstr "Įrenginyje:"
+
+msgid "Open"
+msgstr "Atidaryti"
+
+msgid "Open actions menu"
+msgstr "Atidarykite veiksmų meniu"
+
+msgid "Open settings/actions menu"
+msgstr "Atidarykite nustatymų / veiksmų meniu"
+
+msgid "Open with File Commander"
+msgstr "Atidarykite naudodami failų komandą"
+
+msgid "or save the picture additionally to a file"
+msgstr "arba išsaugokite paveikslėlį papildomai į failą"
+
+msgid "Original subtitles codepage"
+msgstr "Originalus subtitrų kodas"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Originalus subtitrų kodo puslapis, skirtas konvertuoti į UTF-8."
+
+msgid "Original:"
+msgstr "Originalus:"
+
+msgid "Owner:"
+msgstr "Savininkas:"
+
+msgid "Page down list"
+msgstr "Puslapio žemyn sąrašas"
+
+msgid "Page up list"
+msgstr "Sąrašas į viršų"
+
+msgid "Parent Directory"
+msgstr "Tėvų katalogas"
+
+msgid "Permissions:"
+msgstr "Leidimai:"
+
+msgid "Pictures"
+msgstr "Paveikslėliai"
+
+msgid "play Files"
+msgstr "žaisti failus"
+
+msgid "Play folder"
+msgstr "Paleisti aplanką"
+
+msgid "Play title"
+msgstr "Paleisti pavadinimą"
+
+msgid "play/show Files"
+msgstr "žaisti / rodyti failus"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Leisti / peržiūrėti / redaguoti / įdiegti / išskleisti / paleisti failą arba įveskite katalogą"
+
+msgid "Please enter file/folder name"
+msgstr "Įveskite failo/aplanko pavadinimą"
+
+msgid "Please enter name of the new directory"
+msgstr "Įveskite naujojo katalogo pavadinimą"
+
+msgid "Please enter name of the new symlink"
+msgstr "Įveskite naujos nuorodos pavadinimą"
+
+msgid "Please enter password"
+msgstr "Įveskite slaptažodį"
+
+msgid "Please enter the new directory name"
+msgstr "Įveskite naują katalogo pavadinimą"
+
+msgid "Please enter the new file name"
+msgstr "Įveskite naują failo pavadinimą"
+
+msgid "Please wait, Loading image."
+msgstr "Prašome palaukti, įkeliamas vaizdas."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Norėdami nutraukti, paspauskite OK arba Exit!"
+
+msgid "python"
+msgstr "pitonas"
+
+msgid "Records"
+msgstr "Įrašai"
+
+msgid "Refresh screen"
+msgstr "Atnaujinti ekraną"
+
+msgid "Regular file"
+msgstr "Įprastas failas"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Pašalinti dabartinį aplanką iš žymių"
+
+msgid "Remove from selection (%s)"
+msgstr "Pašalinti iš pasirinkimo (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Pašalinkite pasirinktą aplanką iš žymių"
+
+msgid "Rename"
+msgstr "Pervardyti"
+
+msgid "Rename file"
+msgstr "Pervardyti failą"
+
+msgid "Rename file/directory"
+msgstr "Pervardykite failą / katalogą"
+
+msgid "Restart"
+msgstr "Paleisti iš naujo"
+
+msgid "Reverse left file sorting"
+msgstr "Atvirkštinis kairysis failų rūšiavimas"
+
+msgid "Reverse right file sorting"
+msgstr "Atvirkštinis dešinysis failų rūšiavimas"
+
+msgid "Run script"
+msgstr "Vykdykite scenarijų"
+
+msgid "Run script in background"
+msgstr "Vykdykite scenarijų fone"
+
+msgid "Run script with optional parameter"
+msgstr "Vykdykite scenarijų su pasirenkamu parametru"
+
+msgid "Run script with optional parameter in background"
+msgstr "Paleiskite scenarijų su pasirenkamu parametru fone"
+
+msgid "s"
+msgstr "s"
+
+msgid "Save cursor position"
+msgstr "Išsaugoti žymeklio padėtį"
+
+msgid "Save cursor position in active panel."
+msgstr "Išsaugokite žymeklio padėtį aktyviame skydelyje."
+
+msgid "Save left folder on exit"
+msgstr "Išsaugokite kairįjį aplanką išėjus"
+
+msgid "Save right folder on exit"
+msgstr "Išsaugokite dešinįjį aplanką išėjus"
+
+msgid "Save the left directory list location on exit."
+msgstr "Išeidami išsaugokite kairiojo katalogų sąrašo vietą."
+
+msgid "Save the right folder list location on exit."
+msgstr "Išeidami išsaugokite tinkamą aplankų sąrašo vietą."
+
+msgid "Search in group selection by"
+msgstr "Ieškoti grupės pasirinkime pagal"
+
+msgid "Search text"
+msgstr "Paieškos tekstas"
+
+msgid "Search text (%s):"
+msgstr "Paieškos tekstas (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Ieškokite teksto faile (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Pasirinkite (šaltinių sąrašas) arba įveskite katalogą (tikslinis sąrašas)"
+
+msgid "Select a path"
+msgstr "Pasirinkite kelią"
+
+msgid "Select action:"
+msgstr "Pasirinkite veiksmą:"
+
+msgid "Select All"
+msgstr "Pasirinkite Viskas"
+
+msgid "Select group"
+msgstr "Pasirinkite grupę"
+
+msgid "Select group..."
+msgstr "Pasirinkite grupę..."
+
+msgid "Select operation:"
+msgstr "Pasirinkite operaciją:"
+
+msgid "Select your personal settings:"
+msgstr "Pasirinkite asmeninius nustatymus:"
+
+msgid "Set archive mode (644)"
+msgstr "Nustatyti archyvavimo režimą (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Nustatyti vykdomąjį režimą (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Nustatoma, ar ieškant atskirti didžiąsias ir mažąsias raides."
+
+msgid "Settings"
+msgstr "Nustatymai"
+
+msgid "Settings..."
+msgstr "Nustatymai..."
+
+msgid "shell"
+msgstr "apvalkalas"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Rodyti kaip paveikslėlį (paspauskite bet kurį klavišą, kad uždarytumėte)"
+
+msgid "Show contents of ipk file"
+msgstr "Rodyti ipk failo turinį"
+
+msgid "Show contents of rar file"
+msgstr "Rodyti rar failo turinį"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Rodyti tar arba suspausto tar failo turinį"
+
+msgid "Show contents of zip file"
+msgstr "Rodyti ZIP failo turinį"
+
+msgid "Show directories first"
+msgstr "Pirmiausia rodyti katalogus"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Rodyti katalogus pirmosiose arba paskutinėse skydelio vietose (norint pritaikyti pakeitimus, FileCommander turi būti paleistas iš naujo)."
+
+msgid "Show image information"
+msgstr "Rodyti informaciją apie vaizdą"
+
+msgid "Show next picture"
+msgstr "Rodyti kitą nuotrauką"
+
+msgid "Show previous picture"
+msgstr "Rodyti ankstesnę nuotrauką"
+
+msgid "Show Script completed message"
+msgstr "Rodyti scenarijų baigtą pranešimą"
+
+msgid "Show task list"
+msgstr "Rodyti užduočių sąrašą"
+
+msgid "Show unknown extension as text"
+msgstr "Rodyti nežinomą plėtinį kaip tekstą"
+
+msgid "Size"
+msgstr "Dydis"
+
+msgid "Size reverse"
+msgstr "Dydis atvirkštinis"
+
+msgid "Size:"
+msgstr "Dydis:"
+
+msgid "Socket"
+msgstr "Lizdas"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Kairiųjų failų rūšiavimas pagal pavadinimą, datą ar dydį"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Tinkamų failų rūšiavimas pagal pavadinimą, datą ar dydį"
+
+msgid "start title"
+msgstr "pradžios pavadinimas"
+
+msgid "Start/stop slide show"
+msgstr "Pradėti / sustabdyti skaidrių demonstravimą"
+
+msgid "starts with..."
+msgstr "prasideda nuo..."
+
+msgid "Storage devices"
+msgstr "Saugojimo įrenginiai"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Sukeisti mygtukus atvirkštiniam failų rūšiavimui"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Sukeisti mygtukus į dešinę / kairę su kanalu +/- arba kanalo mygtukas visada keitė šoną."
+
+msgid "Symbolic link"
+msgstr "Simbolinė nuoroda"
+
+msgid "Symlink to"
+msgstr "Simbolinė nuoroda į"
+
+msgid "Task list"
+msgstr "Užduočių sąrašas"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Text not found."
+msgstr "Tekstas nerastas."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Teksto paieška naudojant didžiąsias ir mažąsias raides."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "Autoriai NEATSAKOMI"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "„File Commander“ vaizdų peržiūros komponentui reikalingas „PicturePlayer“ plėtinys. Įdiekite „PicturePlayer“, kad įjungtumėte šią operaciją."
+
+msgid "This line is not editable!"
+msgstr "Šios eilutės negalima redaguoti!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Laikas tarp skaidrių vaizdų peržiūros priemonės skaidrių demonstracijoje."
+
+msgid "Time for Slideshow"
+msgstr "Laikas skaidrių demonstracijai"
+
+msgid "to dir"
+msgstr "į rež"
+
+msgid "To next found text"
+msgstr "Į kitą rastą tekstą"
+
+msgid "To previous found text"
+msgstr "Į ankstesnį rastą tekstą"
+
+msgid "Type the name for the new file"
+msgstr "Įveskite naujo failo pavadinimą"
+
+msgid "Type:"
+msgstr "Tipas:"
+
+msgid "Unknown"
+msgstr "Nežinoma"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Nežinomas failo tipas. Atidaryti kaip tekstą?"
+
+msgid "Unknown group: %d"
+msgstr "Nežinoma grupė: %d"
+
+msgid "Unknown user: %d"
+msgstr "Nežinomas vartotojas: %d"
+
+msgid "unpack archives"
+msgstr "išpakuoti archyvus"
+
+msgid "unpack gzip Files"
+msgstr "išpakuokite gzip failus"
+
+msgid "unpack Rar Files"
+msgstr "išpakuokite Rar failus"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "išpakuokite tar / suspaustus tar failus"
+
+msgid "Unpack to %s"
+msgstr "Išpakuokite į %s"
+
+msgid "Unpack to current folder"
+msgstr "Išpakuokite į dabartinį aplanką"
+
+msgid "unpack zip Files"
+msgstr "išpakuokite zip failus"
+
+msgid "Unsupported archive type."
+msgstr "Nepalaikomas archyvo tipas."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Peržiūrėkite arba redaguokite failą (jei dydis < 1 MB)"
+
+msgid "View or edit this %s script"
+msgstr "Peržiūrėkite arba redaguokite šį %s scenarijų"
+
+msgid "WARNING!"
+msgstr "ĮSPĖJIMAS!"
+
+msgid "What do you want to play?\n"
+msgstr "Ką norite žaisti? \n"
+
+msgid "without"
+msgstr "be"
+
+msgid "Yes"
+msgstr "Taip"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Galite nustatyti raidžių skaičių nuo dabartinio failo pavadinimo pradžios kaip tekstą, iš anksto užpildytą virtualioje klaviatūroje, kad būtų lengviau įvesti pasirinkus grupę."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Galite nustatyti raidžių skaičių dabartinio failo pavadinimo pabaigoje kaip tekstą, iš anksto užpildytą virtualioje klaviatūroje, kad būtų lengviau įvesti pasirinkus grupę."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Galite nustatyti, kas bus naudojama grupės pasirinkimui – pavadinimo pradžia, pavadinimo pabaiga ar pavadinime yra."
+

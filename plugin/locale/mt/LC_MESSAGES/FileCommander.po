@@ -1,0 +1,1050 @@
+# mt translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: mt <ekekaz@gmail.com>\n"
+"Language: mt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- fajl jeżisti! Ikteb mill-ġdid"
+
+msgid "- folder exist! Overwrite"
+msgstr "- folder jeżistu! Ikteb mill-ġdid"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(Selectmode)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\nparametru fakultattiv:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - żbalji ta' estrazzjoni."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s huwa protett bil-password."
+
+msgid "%s successfully extracted."
+msgstr "%s estratt b'suċċess."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<Riċevitur>"
+
+msgid "Accessed:"
+msgstr "Aċċessat:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "Attiva l-lista tal-fajls tax-xellug bħala sors ta' għażla multipla"
+
+msgid "Activate left-hand file list as source"
+msgstr "Attiva l-lista tal-fajls tax-xellug bħala sors"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "Attiva l-lista tal-fajls tal-lemin bħala sors b'għażla multipla"
+
+msgid "Activate right-hand file list as source"
+msgstr "Attiva l-lista tal-fajls tal-lemin bħala sors"
+
+msgid "Add current folder to bookmarks"
+msgstr "Żid folder kurrenti mal-bookmarks"
+
+msgid "Add plugin to Extensions menu"
+msgstr "Żid il-plugin fil-menu tal-Estensjonijiet"
+
+msgid "Add plugin to main menu"
+msgstr "Żid plugin fil-menu prinċipali"
+
+msgid "Add selected folder to bookmarks"
+msgstr "Żid folder magħżul mal-bookmarks"
+
+msgid "Add to selection (%s)"
+msgstr "Żid mal-għażla (%s)"
+
+msgid "All"
+msgstr "Kollha"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "Il-fajls kollha fid-direttorju bl-istess isem bħall-film magħżul se jiġu kkupjati jew imċaqalqa wkoll."
+
+msgid "All movie extensions"
+msgstr "L-estensjonijiet kollha tal-films"
+
+msgid "B"
+msgstr "B"
+
+msgid "Block device"
+msgstr "Apparat tal-blokk"
+
+msgid "Calculate file checksums"
+msgstr "Ikkalkula checksums tal-fajls"
+
+msgid "Calculates file checksums."
+msgstr "Jikkalkula checksums tal-fajls."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "Ma tistax taħdem %s: %s.\n%s jista' jkun f'plugin li mhux installat."
+
+msgid "Cancel"
+msgstr "Ikkanċella"
+
+msgid "Cancel execution?"
+msgstr "Ikkanċella l-eżekuzzjoni?"
+
+msgid "Cannot create target directory."
+msgstr "Ma tistax toħloq direttorju fil-mira."
+
+msgid "Cannot open image. Open as text?"
+msgstr "Ma tistax tiftaħ immaġini. Miftuħ bħala test?"
+
+msgid "Cannot play file."
+msgstr "Ma tistax tilgħab fajl."
+
+msgid "Cannot read file: %s"
+msgstr "Ma jistax jaqra l-fajl: %s"
+
+msgid "case insensitive"
+msgstr "insensittiv għall-każ"
+
+msgid "case sensitive"
+msgstr "sensittiv għall-każ"
+
+msgid "Case sensitive search"
+msgstr "Tiftix sensittiv għall-każ"
+
+msgid "Change buttons for list navigation"
+msgstr "Ibdel il-buttuni għan-navigazzjoni tal-lista"
+
+msgid "Change execute permissions (755/644)"
+msgstr "Bidla l-permessi ta' eżekuzzjoni (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "Il-buttuna tal-kanal dejjem tbiddel in-naħat"
+
+msgid "Character device"
+msgstr "Apparat tal-karattru"
+
+msgid "Close"
+msgstr "Agħlaq"
+
+msgid "Compare case sensitive"
+msgstr "Qabbel każ sensittiv"
+
+msgid "contains in title"
+msgstr "fih fit-titolu"
+
+msgid "contains..."
+msgstr "fih..."
+
+msgid "Content size:"
+msgstr "Daqs tal-kontenut:"
+
+msgid "Copy"
+msgstr "Kopja"
+
+msgid "copy file"
+msgstr "kopja tal-fajl"
+
+msgid "Copy file"
+msgstr "Ikkopja l-fajl"
+
+msgid "Copy file/directory to target directory"
+msgstr "Ikkopja fajl/direttorju fid-direttorju fil-mira"
+
+msgid "Copy files/directories to target directory"
+msgstr "Ikkopja fajls/direttorji fid-direttorju fil-mira"
+
+msgid "copy folder"
+msgstr "kopja folder"
+
+msgid "Copy folder"
+msgstr "Kopja folder"
+
+msgid "Count directory content size"
+msgstr "Għadd id-daqs tal-kontenut tad-direttorju"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "L-għadd tad-daqs tal-kontenut tad-direttorju waqt il-mixi (mixgħul/mitfi)"
+
+msgid "CPU priority for script execution"
+msgstr "Prijorità tas-CPU għall-eżekuzzjoni tal-iskript"
+
+msgid "Create directory"
+msgstr "Oħloq direttorju"
+
+msgid "create symlink ..."
+msgstr "oħloq symlink..."
+
+msgid "Create symlink to file"
+msgstr "Oħloq symlink għall-fajl"
+
+msgid "Create user-named symbolic link"
+msgstr "Oħloq rabta simbolika msemmija mill-utent"
+
+msgid "d"
+msgstr "d"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Date reverse"
+msgstr "Id-data b'lura"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Prijorità default tas-CPU (sbieħ) għal skripts esegwiti. Dan jista 'jnaqqas it-tagħbija sabiex l-iskripts ma jinterferixxux mal-bqija tas-sistema. (valuri ogħla = prijorità aktar baxxa)"
+
+msgid "Default directory sorting"
+msgstr "Issortjar tad-direttorju default"
+
+msgid "Default file sorting left"
+msgstr "L-għażla tal-fajls default xellug"
+
+msgid "Default file sorting right"
+msgstr "Id-dritt tal-issortjar tal-fajls default"
+
+msgid "Default folder"
+msgstr "Folder default"
+
+msgid "Default Folder"
+msgstr "Folder Default"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "Prijorità I/O default (ionice) għal skripts esegwiti. Dan jista 'jnaqqas it-tagħbija sabiex l-iskripts ma jinterferixxux mal-bqija tas-sistema. (valuri ogħla = prijorità aktar baxxa)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "Metodu ta' għażla default għad-direttorji fiż-żewġ pannelli (biex jiġu applikati l-bidliet FileCommander għandu jerġa' jinbeda)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "Metodu ta 'għażla default għall-fajls fil-pannell tax-xellug."
+
+msgid "Default sorting method for files in right panel."
+msgstr "Metodu ta 'għażla default għall-fajls fil-pannell tal-lemin."
+
+msgid "Delete"
+msgstr "Ħassar"
+
+msgid "Delete current line"
+msgstr "Ħassar il-linja kurrenti"
+
+msgid "Delete file"
+msgstr "Ħassar il-fajl"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "Ħassar il-fajl jew id-direttorju (u l-kontenut kollu tiegħu)"
+
+msgid "Delete folder"
+msgstr "Ħassar folder"
+
+msgid "Delete the selected files or directories"
+msgstr "Ħassar il-fajls jew direttorji magħżula"
+
+msgid "Deselect All"
+msgstr "Agħżel Kollha"
+
+msgid "Deselect group"
+msgstr "Agħżel il-grupp"
+
+msgid "Deselect group..."
+msgstr "Agħżel il-grupp..."
+
+msgid "Directories to group selections"
+msgstr "Direttorji għal selezzjonijiet tal-grupp"
+
+msgid "Directory"
+msgstr "Direttorju"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "Direttorju ma jistax jinħoloq hawn fuq\n<Lista ta' Apparati ta' Ħażna> jew <Riċevitur>.\nMexxi s-selettur linja waħda taħt jew ibdel id-direttorju."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "Uri l-ismijiet tal-fajls fl-header. Huwa utli għall-ismijiet tal-fajls li huma twal wisq."
+
+msgid "Do you want change rights?\n"
+msgstr "Trid drittijiet tal-bidla? \n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "Trid tara jew tmexxi l-iskript?\n"
+
+msgid "Edit"
+msgstr "Editja"
+
+msgid "Edit current line"
+msgstr "Edit linja kurrenti"
+
+msgid "Edit line"
+msgstr "Edit linja"
+
+msgid "Edit new file"
+msgstr "Editja fajl ġdid"
+
+msgid "Edit position is the line end"
+msgstr "Editja l-pożizzjoni hija t-tarf tal-linja"
+
+msgid "end title"
+msgstr "titolu tat-tmiem"
+
+msgid "ends with..."
+msgstr "jispiċċa bi..."
+
+msgid "Enter multi-file selection mode"
+msgstr "Daħħal il-mod ta 'għażla ta' fajls multipli"
+
+msgid "Error"
+msgstr "Żball"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "Żball fil-ħolqien tad-direttorju %s:\n%s"
+
+msgid "Error creating file %s:\n%s"
+msgstr "Żball fil-ħolqien tal-fajl %s:\n%s"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "Żball li torbot %s ma' %s:\n%s"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "Żball billi tibdel l-isem ta' %s għal %s:\n%s"
+
+msgid "Error saving: %s"
+msgstr "Żball fl-iffrankar: %s"
+
+msgid "Error..."
+msgstr "Żball..."
+
+msgid "Execution finished!!"
+msgstr "Eżekuzzjoni lesta!!"
+
+msgid "Execution progress\n\n"
+msgstr "Progress ta' eżekuzzjoni\n\n"
+
+msgid "Exit"
+msgstr "Ħruġ"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "Ħruġ l-editur u ikteb il-bidliet (jekk hemm)"
+
+msgid "Exit movie player?"
+msgstr "Ħruġ tal-plejer tal-films?"
+
+msgid "Exit picture viewer"
+msgstr "Ħruġ telespettatur tal-istampa"
+
+msgid "Extract archive to %s?"
+msgstr "Estratt arkivju għal %s?"
+
+msgid "Extracting..."
+msgstr "L-estrazzjoni..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "Il-fajl ma jistax jinħoloq fuq\n<Lista ta' Apparati ta' Ħażna> jew <Riċevitur>.\nIbdel id-direttorju, jekk jogħġbok."
+
+msgid "File checksums/hashes"
+msgstr "Fajl checksums/hashes"
+
+msgid "File Commander"
+msgstr "File Kmandant"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "File Commander - Addon File-Viewer"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "File Commander - Settings Addon File-Viewer"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "File Commander - Addon Mediaplayer"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "File Commander - Addon Movieplayer"
+
+msgid "File Commander - generalised archive handler"
+msgstr "File Commander - ġeneralizzat arkivju handler"
+
+msgid "File Commander - gzip Addon"
+msgstr "File Commander - gzip Addon"
+
+msgid "File Commander - ipk Addon"
+msgstr "File Commander - ipk Addon"
+
+msgid "File Commander - tar Addon"
+msgstr "File Commander - tar Addon"
+
+msgid "File Commander - unrar Addon"
+msgstr "File Commander - unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "File Commander - unzip Addon"
+
+msgid "File not found: %s"
+msgstr "Fajl mhux misjub: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "Fajl kbir wisq biex jinfetaħ bħala test (mass 1MB)."
+
+msgid "File too large to open as text."
+msgstr "Fajl kbir wisq biex jinfetaħ bħala test."
+
+msgid "File transfer was cancelled by user"
+msgstr "It-trasferiment tal-fajl ġie kkanċellat mill-utent"
+
+msgid "File/Directory Status Information"
+msgstr "Informazzjoni dwar l-Istatus tal-Fajl/Direttorju"
+
+msgid "Filenames in header"
+msgstr "Ismijiet tal-fajls fl-header"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "L-estensjoni tal-filtru, (*) tidher fit-titlu"
+
+msgid "Filter visible file classes by extension."
+msgstr "Iffiltra l-klassijiet tal-fajls viżibbli skont l-estensjoni."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "għal TELF JEW ĦSARA DATA !!!"
+
+msgid "from dir"
+msgstr "minn dir"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Go to bookmarked folder"
+msgstr "Mur fil-folder immarkat"
+
+msgid "Go to default directory"
+msgstr "Mur fid-direttorju default"
+
+msgid "Go to end of file"
+msgstr "Mur fl-aħħar tal-fajl"
+
+msgid "Go to parent directory"
+msgstr "Mur fid-direttorju tal-ġenituri"
+
+msgid "Go to start of file"
+msgstr "Mur fil-bidu tal-fajl"
+
+msgid "Group:"
+msgstr "Grupp:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "inbidel! Trid issalvaha?"
+
+msgid "Hide/Show"
+msgstr "Aħbi/Uri"
+
+msgid "I/O priority for script execution"
+msgstr "Prijorità I/O għall-eżekuzzjoni tal-iskript"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "Jekk teditja fajl, tista' tissettja l-pożizzjoni tal-bidu tal-cursor fl-aħħar jew fil-bidu tal-linja."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "Fil-modalità ta 'għażla multipla jċaqlaq il-cursor għall-oġġett li jmiss wara l-immarkar."
+
+msgid "Inode:"
+msgstr "Inode:"
+
+msgid "Insert"
+msgstr "Daħħal"
+
+msgid "Insert line before current line"
+msgstr "Daħħal il-linja qabel il-linja kurrenti"
+
+msgid "Install"
+msgstr "Installa"
+
+msgid "install/unpack ipk Files"
+msgstr "installa/unpack Fajls ipk"
+
+msgid "Installing Plugin ..."
+msgstr "Installazzjoni tal-Plugin..."
+
+msgid "Invert selection"
+msgstr "Aqleb l-għażla"
+
+msgid "Invert Selection"
+msgstr "Aqleb Għażla"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "Mhux possibbli li tikkalkula l-hashes fuq <Lista ta' Apparati ta' Ħażna>"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "Mhux possibbli li tinbidel il-mod tal-fajl ta' <Lista ta' Apparati ta' Ħażna>"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "Mhux possibbli li tikseb l-istatus tal-fajl ta' <Lista ta' Apparati ta' Ħażna>"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Leave File Commander"
+msgstr "Ħalli File Commander"
+
+msgid "Leave multi-select mode"
+msgstr "Ħalli l-modalità multi-select"
+
+msgid "Link target:"
+msgstr "Link mira:"
+
+msgid "Links:"
+msgstr "Links:"
+
+msgid "List of Storage Devices"
+msgstr "Lista ta' Apparati ta' Ħażna"
+
+msgid "Load"
+msgstr "Tagħbija"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "Agħmel FileCommander aċċessibbli mill-menu Estensjonijiet."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "Agħmel FileCommander aċċessibbli mill-menu prinċipali."
+
+msgid "manage local Files"
+msgstr "jimmaniġġjaw Fajls lokali"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MENU"
+msgstr "MENU"
+
+msgid "Menu..."
+msgstr "Menu..."
+
+msgid "Metadata changed:"
+msgstr "Metadata mibdula:"
+
+msgid "Mode %s (%04o)"
+msgstr "Modalità %s (%04o)"
+
+msgid "Modified:"
+msgstr "Modifikat:"
+
+msgid "Move"
+msgstr "Nimxu"
+
+msgid "Move down list"
+msgstr "Nimxu 'l isfel lista"
+
+msgid "move file"
+msgstr "ċaqlaq il-fajl"
+
+msgid "Move file"
+msgstr "Ċaqlaq il-fajl"
+
+msgid "Move file/directory to target directory"
+msgstr "Mexxi fajl/direttorju lejn id-direttorju fil-mira"
+
+msgid "Move files/directories to target directory"
+msgstr "Mexxi fajls/direttorji lejn id-direttorju fil-mira"
+
+msgid "move folder"
+msgstr "jimxu folder"
+
+msgid "Move folder"
+msgstr "Mexxi folder"
+
+msgid "Move selector to next item"
+msgstr "Mexxi selettur għall-oġġett li jmiss"
+
+msgid "Move selector to next item (on/off)"
+msgstr "Mexxi selettur għall-oġġett li jmiss (mixgħul/mitfi)"
+
+msgid "Move up list"
+msgstr "Nimxu 'l fuq fil-lista"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "MultiSelection Settings"
+msgstr "Settings MultiSelection"
+
+msgid "Music"
+msgstr "Mużika"
+
+msgid "My extension"
+msgstr "L-estensjoni tiegħi"
+
+msgid "My Extension"
+msgstr "L-estensjoni tiegħi"
+
+msgid "n"
+msgstr "n"
+
+msgid "Name"
+msgstr "Isem"
+
+msgid "Name reverse"
+msgstr "Isem bil-maqlub"
+
+msgid "New folder"
+msgstr "Folder ġdid"
+
+msgid "New symlink"
+msgstr "Simlink ġdid"
+
+msgid "new.txt"
+msgstr "ġdid.txt"
+
+msgid "No"
+msgstr "Nru"
+
+msgid "No files found."
+msgstr "Ma nstab l-ebda fajl."
+
+msgid "No hash calculations configured"
+msgstr "Ebda kalkoli tal-hash konfigurati"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "L-ebda wieħed mill-programmi hash għall-hashes %s mhu disponibbli"
+
+msgid "Not allowed with folders"
+msgstr "Mhux permess bil-folders"
+
+msgid "nothing connected"
+msgstr "xejn konness"
+
+msgid "Number of lines in script messages"
+msgstr "Numru ta' linji f'messaġġi b'kitba"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On device:"
+msgstr "Fuq l-apparat:"
+
+msgid "Open"
+msgstr "Miftuħa"
+
+msgid "Open actions menu"
+msgstr "Iftaħ il-menu tal-azzjonijiet"
+
+msgid "Open settings/actions menu"
+msgstr "Iftaħ il-menu tas-settings/azzjonijiet"
+
+msgid "Open with File Commander"
+msgstr "Iftaħ bil File Commander"
+
+msgid "or save the picture additionally to a file"
+msgstr "jew issalva l-istampa addizzjonalment f'fajl"
+
+msgid "Original subtitles codepage"
+msgstr "Codepage oriġinali tas-sottotitoli"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "Codepage tas-sottotitli oriġinali għall-konverżjoni għal UTF-8."
+
+msgid "Original:"
+msgstr "Oriġinali:"
+
+msgid "Owner:"
+msgstr "Sid:"
+
+msgid "Page down list"
+msgstr "Lista paġna 'l isfel"
+
+msgid "Page up list"
+msgstr "Page up lista"
+
+msgid "Parent Directory"
+msgstr "Direttorju tal-Ġenituri"
+
+msgid "Permissions:"
+msgstr "Permessi:"
+
+msgid "Pictures"
+msgstr "Stampi"
+
+msgid "play Files"
+msgstr "play Fajls"
+
+msgid "Play folder"
+msgstr "Play folder"
+
+msgid "Play title"
+msgstr "Play titolu"
+
+msgid "play/show Files"
+msgstr "play/show Fajls"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "Play/view/edit/install/extract/run file jew daħħal fid-direttorju"
+
+msgid "Please enter file/folder name"
+msgstr "Jekk jogħġbok daħħal l-isem tal-fajl/folder"
+
+msgid "Please enter name of the new directory"
+msgstr "Jekk jogħġbok daħħal l-isem tad-direttorju l-ġdid"
+
+msgid "Please enter name of the new symlink"
+msgstr "Jekk jogħġbok daħħal l-isem tas-simbolu l-ġdid"
+
+msgid "Please enter password"
+msgstr "Jekk jogħġbok daħħal il-password"
+
+msgid "Please enter the new directory name"
+msgstr "Jekk jogħġbok daħħal l-isem tad-direttorju l-ġdid"
+
+msgid "Please enter the new file name"
+msgstr "Jekk jogħġbok daħħal l-isem il-ġdid tal-fajl"
+
+msgid "Please wait, Loading image."
+msgstr "Jekk jogħġbok stenna, Tagħbija l-immaġni."
+
+msgid "Press OK or Exit to abort!"
+msgstr "Agħfas OK jew Ħruġ biex tabort!"
+
+msgid "python"
+msgstr "python"
+
+msgid "Records"
+msgstr "Rekords"
+
+msgid "Refresh screen"
+msgstr "Aġġorna l-iskrin"
+
+msgid "Regular file"
+msgstr "Fajl regolari"
+
+msgid "Remove current folder from bookmarks"
+msgstr "Neħħi l-folder attwali mill-bookmarks"
+
+msgid "Remove from selection (%s)"
+msgstr "Neħħi mill-għażla (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "Neħħi folder magħżul mill-bookmarks"
+
+msgid "Rename"
+msgstr "Semmi mill-ġdid"
+
+msgid "Rename file"
+msgstr "Semmi mill-ġdid il-fajl"
+
+msgid "Rename file/directory"
+msgstr "Semmi mill-ġdid il-fajl/direttorju"
+
+msgid "Restart"
+msgstr "Ibda mill-ġdid"
+
+msgid "Reverse left file sorting"
+msgstr "Issortjar tal-fajls tax-xellug b'lura"
+
+msgid "Reverse right file sorting"
+msgstr "Issortjar tal-fajl b'lura dritt"
+
+msgid "Run script"
+msgstr "Mexxi l-iskrittura"
+
+msgid "Run script in background"
+msgstr "Mexxi l-iskrittura fl-isfond"
+
+msgid "Run script with optional parameter"
+msgstr "Mexxi script b'parametru fakultattiv"
+
+msgid "Run script with optional parameter in background"
+msgstr "Mexxi script b'parametru fakultattiv fl-isfond"
+
+msgid "s"
+msgstr "s"
+
+msgid "Save cursor position"
+msgstr "Issejvja l-pożizzjoni tal-cursor"
+
+msgid "Save cursor position in active panel."
+msgstr "Issejvja l-pożizzjoni tal-cursor fil-pannell attiv."
+
+msgid "Save left folder on exit"
+msgstr "Issejvja l-folder tax-xellug mal-ħruġ"
+
+msgid "Save right folder on exit"
+msgstr "Ħlief folder dritt mal-ħruġ"
+
+msgid "Save the left directory list location on exit."
+msgstr "Issejvja l-post tal-lista tad-direttorju tax-xellug mal-ħruġ."
+
+msgid "Save the right folder list location on exit."
+msgstr "Issejvja l-post tal-lista tal-folders it-tajjeb mal-ħruġ."
+
+msgid "Search in group selection by"
+msgstr "Fittex fl-għażla tal-grupp minn"
+
+msgid "Search text"
+msgstr "Fittex test"
+
+msgid "Search text (%s):"
+msgstr "Fittex it-test (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "Fittex it-test fil-fajl (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "Agħżel (lista tas-sors) jew daħħal id-direttorju (lista tal-mira)"
+
+msgid "Select a path"
+msgstr "Agħżel mogħdija"
+
+msgid "Select action:"
+msgstr "Agħżel azzjoni:"
+
+msgid "Select All"
+msgstr "Agħżel Kollha"
+
+msgid "Select group"
+msgstr "Agħżel il-grupp"
+
+msgid "Select group..."
+msgstr "Agħżel il-grupp..."
+
+msgid "Select operation:"
+msgstr "Agħżel l-operazzjoni:"
+
+msgid "Select your personal settings:"
+msgstr "Agħżel is-settings personali tiegħek:"
+
+msgid "Set archive mode (644)"
+msgstr "Issettja l-mod tal-arkivju (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Issettja l-mod eżekutibbli (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "Issettja jekk tiddistingwix bejn il-majju u l-ittri għat-tiftix."
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Settings..."
+msgstr "Settings..."
+
+msgid "shell"
+msgstr "qoxra"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "Uri bħala Stampa (agħfas kwalunkwe ċavetta biex tagħlaq)"
+
+msgid "Show contents of ipk file"
+msgstr "Uri l-kontenut tal-fajl ipk"
+
+msgid "Show contents of rar file"
+msgstr "Uri l-kontenut tal-fajl rar"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "Uri kontenut tal-qatran jew fajl tal-qatran kompressat"
+
+msgid "Show contents of zip file"
+msgstr "Uri l-kontenut tal-fajl zip"
+
+msgid "Show directories first"
+msgstr "Uri direttorji l-ewwel"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "Uri direttorji fuq l-ewwel jew l-aħħar pożizzjonijiet fil-panel (biex jiġu applikati l-bidliet FileCommander għandu jerġa' jinbeda)."
+
+msgid "Show image information"
+msgstr "Uri informazzjoni dwar l-immaġni"
+
+msgid "Show next picture"
+msgstr "Uri l-istampa li jmiss"
+
+msgid "Show previous picture"
+msgstr "Uri stampa preċedenti"
+
+msgid "Show Script completed message"
+msgstr "Uri l-iskript lest messaġġ"
+
+msgid "Show task list"
+msgstr "Uri l-lista tal-kompiti"
+
+msgid "Show unknown extension as text"
+msgstr "Uri estensjoni mhux magħrufa bħala test"
+
+msgid "Size"
+msgstr "Daqs"
+
+msgid "Size reverse"
+msgstr "Daqs b'lura"
+
+msgid "Size:"
+msgstr "Daqs:"
+
+msgid "Socket"
+msgstr "Sokit"
+
+msgid "Sorting left files by name, date or size"
+msgstr "Issortjar fajls xellug bl-isem, id-data jew id-daqs"
+
+msgid "Sorting right files by name, date or size"
+msgstr "Issortjar fajls dritt skond l-isem, id-data jew id-daqs"
+
+msgid "start title"
+msgstr "tibda titolu"
+
+msgid "Start/stop slide show"
+msgstr "Ibda/waqfien slide show"
+
+msgid "starts with..."
+msgstr "jibda bi..."
+
+msgid "Storage devices"
+msgstr "Apparati tal-ħażna"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "Swap buttuni għall-issortjar ta 'fajls b'lura"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "Swap buttuni lemin/xellug mal-kanal +/- jew il-buttuna kanal mibdula dejjem in-naħa."
+
+msgid "Symbolic link"
+msgstr "Rabta simbolika"
+
+msgid "Symlink to"
+msgstr "Symlink għal"
+
+msgid "Task list"
+msgstr "Lista tal-kompiti"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Text not found."
+msgstr "Test mhux misjub."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "Tfittix ta' test bħala sensittiv għall-każ jew mhux sensittiv għall-każ."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "L-awturi MHUX RESPONSABBLI"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "Il-komponent Image Viewer tal-File Commander jeħtieġ l-estensjoni PicturePlayer. Installa PicturePlayer biex tippermetti din l-operazzjoni."
+
+msgid "This line is not editable!"
+msgstr "Din il-linja mhix editable!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "Ħin bejn is-slajds fil-wiri ta' l-immaġni tat-telespettatur."
+
+msgid "Time for Slideshow"
+msgstr "Ħin għal Wirja"
+
+msgid "to dir"
+msgstr "to dir"
+
+msgid "To next found text"
+msgstr "Għat-test misjub li jmiss"
+
+msgid "To previous found text"
+msgstr "Għal test misjub preċedenti"
+
+msgid "Type the name for the new file"
+msgstr "Ittajpja l-isem għall-fajl il-ġdid"
+
+msgid "Type:"
+msgstr "Tip:"
+
+msgid "Unknown"
+msgstr "Mhux magħruf"
+
+msgid "Unknown file type. Open as text?"
+msgstr "Tip ta' fajl mhux magħruf. Miftuħ bħala test?"
+
+msgid "Unknown group: %d"
+msgstr "Grupp mhux magħruf: %d"
+
+msgid "Unknown user: %d"
+msgstr "Utent mhux magħruf: %d"
+
+msgid "unpack archives"
+msgstr "iħoll l-arkivji"
+
+msgid "unpack gzip Files"
+msgstr "unpack gzip Files"
+
+msgid "unpack Rar Files"
+msgstr "unpack Rar Files"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "unpack qatran/qatran kompressat Fajls"
+
+msgid "Unpack to %s"
+msgstr "Spakkja għal %s"
+
+msgid "Unpack to current folder"
+msgstr "Spakkja fil-folder attwali"
+
+msgid "unpack zip Files"
+msgstr "unpack zip Fajls"
+
+msgid "Unsupported archive type."
+msgstr "Tip ta' arkivju mhux appoġġjat."
+
+msgid "v"
+msgstr "v"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "Ara jew editja l-fajl (jekk id-daqs < 1MB)"
+
+msgid "View or edit this %s script"
+msgstr "Ara jew editja din l-iskrittura %s"
+
+msgid "WARNING!"
+msgstr "TWISSIJA!"
+
+msgid "What do you want to play?\n"
+msgstr "Xi trid tilgħab?\n"
+
+msgid "without"
+msgstr "mingħajr"
+
+msgid "Yes"
+msgstr "Iva"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Tista 'tissettja n-numru ta' ittri mill-bidu tal-isem tal-fajl kurrenti bħala t-test mimli minn qabel f'tastiera virtwali għal input aktar faċli permezz tal-għażla tal-grupp."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "Tista 'tissettja n-numru ta' ittri mit-tmiem tal-isem tal-fajl kurrenti bħala t-test mimli minn qabel f'tastiera virtwali għal input aktar faċli permezz tal-għażla tal-grupp."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "Tista' tissettja x'se tuża l-għażla tal-grupp - bidu tat-titolu, tmiem tat-titolu jew fih it-titlu."
+

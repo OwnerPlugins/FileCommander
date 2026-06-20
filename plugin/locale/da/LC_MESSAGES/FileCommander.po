@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "Vejviser"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "Directory kan ikke oprettes her på\n<Liste over lagerenheder> eller <Modtager>.\nFlyt vælgeren en linje nedenunder, eller skift mappe."
+msgstr "Directory kan ikke oprettes her på \n<List of Storage Devices> eller <Receiver>.\nFlyt vælgeren en linje under, eller skift mappe."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Vis filnavne i overskriften. Det er nyttigt til filnavne, der er for lange."
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "Filen kan ikke oprettes på\n<Liste over lagerenheder> eller <Modtager>.\nSkift bibliotek, tak."
+msgstr "Filen kan ikke oprettes på \n<List of Storage Devices> eller <Receiver>.\nSkift bibliotek, tak."
 
 msgid "File checksums/hashes"
 msgstr "Fil kontrolsummer/hashes"

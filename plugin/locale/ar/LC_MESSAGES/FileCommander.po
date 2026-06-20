@@ -119,7 +119,7 @@ msgid "Calculates file checksums."
 msgstr "يحسب المجاميع الاختبارية للملف."
 
 msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
-msgstr "لا يمكن تشغيل %s: %s.\n%s قد يكون موجوداً في مكون إضافي غير مثبت."
+msgstr "لا يمكن تشغيل %s: قد يكون %s.\n%s موجودًا في مكون إضافي غير مثبت."
 
 msgid "Cancel"
 msgstr "يلغي"
@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "دليل"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "لا يمكن إنشاء الدليل هنا على\n<قائمة أجهزة التخزين> أو <المستقبل>.\nحرك المحدد سطراً واحداً أدناه أو قم بتغيير الدليل."
+msgstr "لا يمكن إنشاء الدليل هنا على \n<List of Storage Devices> أو <Receiver>.\nحرك المحدد سطرًا واحدًا أدناه أو قم بتغيير الدليل."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "عرض أسماء الملفات في الرأس. إنه مفيد لأسماء الملفات الطويلة جدًا."
@@ -332,7 +332,7 @@ msgid "Error creating directory %s:\n%s"
 msgstr "خطأ في إنشاء الدليل %s:\n%s"
 
 msgid "Error creating file %s:\n%s"
-msgstr "خطأ في إنشاء الملف %s:\n%s"
+msgstr "حدث خطأ أثناء إنشاء الملف %s:\n%s"
 
 msgid "Error linking %s to %s:\n%s"
 msgstr "خطأ في ربط %s بـ %s:\n%s"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "يصرف أولاً"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "لا يمكن إنشاء الملف على\n<قائمة أجهزة التخزين> أو <المستقبل>.\nيرجى تغيير الدليل."
+msgstr "لا يمكن إنشاء الملف على \n<List of Storage Devices> أو <Receiver>.\nقم بتغيير الدليل، من فضلك."
 
 msgid "File checksums/hashes"
 msgstr "المجموع الاختباري/التجزئة للملف"
@@ -731,7 +731,7 @@ msgid "Please wait, Loading image."
 msgstr "يرجى الانتظار، جارٍ تحميل الصورة."
 
 msgid "Press OK or Exit to abort!"
-msgstr "اضغط على "موافق" أو "خروج" للإجهاض!"
+msgstr "اضغط على \\\\"موافق\\\\" أو \\\\"خروج\\\\" للإجهاض!"
 
 msgid "python"
 msgstr "بيثون"

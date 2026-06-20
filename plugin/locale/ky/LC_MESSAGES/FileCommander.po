@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\кошумча параметр:\n%s"
+msgstr "\nкошумча параметр:\n%s"
 
 msgid "%d GB"
 msgstr "%d ГБ"
@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "Directory"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "Каталогду бул жерде\n<Сактагыч түзмөктөрдүн тизмеси> же <Алуучу> боюнча түзүү мүмкүн эмес.\nСелекторду бир сап ылдый жылдырыңыз же каталогду өзгөртүңүз."
+msgstr "Каталог бул жерде \n<Сактагыч түзүлүштөрдүн тизмеси> же <Алуучу> түзүлбөйт.\nСелекторду бир сап ылдый жылдырыңыз же каталогду өзгөртүңүз."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Файлдын аталыштарын темада көрсөтүү. Бул өтө узун файл аттары үчүн пайдалуу."
@@ -332,7 +332,7 @@ msgid "Error creating directory %s:\n%s"
 msgstr "%s каталогун түзүү катасы:\n%s"
 
 msgid "Error creating file %s:\n%s"
-msgstr "%s файлын түзүү катасы:\n%s"
+msgstr "%s:\n%s файлын түзүү катасы"
 
 msgid "Error linking %s to %s:\n%s"
 msgstr "%s менен %s байланыштырууда ката кетти:\n%s"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "Файлды\n<Сактоо түзмөктөрүнүн тизмеси> же <Алуучу>да түзүү мүмкүн эмес.\nКаталогду өзгөртүңүз."
+msgstr "Файлды \n<Сактагыч түзүлүштөрдүн тизмеси> же <Алуучу> түзүүгө болбойт.\nКаталогду өзгөртүңүз."
 
 msgid "File checksums/hashes"
 msgstr "Файлдын текшерүү суммасы/хэштери"
@@ -1031,7 +1031,7 @@ msgid "WARNING!"
 msgstr "ЭСКЕРТҮҮ!"
 
 msgid "What do you want to play?\n"
-msgstr "Эмне ойногуңуз келет?\n"
+msgstr "Эмнени ойногуңуз келет?\n"
 
 msgid "without"
 msgstr "жок"

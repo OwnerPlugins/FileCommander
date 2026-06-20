@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\Parametreya bijartî:\n%s"
+msgstr "\nParametreya vebijarkî:\n%s"
 
 msgid "%d GB"
 msgstr "%d GB"
@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "Directory"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "Li vir li ser\n<Lîsteya Amûrên hilanînê> an <Receiver>-yê pelrêçek çênabe.\nHelbijêrker yek rêzek li jêr bigerin an pelrêça biguherînin."
+msgstr "Li vir yek\n<Lîsteya Amûrên hilanînê> an <Receiver> pelrêç nayê afirandin.\n Hilbijêrê yek rêzek li jêr bigerîne an pelrêça biguherîne."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Navên pelan di serî de nîşan bidin. Ew ji bo navên pelên ku pir dirêj in bikêr e."
@@ -329,7 +329,7 @@ msgid "Error"
 msgstr "Şaşî"
 
 msgid "Error creating directory %s:\n%s"
-msgstr "Di afirandina pelrêça %s de çewtî:\n%s"
+msgstr "Di afirandina pelrêça %s:\n%s de çewtî"
 
 msgid "Error creating file %s:\n%s"
 msgstr "Di afirandina pelê %s de çewtî:\n%s"
@@ -350,7 +350,7 @@ msgid "Execution finished!!"
 msgstr "Îdam qediya!!"
 
 msgid "Execution progress\n\n"
-msgstr "Pêşveçûna înfazê\n\n"
+msgstr "Pêşveçûna darvekirinê\n\n"
 
 msgid "Exit"
 msgstr "Derî"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "Dosya li ser\n<Lîsteya Amûrên hilanînê> an <Rêgir> nayê çêkirin.\nJi kerema xwe re pelrêça biguherînin."
+msgstr "Pelê li ser\n<Lîsteya Amûrên Veşartinê> an <Receiver> nayê afirandin.\nPerçetoyê biguherîne, ji kerema xwe."
 
 msgid "File checksums/hashes"
 msgstr "Kontrolên pelan / haş"
@@ -1031,7 +1031,7 @@ msgid "WARNING!"
 msgstr "GAZÎ!"
 
 msgid "What do you want to play?\n"
-msgstr "Tu dixwazî ​​çi bileyzî?\n"
+msgstr "Hûn dixwazin çi bilîzin?\n"
 
 msgid "without"
 msgstr "bê"

@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\nParametro opzionale:\n%s"
+msgstr "\nparametro opzionale:\n%s"
 
 msgid "%d GB"
 msgstr "%dGB"

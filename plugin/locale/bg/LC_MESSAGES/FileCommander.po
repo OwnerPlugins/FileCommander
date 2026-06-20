@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\незадължителен параметър:\n%s"
+msgstr "\nнезадължителен параметър:\n%s"
 
 msgid "%d GB"
 msgstr "%d ГБ"
@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "Справочник"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "Директорията не може да бъде създадена тук на\n<Списък на устройства за съхранение> или <Приемник>.\nПреместете селектора един ред по-долу или сменете директорията."
+msgstr "Директория не може да бъде създадена тук на \n<Списък с устройства за съхранение> или <Приемник>.\nПреместете селектора един ред по-долу или променете директорията."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Показване на имената на файловете в заглавката. Полезно е за имена на файлове, които са твърде дълги."
@@ -335,7 +335,7 @@ msgid "Error creating file %s:\n%s"
 msgstr "Грешка при създаването на файл %s:\n%s"
 
 msgid "Error linking %s to %s:\n%s"
-msgstr "Грешка при свързването на %s към %s:\n%s"
+msgstr "Грешка при свързване на %s към %s:\n%s"
 
 msgid "Error renaming %s to %s:\n%s"
 msgstr "Грешка при преименуване на %s на %s:\n%s"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "Файлът не може да бъде създаден на\n<Списък на устройства за съхранение> или <Приемник>.\nПроменете директорията, моля."
+msgstr "Файлът не може да бъде създаден на \n<Списък на устройства за съхранение> или <Приемник>.\nПроменете директорията, моля."
 
 msgid "File checksums/hashes"
 msgstr "Файлови контролни суми/хешове"

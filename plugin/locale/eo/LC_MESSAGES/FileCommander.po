@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\nnevola parametro:\n%s"
+msgstr "\nlaŭvola parametro:\n%s"
 
 msgid "%d GB"
 msgstr "%d GB"
@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "Dosierujo"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "Dosierujo ne povas esti kreita ĉi tie sur\n<Listo de Stokaparatoj> aŭ <Receiver>.\nMovu elektilon unu linion sub aŭ ŝanĝu dosierujon."
+msgstr "Dosierujo ne povas esti kreita ĉi tie on\n<Listo de Stokaparatoj> aŭ <Receiver>.\nMovu elektilon unu linion sub aŭ ŝanĝu dosierujon."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Montru dosiernomojn en kaplinio. Ĝi estas utila por dosiernomoj kiuj estas tro longaj."
@@ -350,7 +350,7 @@ msgid "Execution finished!!"
 msgstr "Ekzekuto finita!!"
 
 msgid "Execution progress\n\n"
-msgstr "Ekzekuta progreso\n\n"
+msgstr "Ekzekutprogreso\n\n"
 
 msgid "Exit"
 msgstr "Eliro"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "Dosiero ne povas esti kreita sur\n<Listo de Stokaparatoj> aŭ <Receiver>.\nBonvolu ŝanĝi dosierujon."
+msgstr "Dosiero ne povas esti kreita sur\n<Listo de Stokaparatoj> aŭ <Receiver>.\nŜanĝi dosierujon, bonvolu."
 
 msgid "File checksums/hashes"
 msgstr "Dosiero ĉeksumoj/hashes"

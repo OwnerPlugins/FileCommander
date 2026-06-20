@@ -119,7 +119,7 @@ msgid "Calculates file checksums."
 msgstr "ファイルのチェックサムを計算します。"
 
 msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
-msgstr "%s を実行できません: %s。\n%s はインストールされていないプラグインに含まれている可能性があります。"
+msgstr "%s を実行できません: %s.\n%s がインストールされていないプラグインに含まれている可能性があります。"
 
 msgid "Cancel"
 msgstr "キャンセル"
@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "ディレクトリ"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "ここでは<ストレージ デバイスのリスト> または <受信機> にディレクトリを作成できません。\nセレクターを 1 行下に移動するか、ディレクトリを変更してください。"
+msgstr "\n<ストレージ デバイスのリスト> または <受信機> では、ここにディレクトリを作成できません。\n セレクタを 1 行下に移動するか、ディレクトリを変更してください。"
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "ヘッダーにファイル名を表示します。ファイル名が長すぎる場合に便利です。"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "\n<ストレージ デバイスのリスト> または <受信機> にファイルを作成できません。\nディレクトリを変更してください。"
+msgstr "\n<ストレージ デバイスのリスト> または <受信機> にファイルを作成できません。\n ディレクトリを変更してください。"
 
 msgid "File checksums/hashes"
 msgstr "ファイルのチェックサム/ハッシュ"

@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\қосымша параметр:\n%s"
+msgstr "\nқосымша параметр:\n%s"
 
 msgid "%d GB"
 msgstr "%d ГБ"
@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "Каталог"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "Каталогты осы жерде\n<Сақтау құрылғыларының тізімі> немесе <Алушы> бойынша жасау мүмкін емес.\nСелекторды бір жолға төмен жылжытыңыз немесе каталогты өзгертіңіз."
+msgstr "Каталогты бұл жерде \n<Сақтау құрылғыларының тізімі> немесе <Алушы> бойынша жасау мүмкін емес.\nСелекторды бір жолға төмен жылжытыңыз немесе каталогты өзгертіңіз."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Файл атауларын тақырыпта көрсету. Бұл тым ұзын файл атаулары үшін пайдалы."
@@ -332,13 +332,13 @@ msgid "Error creating directory %s:\n%s"
 msgstr "%s:\n%s каталогын жасау қатесі"
 
 msgid "Error creating file %s:\n%s"
-msgstr "%s файлын жасау қатесі:\n%s"
+msgstr "%s:\n%s файлын жасау қатесі"
 
 msgid "Error linking %s to %s:\n%s"
-msgstr "%s және %s:\n%s байланыстыру қатесі"
+msgstr "%s-ді %s:\n%s-ге байланыстыру қатесі"
 
 msgid "Error renaming %s to %s:\n%s"
-msgstr "%s атауын %s етіп өзгерту қатесі:\n%s"
+msgstr "%s атауын %s:\n%s етіп өзгерту қатесі"
 
 msgid "Error saving: %s"
 msgstr "Сақтау қатесі: %s"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "Файлды\n<Сақтау құрылғыларының тізімі> немесе <Қабылдағыш> бойынша жасау мүмкін емес.\nКаталогты өзгертіңіз."
+msgstr "Файлды \n<Сақтау құрылғыларының тізімі> немесе <Алушы> арқылы жасау мүмкін емес.\nКаталогты өзгертіңіз."
 
 msgid "File checksums/hashes"
 msgstr "Файл бақылау сомасы/хэштері"
@@ -554,7 +554,7 @@ msgid "Metadata changed:"
 msgstr "Метадеректер өзгертілді:"
 
 msgid "Mode %s (%04o)"
-msgstr "Режим %s (%04o)"
+msgstr "Режим %s (% 04o)"
 
 msgid "Modified:"
 msgstr "Өзгертілген:"

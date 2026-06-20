@@ -1,0 +1,1050 @@
+# ml translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ml <ekekaz@gmail.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "- file exist! Overwrite"
+msgstr "- ഫയൽ നിലവിലുണ്ട്! തിരുത്തിയെഴുതുക"
+
+msgid "- folder exist! Overwrite"
+msgstr "- ഫോൾഡർ നിലവിലുണ്ട്! തിരുത്തിയെഴുതുക"
+
+msgid "?"
+msgstr "?"
+
+msgid "(Selectmode)"
+msgstr "(സെലക്ട് മോഡ്)"
+
+msgid "[D]%s%s[F]%s%s"
+msgstr "[D]%s%s[F]%s%s"
+
+msgid "\noptional parameter:\n%s"
+msgstr "\nഓപ്ഷണൽ പാരാമീറ്റർ:\n%s"
+
+msgid "%d GB"
+msgstr "%d GB"
+
+msgid "%d kB"
+msgstr "%d kB"
+
+msgid "%d MB"
+msgstr "%d MB"
+
+msgid "%d.%m.%Y, %H:%M:%S"
+msgstr "%d.%m.%Y, %H:%M:%S"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s - extraction errors."
+msgstr "%s - എക്സ്ട്രാക്ഷൻ പിശകുകൾ."
+
+msgid "%s (%04o)"
+msgstr "%s (%04o)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s is password protected."
+msgstr "%s പാസ്‌വേഡ് പരിരക്ഷിതമാണ്."
+
+msgid "%s successfully extracted."
+msgstr "%s വിജയകരമായി എക്‌സ്‌ട്രാക്‌റ്റുചെയ്‌തു."
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "<Receiver>"
+msgstr "<സ്വീകർത്താവ്>"
+
+msgid "Accessed:"
+msgstr "ആക്സസ് ചെയ്തത്:"
+
+msgid "Activate left-hand file list as multi-select source"
+msgstr "മൾട്ടി-സെലക്ട് സോഴ്‌സ് ആയി ഇടത് കൈ ഫയൽ ലിസ്റ്റ് സജീവമാക്കുക"
+
+msgid "Activate left-hand file list as source"
+msgstr "ഉറവിടമായി ഇടതുവശത്തുള്ള ഫയൽ ലിസ്റ്റ് സജീവമാക്കുക"
+
+msgid "Activate right-hand file list as multi-select source"
+msgstr "മൾട്ടി-സെലക്ട് ഉറവിടമായി വലതുവശത്തുള്ള ഫയൽ ലിസ്റ്റ് സജീവമാക്കുക"
+
+msgid "Activate right-hand file list as source"
+msgstr "ഉറവിടമായി വലതുവശത്തുള്ള ഫയൽ ലിസ്റ്റ് സജീവമാക്കുക"
+
+msgid "Add current folder to bookmarks"
+msgstr "ബുക്ക്‌മാർക്കുകളിലേക്ക് നിലവിലെ ഫോൾഡർ ചേർക്കുക"
+
+msgid "Add plugin to Extensions menu"
+msgstr "വിപുലീകരണ മെനുവിലേക്ക് പ്ലഗിൻ ചേർക്കുക"
+
+msgid "Add plugin to main menu"
+msgstr "പ്രധാന മെനുവിലേക്ക് പ്ലഗിൻ ചേർക്കുക"
+
+msgid "Add selected folder to bookmarks"
+msgstr "ബുക്ക്‌മാർക്കുകളിലേക്ക് തിരഞ്ഞെടുത്ത ഫോൾഡർ ചേർക്കുക"
+
+msgid "Add to selection (%s)"
+msgstr "തിരഞ്ഞെടുക്കലിലേക്ക് ചേർക്കുക (%s)"
+
+msgid "All"
+msgstr "എല്ലാം"
+
+msgid "All files in the directory with the same name as the selected movie will be copied or moved too."
+msgstr "തിരഞ്ഞെടുത്ത സിനിമയുടെ അതേ പേരിലുള്ള ഡയറക്ടറിയിലെ എല്ലാ ഫയലുകളും പകർത്തുകയോ നീക്കുകയോ ചെയ്യും."
+
+msgid "All movie extensions"
+msgstr "എല്ലാ സിനിമ വിപുലീകരണങ്ങളും"
+
+msgid "B"
+msgstr "ബി"
+
+msgid "Block device"
+msgstr "ഉപകരണം തടയുക"
+
+msgid "Calculate file checksums"
+msgstr "ഫയൽ ചെക്ക്സം കണക്കാക്കുക"
+
+msgid "Calculates file checksums."
+msgstr "ഫയൽ ചെക്ക്സം കണക്കാക്കുന്നു."
+
+msgid "Can not run %s: %s.\n%s may be in a plugin that is not installed."
+msgstr "%s പ്രവർത്തിപ്പിക്കാൻ കഴിയില്ല: %s.\n%s ഇൻസ്റ്റാൾ ചെയ്യാത്ത ഒരു പ്ലഗിനിലായിരിക്കാം."
+
+msgid "Cancel"
+msgstr "റദ്ദാക്കുക"
+
+msgid "Cancel execution?"
+msgstr "നിർവ്വഹണം റദ്ദാക്കണോ?"
+
+msgid "Cannot create target directory."
+msgstr "ടാർഗെറ്റ് ഡയറക്‌ടറി സൃഷ്‌ടിക്കാനാവില്ല."
+
+msgid "Cannot open image. Open as text?"
+msgstr "ചിത്രം തുറക്കാൻ കഴിയില്ല. വാചകമായി തുറക്കണോ?"
+
+msgid "Cannot play file."
+msgstr "ഫയൽ പ്ലേ ചെയ്യാൻ കഴിയില്ല."
+
+msgid "Cannot read file: %s"
+msgstr "ഫയൽ വായിക്കാൻ കഴിയില്ല: %s"
+
+msgid "case insensitive"
+msgstr "കേസ് സെൻസിറ്റീവ്"
+
+msgid "case sensitive"
+msgstr "കേസ് സെൻസിറ്റീവ്"
+
+msgid "Case sensitive search"
+msgstr "കേസ് സെൻസിറ്റീവ് തിരയൽ"
+
+msgid "Change buttons for list navigation"
+msgstr "ലിസ്റ്റ് നാവിഗേഷനായി ബട്ടണുകൾ മാറ്റുക"
+
+msgid "Change execute permissions (755/644)"
+msgstr "എക്സിക്യൂട്ട് പെർമിഷനുകൾ മാറ്റുക (755/644)"
+
+msgid "Channel button always changes sides"
+msgstr "ചാനൽ ബട്ടൺ എപ്പോഴും വശങ്ങൾ മാറ്റുന്നു"
+
+msgid "Character device"
+msgstr "പ്രതീക ഉപകരണം"
+
+msgid "Close"
+msgstr "അടയ്ക്കുക"
+
+msgid "Compare case sensitive"
+msgstr "കേസ് സെൻസിറ്റീവ് താരതമ്യം ചെയ്യുക"
+
+msgid "contains in title"
+msgstr "ശീർഷകത്തിൽ അടങ്ങിയിരിക്കുന്നു"
+
+msgid "contains..."
+msgstr "അടങ്ങിയിരിക്കുന്നു..."
+
+msgid "Content size:"
+msgstr "ഉള്ളടക്ക വലുപ്പം:"
+
+msgid "Copy"
+msgstr "പകർത്തുക"
+
+msgid "copy file"
+msgstr "ഫയൽ പകർത്തുക"
+
+msgid "Copy file"
+msgstr "ഫയൽ പകർത്തുക"
+
+msgid "Copy file/directory to target directory"
+msgstr "ടാർഗെറ്റ് ഡയറക്‌ടറിയിലേക്ക് ഫയൽ/ഡയറക്‌ടറി പകർത്തുക"
+
+msgid "Copy files/directories to target directory"
+msgstr "ടാർഗെറ്റ് ഡയറക്‌ടറിയിലേക്ക് ഫയലുകൾ/ഡയറക്‌ടറികൾ പകർത്തുക"
+
+msgid "copy folder"
+msgstr "കോപ്പി ഫോൾഡർ"
+
+msgid "Copy folder"
+msgstr "ഫോൾഡർ പകർത്തുക"
+
+msgid "Count directory content size"
+msgstr "ഡയറക്‌ടറി ഉള്ളടക്ക വലുപ്പം എണ്ണുക"
+
+msgid "Counting directory content size while walking (on/off)"
+msgstr "നടക്കുമ്പോൾ ഡയറക്‌ടറി ഉള്ളടക്ക വലുപ്പം കണക്കാക്കുന്നു (ഓൺ/ഓഫ്)"
+
+msgid "CPU priority for script execution"
+msgstr "സ്ക്രിപ്റ്റ് എക്സിക്യൂഷനുള്ള സിപിയു മുൻഗണന"
+
+msgid "Create directory"
+msgstr "ഡയറക്ടറി സൃഷ്ടിക്കുക"
+
+msgid "create symlink ..."
+msgstr "സിംലിങ്ക് സൃഷ്‌ടിക്കുക..."
+
+msgid "Create symlink to file"
+msgstr "ഫയലിലേക്ക് സിംലിങ്ക് സൃഷ്ടിക്കുക"
+
+msgid "Create user-named symbolic link"
+msgstr "ഉപയോക്തൃനാമമുള്ള പ്രതീകാത്മക ലിങ്ക് സൃഷ്‌ടിക്കുക"
+
+msgid "d"
+msgstr "ഡി"
+
+msgid "Date"
+msgstr "തീയതി"
+
+msgid "Date reverse"
+msgstr "തീയതി വിപരീതം"
+
+msgid "Default CPU priority (nice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "എക്സിക്യൂട്ട് ചെയ്ത സ്ക്രിപ്റ്റുകൾക്ക് ഡിഫോൾട്ട് സിപിയു മുൻഗണന (നല്ലത്). സ്ക്രിപ്റ്റുകൾ സിസ്റ്റത്തിൻ്റെ ബാക്കി ഭാഗങ്ങളിൽ ഇടപെടാതിരിക്കാൻ ഇത് ലോഡ് കുറയ്ക്കും. (ഉയർന്ന മൂല്യങ്ങൾ = കുറഞ്ഞ മുൻഗണന)"
+
+msgid "Default directory sorting"
+msgstr "ഡിഫോൾട്ട് ഡയറക്ടറി അടുക്കൽ"
+
+msgid "Default file sorting left"
+msgstr "ഡിഫോൾട്ട് ഫയൽ സോർട്ടിംഗ് ഇടത്"
+
+msgid "Default file sorting right"
+msgstr "ഡിഫോൾട്ട് ഫയൽ വലത്തേക്ക് അടുക്കുന്നു"
+
+msgid "Default folder"
+msgstr "ഡിഫോൾട്ട് ഫോൾഡർ"
+
+msgid "Default Folder"
+msgstr "ഡിഫോൾട്ട് ഫോൾഡർ"
+
+msgid "Default I/O priority (ionice) for executed scripts. This can reduce the load so that scripts do not interfere with the rest of the system. (higher values = lower priority)"
+msgstr "എക്സിക്യൂട്ട് ചെയ്ത സ്ക്രിപ്റ്റുകൾക്ക് ഡിഫോൾട്ട് I/O മുൻഗണന (ionice). സ്ക്രിപ്റ്റുകൾ സിസ്റ്റത്തിൻ്റെ ബാക്കി ഭാഗങ്ങളിൽ ഇടപെടാതിരിക്കാൻ ഇത് ലോഡ് കുറയ്ക്കും. (ഉയർന്ന മൂല്യങ്ങൾ = കുറഞ്ഞ മുൻഗണന)"
+
+msgid "Default sorting method for directories in both panels (to apply the changes FileCommander must be restarted)."
+msgstr "രണ്ട് പാനലുകളിലെയും ഡയറക്‌ടറികൾക്കായി ഡിഫോൾട്ട് സോർട്ടിംഗ് രീതി (മാറ്റങ്ങൾ പ്രയോഗിക്കുന്നതിന് ഫയൽകമാൻഡർ പുനരാരംഭിക്കണം)."
+
+msgid "Default sorting method for files in left panel."
+msgstr "ഇടത് പാനലിലെ ഫയലുകൾക്കായി ഡിഫോൾട്ട് സോർട്ടിംഗ് രീതി."
+
+msgid "Default sorting method for files in right panel."
+msgstr "വലത് പാനലിലെ ഫയലുകൾക്കായി ഡിഫോൾട്ട് സോർട്ടിംഗ് രീതി."
+
+msgid "Delete"
+msgstr "ഇല്ലാതാക്കുക"
+
+msgid "Delete current line"
+msgstr "നിലവിലെ ലൈൻ ഇല്ലാതാക്കുക"
+
+msgid "Delete file"
+msgstr "ഫയൽ ഇല്ലാതാക്കുക"
+
+msgid "Delete file or directory (and all its contents)"
+msgstr "ഫയലോ ഡയറക്ടറിയോ ഇല്ലാതാക്കുക (അതിലെ എല്ലാ ഉള്ളടക്കങ്ങളും)"
+
+msgid "Delete folder"
+msgstr "ഫോൾഡർ ഇല്ലാതാക്കുക"
+
+msgid "Delete the selected files or directories"
+msgstr "തിരഞ്ഞെടുത്ത ഫയലുകളോ ഡയറക്ടറികളോ ഇല്ലാതാക്കുക"
+
+msgid "Deselect All"
+msgstr "എല്ലാം തിരഞ്ഞെടുത്തത് മാറ്റുക"
+
+msgid "Deselect group"
+msgstr "ഗ്രൂപ്പ് തിരഞ്ഞെടുത്തത് മാറ്റുക"
+
+msgid "Deselect group..."
+msgstr "ഗ്രൂപ്പ് തിരഞ്ഞെടുത്തത് മാറ്റുക..."
+
+msgid "Directories to group selections"
+msgstr "ഗ്രൂപ്പ് തിരഞ്ഞെടുപ്പുകളിലേക്കുള്ള ഡയറക്ടറികൾ"
+
+msgid "Directory"
+msgstr "ഡയറക്ടറി"
+
+msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
+msgstr "ഡയറക്‌ടറി ഇവിടെ സൃഷ്‌ടിക്കാൻ കഴിയില്ല\n<സ്‌റ്റോറേജ് ഉപകരണങ്ങളുടെ ലിസ്‌റ്റ്> അല്ലെങ്കിൽ <റിസീവർ>.\nസെലക്‌ടറിനെ ഒരു വരി താഴെ നീക്കുക അല്ലെങ്കിൽ ഡയറക്‌ടറി മാറ്റുക."
+
+msgid "Display filenames in header. It is useful for filenames that are too long."
+msgstr "തലക്കെട്ടിൽ ഫയൽനാമങ്ങൾ പ്രദർശിപ്പിക്കുക. ദൈർഘ്യമേറിയ ഫയൽ നാമങ്ങൾക്ക് ഇത് ഉപയോഗപ്രദമാണ്."
+
+msgid "Do you want change rights?\n"
+msgstr "നിങ്ങൾക്ക് അവകാശങ്ങൾ മാറ്റണോ?\n"
+
+msgid "Do you want to view or run the script?\n"
+msgstr "നിങ്ങൾക്ക് സ്ക്രിപ്റ്റ് കാണാനോ പ്രവർത്തിപ്പിക്കാനോ താൽപ്പര്യമുണ്ടോ?\n"
+
+msgid "Edit"
+msgstr "എഡിറ്റ് ചെയ്യുക"
+
+msgid "Edit current line"
+msgstr "നിലവിലെ ലൈൻ എഡിറ്റ് ചെയ്യുക"
+
+msgid "Edit line"
+msgstr "ലൈൻ എഡിറ്റ് ചെയ്യുക"
+
+msgid "Edit new file"
+msgstr "പുതിയ ഫയൽ എഡിറ്റ് ചെയ്യുക"
+
+msgid "Edit position is the line end"
+msgstr "എഡിറ്റ് സ്ഥാനം ലൈൻ എൻഡ് ആണ്"
+
+msgid "end title"
+msgstr "അവസാന ശീർഷകം"
+
+msgid "ends with..."
+msgstr "അവസാനിക്കുന്നു..."
+
+msgid "Enter multi-file selection mode"
+msgstr "മൾട്ടി-ഫയൽ തിരഞ്ഞെടുക്കൽ മോഡ് നൽകുക"
+
+msgid "Error"
+msgstr "പിശക്"
+
+msgid "Error creating directory %s:\n%s"
+msgstr "ഡയറക്ടറി %s:\n%s സൃഷ്ടിക്കുന്നതിൽ പിശക്"
+
+msgid "Error creating file %s:\n%s"
+msgstr "%s:\n%s ഫയൽ സൃഷ്ടിക്കുന്നതിൽ പിശക്"
+
+msgid "Error linking %s to %s:\n%s"
+msgstr "%s-നെ %s:\n%s-ലേക്ക് ലിങ്കുചെയ്യുന്നതിൽ പിശക്"
+
+msgid "Error renaming %s to %s:\n%s"
+msgstr "%s എന്നതിനെ %s എന്നാക്കി മാറ്റുന്നതിൽ പിശക്:\n%s"
+
+msgid "Error saving: %s"
+msgstr "സംരക്ഷിക്കുന്നതിൽ പിശക്: %s"
+
+msgid "Error..."
+msgstr "പിശക്..."
+
+msgid "Execution finished!!"
+msgstr "നിർവ്വഹണം പൂർത്തിയായി!!"
+
+msgid "Execution progress\n\n"
+msgstr "നിർവ്വഹണം പുരോഗമിക്കുന്നു\n\n"
+
+msgid "Exit"
+msgstr "പുറത്ത്"
+
+msgid "Exit editor and write changes (if any)"
+msgstr "എഡിറ്ററിൽ നിന്ന് പുറത്തുകടന്ന് മാറ്റങ്ങൾ എഴുതുക (എന്തെങ്കിലും ഉണ്ടെങ്കിൽ)"
+
+msgid "Exit movie player?"
+msgstr "മൂവി പ്ലെയറിൽ നിന്ന് പുറത്തുകടക്കണോ?"
+
+msgid "Exit picture viewer"
+msgstr "ചിത്രം വ്യൂവറിൽ നിന്ന് പുറത്തുകടക്കുക"
+
+msgid "Extract archive to %s?"
+msgstr "ആർക്കൈവ് %s-ലേക്ക് എക്‌സ്‌ട്രാക്‌റ്റ് ചെയ്യണോ?"
+
+msgid "Extracting..."
+msgstr "എക്‌സ്‌ട്രാക്റ്റുചെയ്യുന്നു..."
+
+msgid "FIFO"
+msgstr "FIFO"
+
+msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
+msgstr "ഫയൽ \n<സ്‌റ്റോറേജ് ഉപകരണങ്ങളുടെ ലിസ്റ്റ്> അല്ലെങ്കിൽ <റിസീവർ> എന്നിവയിൽ സൃഷ്‌ടിക്കാൻ കഴിയില്ല.\nഡയറക്‌ടറി മാറ്റുക, ദയവായി."
+
+msgid "File checksums/hashes"
+msgstr "ചെക്ക്സം/ഹാഷുകൾ ഫയൽ ചെയ്യുക"
+
+msgid "File Commander"
+msgstr "ഫയൽ കമാൻഡർ"
+
+msgid "File Commander - Addon File-Viewer"
+msgstr "ഫയൽ കമാൻഡർ - ആഡോൺ ഫയൽ-വ്യൂവർ"
+
+msgid "File Commander - Addon File-Viewer Settings"
+msgstr "ഫയൽ കമാൻഡർ - ആഡോൺ ഫയൽ-വ്യൂവർ ക്രമീകരണങ്ങൾ"
+
+msgid "File Commander - Addon Mediaplayer"
+msgstr "ഫയൽ കമാൻഡർ - ആഡോൺ മീഡിയ പ്ലെയർ"
+
+msgid "File Commander - Addon Movieplayer"
+msgstr "ഫയൽ കമാൻഡർ - ആഡോൺ മൂവിപ്ലേയർ"
+
+msgid "File Commander - generalised archive handler"
+msgstr "ഫയൽ കമാൻഡർ - സാമാന്യവൽക്കരിച്ച ആർക്കൈവ് ഹാൻഡ്‌ലർ"
+
+msgid "File Commander - gzip Addon"
+msgstr "ഫയൽ കമാൻഡർ - gzip ആഡോൺ"
+
+msgid "File Commander - ipk Addon"
+msgstr "ഫയൽ കമാൻഡർ - ipk ആഡോൺ"
+
+msgid "File Commander - tar Addon"
+msgstr "ഫയൽ കമാൻഡർ - ടാർ ആഡോൺ"
+
+msgid "File Commander - unrar Addon"
+msgstr "ഫയൽ കമാൻഡർ - unrar Addon"
+
+msgid "File Commander - unzip Addon"
+msgstr "ഫയൽ കമാൻഡർ - അൺസിപ്പ് ആഡോൺ"
+
+msgid "File not found: %s"
+msgstr "ഫയൽ കണ്ടെത്തിയില്ല: %s"
+
+msgid "File too large to open as text (max 1MB)."
+msgstr "വാചകമായി തുറക്കാൻ കഴിയാത്തത്ര വലിപ്പമുള്ള ഫയൽ (പരമാവധി 1MB)."
+
+msgid "File too large to open as text."
+msgstr "വാചകമായി തുറക്കാൻ കഴിയാത്തത്ര വലിപ്പമുള്ള ഫയൽ."
+
+msgid "File transfer was cancelled by user"
+msgstr "ഫയൽ കൈമാറ്റം ഉപയോക്താവ് റദ്ദാക്കി"
+
+msgid "File/Directory Status Information"
+msgstr "ഫയൽ/ഡയറക്‌ടറി സ്റ്റാറ്റസ് വിവരം"
+
+msgid "Filenames in header"
+msgstr "തലക്കെട്ടിലെ ഫയലുകളുടെ പേരുകൾ"
+
+msgid "Filter extension, (*) appears in title"
+msgstr "ഫിൽട്ടർ വിപുലീകരണം, (*) ശീർഷകത്തിൽ ദൃശ്യമാകുന്നു"
+
+msgid "Filter visible file classes by extension."
+msgstr "വിപുലീകരണത്തിലൂടെ ദൃശ്യമായ ഫയൽ ക്ലാസുകൾ ഫിൽട്ടർ ചെയ്യുക."
+
+msgid "for DATA LOSS OR DAMAGE !!!"
+msgstr "ഡാറ്റ നഷ്‌ടത്തിനോ നാശത്തിനോ വേണ്ടി !!!"
+
+msgid "from dir"
+msgstr "dir-ൽ നിന്ന്"
+
+msgid "GB"
+msgstr "ജിബി"
+
+msgid "Go to bookmarked folder"
+msgstr "ബുക്ക്മാർക്ക് ചെയ്ത ഫോൾഡറിലേക്ക് പോകുക"
+
+msgid "Go to default directory"
+msgstr "ഡിഫോൾട്ട് ഡയറക്ടറിയിലേക്ക് പോകുക"
+
+msgid "Go to end of file"
+msgstr "ഫയലിൻ്റെ അവസാനത്തിലേക്ക് പോകുക"
+
+msgid "Go to parent directory"
+msgstr "പാരൻ്റ് ഡയറക്ടറിയിലേക്ക് പോകുക"
+
+msgid "Go to start of file"
+msgstr "ഫയലിൻ്റെ ആരംഭത്തിലേക്ക് പോകുക"
+
+msgid "Group:"
+msgstr "ഗ്രൂപ്പ്:"
+
+msgid "has been CHANGED! Do you want to save it?"
+msgstr "മാറ്റി! നിങ്ങൾക്കത് സംരക്ഷിക്കണോ?"
+
+msgid "Hide/Show"
+msgstr "മറയ്ക്കുക/കാണിക്കുക"
+
+msgid "I/O priority for script execution"
+msgstr "സ്ക്രിപ്റ്റ് നിർവ്വഹണത്തിന് I/O മുൻഗണന"
+
+msgid "If editing a file, you can set the cursor start position at end or begin of the line."
+msgstr "ഒരു ഫയൽ എഡിറ്റുചെയ്യുകയാണെങ്കിൽ, വരിയുടെ അവസാനത്തിലോ തുടക്കത്തിലോ നിങ്ങൾക്ക് കഴ്‌സർ ആരംഭ സ്ഥാനം സജ്ജമാക്കാൻ കഴിയും."
+
+msgid "In multi-selection mode moves cursor to next item after marking."
+msgstr "മൾട്ടി-സെലക്ഷൻ മോഡിൽ അടയാളപ്പെടുത്തിയതിന് ശേഷം അടുത്ത ഇനത്തിലേക്ക് കഴ്സർ നീക്കുന്നു."
+
+msgid "Inode:"
+msgstr "ഇനോഡ്:"
+
+msgid "Insert"
+msgstr "തിരുകുക"
+
+msgid "Insert line before current line"
+msgstr "നിലവിലെ ലൈനിന് മുമ്പ് ലൈൻ ചേർക്കുക"
+
+msgid "Install"
+msgstr "ഇൻസ്റ്റാൾ ചെയ്യുക"
+
+msgid "install/unpack ipk Files"
+msgstr "ipk ഫയലുകൾ ഇൻസ്റ്റാൾ ചെയ്യുക/അൺപാക്ക് ചെയ്യുക"
+
+msgid "Installing Plugin ..."
+msgstr "പ്ലഗിൻ ഇൻസ്റ്റാൾ ചെയ്യുന്നു..."
+
+msgid "Invert selection"
+msgstr "തിരഞ്ഞെടുപ്പ് വിപരീതമാക്കുക"
+
+msgid "Invert Selection"
+msgstr "വിപരീത തിരഞ്ഞെടുപ്പ്"
+
+msgid "It is not possible to calculate hashes on <List of Storage Devices>"
+msgstr "<സ്‌റ്റോറേജ് ഉപകരണങ്ങളുടെ പട്ടിക> എന്നതിൽ ഹാഷുകൾ കണക്കാക്കാൻ സാധ്യമല്ല"
+
+msgid "It is not possible to change the file mode of <List of Storage Devices>"
+msgstr "<സ്‌റ്റോറേജ് ഡിവൈസുകളുടെ പട്ടിക> ഫയൽ മോഡ് മാറ്റാൻ സാധ്യമല്ല"
+
+msgid "It is not possible to get the file status of <List of Storage Devices>"
+msgstr "<സ്‌റ്റോറേജ് ഉപകരണങ്ങളുടെ പട്ടിക> എന്നതിൻ്റെ ഫയൽ നില ലഭിക്കാൻ സാധ്യമല്ല"
+
+msgid "KB"
+msgstr "കെ.ബി"
+
+msgid "Leave File Commander"
+msgstr "ഫയൽ കമാൻഡർ വിടുക"
+
+msgid "Leave multi-select mode"
+msgstr "മൾട്ടി-സെലക്ട് മോഡ് വിടുക"
+
+msgid "Link target:"
+msgstr "ലിങ്ക് ലക്ഷ്യം:"
+
+msgid "Links:"
+msgstr "ലിങ്കുകൾ:"
+
+msgid "List of Storage Devices"
+msgstr "സ്റ്റോറേജ് ഉപകരണങ്ങളുടെ ലിസ്റ്റ്"
+
+msgid "Load"
+msgstr "ലോഡ് ചെയ്യുക"
+
+msgid "Make FileCommander accessible from the Extensions menu."
+msgstr "വിപുലീകരണ മെനുവിൽ നിന്ന് ഫയൽകമാൻഡർ ആക്സസ് ചെയ്യാവുന്നതാക്കുക."
+
+msgid "Make FileCommander accessible from the main menu."
+msgstr "പ്രധാന മെനുവിൽ നിന്ന് ഫയൽകമാൻഡർ ആക്സസ് ചെയ്യാവുന്നതാക്കുക."
+
+msgid "manage local Files"
+msgstr "പ്രാദേശിക ഫയലുകൾ നിയന്ത്രിക്കുക"
+
+msgid "MB"
+msgstr "എം.ബി"
+
+msgid "MENU"
+msgstr "മെനു"
+
+msgid "Menu..."
+msgstr "മെനു..."
+
+msgid "Metadata changed:"
+msgstr "മെറ്റാഡാറ്റ മാറ്റി:"
+
+msgid "Mode %s (%04o)"
+msgstr "മോഡ് %s (%04o)"
+
+msgid "Modified:"
+msgstr "പരിഷ്കരിച്ചത്:"
+
+msgid "Move"
+msgstr "നീക്കുക"
+
+msgid "Move down list"
+msgstr "പട്ടിക താഴേക്ക് നീക്കുക"
+
+msgid "move file"
+msgstr "ഫയൽ നീക്കുക"
+
+msgid "Move file"
+msgstr "ഫയൽ നീക്കുക"
+
+msgid "Move file/directory to target directory"
+msgstr "ടാർഗെറ്റ് ഡയറക്‌ടറിയിലേക്ക് ഫയൽ/ഡയറക്‌ടറി നീക്കുക"
+
+msgid "Move files/directories to target directory"
+msgstr "ടാർഗെറ്റ് ഡയറക്‌ടറിയിലേക്ക് ഫയലുകൾ/ഡയറക്‌ടറികൾ നീക്കുക"
+
+msgid "move folder"
+msgstr "ഫോൾഡർ നീക്കുക"
+
+msgid "Move folder"
+msgstr "ഫോൾഡർ നീക്കുക"
+
+msgid "Move selector to next item"
+msgstr "സെലക്ടർ അടുത്ത ഇനത്തിലേക്ക് നീക്കുക"
+
+msgid "Move selector to next item (on/off)"
+msgstr "സെലക്ടർ അടുത്ത ഇനത്തിലേക്ക് നീക്കുക (ഓൺ/ഓഫ്)"
+
+msgid "Move up list"
+msgstr "പട്ടിക മുകളിലേക്ക് നീക്കുക"
+
+msgid "Movie"
+msgstr "സിനിമ"
+
+msgid "MultiSelection Settings"
+msgstr "മൾട്ടിസെലക്ഷൻ ക്രമീകരണങ്ങൾ"
+
+msgid "Music"
+msgstr "സംഗീതം"
+
+msgid "My extension"
+msgstr "എൻ്റെ വിപുലീകരണം"
+
+msgid "My Extension"
+msgstr "എൻ്റെ വിപുലീകരണം"
+
+msgid "n"
+msgstr "എൻ"
+
+msgid "Name"
+msgstr "പേര്"
+
+msgid "Name reverse"
+msgstr "പേര് വിപരീതം"
+
+msgid "New folder"
+msgstr "പുതിയ ഫോൾഡർ"
+
+msgid "New symlink"
+msgstr "പുതിയ സിംലിങ്ക്"
+
+msgid "new.txt"
+msgstr "new.txt"
+
+msgid "No"
+msgstr "ഇല്ല"
+
+msgid "No files found."
+msgstr "ഫയലുകളൊന്നും കണ്ടെത്തിയില്ല."
+
+msgid "No hash calculations configured"
+msgstr "ഹാഷ് കണക്കുകൂട്ടലുകളൊന്നും കോൺഫിഗർ ചെയ്തിട്ടില്ല"
+
+msgid "None of the hash programs for the hashes %s are available"
+msgstr "%s എന്ന ഹാഷുകൾക്കുള്ള ഹാഷ് പ്രോഗ്രാമുകളൊന്നും ലഭ്യമല്ല"
+
+msgid "Not allowed with folders"
+msgstr "ഫോൾഡറുകൾക്കൊപ്പം അനുവദനീയമല്ല"
+
+msgid "nothing connected"
+msgstr "ഒന്നും ബന്ധിപ്പിച്ചിട്ടില്ല"
+
+msgid "Number of lines in script messages"
+msgstr "സ്ക്രിപ്റ്റ് സന്ദേശങ്ങളിലെ വരികളുടെ എണ്ണം"
+
+msgid "OK"
+msgstr "ശരി"
+
+msgid "On device:"
+msgstr "ഉപകരണത്തിൽ:"
+
+msgid "Open"
+msgstr "തുറക്കുക"
+
+msgid "Open actions menu"
+msgstr "പ്രവർത്തന മെനു തുറക്കുക"
+
+msgid "Open settings/actions menu"
+msgstr "ക്രമീകരണങ്ങൾ/പ്രവർത്തനങ്ങൾ മെനു തുറക്കുക"
+
+msgid "Open with File Commander"
+msgstr "ഫയൽ കമാൻഡർ ഉപയോഗിച്ച് തുറക്കുക"
+
+msgid "or save the picture additionally to a file"
+msgstr "അല്ലെങ്കിൽ ചിത്രം ഒരു ഫയലിലേക്ക് അധികമായി സംരക്ഷിക്കുക"
+
+msgid "Original subtitles codepage"
+msgstr "ഒറിജിനൽ സബ്ടൈറ്റിലുകൾ കോഡ്പേജ്"
+
+msgid "Original subtitles codepage for conversion to UTF-8."
+msgstr "UTF-8 ലേക്ക് പരിവർത്തനം ചെയ്യുന്നതിനുള്ള യഥാർത്ഥ സബ്ടൈറ്റിലുകൾ കോഡ്പേജ്."
+
+msgid "Original:"
+msgstr "യഥാർത്ഥം:"
+
+msgid "Owner:"
+msgstr "ഉടമ:"
+
+msgid "Page down list"
+msgstr "പേജ് ഡൗൺ ലിസ്റ്റ്"
+
+msgid "Page up list"
+msgstr "പേജ് അപ്പ് ലിസ്റ്റ്"
+
+msgid "Parent Directory"
+msgstr "പാരൻ്റ് ഡയറക്ടറി"
+
+msgid "Permissions:"
+msgstr "അനുമതികൾ:"
+
+msgid "Pictures"
+msgstr "ചിത്രങ്ങൾ"
+
+msgid "play Files"
+msgstr "ഫയലുകൾ പ്ലേ ചെയ്യുക"
+
+msgid "Play folder"
+msgstr "പ്ലേ ഫോൾഡർ"
+
+msgid "Play title"
+msgstr "ശീർഷകം പ്ലേ ചെയ്യുക"
+
+msgid "play/show Files"
+msgstr "ഫയലുകൾ പ്ലേ ചെയ്യുക/കാണിക്കുക"
+
+msgid "Play/view/edit/install/extract/run file or enter directory"
+msgstr "ഫയൽ പ്ലേ ചെയ്യുക/കാണുക/എഡിറ്റ് ചെയ്യുക/ഇൻസ്റ്റാൾ ചെയ്യുക/എക്‌സ്‌ട്രാക്റ്റ് ചെയ്യുക/റൺ ചെയ്യുക അല്ലെങ്കിൽ ഡയറക്‌ടറി നൽകുക"
+
+msgid "Please enter file/folder name"
+msgstr "ദയവായി ഫയൽ/ഫോൾഡറിൻ്റെ പേര് നൽകുക"
+
+msgid "Please enter name of the new directory"
+msgstr "പുതിയ ഡയറക്‌ടറിയുടെ പേര് നൽകുക"
+
+msgid "Please enter name of the new symlink"
+msgstr "ദയവായി പുതിയ സിംലിങ്കിൻ്റെ പേര് നൽകുക"
+
+msgid "Please enter password"
+msgstr "ദയവായി പാസ്‌വേഡ് നൽകുക"
+
+msgid "Please enter the new directory name"
+msgstr "ദയവായി പുതിയ ഡയറക്ടറിയുടെ പേര് നൽകുക"
+
+msgid "Please enter the new file name"
+msgstr "ദയവായി പുതിയ ഫയലിൻ്റെ പേര് നൽകുക"
+
+msgid "Please wait, Loading image."
+msgstr "ദയവായി കാത്തിരിക്കൂ, ചിത്രം ലോഡ് ചെയ്യുന്നു."
+
+msgid "Press OK or Exit to abort!"
+msgstr "അവസാനിപ്പിക്കാൻ ശരി അല്ലെങ്കിൽ പുറത്തുകടക്കുക അമർത്തുക!"
+
+msgid "python"
+msgstr "പെരുമ്പാമ്പ്"
+
+msgid "Records"
+msgstr "റെക്കോർഡുകൾ"
+
+msgid "Refresh screen"
+msgstr "സ്‌ക്രീൻ പുതുക്കുക"
+
+msgid "Regular file"
+msgstr "സാധാരണ ഫയൽ"
+
+msgid "Remove current folder from bookmarks"
+msgstr "ബുക്ക്‌മാർക്കുകളിൽ നിന്ന് നിലവിലെ ഫോൾഡർ നീക്കം ചെയ്യുക"
+
+msgid "Remove from selection (%s)"
+msgstr "തിരഞ്ഞെടുക്കലിൽ നിന്ന് നീക്കം ചെയ്യുക (%s)"
+
+msgid "Remove selected folder from bookmarks"
+msgstr "ബുക്ക്‌മാർക്കുകളിൽ നിന്ന് തിരഞ്ഞെടുത്ത ഫോൾഡർ നീക്കം ചെയ്യുക"
+
+msgid "Rename"
+msgstr "പേരുമാറ്റുക"
+
+msgid "Rename file"
+msgstr "ഫയലിൻ്റെ പേരുമാറ്റുക"
+
+msgid "Rename file/directory"
+msgstr "ഫയൽ/ഡയറക്‌ടറി പുനർനാമകരണം ചെയ്യുക"
+
+msgid "Restart"
+msgstr "പുനരാരംഭിക്കുക"
+
+msgid "Reverse left file sorting"
+msgstr "റിവേഴ്സ് ലെഫ്റ്റ് ഫയൽ സോർട്ടിംഗ്"
+
+msgid "Reverse right file sorting"
+msgstr "റിവേഴ്സ് റൈറ്റ് ഫയൽ സോർട്ടിംഗ്"
+
+msgid "Run script"
+msgstr "സ്ക്രിപ്റ്റ് പ്രവർത്തിപ്പിക്കുക"
+
+msgid "Run script in background"
+msgstr "പശ്ചാത്തലത്തിൽ സ്ക്രിപ്റ്റ് പ്രവർത്തിപ്പിക്കുക"
+
+msgid "Run script with optional parameter"
+msgstr "ഓപ്ഷണൽ പാരാമീറ്റർ ഉപയോഗിച്ച് സ്ക്രിപ്റ്റ് പ്രവർത്തിപ്പിക്കുക"
+
+msgid "Run script with optional parameter in background"
+msgstr "പശ്ചാത്തലത്തിൽ ഓപ്ഷണൽ പാരാമീറ്റർ ഉപയോഗിച്ച് സ്ക്രിപ്റ്റ് പ്രവർത്തിപ്പിക്കുക"
+
+msgid "s"
+msgstr "എസ്"
+
+msgid "Save cursor position"
+msgstr "കഴ്‌സർ സ്ഥാനം സംരക്ഷിക്കുക"
+
+msgid "Save cursor position in active panel."
+msgstr "സജീവ പാനലിൽ കഴ്‌സർ സ്ഥാനം സംരക്ഷിക്കുക."
+
+msgid "Save left folder on exit"
+msgstr "പുറത്തുകടക്കുമ്പോൾ ഇടത് ഫോൾഡർ സംരക്ഷിക്കുക"
+
+msgid "Save right folder on exit"
+msgstr "പുറത്തുകടക്കുമ്പോൾ വലത് ഫോൾഡർ സംരക്ഷിക്കുക"
+
+msgid "Save the left directory list location on exit."
+msgstr "പുറത്തുകടക്കുമ്പോൾ ഇടത് ഡയറക്ടറി ലിസ്റ്റ് ലൊക്കേഷൻ സംരക്ഷിക്കുക."
+
+msgid "Save the right folder list location on exit."
+msgstr "പുറത്തുകടക്കുമ്പോൾ ശരിയായ ഫോൾഡർ ലിസ്റ്റ് ലൊക്കേഷൻ സംരക്ഷിക്കുക."
+
+msgid "Search in group selection by"
+msgstr "ഗ്രൂപ്പ് സെലക്ഷനിൽ തിരയുക"
+
+msgid "Search text"
+msgstr "ടെക്സ്റ്റ് തിരയുക"
+
+msgid "Search text (%s):"
+msgstr "വാചകം തിരയുക (%s):"
+
+msgid "Search text in file (%s)."
+msgstr "ഫയലിൽ ടെക്സ്റ്റ് തിരയുക (%s)."
+
+msgid "Select (source list) or enter directory (target list)"
+msgstr "തിരഞ്ഞെടുക്കുക (ഉറവിട പട്ടിക) അല്ലെങ്കിൽ ഡയറക്ടറി നൽകുക (ലക്ഷ്യ പട്ടിക)"
+
+msgid "Select a path"
+msgstr "ഒരു പാത തിരഞ്ഞെടുക്കുക"
+
+msgid "Select action:"
+msgstr "പ്രവർത്തനം തിരഞ്ഞെടുക്കുക:"
+
+msgid "Select All"
+msgstr "എല്ലാം തിരഞ്ഞെടുക്കുക"
+
+msgid "Select group"
+msgstr "ഗ്രൂപ്പ് തിരഞ്ഞെടുക്കുക"
+
+msgid "Select group..."
+msgstr "ഗ്രൂപ്പ് തിരഞ്ഞെടുക്കുക..."
+
+msgid "Select operation:"
+msgstr "പ്രവർത്തനം തിരഞ്ഞെടുക്കുക:"
+
+msgid "Select your personal settings:"
+msgstr "നിങ്ങളുടെ സ്വകാര്യ ക്രമീകരണങ്ങൾ തിരഞ്ഞെടുക്കുക:"
+
+msgid "Set archive mode (644)"
+msgstr "ആർക്കൈവ് മോഡ് സജ്ജമാക്കുക (644)"
+
+msgid "Set executable mode (755)"
+msgstr "എക്സിക്യൂട്ടബിൾ മോഡ് സജ്ജമാക്കുക (755)"
+
+msgid "Sets whether to distinguish between uper case and lower case for searching."
+msgstr "തിരയലിനായി വലിയക്ഷരവും ചെറിയക്ഷരവും തമ്മിൽ വേർതിരിക്കണമോ എന്ന് സജ്ജീകരിക്കുന്നു."
+
+msgid "Settings"
+msgstr "ക്രമീകരണങ്ങൾ"
+
+msgid "Settings..."
+msgstr "ക്രമീകരണങ്ങൾ..."
+
+msgid "shell"
+msgstr "ഷെൽ"
+
+msgid "Show as Picture (press any key to close)"
+msgstr "ചിത്രമായി കാണിക്കുക (അടയ്ക്കാൻ ഏതെങ്കിലും കീ അമർത്തുക)"
+
+msgid "Show contents of ipk file"
+msgstr "ipk ഫയലിൻ്റെ ഉള്ളടക്കം കാണിക്കുക"
+
+msgid "Show contents of rar file"
+msgstr "റാർ ഫയലിൻ്റെ ഉള്ളടക്കം കാണിക്കുക"
+
+msgid "Show contents of tar or compressed tar file"
+msgstr "ടാർ അല്ലെങ്കിൽ കംപ്രസ് ചെയ്ത ടാർ ഫയലിൻ്റെ ഉള്ളടക്കം കാണിക്കുക"
+
+msgid "Show contents of zip file"
+msgstr "zip ഫയലിൻ്റെ ഉള്ളടക്കം കാണിക്കുക"
+
+msgid "Show directories first"
+msgstr "ആദ്യം ഡയറക്ടറികൾ കാണിക്കുക"
+
+msgid "Show directories on first or last positions in panel (to apply the changes FileCommander must be restarted)."
+msgstr "പാനലിലെ ആദ്യ അല്ലെങ്കിൽ അവസാന സ്ഥാനങ്ങളിൽ ഡയറക്‌ടറികൾ കാണിക്കുക (മാറ്റങ്ങൾ പ്രയോഗിക്കുന്നതിന് ഫയൽകമാൻഡർ പുനരാരംഭിക്കേണ്ടതുണ്ട്)."
+
+msgid "Show image information"
+msgstr "ചിത്ര വിവരങ്ങൾ കാണിക്കുക"
+
+msgid "Show next picture"
+msgstr "അടുത്ത ചിത്രം കാണിക്കുക"
+
+msgid "Show previous picture"
+msgstr "മുമ്പത്തെ ചിത്രം കാണിക്കുക"
+
+msgid "Show Script completed message"
+msgstr "സ്ക്രിപ്റ്റ് പൂർത്തിയാക്കിയ സന്ദേശം കാണിക്കുക"
+
+msgid "Show task list"
+msgstr "ടാസ്‌ക് ലിസ്റ്റ് കാണിക്കുക"
+
+msgid "Show unknown extension as text"
+msgstr "അജ്ഞാത വിപുലീകരണം വാചകമായി കാണിക്കുക"
+
+msgid "Size"
+msgstr "വലിപ്പം"
+
+msgid "Size reverse"
+msgstr "വലിപ്പം വിപരീതം"
+
+msgid "Size:"
+msgstr "വലിപ്പം:"
+
+msgid "Socket"
+msgstr "സോക്കറ്റ്"
+
+msgid "Sorting left files by name, date or size"
+msgstr "പേര്, തീയതി അല്ലെങ്കിൽ വലുപ്പം അനുസരിച്ച് ഇടത് ഫയലുകൾ അടുക്കുന്നു"
+
+msgid "Sorting right files by name, date or size"
+msgstr "പേര്, തീയതി അല്ലെങ്കിൽ വലുപ്പം അനുസരിച്ച് ശരിയായ ഫയലുകൾ അടുക്കുന്നു"
+
+msgid "start title"
+msgstr "ആരംഭ ശീർഷകം"
+
+msgid "Start/stop slide show"
+msgstr "സ്ലൈഡ് ഷോ ആരംഭിക്കുക/നിർത്തുക"
+
+msgid "starts with..."
+msgstr "ആരംഭിക്കുന്നു..."
+
+msgid "Storage devices"
+msgstr "സംഭരണ ​​ഉപകരണങ്ങൾ"
+
+msgid "Swap buttons for reverse file sorting"
+msgstr "റിവേഴ്സ് ഫയൽ സോർട്ടിംഗിനായി സ്വാപ്പ് ബട്ടണുകൾ"
+
+msgid "Swap buttons right/left with channel +/- or the channel button changed always the side."
+msgstr "ചാനൽ +/- ഉപയോഗിച്ച് വലത്/ഇടത് ബട്ടണുകൾ സ്വാപ്പ് ചെയ്യുക അല്ലെങ്കിൽ ചാനൽ ബട്ടൺ എപ്പോഴും വശത്തേക്ക് മാറ്റുക."
+
+msgid "Symbolic link"
+msgstr "പ്രതീകാത്മക ലിങ്ക്"
+
+msgid "Symlink to"
+msgstr "ഇതിലേക്കുള്ള സിംലിങ്ക്"
+
+msgid "Task list"
+msgstr "ടാസ്ക് ലിസ്റ്റ്"
+
+msgid "TB"
+msgstr "ടി.ബി"
+
+msgid "Text not found."
+msgstr "വാചകം കണ്ടെത്തിയില്ല."
+
+msgid "Text searching as case sensitive or case insensitive."
+msgstr "കേസ് സെൻസിറ്റീവ് അല്ലെങ്കിൽ കേസ് സെൻസിറ്റീവ് ആയി ടെക്സ്റ്റ് തിരയൽ."
+
+msgid "The authors are NOT RESPONSIBLE"
+msgstr "രചയിതാക്കൾ ഉത്തരവാദികളല്ല"
+
+msgid "The Image Viewer component of the File Commander requires the PicturePlayer extension. Install PicturePlayer to enable this operation."
+msgstr "ഫയൽ കമാൻഡറിൻ്റെ ഇമേജ് വ്യൂവർ ഘടകത്തിന് PicturePlayer വിപുലീകരണം ആവശ്യമാണ്. ഈ പ്രവർത്തനം പ്രവർത്തനക്ഷമമാക്കാൻ PicturePlayer ഇൻസ്റ്റാൾ ചെയ്യുക."
+
+msgid "This line is not editable!"
+msgstr "ഈ ലൈൻ എഡിറ്റ് ചെയ്യാവുന്നതല്ല!"
+
+msgid "Time between slides in image viewer slideshow."
+msgstr "ഇമേജ് വ്യൂവർ സ്ലൈഡ്ഷോയിലെ സ്ലൈഡുകൾക്കിടയിലുള്ള സമയം."
+
+msgid "Time for Slideshow"
+msgstr "സ്ലൈഡ്ഷോയ്ക്കുള്ള സമയം"
+
+msgid "to dir"
+msgstr "ഡയറിലേക്ക്"
+
+msgid "To next found text"
+msgstr "അടുത്തതായി കണ്ടെത്തിയ വാചകത്തിലേക്ക്"
+
+msgid "To previous found text"
+msgstr "മുമ്പ് കണ്ടെത്തിയ വാചകത്തിലേക്ക്"
+
+msgid "Type the name for the new file"
+msgstr "പുതിയ ഫയലിൻ്റെ പേര് ടൈപ്പ് ചെയ്യുക"
+
+msgid "Type:"
+msgstr "തരം:"
+
+msgid "Unknown"
+msgstr "അജ്ഞാതം"
+
+msgid "Unknown file type. Open as text?"
+msgstr "അജ്ഞാത ഫയൽ തരം. വാചകമായി തുറക്കണോ?"
+
+msgid "Unknown group: %d"
+msgstr "അജ്ഞാത ഗ്രൂപ്പ്: %d"
+
+msgid "Unknown user: %d"
+msgstr "അജ്ഞാത ഉപയോക്താവ്: %d"
+
+msgid "unpack archives"
+msgstr "ആർക്കൈവുകൾ അൺപാക്ക് ചെയ്യുക"
+
+msgid "unpack gzip Files"
+msgstr "gzip ഫയലുകൾ അൺപാക്ക് ചെയ്യുക"
+
+msgid "unpack Rar Files"
+msgstr "റാർ ഫയലുകൾ അൺപാക്ക് ചെയ്യുക"
+
+msgid "unpack tar/compressed tar Files"
+msgstr "ടാർ/കംപ്രസ് ചെയ്ത ടാർ ഫയലുകൾ അൺപാക്ക് ചെയ്യുക"
+
+msgid "Unpack to %s"
+msgstr "%s-ലേക്ക് അൺപാക്ക് ചെയ്യുക"
+
+msgid "Unpack to current folder"
+msgstr "നിലവിലെ ഫോൾഡറിലേക്ക് അൺപാക്ക് ചെയ്യുക"
+
+msgid "unpack zip Files"
+msgstr "zip ഫയലുകൾ അൺപാക്ക് ചെയ്യുക"
+
+msgid "Unsupported archive type."
+msgstr "പിന്തുണയ്ക്കാത്ത ആർക്കൈവ് തരം."
+
+msgid "v"
+msgstr "വി"
+
+msgid "View or edit file (if size < 1MB)"
+msgstr "ഫയൽ കാണുക അല്ലെങ്കിൽ എഡിറ്റ് ചെയ്യുക (വലിപ്പം < 1MB ആണെങ്കിൽ)"
+
+msgid "View or edit this %s script"
+msgstr "ഈ %s സ്ക്രിപ്റ്റ് കാണുക അല്ലെങ്കിൽ എഡിറ്റ് ചെയ്യുക"
+
+msgid "WARNING!"
+msgstr "മുന്നറിയിപ്പ്!"
+
+msgid "What do you want to play?\n"
+msgstr "നിങ്ങൾക്ക് എന്താണ് കളിക്കേണ്ടത്?\n"
+
+msgid "without"
+msgstr "ഇല്ലാതെ"
+
+msgid "Yes"
+msgstr "അതെ"
+
+msgid "You can set the number of letters from the beginning of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "ഗ്രൂപ്പ് സെലക്ഷൻ വഴി എളുപ്പമുള്ള ഇൻപുട്ടിനായി വെർച്വൽ കീബോർഡിലേക്ക് മുൻകൂട്ടി പൂരിപ്പിച്ച വാചകമായി നിലവിലെ ഫയലിൻ്റെ പേരിൻ്റെ ആരംഭം മുതൽ അക്ഷരങ്ങളുടെ എണ്ണം നിങ്ങൾക്ക് സജ്ജീകരിക്കാനാകും."
+
+msgid "You can set the number of letters from the end of the current file name as the text pre-filled into virtual keyboard for easier input via group selection."
+msgstr "ഗ്രൂപ്പ് സെലക്ഷൻ വഴി എളുപ്പത്തിലുള്ള ഇൻപുട്ടിനായി വെർച്വൽ കീബോർഡിലേക്ക് മുൻകൂട്ടി പൂരിപ്പിച്ച വാചകമായി നിലവിലെ ഫയലിൻ്റെ പേരിൻ്റെ അവസാനം മുതൽ അക്ഷരങ്ങളുടെ എണ്ണം നിങ്ങൾക്ക് സജ്ജീകരിക്കാം."
+
+msgid "You can set what will group selection use - start of title, end of title or contains in title."
+msgstr "ഗ്രൂപ്പ് തിരഞ്ഞെടുക്കൽ ഉപയോഗിക്കേണ്ടതെന്താണെന്ന് നിങ്ങൾക്ക് സജ്ജീകരിക്കാം - ശീർഷകത്തിൻ്റെ ആരംഭം, ശീർഷകത്തിൻ്റെ അവസാനം അല്ലെങ്കിൽ ശീർഷകത്തിൽ അടങ്ങിയിരിക്കുന്നു."
+

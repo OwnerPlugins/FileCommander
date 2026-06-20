@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\nparámetro opcional:\n%s"
+msgstr "\nparámetro opcional: \n%s"
 
 msgid "%d GB"
 msgstr "%d GB"
@@ -290,13 +290,13 @@ msgid "Directory"
 msgstr "Directorio"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "Non se pode crear o directorio aquí en\n<Lista de dispositivos de almacenamento> ou <Receptor>.\nMove o selector unha liña por debaixo ou cambia de directorio."
+msgstr "Non se pode crear o directorio aquí on\n<Lista de dispositivos de almacenamento> ou <Receptor>.\nMove o selector unha liña por debaixo ou cambia de directorio."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Mostrar nomes de ficheiros na cabeceira. É útil para nomes de ficheiro demasiado longos."
 
 msgid "Do you want change rights?\n"
-msgstr "Queres cambiar os dereitos?\n"
+msgstr "Queres cambiar os dereitos? \n"
 
 msgid "Do you want to view or run the script?\n"
 msgstr "Queres ver ou executar o script?\n"

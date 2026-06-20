@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\noptional parameter-\n%s"
+msgstr "\nရွေးချယ်နိုင်သော ကန့်သတ်ဘောင်-\n%s"
 
 msgid "%d GB"
 msgstr "%d GB"
@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "အဘိဓာန်"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "လမ်းညွှန်ကို ဤနေရာတွင်\n<သိုလှောင်ကိရိယာများစာရင်း> သို့မဟုတ် <လက်ခံသူ> ပေါ်တွင် ဖန်တီး၍မရပါ။\nရွေးချယ်မှုအား အောက်ဖော်ပြပါ စာကြောင်းတစ်ကြောင်းကို ရွှေ့ပါ သို့မဟုတ် လမ်းညွှန်ကို ပြောင်းပါ။"
+msgstr "ဤတွင် လမ်းညွှန်ကို \n<သိုလှောင်ကိရိယာများစာရင်း> သို့မဟုတ် <လက်ခံသူ>အား ဤနေရာတွင် ဖန်တီး၍မရပါ။\nရွေးချယ်သူကို အောက်တွင် တစ်ကြောင်းရွှေ့ပါ သို့မဟုတ် လမ်းညွှန်ကို ပြောင်းပါ။"
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "ခေါင်းစီးတွင် ဖိုင်အမည်များကို ပြသပါ။ ရှည်လွန်းသော ဖိုင်အမည်များအတွက် အသုံးဝင်သည်။"
@@ -299,7 +299,7 @@ msgid "Do you want change rights?\n"
 msgstr "အခွင့်အရေးများကို ပြောင်းလဲလိုပါသလား။\n"
 
 msgid "Do you want to view or run the script?\n"
-msgstr "ဇာတ်ညွှန်းကို ကြည့်ရှုရန် သို့မဟုတ် လုပ်ဆောင်လိုပါသလား။\n"
+msgstr "ဇာတ်ညွှန်းကို သင်ကြည့်ရှုရန် သို့မဟုတ် လုပ်ဆောင်လိုပါသလား။\n"
 
 msgid "Edit"
 msgstr "တည်းဖြတ်ပါ။"
@@ -329,13 +329,13 @@ msgid "Error"
 msgstr "အမှား"
 
 msgid "Error creating directory %s:\n%s"
-msgstr "%s လမ်းညွှန်ကို ဖန်တီးရာတွင် အမှားအယွင်းရှိပါသည်:\n%s"
+msgstr "%s:\n%s လမ်းညွှန်ကို ဖန်တီးရာတွင် အမှားအယွင်းရှိနေသည်။"
 
 msgid "Error creating file %s:\n%s"
-msgstr "%s:\n%s ဖိုင်ဖန်တီးရာတွင် အမှားအယွင်းရှိသည်။"
+msgstr "%s:\n%s ဖိုင်ဖန်တီးရာတွင် အမှားအယွင်းရှိနေသည်။"
 
 msgid "Error linking %s to %s:\n%s"
-msgstr "%s ကို %s နှင့် လင့်ခ်ချိတ်ရာတွင် အမှားအယွင်းရှိပါသည်-\n%s"
+msgstr "%s ကို %s:\n%s သို့ လင့်ခ်ချိတ်ရာတွင် အမှားအယွင်းရှိသည်။"
 
 msgid "Error renaming %s to %s:\n%s"
 msgstr "%s ကို %s:\n%s သို့ အမည်ပြောင်းရာတွင် အမှားအယွင်းရှိသည်။"
@@ -350,7 +350,7 @@ msgid "Execution finished!!"
 msgstr "ကွပ်မျက်မှုပြီးပါပြီ !!"
 
 msgid "Execution progress\n\n"
-msgstr "လုပ်ဆောင်မှု တိုးတက်မှု\n\n"
+msgstr "အကောင်အထည်ဖော်ဆောင်ရွက်ဆဲ\n\n"
 
 msgid "Exit"
 msgstr "ထွက်ပေါက်"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "ဖိုင်ကို\n<သိုလှောင်ကိရိယာများစာရင်း> သို့မဟုတ် <လက်ခံသူ>တွင် ဖန်တီး၍မရပါ။\nကျေးဇူးပြု၍ လမ်းညွှန်ကိုပြောင်းပါ။"
+msgstr "ဖိုင်ကို\n<သိုလှောင်ကိရိယာများစာရင်း> သို့မဟုတ် <လက်ခံသူ> တွင် ဖန်တီး၍မရပါ။\nလမ်းညွှန်ကိုပြောင်းပါ၊ ကျေးဇူးပြု၍"
 
 msgid "File checksums/hashes"
 msgstr "checksums/hashes ဖိုင်"
@@ -464,7 +464,7 @@ msgid "Group:"
 msgstr "အဖွဲ့-"
 
 msgid "has been CHANGED! Do you want to save it?"
-msgstr "has been CHANGED! ၎င်းကို သိမ်းဆည်းလိုပါသလား။"
+msgstr "ပြောင်းလဲသွားပါပြီ။ ၎င်းကို သိမ်းဆည်းလိုပါသလား။"
 
 msgid "Hide/Show"
 msgstr "ဖျောက်/ပြပါ။"
@@ -905,7 +905,7 @@ msgid "Size reverse"
 msgstr "အရွယ်အစားပြောင်းပြန်"
 
 msgid "Size:"
-msgstr "အရွယ်အစား-"
+msgstr "အရွယ်အစား"
 
 msgid "Socket"
 msgstr "ပလပ်ပေါက်"
@@ -1031,7 +1031,7 @@ msgid "WARNING!"
 msgstr "သတိပေးချက်။"
 
 msgid "What do you want to play?\n"
-msgstr "ဘာကစားချင်လဲ။\n"
+msgstr "သင်ဘာကစားချင်လဲ?\n"
 
 msgid "without"
 msgstr "မပါဘဲ"

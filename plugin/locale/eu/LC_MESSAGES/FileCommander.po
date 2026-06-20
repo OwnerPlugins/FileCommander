@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\nhautazko parametroa:\n%s"
+msgstr "\naukerako parametroa: \n%s"
 
 msgid "%d GB"
 msgstr "%d GB"
@@ -290,13 +290,13 @@ msgid "Directory"
 msgstr "Direktorioa"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "Ezin da hemen direktorioa sortu\n<Biltegiratze-gailuen zerrenda> edo <Hargailua>.\nMugi hautatzailea lerro bat beherago edo aldatu direktorioa."
+msgstr "Ezin da hemen direktorioa sortu on\n<Biltegiratze-gailuen zerrenda> edo <Hargailua>.\nMugi hautatzailea lerro bat beherago edo aldatu direktorioa."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Erakutsi fitxategi-izenak goiburuan. Baliagarria da luzeegiak diren fitxategi-izenetarako."
 
 msgid "Do you want change rights?\n"
-msgstr "Eskubideak aldatu nahi dituzu?\n"
+msgstr "Eskubideak aldatu nahi dituzu? \n"
 
 msgid "Do you want to view or run the script?\n"
 msgstr "Scripta ikusi edo exekutatu nahi duzu?\n"
@@ -329,10 +329,10 @@ msgid "Error"
 msgstr "Errorea"
 
 msgid "Error creating directory %s:\n%s"
-msgstr "Errore bat gertatu da %s direktorioa sortzean:\n%s"
+msgstr "Errore bat gertatu da %s:\n%s direktorioa sortzean"
 
 msgid "Error creating file %s:\n%s"
-msgstr "Errore bat gertatu da %s fitxategia sortzean:\n%s"
+msgstr "Errore bat gertatu da %s:\n%s fitxategia sortzean"
 
 msgid "Error linking %s to %s:\n%s"
 msgstr "Errore bat gertatu da %s %s-rekin lotzean:\n%s"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "Ezin da fitxategia sortu\n<Biltegiratze-gailuen zerrenda> edo <Hargailua>.\nAldatu direktorioa, mesedez."
+msgstr "Ezin da fitxategia sortu \n<Biltegiratze-gailuen zerrenda> edo <Hargailua>.\nAldatu direktorioa, mesedez."
 
 msgid "File checksums/hashes"
 msgstr "Fitxategi batuketak/hashak"

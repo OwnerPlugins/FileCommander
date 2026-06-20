@@ -380,12 +380,12 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
     else:
         skin = """
         <screen position="28,63" size="1280,720" title="" flags="wfNoBorder">
-
+          
           <!-- ===== PANNELLO SINISTRO ===== -->
           <widget name="list_left_head1" position="7,4" size="619,25" font="Regular;22" foregroundColor="#00cccc40" />
           <widget name="list_left_filename" position="7,24" size="619,19" font="Regular;22" noWrap="1" foregroundColor="grey" backgroundColor="background" transparent="1" zPosition="1" />
           <widget name="list_left_select" position="7,39" size="619,25" zPosition="1" font="Regular;22" transparent="1" foregroundColor="#0000cc60" />
-
+          
           <widget source="list_left_head2" render="Listbox" position="7,39" size="619,23" foregroundColor="#00cccc40" selectionDisabled="1" transparent="1">
             <convert type="TemplatedMultiContent">
               {"template": [
@@ -399,12 +399,12 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
               }
             </convert>
           </widget>
-
+          
           <!-- ===== PANNELLO DESTRO ===== -->
           <widget name="list_right_head1" position="626,4" size="619,25" font="Regular;22" foregroundColor="#00cccc40" />
           <widget name="list_right_filename" position="626,24" size="619,19" font="Regular;22" noWrap="1" foregroundColor="grey" backgroundColor="background" transparent="1" zPosition="1" />
           <widget name="list_right_select" position="626,39" size="619,25" zPosition="1" font="Regular;22" transparent="1" foregroundColor="#0000cc60" />
-
+          
           <widget source="list_right_head2" render="Listbox" position="626,39" size="619,23" foregroundColor="#00cccc40" selectionDisabled="1" transparent="1">
             <convert type="TemplatedMultiContent">
               {"template": [
@@ -418,25 +418,25 @@ class FileCommanderScreen(Screen, HelpableScreen, key_actions):
               }
             </convert>
           </widget>
-
+          
           <!-- ===== LISTE ===== -->
           <widget name="list_left" position="7,63" size="619,599" itemHeight="35" scrollbarMode="showOnDemand" />
           <widget name="list_right" position="626,63" size="619,599" itemHeight="35" scrollbarMode="showOnDemand" />
-
+          
           <!-- ===== SPAZIO LIBERO ===== -->
           <widget name="list_left_free" position="21,661" size="139,20" font="Regular;22" />
           <widget name="list_right_free" position="640,661" size="139,20" font="Regular;22" />
-
+          
           <!-- ===== SORT ===== -->
           <widget name="sort_left" position="7,661" size="595,20" halign="center" font="Regular;22" foregroundColor="#00cccc40" />
           <widget name="sort_right" position="626,661" size="595,20" halign="center" font="Regular;22" foregroundColor="#00cccc40" />
-
+          
           <!-- ===== BOTTONI ===== -->
           <widget source="key_red" render="Label" position="104,689" size="271,30" transparent="1" font="Regular;25" />
           <widget source="key_green" render="Label" position="413,689" size="271,30" transparent="1" font="Regular;25" />
           <widget source="key_yellow" render="Label" position="720,689" size="271,30" transparent="1" font="Regular;25" />
           <widget source="key_blue" render="Label" position="1035,689" size="271,30" transparent="1" font="Regular;25" />
-
+          
           <!-- ===== ICONE BOTTONI ===== -->
           <ePixmap position="73,689" size="28,28" zPosition="4" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FileCommander/pic/button_red.png" transparent="1" alphatest="on" />
           <ePixmap position="381,689" size="28,28" zPosition="4" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FileCommander/pic/button_green.png" transparent="1" alphatest="on" />

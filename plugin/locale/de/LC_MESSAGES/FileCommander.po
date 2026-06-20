@@ -290,7 +290,7 @@ msgid "Directory"
 msgstr "Verzeichnis"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "Verzeichnis kann hier nicht erstellt werden auf\n<Liste der Speichergeräte> oder <Empfänger>.\nVerschieben Sie die Auswahl eine Zeile nach unten oder wechseln Sie das Verzeichnis."
+msgstr "Verzeichnis kann hier nicht erstellt werden auf\n<List of Storage Devices> oder <Receiver>.\nSelektor eine Zeile nach unten verschieben oder Verzeichnis wechseln."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "Dateinamen im Header anzeigen. Dies ist nützlich bei zu langen Dateinamen."
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "Die Datei kann nicht auf\n<Liste der Speichergeräte> oder <Empfänger> erstellt werden.\nWechseln Sie bitte das Verzeichnis."
+msgstr "Datei kann nicht auf \n<Liste der Speichergeräte> oder <Empfänger> erstellt werden.\nBitte Verzeichnis ändern."
 
 msgid "File checksums/hashes"
 msgstr "Dateiprüfsummen/Hashes"

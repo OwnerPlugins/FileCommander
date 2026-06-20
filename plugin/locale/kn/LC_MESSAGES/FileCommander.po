@@ -29,7 +29,7 @@ msgid "[D]%s%s[F]%s%s"
 msgstr "[D]%s%s[F]%s%s"
 
 msgid "\noptional parameter:\n%s"
-msgstr "\nಐಚ್ಛಿಕ ನಿಯತಾಂಕ:\n%s"
+msgstr "\nಐಚ್ಛಿಕ ಪ್ಯಾರಾಮೀಟರ್:\n%s"
 
 msgid "%d GB"
 msgstr "%d GB"
@@ -290,13 +290,13 @@ msgid "Directory"
 msgstr "ಡೈರೆಕ್ಟರಿ"
 
 msgid "Directory cannot be created here on\n<List of Storage Devices> or <Receiver>.\nMove selector one line below or change directory."
-msgstr "ಇಲ್ಲಿ\n<ಶೇಖರಣಾ ಸಾಧನಗಳ ಪಟ್ಟಿ> ಅಥವಾ <ರಿಸೀವರ್> ನಲ್ಲಿ ಡೈರೆಕ್ಟರಿಯನ್ನು ರಚಿಸಲಾಗುವುದಿಲ್ಲ.\nಸೆಲೆಕ್ಟರ್ ಅನ್ನು ಕೆಳಗೆ ಒಂದು ಸಾಲನ್ನು ಸರಿಸಿ ಅಥವಾ ಡೈರೆಕ್ಟರಿಯನ್ನು ಬದಲಾಯಿಸಿ."
+msgstr "ಡೈರೆಕ್ಟರಿಯನ್ನು ಇಲ್ಲಿ ರಚಿಸಲಾಗುವುದಿಲ್ಲ\n<ಶೇಖರಣಾ ಸಾಧನಗಳ ಪಟ್ಟಿ> ಅಥವಾ <ರಿಸೀವರ್>.\nಸೆಲೆಕ್ಟರ್ ಅನ್ನು ಕೆಳಗೆ ಒಂದು ಸಾಲನ್ನು ಸರಿಸಿ ಅಥವಾ ಡೈರೆಕ್ಟರಿಯನ್ನು ಬದಲಾಯಿಸಿ."
 
 msgid "Display filenames in header. It is useful for filenames that are too long."
 msgstr "ಶಿರೋಲೇಖದಲ್ಲಿ ಫೈಲ್ ಹೆಸರುಗಳನ್ನು ಪ್ರದರ್ಶಿಸಿ. ತುಂಬಾ ಉದ್ದವಾಗಿರುವ ಫೈಲ್ ಹೆಸರುಗಳಿಗೆ ಇದು ಉಪಯುಕ್ತವಾಗಿದೆ."
 
 msgid "Do you want change rights?\n"
-msgstr "ನೀವು ಬದಲಾವಣೆ ಹಕ್ಕುಗಳನ್ನು ಬಯಸುವಿರಾ?\n"
+msgstr "ನೀವು ಹಕ್ಕುಗಳನ್ನು ಬದಲಾಯಿಸಲು ಬಯಸುವಿರಾ?\n"
 
 msgid "Do you want to view or run the script?\n"
 msgstr "ನೀವು ಸ್ಕ್ರಿಪ್ಟ್ ಅನ್ನು ವೀಕ್ಷಿಸಲು ಅಥವಾ ರನ್ ಮಾಡಲು ಬಯಸುವಿರಾ?\n"
@@ -332,7 +332,7 @@ msgid "Error creating directory %s:\n%s"
 msgstr "%s:\n%s ಡೈರೆಕ್ಟರಿಯನ್ನು ರಚಿಸುವಲ್ಲಿ ದೋಷ"
 
 msgid "Error creating file %s:\n%s"
-msgstr "%s:\n%s ಫೈಲ್ ರಚಿಸುವಲ್ಲಿ ದೋಷ"
+msgstr "ಫೈಲ್ %s:\n%s ರಚಿಸುವಲ್ಲಿ ದೋಷ"
 
 msgid "Error linking %s to %s:\n%s"
 msgstr "%s ಅನ್ನು %s ಗೆ ಲಿಂಕ್ ಮಾಡುವಲ್ಲಿ ದೋಷ:\n%s"
@@ -350,7 +350,7 @@ msgid "Execution finished!!"
 msgstr "ಮರಣದಂಡನೆ ಮುಗಿದಿದೆ!!"
 
 msgid "Execution progress\n\n"
-msgstr "ಕಾರ್ಯಗತಗೊಳಿಸುವ ಪ್ರಗತಿ\n\n"
+msgstr "ಎಕ್ಸಿಕ್ಯೂಶನ್ ಪ್ರಗತಿ\n\n"
 
 msgid "Exit"
 msgstr "ನಿರ್ಗಮಿಸಿ"
@@ -374,7 +374,7 @@ msgid "FIFO"
 msgstr "FIFO"
 
 msgid "File cannot be created on\n<List of Storage Devices> or <Receiver>.\nChange directory, please."
-msgstr "\n<ಶೇಖರಣಾ ಸಾಧನಗಳ ಪಟ್ಟಿ> ಅಥವಾ <ರಿಸೀವರ್> ನಲ್ಲಿ ಫೈಲ್ ಅನ್ನು ರಚಿಸಲಾಗುವುದಿಲ್ಲ.\nದಯವಿಟ್ಟು ಡೈರೆಕ್ಟರಿಯನ್ನು ಬದಲಾಯಿಸಿ."
+msgstr "ಫೈಲ್ ಅನ್ನು \n<ಶೇಖರಣಾ ಸಾಧನಗಳ ಪಟ್ಟಿ> ಅಥವಾ <ರಿಸೀವರ್> ನಲ್ಲಿ ರಚಿಸಲಾಗುವುದಿಲ್ಲ.\nಡೈರೆಕ್ಟರಿಯನ್ನು ಬದಲಾಯಿಸಿ."
 
 msgid "File checksums/hashes"
 msgstr "ಚೆಕ್‌ಸಮ್‌ಗಳು/ಹ್ಯಾಶ್‌ಗಳನ್ನು ಫೈಲ್ ಮಾಡಿ"
@@ -1031,7 +1031,7 @@ msgid "WARNING!"
 msgstr "ಎಚ್ಚರಿಕೆ!"
 
 msgid "What do you want to play?\n"
-msgstr "ನೀವು ಏನು ಆಡಲು ಬಯಸುತ್ತೀರಿ?\n"
+msgstr "ನೀವು ಏನನ್ನು ಆಡಲು ಬಯಸುತ್ತೀರಿ?\n"
 
 msgid "without"
 msgstr "ಇಲ್ಲದೆ"
