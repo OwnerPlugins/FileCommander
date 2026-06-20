@@ -731,7 +731,7 @@ msgid "Please wait, Loading image."
 msgstr "يرجى الانتظار، جارٍ تحميل الصورة."
 
 msgid "Press OK or Exit to abort!"
-msgstr "اضغط على \\\\"موافق\\\\" أو \\\\"خروج\\\\" للإجهاض!"
+msgstr "اضغط على \\\\\"موافق\\\\\" أو \\\\\"خروج\\\\\" للإجهاض!"
 
 msgid "python"
 msgstr "بيثون"
