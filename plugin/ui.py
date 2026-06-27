@@ -303,6 +303,7 @@ glob_running = False
 
 FILE_HANDLERS = {
     '.txt': 'text',
+    '.tv': 'text',
     '.log': 'text',
     '.cfg': 'text',
     '.xml': 'text',
@@ -317,6 +318,8 @@ FILE_HANDLERS = {
     '.mp3': 'audio',
     '.mp4': 'video',
     '.mkv': 'video',
+    '.m3u': 'video',
+    '.m3u8': 'video',
     '.avi': 'video',
     '.zip': 'archive',
     '.rar': 'archive',
