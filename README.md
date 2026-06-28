@@ -1,4 +1,4 @@
-# FileCommander v2.14
+<h1 align="center">FileCommander v2.14</h1>
 
 <p align="center">
   <a href="https://github.com/Belfagor2005">
