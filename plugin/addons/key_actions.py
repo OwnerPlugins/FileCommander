@@ -300,8 +300,8 @@ class key_actions(stat_info):
                     return pname
                 else:
                     pathname = filename
-        else:
-            pathname = sourceDir + filename
+            else:
+                pathname = sourceDir + filename
         try:
             st = os.lstat(os.path.normpath(pathname))
         except Exception:
@@ -332,10 +332,10 @@ class key_actions(stat_info):
             scaledsize = ' '.join(self.SIZESCALER.scale(st.st_size)) + _('B')
             sizes = (
                 bytesize,  # 10
-                str(_("%s") % scaledsize) if isinstance(scaledsize, (tuple, list)) else _("%s") % scaledsize,  # 11
-                str(_("%s (%s)") % (bytesize, scaledsize)) if isinstance(scaledsize, (tuple, list)) else _("%s (%s)") % (bytesize, scaledsize),  # 12
-                str(_("%s (%s)") % (scaledsize, bytesizedivided)) if st.st_size > 1023 else "%s %s" % (bytesizedivided, _('B')),  # 13
-                str(_("%s (%s)") % (scaledsize, bytesizedividedspace)) if st.st_size > 1023 else "%s %s" % (bytesizedividedspace, _('B'))  # 14
+                _("%s") % scaledsize,  # 11
+                _("%s (%s)") % (bytesize, scaledsize),  # 12
+                _("%s (%s)") % (scaledsize, bytesizedivided) if st.st_size > 1023 else "%s %s" % (bytesizedivided, _('B')),  # 13
+                _("%s (%s)") % (scaledsize, bytesizedividedspace) if st.st_size > 1023 else "%s %s" % (bytesizedividedspace, _('B'))  # 14
             )
 
         return [modes + (
